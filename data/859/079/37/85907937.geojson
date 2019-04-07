@@ -1,0 +1,113 @@
+{
+  "id": 85907937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":32797138.512691,
+    "geom:bbox":"10.495404,55.342108,10.495404,55.342108",
+    "geom:latitude":55.342108,
+    "geom:longitude":10.495404,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":55.342108,
+    "lbl:longitude":10.495404,
+    "mps:latitude":55.37375,
+    "mps:longitude":10.475723,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dan_x_preferred":[
+        "Odense SO"
+    ],
+    "name:eng_x_preferred":[
+        "Odense South East"
+    ],
+    "name:eng_x_variant":[
+        "Odense South East"
+    ],
+    "name:unk_x_variant":[
+        "Odense SO"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2615876,
+    "qs:gn_nam_loc":"Odense, Odense, Syddanmark, DK",
+    "qs:gn_namadm1":"21",
+    "qs:local_max":7922,
+    "qs:local_sum":17175,
+    "qs:localhoods":8,
+    "qs:name":"Odense SO",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Syddanmark",
+    "qs:name_adm2":"Odense",
+    "qs:name_en":"Odense South East",
+    "qs:name_local":"Odense",
+    "qs:photo_max":1893,
+    "qs:photo_sum":2221,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362581,
+    "qs:woe_adm2":12582683,
+    "qs:woe_lau":0,
+    "qs:woe_local":556053,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682575,
+        102191581,
+        1159297847,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875625,
+        "qs:id":467164,
+        "qs_pg:id":467164
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"95ef675332ee239c1f4283036f665fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":-1,
+            "neighbourhood_id":85907937,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":85907937,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531936662,
+    "wof:name":"Odense SO",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.495404,
+    55.342108,
+    10.495404,
+    55.342108
+],
+  "geometry": {"coordinates":[10.495404,55.342108],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101805761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000361,
+    "geom:area_square_m":2448169.440058,
+    "geom:bbox":"9.47009146149,56.6873107738,9.51247137717,56.7026687908",
+    "geom:latitude":56.694594,
+    "geom:longitude":9.491147,
+    "gn:population":2787,
+    "iso:country":"DK",
+    "lbl:latitude":56.696807,
+    "lbl:longitude":9.487936,
+    "mps:latitude":56.696807,
+    "mps:longitude":9.487936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00c5lestrup"
+    ],
+    "name:dan_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:deu_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:dut_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:eng_x_preferred":[
+        "Aalestrup Municipality"
+    ],
+    "name:fao_x_preferred":[
+        "Aalestrup kommuna"
+    ],
+    "name:ger_x_preferred":[
+        "Aalestrup Kommune"
+    ],
+    "name:hun_x_preferred":[
+        "Aalestrup k\u00f6zs\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:nld_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:nob_x_preferred":[
+        "Aalestrup kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Aalestrup"
+    ],
+    "name:por_x_preferred":[
+        "Aalestrup"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Aalestrup"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5lestrup"
+    ],
+    "name:unk_x_variant":[
+        "\u00c5lestrup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Vesthimmerland",
+    "qs:la_lc":"*DK1081820",
+    "qs:level":"locality",
+    "qs:loc":"Aalestrup",
+    "qs:loc_alt":"Aalestrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624864,
+        "gp:id":551897,
+        "qs:id":1333828,
+        "qs_pg:id":1333828,
+        "wd:id":"Q241703",
+        "wk:page":"Aalestrup"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e1210b9365dc0111e541315d8d9dc923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":101805761,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805761,
+    "wof:lastmodified":1530296408,
+    "wof:name":"Aalestrup",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:population":2787,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47009146148923,
+    56.68731077382574,
+    9.51247137716734,
+    56.70266879078025
+],
+  "geometry": {"coordinates":[[[9.49276265011326,56.70266879078025],[9.49281032033463,56.6990734184007],[9.50096423888778,56.69910493767537],[9.50095251389365,56.70000378135364],[9.50584498595953,56.70002244822291],[9.50589142229433,56.69642707255105],[9.51241411233235,56.69645167301195],[9.51247137716734,56.69195745401873],[9.50594945313009,56.69193285684463],[9.50596105735343,56.69103401422069],[9.50433061586727,56.69102781402137],[9.50434225773392,56.69012897173525],[9.49129905012666,56.6900786360805],[9.49128710193008,56.69097747702176],[9.48639579254018,56.69095826358625],[9.48640785560951,56.6900594231584],[9.48477745846083,56.69005297799634],[9.48480165915436,56.68825529800142],[9.48317133909512,56.68824883275761],[9.48318347671352,56.68734999319094],[9.47340179695595,56.68731077382574],[9.47338942963211,56.68820961234474],[9.47012879733319,56.68819637546432],[9.47009146148923,56.69089289099168],[9.47498275532269,56.69091271726205],[9.47495809104834,56.69271039620003],[9.47658859996449,56.69271696445213],[9.47657630509161,56.69361580435486],[9.47820685282755,56.69362235235332],[9.47818233762257,56.6954200330257],[9.47981296248014,56.6954265609433],[9.4797396302904,56.70081960814662],[9.48137048552132,56.70082611667738],[9.48135829941691,56.7017249586562],[9.48625098316165,56.70174436216411],[9.48623891133263,56.70264320483432],[9.49276265011326,56.70266879078025]]],"type":"Polygon"}
+}

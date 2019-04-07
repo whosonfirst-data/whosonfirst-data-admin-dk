@@ -1,0 +1,68 @@
+{
+  "id": 1310279039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31922,55.01912,9.31922,55.01912",
+    "geom:latitude":55.01912,
+    "geom:longitude":9.31922,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Nybol",
+    "gn:country_code":"DK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616025,
+    "gn:latitude":55.01912,
+    "gn:longitude":9.31922,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Nyb\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616025
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"40e42fe6203190384ab779cb6feb5d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1310279039,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310279039,
+    "wof:lastmodified":1536745856,
+    "wof:name":"Nybol",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31922,
+    55.01912,
+    9.31922,
+    55.01912
+],
+  "geometry": {"coordinates":[9.31922,55.01912],"type":"Point"}
+}

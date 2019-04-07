@@ -1,0 +1,91 @@
+{
+  "id": 1125907771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0968,55.61154,12.0968,55.61154",
+    "geom:latitude":55.61154,
+    "geom:longitude":12.0968,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.61154,
+    "lbl:longitude":12.0968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vor Frue Kirke"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2610016,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vor Frue",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":225,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":225,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263160,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":558859,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610016,
+        "gp:id":558859,
+        "qs_pg:id":1263160
+    },
+    "wof:country":"DK",
+    "wof:created":1497296044,
+    "wof:geomhash":"1623661db9756d106bdcf199864954af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":1125907771,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125907771,
+    "wof:lastmodified":1530292024,
+    "wof:name":"Vor Frue",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0968,
+    55.61154,
+    12.0968,
+    55.61154
+],
+  "geometry": {"coordinates":[12.0968,55.61154],"type":"Point"}
+}

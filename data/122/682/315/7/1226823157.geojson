@@ -1,0 +1,68 @@
+{
+  "id": 1226823157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.25867,55.11061,9.25867,55.11061",
+    "geom:latitude":55.11061,
+    "geom:longitude":9.25867,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Horsbyg",
+    "gn:country_code":"DK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619773,
+    "gn:latitude":55.11061,
+    "gn:longitude":9.25867,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Horsbyg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619773
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a1fdc793833bfa7c54091faee0f4c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1226823157,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226823157,
+    "wof:lastmodified":1536600921,
+    "wof:name":"Horsbyg",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.25867,
+    55.11061,
+    9.25867,
+    55.11061
+],
+  "geometry": {"coordinates":[9.25867,55.11061],"type":"Point"}
+}

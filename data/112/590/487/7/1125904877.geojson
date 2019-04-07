@@ -1,0 +1,91 @@
+{
+  "id": 1125904877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36314,55.46628,10.36314,55.46628",
+    "geom:latitude":55.46628,
+    "geom:longitude":10.36314,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.46628,
+    "lbl:longitude":10.36314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Taarup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lumby Torp",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225728,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555351,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617363,
+        "gp:id":555351,
+        "qs_pg:id":225728
+    },
+    "wof:country":"DK",
+    "wof:created":1497295949,
+    "wof:geomhash":"46434e16266b107515053107f070f4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":1125904877,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125904877,
+    "wof:lastmodified":1530291771,
+    "wof:name":"Lumby Torp",
+    "wof:parent_id":1159297847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36314,
+    55.46628,
+    10.36314,
+    55.46628
+],
+  "geometry": {"coordinates":[10.36314,55.46628],"type":"Point"}
+}

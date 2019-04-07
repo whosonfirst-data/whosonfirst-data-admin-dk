@@ -1,0 +1,74 @@
+{
+  "id": 1310564823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10895,55.03241,15.10895,55.03241",
+    "geom:latitude":55.03241,
+    "geom:longitude":15.10895,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Balka Strand",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624365,
+    "gn:latitude":55.03241,
+    "gn:longitude":15.10895,
+    "gn:modification_date":"2017-06-23",
+    "gn:name":"Balka Strand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Balka Strand"
+    ],
+    "name:und_x_variant":[
+        "Balkestrand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624365
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5c36a06f901799bacfbdd5da8cda9ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1310564823,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1310564823,
+    "wof:lastmodified":1537619893,
+    "wof:name":"Balka Strand",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10895,
+    55.03241,
+    15.10895,
+    55.03241
+],
+  "geometry": {"coordinates":[15.10895,55.03241],"type":"Point"}
+}

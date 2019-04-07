@@ -1,0 +1,68 @@
+{
+  "id": 1193252861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.24047,55.39817,11.24047,55.39817",
+    "geom:latitude":55.39817,
+    "geom:longitude":11.24047,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"330.0",
+    "gn:asciiname":"Naesby Fed",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616055,
+    "gn:latitude":55.39817,
+    "gn:longitude":11.24047,
+    "gn:modification_date":"2017-07-02",
+    "gn:name":"N\u00e6sby Fed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297897,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616055
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6820e61354595fb4c15ee09a3f36c481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297897,
+            "locality_id":1193252861,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1193252861,
+    "wof:lastmodified":1536366437,
+    "wof:name":"Naesby Fed",
+    "wof:parent_id":1159297897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.24047,
+    55.39816999999999,
+    11.24047,
+    55.39816999999999
+],
+  "geometry": {"coordinates":[11.24047,55.39816999999999],"type":"Point"}
+}

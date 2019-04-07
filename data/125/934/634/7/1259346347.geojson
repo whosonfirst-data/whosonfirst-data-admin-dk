@@ -1,0 +1,68 @@
+{
+  "id": 1259346347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13608,55.8257,12.13608,55.8257",
+    "geom:latitude":55.8257,
+    "geom:longitude":12.13608,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"250.0",
+    "gn:asciiname":"Hagerup",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620934,
+    "gn:latitude":55.8257,
+    "gn:longitude":12.13608,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hagerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297729,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620934
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cbe0fc0c22ad548f936f666f52e533ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297729,
+            "locality_id":1259346347,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1259346347,
+    "wof:lastmodified":1537053547,
+    "wof:name":"Hagerup",
+    "wof:parent_id":1159297729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13608,
+    55.8257,
+    12.13608,
+    55.8257
+],
+  "geometry": {"coordinates":[12.13608,55.8257],"type":"Point"}
+}

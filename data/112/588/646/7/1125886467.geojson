@@ -1,0 +1,94 @@
+{
+  "id": 1125886467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99754,56.09958,9.99754,56.09958",
+    "geom:latitude":56.09958,
+    "geom:longitude":9.99754,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.09958,
+    "lbl:longitude":9.99754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Adslev"
+    ],
+    "name:dut_x_preferred":[
+        "Adslev"
+    ],
+    "name:eng_x_preferred":[
+        "Adslev"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2625020,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Adslev",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904827,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":551837,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297721,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625020,
+        "gp:id":551837,
+        "qs_pg:id":904827,
+        "wd:id":"Q20751894"
+    },
+    "wof:country":"DK",
+    "wof:created":1497295105,
+    "wof:geomhash":"eaa4ca70a07b3fd1970ffe0c93ea128f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297721,
+            "locality_id":1125886467,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125886467,
+    "wof:lastmodified":1530290363,
+    "wof:name":"Adslev",
+    "wof:parent_id":1159297721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99754,
+    56.09958,
+    9.99754,
+    56.09958
+],
+  "geometry": {"coordinates":[9.99754,56.09958],"type":"Point"}
+}

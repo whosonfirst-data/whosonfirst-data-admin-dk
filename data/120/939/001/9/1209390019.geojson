@@ -1,0 +1,62 @@
+{
+  "id": 1209390019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.40812,57.04206,9.40812,57.04206",
+    "geom:latitude":57.04206,
+    "geom:longitude":9.40812,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Holmso",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620063,
+    "gn:latitude":57.04206,
+    "gn:longitude":9.40812,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Holms\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620063
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"212f1d5544a73e0259379bc46f54bdf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209390019
+        }
+    ],
+    "wof:id":1209390019,
+    "wof:lastmodified":1536288492,
+    "wof:name":"Holmso",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.40812,
+    57.04206,
+    9.40812,
+    57.04206
+],
+  "geometry": {"coordinates":[9.40812,57.04206],"type":"Point"}
+}

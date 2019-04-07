@@ -1,0 +1,81 @@
+{
+  "id": 1125815367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38444,56.2834265,10.38444,56.2834265",
+    "geom:latitude":56.283426,
+    "geom:longitude":10.38444,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":56.283426,
+    "lbl:longitude":10.38444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gammel L\u00f8gten",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":6272,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20098738,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098738,
+        "qs_pg:id":6272
+    },
+    "wof:country":"DK",
+    "wof:created":1497291821,
+    "wof:geomhash":"0a862ba7eadb5d52b17dab6a056d0764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "empire_id":136253045,
+            "locality_id":1125815367,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125815367,
+    "wof:lastmodified":1509393759,
+    "wof:name":"Gammel L\u00f8gten",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38444,
+    56.2834265,
+    10.38444,
+    56.2834265
+],
+  "geometry": {"coordinates":[10.38444,56.2834265],"type":"Point"}
+}

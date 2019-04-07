@@ -1,0 +1,68 @@
+{
+  "id": 1310676807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7883,56.30485,9.7883,56.30485",
+    "geom:latitude":56.30485,
+    "geom:longitude":9.7883,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"710.0",
+    "gn:asciiname":"Tungelund",
+    "gn:country_code":"DK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611127,
+    "gn:latitude":56.30485,
+    "gn:longitude":9.7883,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Tungelund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297745,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611127
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"182ba20b5f4490d42fc0c7359e631b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297745,
+            "locality_id":1310676807,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1310676807,
+    "wof:lastmodified":1536669803,
+    "wof:name":"Tungelund",
+    "wof:parent_id":1159297745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7883,
+    56.30485,
+    9.7883,
+    56.30485
+],
+  "geometry": {"coordinates":[9.7883,56.30485],"type":"Point"}
+}

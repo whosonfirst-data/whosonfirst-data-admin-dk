@@ -1,0 +1,62 @@
+{
+  "id": 1209578747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.34587,55.98381,8.34587,55.98381",
+    "geom:latitude":55.98381,
+    "geom:longitude":8.34587,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Osterby",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615590,
+    "gn:latitude":55.98381,
+    "gn:longitude":8.34587,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8sterby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615590
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4dc2b285b325b8374c9ef59b6cc0974d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209578747
+        }
+    ],
+    "wof:id":1209578747,
+    "wof:lastmodified":1536282855,
+    "wof:name":"Osterby",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.34587,
+    55.98381,
+    8.34587,
+    55.98381
+],
+  "geometry": {"coordinates":[8.34587,55.98381],"type":"Point"}
+}

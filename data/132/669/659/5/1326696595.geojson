@@ -1,0 +1,68 @@
+{
+  "id": 1326696595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54676,55.98523,8.54676,55.98523",
+    "geom:latitude":55.98523,
+    "geom:longitude":8.54676,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Bolling",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623759,
+    "gn:latitude":55.98523,
+    "gn:longitude":8.54676,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"B\u00f8lling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623759
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d42372a136847066fb82665e8f76a00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1326696595,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1326696595,
+    "wof:lastmodified":1536746981,
+    "wof:name":"Bolling",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54676,
+    55.98523,
+    8.54676,
+    55.98523
+],
+  "geometry": {"coordinates":[8.54676,55.98523],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343425849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28918,55.27179,12.28918,55.27179",
+    "geom:latitude":55.27179,
+    "geom:longitude":12.28918,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"336.0",
+    "gn:asciiname":"Lyderslev",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617264,
+    "gn:latitude":55.27179,
+    "gn:longitude":12.28918,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Lyderslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297719,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617264
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d98a303887f404dbce3a1461bc6bb7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297719,
+            "locality_id":1343425849,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343425849,
+    "wof:lastmodified":1536796552,
+    "wof:name":"Lyderslev",
+    "wof:parent_id":1159297719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28918,
+    55.27179,
+    12.28918,
+    55.27179
+],
+  "geometry": {"coordinates":[12.28918,55.27179],"type":"Point"}
+}

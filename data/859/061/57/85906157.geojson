@@ -1,0 +1,103 @@
+{
+  "id": 85906157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":25715.139078,
+    "geom:bbox":"12.556372,55.678278,12.556372,55.678278",
+    "geom:latitude":55.678278,
+    "geom:longitude":12.556372,
+    "iso:country":"DK",
+    "lbl:latitude":55.678278,
+    "lbl:longitude":12.556372,
+    "mps:latitude":55.678449,
+    "mps:longitude":12.556659,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":20.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "St. Markus Plads"
+    ],
+    "name:unk_x_variant":[
+        "St. Markus Plads"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2621942,
+    "qs:gn_nam_loc":"Frederiksberg, Frederiksberg, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":4158,
+    "qs:local_sum":18220,
+    "qs:localhoods":20,
+    "qs:name":"St. Markus Plads",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"Frederiksberg",
+    "qs:name_en":"St. Markus Plads",
+    "qs:name_local":"Frederiksberg",
+    "qs:photo_max":13,
+    "qs:photo_sum":24,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":12582714,
+    "qs:woe_lau":0,
+    "qs:woe_local":553307,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297727,
+        85633121,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229416
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c6c43b060ef2265814fbc778fb9720e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906157,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906157,
+    "wof:lastmodified":1531936412,
+    "wof:name":"St. Markus Plads",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.556372,
+    55.678278,
+    12.556372,
+    55.678278
+],
+  "geometry": {"coordinates":[12.556372,55.678278],"type":"Point"}
+}

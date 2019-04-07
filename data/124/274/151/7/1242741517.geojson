@@ -1,0 +1,72 @@
+{
+  "id": 1242741517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04724,55.02082,15.04724,55.02082",
+    "geom:latitude":55.02082,
+    "geom:longitude":15.04724,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Povlsker",
+    "gn:country_code":"DK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615116,
+    "gn:latitude":55.02082,
+    "gn:longitude":15.04724,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Povlsker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sankt Povl",
+        "Povlskirke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615116
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3e7aaaf9f4ec309abdb076e2ba887fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1242741517,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1242741517,
+    "wof:lastmodified":1537619825,
+    "wof:name":"Povlsker",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04724,
+    55.02081999999999,
+    15.04724,
+    55.02081999999999
+],
+  "geometry": {"coordinates":[15.04724,55.02081999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344019861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.79209,54.68259,11.79209,54.68259",
+    "geom:latitude":54.68259,
+    "geom:longitude":11.79209,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Ragelunde Baekkeskov",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2615036,
+    "gn:latitude":54.68259,
+    "gn:longitude":11.79209,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"R\u00e5gelunde B\u00e6kkeskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raagelund B\u00e6kkeskov",
+        "R\u00e5gelunde B\u00e6kkeskov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615036
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"678f27e14b53e72efe4e42febe0106aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1344019861,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1344019861,
+    "wof:lastmodified":1537619825,
+    "wof:name":"Ragelunde Baekkeskov",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.79209,
+    54.68259000000001,
+    11.79209,
+    54.68259000000001
+],
+  "geometry": {"coordinates":[11.79209,54.68259000000001],"type":"Point"}
+}

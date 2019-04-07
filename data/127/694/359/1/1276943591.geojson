@@ -1,0 +1,68 @@
+{
+  "id": 1276943591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.18407,56.22607,9.18407,56.22607",
+    "geom:latitude":56.22607,
+    "geom:longitude":9.18407,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Munklinde",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616663,
+    "gn:latitude":56.22607,
+    "gn:longitude":9.18407,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Munklinde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616663
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f7142b3dfd7d31a40a68df97b4eec19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1276943591,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276943591,
+    "wof:lastmodified":1536956048,
+    "wof:name":"Munklinde",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.18407,
+    56.22606999999999,
+    9.18407,
+    56.22606999999999
+],
+  "geometry": {"coordinates":[9.18407,56.22606999999999],"type":"Point"}
+}

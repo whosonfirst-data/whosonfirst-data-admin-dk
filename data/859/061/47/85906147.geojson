@@ -1,0 +1,101 @@
+{
+  "id": 85906147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":36959.151647,
+    "geom:bbox":"12.5489070321,55.6648058858,12.5518798828,55.6671295675",
+    "geom:latitude":55.665951,
+    "geom:longitude":12.550475,
+    "iso:country":"DK",
+    "lbl:latitude":55.666096,
+    "lbl:longitude":12.549921,
+    "mps:latitude":55.665989,
+    "mps:longitude":12.550475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Sankelmarksgade"
+    ],
+    "name:unk_x_variant":[
+        "Sankelmarksgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Sankelmarksgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Sankelmarksgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":218,
+    "qs:photo_sum":369,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229408
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ab20f112d685b80c28a00b4c8ac2c31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906147,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906147,
+    "wof:lastmodified":1530296577,
+    "wof:name":"Sankelmarksgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54890703205939,
+    55.66480588580019,
+    12.55187988279999,
+    55.66712956750023
+],
+  "geometry": {"coordinates":[[[12.5505144388373,55.66712956750023],[12.55073285956644,55.66674230016896],[12.55154048210096,55.66674230080649],[12.55187988279999,55.66674230240007],[12.55187988279999,55.66596775109998],[12.55187988279999,55.66556657514236],[12.55187988279999,55.66519318440005],[12.55187988279999,55.66480588580019],[12.55072503683385,55.66480588580019],[12.55050659180006,55.6651931821835],[12.54913330080012,55.6651931821835],[12.54913330080012,55.66556657514236],[12.54890703205939,55.6659677488543],[12.54897984173749,55.66635502767524],[12.5489070330338,55.6667422985753],[12.5491215302149,55.66712261088831],[12.54913330080012,55.66712956750023],[12.54915684191201,55.66712956750023],[12.5498120976273,55.66674230240007],[12.54981994630003,55.66674230240007],[12.54982779497323,55.66674230240007],[12.55048305068851,55.66712956750023],[12.55050659180006,55.66712956750023],[12.5505144388373,55.66712956750023]]],"type":"Polygon"}
+}

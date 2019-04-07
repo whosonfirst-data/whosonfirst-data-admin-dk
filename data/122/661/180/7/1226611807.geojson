@@ -1,0 +1,68 @@
+{
+  "id": 1226611807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53749,56.5163,8.53749,56.5163",
+    "geom:latitude":56.5163,
+    "geom:longitude":8.53749,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Resenstad",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614848,
+    "gn:latitude":56.5163,
+    "gn:longitude":8.53749,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Resenstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614848
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e75d14d008e49e2330eed089b0e727bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":1226611807,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226611807,
+    "wof:lastmodified":1536907862,
+    "wof:name":"Resenstad",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53749,
+    56.5163,
+    8.53749,
+    56.5163
+],
+  "geometry": {"coordinates":[8.53749,56.5163],"type":"Point"}
+}

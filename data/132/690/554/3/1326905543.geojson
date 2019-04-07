@@ -1,0 +1,68 @@
+{
+  "id": 1326905543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.59152,56.74924,9.59152,56.74924",
+    "geom:latitude":56.74924,
+    "geom:longitude":9.59152,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"840.0",
+    "gn:asciiname":"Kongens Tisted",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618465,
+    "gn:latitude":56.74924,
+    "gn:longitude":9.59152,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kongens Tisted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297887,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618465
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f91143d4e1228086e59346d4c9e29a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297887,
+            "locality_id":1326905543,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1326905543,
+    "wof:lastmodified":1536943799,
+    "wof:name":"Kongens Tisted",
+    "wof:parent_id":1159297887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.59152,
+    56.74924,
+    9.59152,
+    56.74924
+],
+  "geometry": {"coordinates":[9.59152,56.74924],"type":"Point"}
+}

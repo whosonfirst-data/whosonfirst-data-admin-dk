@@ -1,0 +1,93 @@
+{
+  "id": 1125947605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48879,55.43236,10.48879,55.43236",
+    "geom:latitude":55.43236,
+    "geom:longitude":10.48879,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.43236,
+    "lbl:longitude":10.48879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Agedrup"
+    ],
+    "name:eng_x_preferred":[
+        "Agedrup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2624988,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Agedrup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1235193,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":551844,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624988,
+        "gp:id":551844,
+        "qs_pg:id":1235193,
+        "wd:id":"Q12300694"
+    },
+    "wof:country":"DK",
+    "wof:created":1497297343,
+    "wof:geomhash":"278c759ef6d2ec6c4214e530e9f1b43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":1125947605,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125947605,
+    "wof:lastmodified":1530291773,
+    "wof:name":"Agedrup",
+    "wof:parent_id":1159297847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48879,
+    55.43236,
+    10.48879,
+    55.43236
+],
+  "geometry": {"coordinates":[10.48879,55.43236],"type":"Point"}
+}

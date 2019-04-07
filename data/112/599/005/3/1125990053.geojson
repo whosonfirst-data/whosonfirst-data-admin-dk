@@ -1,0 +1,82 @@
+{
+  "id": 1125990053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.367368,55.600462,12.367368,55.600462",
+    "geom:latitude":55.600462,
+    "geom:longitude":12.367368,
+    "gn:gn_country":"DK",
+    "iso:country":"DK",
+    "lbl:latitude":55.600462,
+    "lbl:longitude":12.367368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:name":"Ish\u00f8j Strand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187295,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":22695851,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297793,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22695851,
+        "qs_pg:id":1187295
+    },
+    "wof:country":"DK",
+    "wof:created":1497299014,
+    "wof:geomhash":"19191958632e72ce335df756398d6451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297793,
+            "locality_id":1125990053,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125990053,
+    "wof:lastmodified":1530291274,
+    "wof:name":"Ish\u00f8j Strand",
+    "wof:parent_id":1159297793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.367368,
+    55.600462,
+    12.367368,
+    55.600462
+],
+  "geometry": {"coordinates":[12.367368,55.600462],"type":"Point"}
+}

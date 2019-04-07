@@ -1,0 +1,101 @@
+{
+  "id": 85905991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":115034.592816,
+    "geom:bbox":"12.5559997559,55.6791236298,12.5614929199,55.6834056034",
+    "geom:latitude":55.681168,
+    "geom:longitude":12.558949,
+    "iso:country":"DK",
+    "lbl:latitude":55.681576,
+    "lbl:longitude":12.558944,
+    "mps:latitude":55.681225,
+    "mps:longitude":12.559001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Kleinsgade"
+    ],
+    "name:unk_x_variant":[
+        "Kleinsgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Kleinsgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Kleinsgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":74,
+    "qs:photo_sum":447,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229271
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0dd073adb90d8da31d5127d7db3386fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905991,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905991,
+    "wof:lastmodified":1530296549,
+    "wof:name":"Kleinsgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55599975588461,
+    55.67912362978306,
+    12.5614929199001,
+    55.68340560335371
+],
+  "geometry": {"coordinates":[[[12.56045896419567,55.6828319963107],[12.5614769535548,55.68223010940007],[12.5614929199001,55.68223010940007],[12.5614929199001,55.68222066928736],[12.5614929199001,55.6814558621334],[12.5614929199001,55.68068160205006],[12.5614929199001,55.67990732707518],[12.5601196289,55.67990732648029],[12.5601196289,55.67913303701262],[12.55876225240507,55.67913303850007],[12.55874633790023,55.67912362978306],[12.55873042339533,55.67913303850007],[12.55737304690012,55.67913303706574],[12.55737304690012,55.68068160236884],[12.55599975588461,55.6806816022095],[12.55599975588632,55.68145586256124],[12.55599975588461,55.68223010700972],[12.55714682326959,55.68223010820644],[12.55721957271084,55.68261722505027],[12.55737304690012,55.68261722531575],[12.55805969240021,55.68261722540642],[12.55805969240015,55.68299961771571],[12.55805969240004,55.68300433880002],[12.55806767719315,55.68300433880002],[12.55874633790023,55.68340560335371],[12.55897256029215,55.68300433656891],[12.5601196289,55.68300433637815],[12.5603298827856,55.68300433497528],[12.56044269379981,55.6829185769672],[12.56045896419567,55.6828319963107]]],"type":"Polygon"}
+}

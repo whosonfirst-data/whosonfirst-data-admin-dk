@@ -1,0 +1,118 @@
+{
+  "id": 101805639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1044992.07751,
+    "geom:bbox":"9.61565444711,56.4748080495,9.63677020793,56.4883088637",
+    "geom:latitude":56.481064,
+    "geom:longitude":9.626361,
+    "iso:country":"DK",
+    "lbl:latitude":56.480625,
+    "lbl:longitude":9.627081,
+    "mps:latitude":56.480625,
+    "mps:longitude":9.627081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:dan_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:dut_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:fao_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:ger_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:ice_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:kal_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8rum"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8rum"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Viborg",
+    "qs:la_lc":"*DK1082791",
+    "qs:level":"locality",
+    "qs:loc":"\u00d8rum",
+    "qs:loc_alt":"Orum",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615644,
+        "gp:id":556188,
+        "qs:id":322655,
+        "qs_pg:id":322655,
+        "wd:id":"Q2389623",
+        "wk:page":"\u00d8rum (S\u00f8nderlyng)"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"37ed25cb0f36eb76af62c95d054e6fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":101805639,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805639,
+    "wof:lastmodified":1530291530,
+    "wof:name":"\u00d8rum",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61565444711414,
+    56.47480804945627,
+    9.63677020792602,
+    56.48830886371354
+],
+  "geometry": {"coordinates":[[[9.63023235237006,56.48560779729149],[9.63025821398958,56.48291135206756],[9.63674480422128,56.48292970634867],[9.63677020792602,56.48023326110064],[9.6351486732305,56.48022870334734],[9.63515717798884,56.47932988870474],[9.63191418526947,56.47932071253786],[9.6319485019161,56.47572545653441],[9.63032715726428,56.47572083848996],[9.63033577302235,56.47482202500959],[9.62547185461443,56.47480804945627],[9.62545439589815,56.47660567583449],[9.62059025408547,56.47659151684815],[9.62058141063022,56.47749032990043],[9.61895999298048,56.47748556951404],[9.61894222901208,56.47928319584395],[9.61732073615082,56.47927841490423],[9.61728505110125,56.48287366896932],[9.61566340741899,56.48286886721957],[9.61565444711414,56.48376768100724],[9.61727612860102,56.48377248288455],[9.61726720560586,56.48467129695928],[9.62537580769538,56.48469500242459],[9.62536707324966,56.48559381728802],[9.62698883258946,56.48559849759357],[9.62697143786841,56.4873961280482],[9.62859327320041,56.48740078829672],[9.62858461293092,56.48829960388758],[9.63182836032126,56.48830886371354],[9.6318541128071,56.48561241668381],[9.63023235237006,56.48560779729149]]],"type":"Polygon"}
+}

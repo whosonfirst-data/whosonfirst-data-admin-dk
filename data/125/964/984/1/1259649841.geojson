@@ -1,0 +1,68 @@
+{
+  "id": 1259649841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71342,56.39984,10.71342,56.39984",
+    "geom:latitude":56.39984,
+    "geom:longitude":10.71342,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Fannerup",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622342,
+    "gn:latitude":56.39984,
+    "gn:longitude":10.71342,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fannerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622342
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e7d80d8562e85160807378f18854103f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1259649841,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259649841,
+    "wof:lastmodified":1536616967,
+    "wof:name":"Fannerup",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71342,
+    56.39984000000001,
+    10.71342,
+    56.39984000000001
+],
+  "geometry": {"coordinates":[10.71342,56.39984000000001],"type":"Point"}
+}

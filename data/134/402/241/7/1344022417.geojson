@@ -1,0 +1,68 @@
+{
+  "id": 1344022417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65604,55.41824,10.65604,55.41824",
+    "geom:latitude":55.41824,
+    "geom:longitude":10.65604,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"440.0",
+    "gn:asciiname":"Revninge",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614836,
+    "gn:latitude":55.41824,
+    "gn:longitude":10.65604,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Revninge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297755,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614836
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"53141bfe4c98466473c4764f79f27013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297755,
+            "locality_id":1344022417,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1344022417,
+    "wof:lastmodified":1536931409,
+    "wof:name":"Revninge",
+    "wof:parent_id":1159297755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65604,
+    55.41824,
+    10.65604,
+    55.41824
+],
+  "geometry": {"coordinates":[10.65604,55.41824],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293563145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00202,54.95441,10.00202,54.95441",
+    "geom:latitude":54.95441,
+    "geom:longitude":10.00202,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Kettingskov",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618933,
+    "gn:latitude":54.95441,
+    "gn:longitude":10.00202,
+    "gn:modification_date":"2008-11-08",
+    "gn:name":"Kettingskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Kettingskov"
+    ],
+    "name:deu_x_preferred":[
+        "Kettingholz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618933
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3050afeb9f5c1d6e7af8f51bac308fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1293563145,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293563145,
+    "wof:lastmodified":1537619853,
+    "wof:name":"Kettingskov",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00202,
+    54.95441,
+    10.00202,
+    54.95441
+],
+  "geometry": {"coordinates":[10.00202,54.95441],"type":"Point"}
+}

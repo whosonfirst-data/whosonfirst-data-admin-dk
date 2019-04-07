@@ -1,0 +1,68 @@
+{
+  "id": 1343834313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.511,56.07185,12.511,56.07185",
+    "geom:latitude":56.07185,
+    "geom:longitude":12.511,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"217.0",
+    "gn:asciiname":"Skibstrup",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613751,
+    "gn:latitude":56.07185,
+    "gn:longitude":12.511,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skibstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297819,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613751
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1e05563c9ef049d8202d5f31ec9f0c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297819,
+            "locality_id":1343834313,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1343834313,
+    "wof:lastmodified":1536704668,
+    "wof:name":"Skibstrup",
+    "wof:parent_id":1159297819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.511,
+    56.07185,
+    12.511,
+    56.07185
+],
+  "geometry": {"coordinates":[12.511,56.07185],"type":"Point"}
+}

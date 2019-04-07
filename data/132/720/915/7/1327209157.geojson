@@ -1,0 +1,68 @@
+{
+  "id": 1327209157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.87376,57.37969,9.87376,57.37969",
+    "geom:latitude":57.37969,
+    "geom:longitude":9.87376,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Vejby",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610638,
+    "gn:latitude":57.37969,
+    "gn:longitude":9.87376,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vejby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610638
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"242cfe66ef09cddd643a6fc05c64401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1327209157,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1327209157,
+    "wof:lastmodified":1537002482,
+    "wof:name":"Vejby",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.87376,
+    57.37969,
+    9.87376,
+    57.37969
+],
+  "geometry": {"coordinates":[9.87376,57.37969],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327308015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68827,55.39482,10.68827,55.39482",
+    "geom:latitude":55.39482,
+    "geom:longitude":10.68827,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"450.0",
+    "gn:asciiname":"Langtved",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617887,
+    "gn:latitude":55.39482,
+    "gn:longitude":10.68827,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Langtved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617887
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d6e283a7b18efd3805732025a4bb2f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1327308015,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327308015,
+    "wof:lastmodified":1536859183,
+    "wof:name":"Langtved",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68827,
+    55.39482,
+    10.68827,
+    55.39482
+],
+  "geometry": {"coordinates":[10.68827,55.39482],"type":"Point"}
+}

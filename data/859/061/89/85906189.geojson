@@ -1,0 +1,106 @@
+{
+  "id": 85906189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":65206.566348,
+    "geom:bbox":"12.5735132289,55.6876446488,12.5793457031,55.6905736624",
+    "geom:latitude":55.688856,
+    "geom:longitude":12.576513,
+    "iso:country":"DK",
+    "lbl:latitude":55.688923,
+    "lbl:longitude":12.577769,
+    "mps:latitude":55.688811,
+    "mps:longitude":12.576712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "S\u00f8lvgade"
+    ],
+    "name:eng_x_variant":[
+        "S\u00f8lvgade"
+    ],
+    "name:unk_x_variant":[
+        "S\u00f8lvgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"S\u00f8lvgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"S\u00f8lvgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":702,
+    "qs:photo_sum":1127,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":657,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229443,
+        "wd:id":"Q17111245"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4159892114c04ad7da4386a9a5a2ecdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906189,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906189,
+    "wof:lastmodified":1530296585,
+    "wof:name":"S\u00f8lvgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57351322888729,
+    55.68764464875348,
+    12.57934570310005,
+    55.69057366237188
+],
+  "geometry": {"coordinates":[[[12.5762598181928,55.69057366237188],[12.5765991211,55.68997171156907],[12.57797241210011,55.68997171167528],[12.57797241210011,55.68959891980442],[12.57819861722311,55.68919762006892],[12.57934570310005,55.68919761990959],[12.57934570310005,55.6884235131095],[12.57819861828466,55.68842351326883],[12.57797241210011,55.68802222041994],[12.57797241210011,55.68764939127514],[12.57682533052593,55.6876493911689],[12.5765991211,55.68764939340009],[12.57592049929076,55.68764939340009],[12.57591247560015,55.68764464875348],[12.57590445190965,55.68764939340009],[12.57522583010007,55.68764939340009],[12.57522583010007,55.68803645571565],[12.57453918460016,55.68803645591272],[12.57453918460016,55.68841876694249],[12.57453115440427,55.68842351550005],[12.57385253910013,55.68842351550005],[12.57385253910013,55.68882480630045],[12.57351322888729,55.68902545321491],[12.57352944057459,55.68911172936167],[12.5736424061609,55.68919761847518],[12.57385253910013,55.68919761955537],[12.57522583010012,55.68919761990959],[12.57522583010007,55.6899621951796],[12.57522583010007,55.68997171380009],[12.57524192604188,55.68997171380009],[12.5762598181928,55.69057366237188]]],"type":"Polygon"}
+}

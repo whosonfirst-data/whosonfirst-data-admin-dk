@@ -1,0 +1,68 @@
+{
+  "id": 1292974877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72592,54.84533,9.72592,54.84533",
+    "geom:latitude":54.84533,
+    "geom:longitude":9.72592,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Maling",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3232927,
+    "gn:latitude":54.84533,
+    "gn:longitude":9.72592,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"M\u00e5ling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3232927
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"266485ba9a8fd546959eaed75a91bfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1292974877,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1292974877,
+    "wof:lastmodified":1537027900,
+    "wof:name":"Maling",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72592,
+    54.84533,
+    9.72592,
+    54.84533
+],
+  "geometry": {"coordinates":[9.72592,54.84533],"type":"Point"}
+}

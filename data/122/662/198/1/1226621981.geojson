@@ -1,0 +1,73 @@
+{
+  "id": 1226621981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.28377,56.66019,10.28377,56.66019",
+    "geom:latitude":56.66019,
+    "geom:longitude":10.28377,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"730.0",
+    "gn:asciiname":"Bjerre",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624037,
+    "gn:latitude":56.66019,
+    "gn:longitude":10.28377,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bjerre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00e6rge",
+        "Bjerge",
+        "Bjerre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624037
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"78a80a7fa62277a0324d0e1cd9b07a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1226621981,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226621981,
+    "wof:lastmodified":1537619890,
+    "wof:name":"Bjerre",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.28377,
+    56.66019,
+    10.28377,
+    56.66019
+],
+  "geometry": {"coordinates":[10.28377,56.66019],"type":"Point"}
+}

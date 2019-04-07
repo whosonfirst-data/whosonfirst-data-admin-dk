@@ -1,0 +1,68 @@
+{
+  "id": 1360051801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18964,56.30623,8.18964,56.30623",
+    "geom:latitude":56.30623,
+    "geom:longitude":8.18964,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Sonder Nissum",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613002,
+    "gn:latitude":56.30623,
+    "gn:longitude":8.18964,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Nissum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613002
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ad7a8297e5b6da71e296fdebd9a9ad7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1360051801,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1360051801,
+    "wof:lastmodified":1536992996,
+    "wof:name":"Sonder Nissum",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18964,
+    56.30623000000001,
+    8.18964,
+    56.30623000000001
+],
+  "geometry": {"coordinates":[8.18964,56.30623000000001],"type":"Point"}
+}

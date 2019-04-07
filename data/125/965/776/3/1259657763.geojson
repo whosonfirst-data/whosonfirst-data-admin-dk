@@ -1,0 +1,68 @@
+{
+  "id": 1259657763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20926,55.06926,10.20926,55.06926",
+    "geom:latitude":55.06926,
+    "geom:longitude":10.20926,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Dyreborg",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622828,
+    "gn:latitude":55.06926,
+    "gn:longitude":10.20926,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Dyreborg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622828
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"53933d9072c5df9599206e73301f9d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1259657763,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1259657763,
+    "wof:lastmodified":1536604730,
+    "wof:name":"Dyreborg",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20926,
+    55.06926,
+    10.20926,
+    55.06926
+],
+  "geometry": {"coordinates":[10.20926,55.06926],"type":"Point"}
+}

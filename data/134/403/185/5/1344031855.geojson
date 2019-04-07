@@ -1,0 +1,71 @@
+{
+  "id": 1344031855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35889,55.11528,9.35889,55.11528",
+    "geom:latitude":55.11528,
+    "geom:longitude":9.35889,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Oster Logum Sogn",
+    "gn:country_code":"DK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11524673,
+    "gn:latitude":55.11528,
+    "gn:longitude":9.35889,
+    "gn:modification_date":"2017-05-04",
+    "gn:name":"\u00d8ster L\u00f8gum Sogn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Osterl\u00fcgum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11524673
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a16593d3f66236a91dabc7b2ad634d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1344031855,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1344031855,
+    "wof:lastmodified":1537619900,
+    "wof:name":"Oster Logum Sogn",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35889,
+    55.11528000000001,
+    9.35889,
+    55.11528000000001
+],
+  "geometry": {"coordinates":[9.35889,55.11528000000001],"type":"Point"}
+}

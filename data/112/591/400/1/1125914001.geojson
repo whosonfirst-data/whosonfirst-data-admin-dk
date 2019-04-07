@@ -1,0 +1,82 @@
+{
+  "id": 1125914001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.847784,56.4754215,9.847784,56.4754215",
+    "geom:latitude":56.475422,
+    "geom:longitude":9.847784,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":56.475422,
+    "lbl:longitude":9.847784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"S\u00f8nderhede",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":59926,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20099610,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20099610,
+        "qs_pg:id":59926
+    },
+    "wof:country":"DK",
+    "wof:created":1497296253,
+    "wof:geomhash":"9d2aa467f892e83ded48e703cc175063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1125914001,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125914001,
+    "wof:lastmodified":1530292292,
+    "wof:name":"S\u00f8nderhede",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.847784,
+    56.4754215,
+    9.847784,
+    56.4754215
+],
+  "geometry": {"coordinates":[9.847784,56.4754215],"type":"Point"}
+}

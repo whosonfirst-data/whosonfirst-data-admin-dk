@@ -1,0 +1,68 @@
+{
+  "id": 1259747599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85466,54.98686,9.85466,54.98686",
+    "geom:latitude":54.98686,
+    "geom:longitude":9.85466,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Dyndved",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622835,
+    "gn:latitude":54.98686,
+    "gn:longitude":9.85466,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Dyndved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622835
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7f062ea3b3c7f880272216200bb3ee73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1259747599,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1259747599,
+    "wof:lastmodified":1536974459,
+    "wof:name":"Dyndved",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85466,
+    54.98686,
+    9.85466,
+    54.98686
+],
+  "geometry": {"coordinates":[9.85466,54.98686],"type":"Point"}
+}

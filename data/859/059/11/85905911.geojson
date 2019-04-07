@@ -1,0 +1,106 @@
+{
+  "id": 85905911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":97361.256721,
+    "geom:bbox":"12.5477600098,55.6698310398,12.5532531738,55.6737125722",
+    "geom:latitude":55.671727,
+    "geom:longitude":12.550254,
+    "iso:country":"DK",
+    "lbl:latitude":55.672288,
+    "lbl:longitude":12.550413,
+    "mps:latitude":55.671546,
+    "mps:longitude":12.550202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Frederiksberg All\u00e9"
+    ],
+    "name:eng_x_variant":[
+        "Frederiksberg All\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Frederiksberg All\u00e9"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Frederiksberg All\u00e9",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Frederiksberg All\u00e9",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":205,
+    "qs:photo_sum":470,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1008,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229176,
+        "wd:id":"Q5499323"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b2e24ee8b13750a5c47ed7a7ee074ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905911,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905911,
+    "wof:lastmodified":1530296534,
+    "wof:name":"Frederiksberg All\u00e9",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54776000980007,
+    55.66983103977181,
+    12.5532531738001,
+    55.67371257217521
+],
+  "geometry": {"coordinates":[[[12.55187988279999,55.67333937208001],[12.55210613327631,55.67293815882753],[12.5532531738001,55.67293815907514],[12.5532531738001,55.672564939303],[12.5532531738001,55.67216373230009],[12.55302692223597,55.67216373118454],[12.55210613437134,55.67216373006899],[12.55187988279999,55.67176252348459],[12.55187988279999,55.67138928638762],[12.55187988279999,55.67061482686772],[12.55187988279999,55.66984035281261],[12.55052235073146,55.66984035430006],[12.55050659180023,55.66983103977181],[12.550490832869,55.66984035430006],[12.54913330080012,55.66984035281261],[12.54913330080012,55.67061482622638],[12.54776000980007,55.6706148265939],[12.54776000980007,55.67138928617517],[12.54776000980007,55.67216372975021],[12.54776000980007,55.67293815886119],[12.54913330080012,55.67293815843335],[12.55028034240962,55.67293815987718],[12.55050659180006,55.67333937208001],[12.55050659180006,55.67371257217521],[12.55187988279999,55.67371257190963],[12.55187988279999,55.67333937208001]]],"type":"Polygon"}
+}

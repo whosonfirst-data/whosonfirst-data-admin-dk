@@ -1,0 +1,72 @@
+{
+  "id": 1226518055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79263,56.44963,10.79263,56.44963",
+    "geom:latitude":56.44963,
+    "geom:longitude":10.79263,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Skindbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613742,
+    "gn:latitude":56.44963,
+    "gn:longitude":10.79263,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skindbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skindbj\u00e6rg",
+        "Skindbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613742
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a78771e1e42d9427ba3015cadb618c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1226518055,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226518055,
+    "wof:lastmodified":1537619813,
+    "wof:name":"Skindbjerg",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79263,
+    56.44963000000001,
+    10.79263,
+    56.44963000000001
+],
+  "geometry": {"coordinates":[10.79263,56.44963000000001],"type":"Point"}
+}

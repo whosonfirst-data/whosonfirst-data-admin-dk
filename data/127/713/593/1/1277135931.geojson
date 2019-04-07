@@ -1,0 +1,73 @@
+{
+  "id": 1277135931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95893,55.32475,9.95893,55.32475",
+    "geom:latitude":55.32475,
+    "geom:longitude":9.95893,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Barlose Tarup",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624297,
+    "gn:latitude":55.32475,
+    "gn:longitude":9.95893,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Barl\u00f8se T\u00e5rup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barl\u00f6se Taarup",
+        "Barl\u00f6se Torp",
+        "Barl\u00f8se T\u00e5rup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624297
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"be7c0eb9efa18a0128260af40ef27313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1277135931,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277135931,
+    "wof:lastmodified":1537619892,
+    "wof:name":"Barlose Tarup",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95893,
+    55.32475,
+    9.95893,
+    55.32475
+],
+  "geometry": {"coordinates":[9.95893,55.32475],"type":"Point"}
+}

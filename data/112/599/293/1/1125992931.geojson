@@ -1,0 +1,82 @@
+{
+  "id": 1125992931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7823215,56.639784,8.7823215,56.639784",
+    "geom:latitude":56.639784,
+    "geom:longitude":8.782322,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":56.639784,
+    "lbl:longitude":8.782322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sp\u00f8ttrup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":256,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":256,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239222,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20099642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20099642,
+        "qs_pg:id":239222
+    },
+    "wof:country":"DK",
+    "wof:created":1497299146,
+    "wof:geomhash":"f6d144556c2430b3636fb616f775e876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1125992931,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125992931,
+    "wof:lastmodified":1530292264,
+    "wof:name":"Sp\u00f8ttrup",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7823215,
+    56.639784,
+    8.7823215,
+    56.639784
+],
+  "geometry": {"coordinates":[8.7823215,56.639784],"type":"Point"}
+}

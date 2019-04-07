@@ -1,0 +1,68 @@
+{
+  "id": 1276844621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55214,54.67753,11.55214,54.67753",
+    "geom:latitude":54.67753,
+    "geom:longitude":11.55214,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Flarupmelle",
+    "gn:country_code":"DK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622107,
+    "gn:latitude":54.67753,
+    "gn:longitude":11.55214,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fl\u00e5rupmelle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622107
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1964b090dd44e682fb3bb5f2c4d1710e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1276844621,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1276844621,
+    "wof:lastmodified":1537085211,
+    "wof:name":"Flarupmelle",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55214,
+    54.67753,
+    11.55214,
+    54.67753
+],
+  "geometry": {"coordinates":[11.55214,54.67753],"type":"Point"}
+}

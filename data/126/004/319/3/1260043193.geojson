@@ -1,0 +1,68 @@
+{
+  "id": 1260043193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52561,56.4825,9.52561,56.4825",
+    "geom:latitude":56.4825,
+    "geom:longitude":9.52561,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Sonder Ingstrup",
+    "gn:country_code":"DK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613027,
+    "gn:latitude":56.4825,
+    "gn:longitude":9.52561,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Ingstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613027
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"68a0b13c17960cb640d369af430b1eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1260043193,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1260043193,
+    "wof:lastmodified":1537044374,
+    "wof:name":"Sonder Ingstrup",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52561,
+    56.4825,
+    9.52561,
+    56.4825
+],
+  "geometry": {"coordinates":[9.52561,56.4825],"type":"Point"}
+}

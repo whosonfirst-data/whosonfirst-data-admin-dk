@@ -1,0 +1,68 @@
+{
+  "id": 1276290447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14303,55.62279,9.14303,55.62279",
+    "geom:latitude":55.62279,
+    "geom:longitude":9.14303,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"530.0",
+    "gn:asciiname":"Fitting",
+    "gn:country_code":"DK",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622176,
+    "gn:latitude":55.62279,
+    "gn:longitude":9.14303,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fitting",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297863,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622176
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f7481bdd1b0be135e0abed24e7f5a36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297863,
+            "locality_id":1276290447,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276290447,
+    "wof:lastmodified":1536835194,
+    "wof:name":"Fitting",
+    "wof:parent_id":1159297863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14303,
+    55.62279,
+    9.14303,
+    55.62279
+],
+  "geometry": {"coordinates":[9.14303,55.62279],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193242017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24997,56.0218,12.24997,56.0218",
+    "geom:latitude":56.0218,
+    "geom:longitude":12.24997,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Nellerod",
+    "gn:country_code":"DK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616503,
+    "gn:latitude":56.0218,
+    "gn:longitude":12.24997,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Neller\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616503
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"72e32aa2fef62a9bac84809b90b2a0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":1193242017,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1193242017,
+    "wof:lastmodified":1536377406,
+    "wof:name":"Nellerod",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24997,
+    56.0218,
+    12.24997,
+    56.0218
+],
+  "geometry": {"coordinates":[12.24997,56.0218],"type":"Point"}
+}

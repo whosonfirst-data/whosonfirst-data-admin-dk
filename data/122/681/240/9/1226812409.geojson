@@ -1,0 +1,68 @@
+{
+  "id": 1226812409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69765,55.71948,9.69765,55.71948",
+    "geom:latitude":55.71948,
+    "geom:longitude":9.69765,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Korshoj",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618365,
+    "gn:latitude":55.71948,
+    "gn:longitude":9.69765,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Korsh\u00f8j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618365
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5a9a24ee1d9dd4c065c651a1c382ed33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":1226812409,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226812409,
+    "wof:lastmodified":1536617462,
+    "wof:name":"Korshoj",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69765,
+    55.71948,
+    9.69765,
+    55.71948
+],
+  "geometry": {"coordinates":[9.69765,55.71948],"type":"Point"}
+}

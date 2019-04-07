@@ -1,0 +1,66 @@
+{
+  "id": 1209072577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.60513,56.33947,8.60513,56.33947",
+    "geom:latitude":56.33947,
+    "geom:longitude":8.60513,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Tveskel",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611082,
+    "gn:latitude":56.33947,
+    "gn:longitude":8.60513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tveskel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tveskjel",
+        "Tveskel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611082
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fb483048d0a0699cbb23c0d7f91a4afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209072577
+        }
+    ],
+    "wof:id":1209072577,
+    "wof:lastmodified":1537619794,
+    "wof:name":"Tveskel",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.60513,
+    56.33947,
+    8.60513,
+    56.33947
+],
+  "geometry": {"coordinates":[8.60513,56.33947],"type":"Point"}
+}

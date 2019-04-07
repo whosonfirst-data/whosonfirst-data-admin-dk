@@ -1,0 +1,68 @@
+{
+  "id": 1343422817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73007,55.68188,11.73007,55.68188",
+    "geom:latitude":55.68188,
+    "geom:longitude":11.73007,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Store Grandlose",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612422,
+    "gn:latitude":55.68188,
+    "gn:longitude":11.73007,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Store Grandl\u00f8se",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612422
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f88ee252b07fc76d7ff8d4611f841207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1343422817,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343422817,
+    "wof:lastmodified":1536800768,
+    "wof:name":"Store Grandlose",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73007,
+    55.68188000000001,
+    11.73007,
+    55.68188000000001
+],
+  "geometry": {"coordinates":[11.73007,55.68188000000001],"type":"Point"}
+}

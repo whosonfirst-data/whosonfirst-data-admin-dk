@@ -1,0 +1,68 @@
+{
+  "id": 1360049925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2018,55.38374,9.2018,55.38374",
+    "geom:latitude":55.38374,
+    "geom:longitude":9.2018,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Jelsskov",
+    "gn:country_code":"DK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619333,
+    "gn:latitude":55.38374,
+    "gn:longitude":9.2018,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Jelsskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619333
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"307e40f75af907bf6bb62737d4a51616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1360049925,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1360049925,
+    "wof:lastmodified":1536995738,
+    "wof:name":"Jelsskov",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2018,
+    55.38374,
+    9.2018,
+    55.38374
+],
+  "geometry": {"coordinates":[9.2018,55.38374],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292976823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08197,56.34579,9.08197,56.34579",
+    "geom:latitude":56.34579,
+    "geom:longitude":9.08197,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"657.0",
+    "gn:asciiname":"Egelund",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622751,
+    "gn:latitude":56.34579,
+    "gn:longitude":9.08197,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Egelund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622751
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8abdc4e6e53c1f1ace3698e8f50dff59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1292976823,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1292976823,
+    "wof:lastmodified":1537025142,
+    "wof:name":"Egelund",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08197,
+    56.34579,
+    9.08197,
+    56.34579
+],
+  "geometry": {"coordinates":[9.08197,56.34579],"type":"Point"}
+}

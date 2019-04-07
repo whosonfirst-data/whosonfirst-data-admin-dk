@@ -1,0 +1,73 @@
+{
+  "id": 1226417053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23871,55.39821,12.23871,55.39821",
+    "geom:latitude":55.39821,
+    "geom:longitude":12.23871,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"336.0",
+    "gn:asciiname":"Valloby",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610780,
+    "gn:latitude":55.39821,
+    "gn:longitude":12.23871,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vall\u00f8by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vall\u00f6",
+        "Vall\u00f8by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297719,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610780,
+        "wk:page":"Vall%C3%B8"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fa67a236dbdd259ef8358fbc0307dd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297719,
+            "locality_id":1226417053,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1226417053,
+    "wof:lastmodified":1537619792,
+    "wof:name":"Valloby",
+    "wof:parent_id":1159297719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23871,
+    55.39821,
+    12.23871,
+    55.39821
+],
+  "geometry": {"coordinates":[12.23871,55.39821],"type":"Point"}
+}

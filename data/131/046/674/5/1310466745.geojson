@@ -1,0 +1,68 @@
+{
+  "id": 1310466745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16727,55.31654,12.16727,55.31654",
+    "geom:latitude":55.31654,
+    "geom:longitude":12.16727,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Pebringe",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615205,
+    "gn:latitude":55.31654,
+    "gn:longitude":12.16727,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Pebringe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297811,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615205
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9d88e36ce4ac2d00922815e6517ec6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297811,
+            "locality_id":1310466745,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1310466745,
+    "wof:lastmodified":1536972517,
+    "wof:name":"Pebringe",
+    "wof:parent_id":1159297811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16727,
+    55.31654,
+    12.16727,
+    55.31654
+],
+  "geometry": {"coordinates":[12.16727,55.31654],"type":"Point"}
+}

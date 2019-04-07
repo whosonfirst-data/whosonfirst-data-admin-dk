@@ -1,0 +1,72 @@
+{
+  "id": 1243030559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1913,56.76071,10.1913,56.76071",
+    "geom:latitude":56.76071,
+    "geom:longitude":10.1913,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"846.0",
+    "gn:asciiname":"Skelund",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613780,
+    "gn:latitude":56.76071,
+    "gn:longitude":10.1913,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skelund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skelum",
+        "Skelund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297835,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613780
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"306a42abc47a51d7ca0dcf0e522eb14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297835,
+            "locality_id":1243030559,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1243030559,
+    "wof:lastmodified":1537619814,
+    "wof:name":"Skelund",
+    "wof:parent_id":1159297835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1913,
+    56.76071,
+    10.1913,
+    56.76071
+],
+  "geometry": {"coordinates":[10.1913,56.76071],"type":"Point"}
+}

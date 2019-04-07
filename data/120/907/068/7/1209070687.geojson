@@ -1,0 +1,66 @@
+{
+  "id": 1209070687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62752,55.66582,9.62752,55.66582",
+    "geom:latitude":55.66582,
+    "geom:longitude":9.62752,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Andkaer",
+    "gn:country_code":"DK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624706,
+    "gn:latitude":55.66582,
+    "gn:longitude":9.62752,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Andk\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andk\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624706,
+        "wk:page":"Andk%C3%A6r"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"de18766686a7ad132f783cc16b714c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209070687
+        }
+    ],
+    "wof:id":1209070687,
+    "wof:lastmodified":1537619896,
+    "wof:name":"Andkaer",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62752,
+    55.66582,
+    9.62752,
+    55.66582
+],
+  "geometry": {"coordinates":[9.62752,55.66582],"type":"Point"}
+}

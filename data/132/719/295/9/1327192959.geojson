@@ -1,0 +1,68 @@
+{
+  "id": 1327192959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.85633,55.38694,9.85633,55.38694",
+    "geom:latitude":55.38694,
+    "geom:longitude":9.85633,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"410.0",
+    "gn:asciiname":"Eskor",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622426,
+    "gn:latitude":55.38694,
+    "gn:longitude":9.85633,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Esk\u00f8r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297791,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622426
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2e2b5f686198924c5c64cb2d2fda7fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297791,
+            "locality_id":1327192959,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327192959,
+    "wof:lastmodified":1537025557,
+    "wof:name":"Eskor",
+    "wof:parent_id":1159297791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85633,
+    55.38694,
+    9.85633,
+    55.38694
+],
+  "geometry": {"coordinates":[9.85633,55.38694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101846069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:bbox":"8.53064045373,55.4962006155,8.54487164801,55.5034979041",
+    "geom:latitude":55.499954,
+    "geom:longitude":8.537083,
+    "iso:country":"DK",
+    "lbl:latitude":55.499841,
+    "lbl:longitude":8.536236,
+    "mps:latitude":55.499841,
+    "mps:longitude":8.536236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Esbjerg",
+    "qs:la_lc":"*DK1083561",
+    "qs:level":"locality",
+    "qs:loc":"Andrup",
+    "qs:loc_alt":"Andrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624705,
+        "gp:id":551993,
+        "qs:id":316699
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fa17e8c98c9b122c56c983c730c3b36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":101846069,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101846069,
+    "wof:lastmodified":1530292507,
+    "wof:name":"Andrup",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53064045372588,
+    55.49620061552224,
+    8.54487164801321,
+    55.50349790409831
+],
+  "geometry": {"coordinates":[[[8.54157780485428,55.50349790409831],[8.54161064404093,55.50259943075548],[8.54319199863079,55.50261761570465],[8.54325760052734,55.50082066834557],[8.54483888529819,55.50083883263665],[8.54487164801321,55.49994035862073],[8.54329039882032,55.499922194796],[8.54332319534404,55.49902372133306],[8.54174198306913,55.4990055382508],[8.54177481339673,55.49810706534106],[8.54019363803951,55.49808886300241],[8.54022650216763,55.49719039064615],[8.53864536372737,55.49717216905196],[8.53867826165248,55.49627369724976],[8.53235386364878,55.49620061552224],[8.53232082344567,55.49709908544861],[8.53073969175199,55.49708076524138],[8.53064045372588,55.4997761741277],[8.53222169213859,55.49979449574573],[8.53212254478285,55.50248990682013],[8.53370389128548,55.50250821012355],[8.53367087418229,55.5034066811246],[8.54157780485428,55.50349790409831]]],"type":"Polygon"}
+}

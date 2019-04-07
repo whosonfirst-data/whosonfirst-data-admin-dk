@@ -1,0 +1,68 @@
+{
+  "id": 1226825041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03995,56.44538,10.03995,56.44538",
+    "geom:latitude":56.44538,
+    "geom:longitude":10.03995,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"730.0",
+    "gn:asciiname":"Vorup",
+    "gn:country_code":"DK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610000,
+    "gn:latitude":56.44538,
+    "gn:longitude":10.03995,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vorup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610000
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d4b3b7171b7df04bc7c3bdd9fa485b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1226825041,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226825041,
+    "wof:lastmodified":1537094973,
+    "wof:name":"Vorup",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03995,
+    56.44538000000001,
+    10.03995,
+    56.44538000000001
+],
+  "geometry": {"coordinates":[10.03995,56.44538000000001],"type":"Point"}
+}

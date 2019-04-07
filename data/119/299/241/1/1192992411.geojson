@@ -1,0 +1,68 @@
+{
+  "id": 1192992411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91993,55.11707,8.91993,55.11707",
+    "geom:latitude":55.11707,
+    "geom:longitude":8.91993,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"550.0",
+    "gn:asciiname":"Klojing",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618699,
+    "gn:latitude":55.11707,
+    "gn:longitude":8.91993,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kl\u00f8jing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618699
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e83e1c5becc825ee8c0a603158547128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":1192992411,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1192992411,
+    "wof:lastmodified":1536379449,
+    "wof:name":"Klojing",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91993,
+    55.11707,
+    8.91993,
+    55.11707
+],
+  "geometry": {"coordinates":[8.91993,55.11707],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1192992379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99318,54.96845,9.99318,54.96845",
+    "geom:latitude":54.96845,
+    "geom:longitude":9.99318,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Asserballeskov",
+    "gn:country_code":"DK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624496,
+    "gn:latitude":54.96845,
+    "gn:longitude":9.99318,
+    "gn:modification_date":"2008-11-08",
+    "gn:name":"Asserballeskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Asserballeskov"
+    ],
+    "name:deu_x_preferred":[
+        "Atzerballigholz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624496
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"35a01feaa395d6da2e1c8651f52dfd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1192992379,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1192992379,
+    "wof:lastmodified":1537619894,
+    "wof:name":"Asserballeskov",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99318,
+    54.96845,
+    9.99318,
+    54.96845
+],
+  "geometry": {"coordinates":[9.99318,54.96845],"type":"Point"}
+}

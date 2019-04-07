@@ -1,0 +1,68 @@
+{
+  "id": 1243225437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.40314,54.73242,11.40314,54.73242",
+    "geom:latitude":54.73242,
+    "geom:longitude":11.40314,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Norre",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616100,
+    "gn:latitude":54.73242,
+    "gn:longitude":11.40314,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Norre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616100
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c1ae1627e91ed717595de8b4756b0631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1243225437,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1243225437,
+    "wof:lastmodified":1536625392,
+    "wof:name":"Norre",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.40314,
+    54.73242,
+    11.40314,
+    54.73242
+],
+  "geometry": {"coordinates":[11.40314,54.73242],"type":"Point"}
+}

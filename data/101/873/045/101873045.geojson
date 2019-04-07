@@ -1,0 +1,101 @@
+{
+  "id": 101873045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.059175,55.925086,12.059175,55.925086",
+    "geom:latitude":55.925086,
+    "geom:longitude":12.059175,
+    "iso:country":"DK",
+    "lbl:latitude":55.925086,
+    "lbl:longitude":12.059175,
+    "mps:latitude":55.925086,
+    "mps:longitude":12.059175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:deu_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:dut_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:ger_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8lsted"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u00d8lsted",
+    "qs:loc_alt":"Olsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297739,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615736,
+        "gp:id":556093,
+        "qs:id":895764,
+        "qs_pg:id":895764,
+        "wd:id":"Q308147",
+        "wk:page":"\u00d8lsted, Halsn\u00e6s Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3e9282fd0256a764155246031da45e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297739,
+            "locality_id":101873045,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101873045,
+    "wof:lastmodified":1553815561,
+    "wof:name":"\u00d8lsted",
+    "wof:parent_id":1159297739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.059175,
+    55.925086,
+    12.059175,
+    55.925086
+],
+  "geometry": {"coordinates":[12.059175,55.925086],"type":"Point"}
+}

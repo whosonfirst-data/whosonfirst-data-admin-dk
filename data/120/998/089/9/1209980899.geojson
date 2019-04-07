@@ -1,0 +1,73 @@
+{
+  "id": 1209980899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7043,55.17139,10.7043,55.17139",
+    "geom:latitude":55.17139,
+    "geom:longitude":10.7043,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"479.0",
+    "gn:asciiname":"Galdbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621725,
+    "gn:latitude":55.17139,
+    "gn:longitude":10.7043,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Galdbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galtebjerg",
+        "Galdbj\u00e6rg",
+        "Galdbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297853,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621725
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3391cfa66c22d9e334e22131591225f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297853,
+            "locality_id":1209980899,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1209980899,
+    "wof:lastmodified":1537619875,
+    "wof:name":"Galdbjerg",
+    "wof:parent_id":1159297853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7043,
+    55.17139,
+    10.7043,
+    55.17139
+],
+  "geometry": {"coordinates":[10.7043,55.17139],"type":"Point"}
+}

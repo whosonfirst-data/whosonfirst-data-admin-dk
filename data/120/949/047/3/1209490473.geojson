@@ -1,0 +1,66 @@
+{
+  "id": 1209490473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.02225,57.28353,10.02225,57.28353",
+    "geom:latitude":57.28353,
+    "geom:longitude":10.02225,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Alstrup",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624750,
+    "gn:latitude":57.28353,
+    "gn:longitude":10.02225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5lstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aalstrup",
+        "\u00c5lstrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624750
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7162900eede226803c9192ee1b13f968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209490473
+        }
+    ],
+    "wof:id":1209490473,
+    "wof:lastmodified":1537619897,
+    "wof:name":"Alstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02225,
+    57.28353000000001,
+    10.02225,
+    57.28353000000001
+],
+  "geometry": {"coordinates":[10.02225,57.28353000000001],"type":"Point"}
+}

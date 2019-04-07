@@ -1,0 +1,72 @@
+{
+  "id": 1209781283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90093,56.9235,8.90093,56.9235",
+    "geom:latitude":56.9235,
+    "geom:longitude":8.90093,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"773.0",
+    "gn:asciiname":"Ejerslev",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622657,
+    "gn:latitude":56.9235,
+    "gn:longitude":8.90093,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ejerslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eierslev",
+        "Ejerslev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297845,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622657
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9fa91086af268cdd3f742a7511f06c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297845,
+            "locality_id":1209781283,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1209781283,
+    "wof:lastmodified":1537619881,
+    "wof:name":"Ejerslev",
+    "wof:parent_id":1159297845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90093,
+    56.9235,
+    8.90093,
+    56.9235
+],
+  "geometry": {"coordinates":[8.90093,56.9235],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101818371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000198,
+    "geom:area_square_m":1393683.950619,
+    "geom:bbox":"11.5299186958,55.2938371787,11.5535563678,55.3110231189",
+    "geom:latitude":55.302793,
+    "geom:longitude":11.544759,
+    "gn:population":1985,
+    "iso:country":"DK",
+    "lbl:latitude":55.3032,
+    "lbl:longitude":11.544938,
+    "mps:latitude":55.3032,
+    "mps:longitude":11.544938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fuglebjerg"
+    ],
+    "name:dan_x_preferred":[
+        "Fuglebjerg Kommune"
+    ],
+    "name:dan_x_variant":[
+        "Fuglebjerg"
+    ],
+    "name:deu_x_preferred":[
+        "Fuglebjerg Kommune"
+    ],
+    "name:eng_x_preferred":[
+        "Fuglebjerg"
+    ],
+    "name:fao_x_preferred":[
+        "Fuglebjerg kommuna"
+    ],
+    "name:fao_x_variant":[
+        "Fuglebjerg"
+    ],
+    "name:ita_x_preferred":[
+        "Fuglebjerg"
+    ],
+    "name:nld_x_preferred":[
+        "Fuglebjerg"
+    ],
+    "name:nor_x_preferred":[
+        "Fuglebjerg kommune"
+    ],
+    "name:nor_x_variant":[
+        "Fuglebjerg"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Fuglebjerg"
+    ],
+    "name:por_x_preferred":[
+        "Fuglebjerg"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Fuglebjerg"
+    ],
+    "name:swe_x_preferred":[
+        "Fuglebjergs kommun"
+    ],
+    "name:swe_x_variant":[
+        "Fuglebjerg"
+    ],
+    "name:unk_x_variant":[
+        "Fugleb\u00e6rg"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"N\u00e6stved",
+    "qs:la_lc":"*DK1085370",
+    "qs:level":"locality",
+    "qs:loc":"Fuglebjerg",
+    "qs:loc_alt":"Fuglebjerg",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":181,
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621805,
+        "gp:id":553367,
+        "qs:id":1224365,
+        "qs_pg:id":1224365,
+        "wd:id":"Q1472969",
+        "wk:page":"Fuglebjerg"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8b9fdd6d3e36d1c3587c8f7d036157b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":101818371,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818371,
+    "wof:lastmodified":1530296454,
+    "wof:name":"Fuglebjerg",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:population":1985,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.52991869583786,
+    55.29383717871184,
+    11.5535563678128,
+    55.31102311893778
+],
+  "geometry": {"coordinates":[[[11.54589600738808,55.31100385527532],[11.54582685854302,55.30920700026917],[11.54897425796713,55.30916841606029],[11.54893961599322,55.30826998965108],[11.55051327842415,55.30825066861479],[11.55047860314392,55.30735224277134],[11.5520522289986,55.30733290261236],[11.55198281369559,55.30553605213117],[11.5535563678128,55.30551669334426],[11.55352162779576,55.30461826870646],[11.55194810883796,55.30463762699975],[11.55184400544022,55.30194235204186],[11.55341741893022,55.30192299522952],[11.55310489297204,55.29383717871184],[11.55153179578349,55.29385653108272],[11.55156647830046,55.29475495534467],[11.54999334456431,55.29477428860054],[11.55002799380316,55.29567271342751],[11.54688165182648,55.29571132209844],[11.54691623264222,55.29660974798202],[11.54534302440226,55.29662902339544],[11.54537757193032,55.29752744984285],[11.54223108094982,55.29756594282281],[11.54226556004124,55.29846437032393],[11.54069227730145,55.29848358788888],[11.54072672309536,55.29938201595257],[11.53915340380718,55.29940121439648],[11.53918781630051,55.30029964302236],[11.53761446046303,55.30031882234414],[11.53764883965164,55.30121725153174],[11.53607544726475,55.30123641173049],[11.53610979314465,55.30213484147941],[11.53453636420733,55.30215398255405],[11.53457067677556,55.30305241286413],[11.53299721128644,55.30307153481368],[11.53303149053897,55.30396996568419],[11.53145798849829,55.30398906850769],[11.53149223443114,55.30488749993862],[11.52991869583786,55.30490658363499],[11.52995290844729,55.30580501562565],[11.53624719509975,55.30572856120477],[11.53628155019771,55.30662699131869],[11.53785515353297,55.30660782818808],[11.53788954563919,55.30750625788653],[11.54103681843998,55.3074678718009],[11.54107128272511,55.30836630059343],[11.54264495218899,55.30834707763688],[11.54271395664694,55.31014393446094],[11.54428769504489,55.31012469090678],[11.54432223522394,55.31102311893778],[11.54589600738808,55.31100385527532]]],"type":"Polygon"}
+}

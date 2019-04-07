@@ -1,0 +1,109 @@
+{
+  "id": 85906255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7414.410158,
+    "geom:bbox":"12.572479248,55.6764205571,12.5738525391,55.6771972442",
+    "geom:latitude":55.67681,
+    "geom:longitude":12.573166,
+    "iso:country":"DK",
+    "lbl:latitude":55.676766,
+    "lbl:longitude":12.573244,
+    "mps:latitude":55.67681,
+    "mps:longitude":12.573166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Vestergade"
+    ],
+    "name:eng_x_variant":[
+        "Vestergade"
+    ],
+    "name:nor_x_preferred":[
+        "Vestergade"
+    ],
+    "name:unk_x_variant":[
+        "Vestergade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Vestergade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Vestergade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":91,
+    "qs:photo_sum":151,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":714,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229509,
+        "wd:id":"Q12009460"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e12c5b2e2467ffbbc5db479a3c2612d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906255,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906255,
+    "wof:lastmodified":1530296597,
+    "wof:name":"Vestergade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57247924800009,
+    55.67642055714445,
+    12.57385253910013,
+    55.67719724415842
+],
+  "geometry": {"coordinates":[[[12.57385253910013,55.67719724415842],[12.57385253910013,55.67681007376687],[12.57385253910013,55.6766235153077],[12.57385253910013,55.67642290030007],[12.57351317996796,55.67642290030007],[12.57350921631684,55.67642055715926],[12.57350525268362,55.67642290030007],[12.57316589360011,55.67642290030007],[12.57282653446697,55.67642290030007],[12.57282257080021,55.67642055714445],[12.57281860713351,55.67642290030007],[12.57247924800009,55.67642290030007],[12.57247924801476,55.67662351534953],[12.57247924801686,55.67681007376687],[12.57247924801413,55.67719724415842],[12.57316589358351,55.67719724405008],[12.57385253910013,55.67719724415842]]],"type":"Polygon"}
+}

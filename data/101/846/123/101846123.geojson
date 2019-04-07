@@ -1,0 +1,76 @@
+{
+  "id": 101846123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:bbox":"8.51482014141,56.8894190171,8.53626340902,56.8949591076",
+    "geom:latitude":56.892106,
+    "geom:longitude":8.526221,
+    "iso:country":"DK",
+    "lbl:latitude":56.892206,
+    "lbl:longitude":8.52622,
+    "mps:latitude":56.892206,
+    "mps:longitude":8.52622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Thisted",
+    "qs:la_lc":"*DK1081787",
+    "qs:level":"locality",
+    "qs:loc":"Snedsted",
+    "qs:loc_alt":"Snedsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613327,
+        "gp:id":557244,
+        "qs:id":1232250,
+        "qs_pg:id":1232250
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e7d8f56aae2f4871357adbf18d16acf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":101846123,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101846123,
+    "wof:lastmodified":1530291564,
+    "wof:name":"Snedsted",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51482014140595,
+    56.8894190171286,
+    8.53626340902332,
+    56.89495910757137
+],
+  "geometry": {"coordinates":[[[8.53113888564258,56.89495910757137],[8.53117363803432,56.89406041969187],[8.5360902574588,56.89411557533668],[8.53626340902332,56.88962213113524],[8.51823800078654,56.8894190171286],[8.51816789375312,56.89121638335973],[8.51489041127871,56.89117918449705],[8.51482014140595,56.89297654942277],[8.51809777884705,56.89301375028646],[8.51802765606749,56.89481111790957],[8.53113888564258,56.89495910757137]]],"type":"Polygon"}
+}

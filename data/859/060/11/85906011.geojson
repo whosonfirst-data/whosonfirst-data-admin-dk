@@ -1,0 +1,103 @@
+{
+  "id": 85906011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15107.344345,
+    "geom:bbox":"12.5722109164,55.6797067045,12.5746522994,55.6813159887",
+    "geom:latitude":55.680523,
+    "geom:longitude":12.573404,
+    "iso:country":"DK",
+    "lbl:latitude":55.680359,
+    "lbl:longitude":12.573726,
+    "mps:latitude":55.680567,
+    "mps:longitude":12.573403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Krystalgade"
+    ],
+    "name:unk_x_variant":[
+        "Krystalgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Krystalgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Krystalgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":211,
+    "qs:photo_sum":800,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":652,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229289,
+        "wd:id":"Q7825197"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e3c0d5f77de05242809d83f4d1ffc981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906011,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906011,
+    "wof:lastmodified":1530296553,
+    "wof:name":"Krystalgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57221091635898,
+    55.67970670449218,
+    12.57465229943051,
+    55.68131598867295
+],
+  "geometry": {"coordinates":[[[12.5724003873857,55.68131598867295],[12.5728185876817,55.6810687366001],[12.57282257080004,55.6810687366001],[12.57282655391879,55.6810687366001],[12.57316589358555,55.68126936398208],[12.57327900735447,55.68106873603138],[12.57385253910013,55.68106873599079],[12.57385253910013,55.68068160400638],[12.57442607059488,55.68068160420425],[12.57453918460004,55.68068160459994],[12.57453918460004,55.68048803598556],[12.57454515375144,55.68048450691306],[12.57465229943051,55.68029446816682],[12.57461592051277,55.68010089925018],[12.57453918460004,55.68010089934744],[12.57419586181572,55.68010089934388],[12.57419586180742,55.6799096797313],[12.57419586180009,55.67990732920005],[12.5741918860034,55.67990732920005],[12.57385253909177,55.67970670449218],[12.57351319214717,55.67990732920005],[12.57350921630007,55.67990732920005],[12.57350524050412,55.67990732920005],[12.57325073006268,55.6797568604966],[12.57316589356935,55.67990732913789],[12.57308105717857,55.68005779729218],[12.57308915763736,55.68010089925018],[12.57305277885371,55.68029446840431],[12.57247924801578,55.68029446820641],[12.57247924801482,55.68048097781686],[12.57236613343935,55.68068160459994],[12.5722569996305,55.68087517085017],[12.57221091635898,55.68092421262206],[12.57224147090119,55.68119518759225],[12.5724003873857,55.68131598867295]]],"type":"Polygon"}
+}

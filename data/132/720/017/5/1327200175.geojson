@@ -1,0 +1,68 @@
+{
+  "id": 1327200175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9,56.36667,8.9,56.36667",
+    "geom:latitude":56.36667,
+    "geom:longitude":8.9,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Abildholt",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2625059,
+    "gn:latitude":56.36667,
+    "gn:longitude":8.9,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Abildholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625059
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"08bef08ef1e70161a0002d0e6bb1e3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1327200175,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1327200175,
+    "wof:lastmodified":1537015507,
+    "wof:name":"Abildholt",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9,
+    56.36666999999999,
+    8.9,
+    56.36666999999999
+],
+  "geometry": {"coordinates":[8.9,56.36666999999999],"type":"Point"}
+}

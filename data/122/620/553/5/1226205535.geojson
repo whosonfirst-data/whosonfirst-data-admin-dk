@@ -1,0 +1,68 @@
+{
+  "id": 1226205535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1624,56.12596,8.1624,56.12596",
+    "geom:latitude":56.12596,
+    "geom:longitude":8.1624,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Norby",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616400,
+    "gn:latitude":56.12596,
+    "gn:longitude":8.1624,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616400
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"89f92ebdfbe7bf4ff444c314710afb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1226205535,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226205535,
+    "wof:lastmodified":1536990892,
+    "wof:name":"Norby",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1624,
+    56.12596,
+    8.1624,
+    56.12596
+],
+  "geometry": {"coordinates":[8.1624,56.12596],"type":"Point"}
+}

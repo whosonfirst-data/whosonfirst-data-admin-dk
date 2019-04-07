@@ -1,0 +1,68 @@
+{
+  "id": 1327004409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88746,55.22778,11.88746,55.22778",
+    "geom:latitude":55.22778,
+    "geom:longitude":11.88746,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Norre Tvede",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616225,
+    "gn:latitude":55.22778,
+    "gn:longitude":11.88746,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rre Tvede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616225
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bc252eacdb51a7a056a3aeecd96254d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1327004409,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327004409,
+    "wof:lastmodified":1536800994,
+    "wof:name":"Norre Tvede",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88746,
+    55.22778,
+    11.88746,
+    55.22778
+],
+  "geometry": {"coordinates":[11.88746,55.22778],"type":"Point"}
+}

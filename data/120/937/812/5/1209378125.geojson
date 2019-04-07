@@ -1,0 +1,62 @@
+{
+  "id": 1209378125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80018,55.88059,8.80018,55.88059",
+    "geom:latitude":55.88059,
+    "geom:longitude":8.80018,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Knaplund",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618656,
+    "gn:latitude":55.88059,
+    "gn:longitude":8.80018,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Knaplund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618656
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"75bf3ebe1867b0d35a66baa459a17097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209378125
+        }
+    ],
+    "wof:id":1209378125,
+    "wof:lastmodified":1536288877,
+    "wof:name":"Knaplund",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.800180000000003,
+    55.88059000000001,
+    8.800180000000003,
+    55.88059000000001
+],
+  "geometry": {"coordinates":[8.80018,55.88059000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309982339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2378,55.72653,12.2378,55.72653",
+    "geom:latitude":55.72653,
+    "geom:longitude":12.2378,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"240.0",
+    "gn:asciiname":"Hove",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619729,
+    "gn:latitude":55.72653,
+    "gn:longitude":12.2378,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297851,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619729
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"65eda0a379e44fc15d96a0eeb7d6f940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297851,
+            "locality_id":1309982339,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1309982339,
+    "wof:lastmodified":1536676764,
+    "wof:name":"Hove",
+    "wof:parent_id":1159297851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2378,
+    55.72653,
+    12.2378,
+    55.72653
+],
+  "geometry": {"coordinates":[12.2378,55.72653],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209373777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31832,55.07626,9.31832,55.07626",
+    "geom:latitude":55.07626,
+    "geom:longitude":9.31832,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Lunderup",
+    "gn:country_code":"DK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617309,
+    "gn:latitude":55.07626,
+    "gn:longitude":9.31832,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Lunderup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617309
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f04b4bbcacf4976e2c8bd812b7784b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209373777
+        }
+    ],
+    "wof:id":1209373777,
+    "wof:lastmodified":1536289020,
+    "wof:name":"Lunderup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31832,
+    55.07626,
+    9.31832,
+    55.07626
+],
+  "geometry": {"coordinates":[9.31832,55.07626],"type":"Point"}
+}

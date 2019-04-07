@@ -1,0 +1,79 @@
+{
+  "id": 101805811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:bbox":"10.2222753744,57.334478833,10.2471567636,57.3461811147",
+    "geom:latitude":57.340606,
+    "geom:longitude":10.237781,
+    "iso:country":"DK",
+    "lbl:latitude":57.340902,
+    "lbl:longitude":10.239665,
+    "mps:latitude":57.340902,
+    "mps:longitude":10.239665,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u00d6ster Vraa"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Frederikshavn",
+    "qs:la_lc":"*DK1081813",
+    "qs:level":"locality",
+    "qs:loc":"\u00d8stervr\u00e5",
+    "qs:loc_alt":"Ostervra",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297889,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615448,
+        "gp:id":556318,
+        "qs:id":489590,
+        "qs_pg:id":489590
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bd97b0497fb457c77b9c85bca921d86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297889,
+            "locality_id":101805811,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805811,
+    "wof:lastmodified":1530292122,
+    "wof:name":"\u00d8stervr\u00e5",
+    "wof:parent_id":1159297889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22227537440642,
+    57.33447883302591,
+    10.24715676357374,
+    57.34618111473685
+],
+  "geometry": {"coordinates":[[[10.24386857248794,57.34617202014795],[10.24383924824571,57.34167700736128],[10.24715676357374,57.34167084096958],[10.24710922403949,57.33447883302591],[10.23881702905817,57.33449408942954],[10.23882851316995,57.33629209096171],[10.23551147392311,57.33629804805537],[10.23552846326106,57.33899505245068],[10.23221118375045,57.3390009267107],[10.23222235204412,57.34079893103512],[10.22558747104074,57.34081043021752],[10.22557662183368,57.3390124252648],[10.22391798076137,57.33901524782686],[10.22393413537395,57.34171225580985],[10.22227537440642,57.34171505777118],[10.22228071999888,57.34261406093839],[10.2239395208573,57.34261125890032],[10.2239449066476,57.34351026220588],[10.2289214274951,57.3435017308621],[10.22892693328026,57.34440073414953],[10.23390357166414,57.3443920150674],[10.23390919745731,57.34529101833158],[10.23888595333744,57.34528211150109],[10.23889169915208,57.34618111473685],[10.24386857248794,57.34617202014795]]],"type":"Polygon"}
+}

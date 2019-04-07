@@ -1,0 +1,91 @@
+{
+  "id": 1125952887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.72142,56.16836,10.72142,56.16836",
+    "geom:latitude":56.16836,
+    "geom:longitude":10.72142,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.16836,
+    "lbl:longitude":10.72142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Elsegaarde"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2622573,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Elseg\u00e5rde",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":501116,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20098650,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622573,
+        "gp:id":20098650,
+        "qs_pg:id":501116
+    },
+    "wof:country":"DK",
+    "wof:created":1497297523,
+    "wof:geomhash":"2637e7f9018d25486c9b58dd010b18be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":1125952887,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125952887,
+    "wof:lastmodified":1530291431,
+    "wof:name":"Elseg\u00e5rde",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72142,
+    56.16836,
+    10.72142,
+    56.16836
+],
+  "geometry": {"coordinates":[10.72142,56.16836],"type":"Point"}
+}

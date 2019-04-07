@@ -1,0 +1,110 @@
+{
+  "id": 1126049443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5897,57.24797,9.5897,57.24797",
+    "geom:latitude":57.24797,
+    "geom:longitude":9.5897,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":57.24797,
+    "lbl:longitude":9.5897,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Blokhus"
+    ],
+    "name:dut_x_preferred":[
+        "Blokhus"
+    ],
+    "name:eng_x_preferred":[
+        "Blokhus"
+    ],
+    "name:fre_x_preferred":[
+        "Blokhus"
+    ],
+    "name:ger_x_preferred":[
+        "Blokhus"
+    ],
+    "name:ice_x_preferred":[
+        "Blokhus"
+    ],
+    "name:nob_x_preferred":[
+        "Blokhus"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623911,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Blokhus",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":552,
+    "qs_pg:photos_1k":112,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":552,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":976260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552399,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623911,
+        "gp:id":552399,
+        "qs_pg:id":976260,
+        "wd:id":"Q884930"
+    },
+    "wof:country":"DK",
+    "wof:created":1497302636,
+    "wof:geomhash":"17c1af1750d5061fd9d12f07ed2fdd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1126049443,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1126049443,
+    "wof:lastmodified":1530292387,
+    "wof:name":"Blokhus",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5897,
+    57.24797,
+    9.5897,
+    57.24797
+],
+  "geometry": {"coordinates":[9.5897,57.24797],"type":"Point"}
+}

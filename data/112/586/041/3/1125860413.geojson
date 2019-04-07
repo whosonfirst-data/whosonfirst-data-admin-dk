@@ -1,0 +1,105 @@
+{
+  "id": 1125860413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.48692,57.20788,10.48692,57.20788",
+    "geom:latitude":57.20788,
+    "geom:longitude":10.48692,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":57.20788,
+    "lbl:longitude":10.48692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:dan_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:dut_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:eng_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:ger_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:unk_x_variant":[
+        "Vorsaa"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2610086,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Voers\u00e5",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1286104,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":558827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297889,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610086,
+        "gp:id":558827,
+        "qs_pg:id":1286104,
+        "wd:id":"Q1583126"
+    },
+    "wof:country":"DK",
+    "wof:created":1497293804,
+    "wof:geomhash":"955b4cd3e88a88178c5e838f094810d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297889,
+            "locality_id":1125860413,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1125860413,
+    "wof:lastmodified":1530292118,
+    "wof:name":"Voers\u00e5",
+    "wof:parent_id":1159297889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.48692,
+    57.20788,
+    10.48692,
+    57.20788
+],
+  "geometry": {"coordinates":[10.48692,57.20788],"type":"Point"}
+}

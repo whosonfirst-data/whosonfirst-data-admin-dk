@@ -1,0 +1,68 @@
+{
+  "id": 1293257027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23428,54.95071,11.23428,54.95071",
+    "geom:latitude":54.95071,
+    "geom:longitude":11.23428,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Nybolle Hede",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616017,
+    "gn:latitude":54.95071,
+    "gn:longitude":11.23428,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Nyb\u00f8lle Hede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616017
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"536ad34cf6448762a00d53d92e7180d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1293257027,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1293257027,
+    "wof:lastmodified":1536620256,
+    "wof:name":"Nybolle Hede",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23428,
+    54.95071,
+    11.23428,
+    54.95071
+],
+  "geometry": {"coordinates":[11.23428,54.95071],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101805819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:bbox":"9.86302924153,57.146764041,9.88282940753,57.1548547005",
+    "geom:latitude":57.150718,
+    "geom:longitude":9.873214,
+    "iso:country":"DK",
+    "lbl:latitude":57.150806,
+    "lbl:longitude":9.873214,
+    "mps:latitude":57.150806,
+    "mps:longitude":9.873214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Jammerbugt",
+    "qs:la_lc":"*DK1081849",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rhalne",
+    "qs:loc_alt":"Norhalne",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616322,
+        "gp:id":555855,
+        "qs:id":964064
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e1d3cbd337a031a1218d26479da53774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":101805819,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805819,
+    "wof:lastmodified":1530292380,
+    "wof:name":"N\u00f8rhalne",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.86302924153176,
+    57.14676404104222,
+    9.88282940752867,
+    57.15485470048844
+],
+  "geometry": {"coordinates":[[[9.87621052221738,57.15485470048844],[9.87621347890007,57.15395573751613],[9.87786396272168,57.15395728072809],[9.87786687981708,57.15305831791687],[9.88281821377092,57.15306282314543],[9.88282940752867,57.14946697344084],[9.8811791204119,57.14946549257246],[9.8811819578645,57.14856653069364],[9.87788146281781,57.14856350690462],[9.87788729486289,57.14676558391938],[9.87623712633803,57.14676404104222],[9.87623417099383,57.14766300239171],[9.86303251229515,57.14764991347204],[9.86302924153176,57.1485488746689],[9.86467948779938,57.14855058331602],[9.86466332827035,57.15304539257414],[9.86796421535439,57.15304874819162],[9.86796106173961,57.15394771074313],[9.87456299520585,57.15395417358991],[9.87455999910111,57.15485313651976],[9.87621052221738,57.15485470048844]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243517677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39323,56.37465,9.39323,56.37465",
+    "geom:latitude":56.37465,
+    "geom:longitude":9.39323,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Almind",
+    "gn:country_code":"DK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624808,
+    "gn:latitude":56.37465,
+    "gn:longitude":9.39323,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Almind",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624808
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"eac7bee924299b1f3932c3c442269933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1243517677,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1243517677,
+    "wof:lastmodified":1536703210,
+    "wof:name":"Almind",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39323,
+    56.37465,
+    9.39323,
+    56.37465
+],
+  "geometry": {"coordinates":[9.39323,56.37465],"type":"Point"}
+}

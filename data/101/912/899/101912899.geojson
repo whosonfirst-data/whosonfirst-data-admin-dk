@@ -1,0 +1,80 @@
+{
+  "id": 101912899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":83558.792066,
+    "geom:bbox":"8.99195550055,56.2673917218,8.99619484534,56.2710068441",
+    "geom:latitude":56.269433,
+    "geom:longitude":8.994029,
+    "iso:country":"DK",
+    "lbl:latitude":56.269556,
+    "lbl:longitude":8.99407,
+    "mps:latitude":56.269556,
+    "mps:longitude":8.99407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Over Simmelkj\u00e6r"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"5",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Herning",
+    "qs:la_lc":"*DK1082657",
+    "qs:level":"locality",
+    "qs:loc":"Over Simmelk\u00e6r",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614017,
+        "gp:id":556920,
+        "qs:id":470684,
+        "qs_pg:id":982942
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d84f6f318727c744fe9b0ace11476346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":101912899,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101912899,
+    "wof:lastmodified":1530290395,
+    "wof:name":"Over Simmelk\u00e6r",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9919555005452,
+    56.26739172176252,
+    8.99619484534469,
+    56.2710068440789
+],
+  "geometry": {"coordinates":[[[8.99538514501103,56.2674051587536],[8.99366130056023,56.26739172176252],[8.99363801944719,56.26829041093271],[8.99202546347823,56.26827781110171],[8.9919555005452,56.27097387846413],[8.99619484534469,56.2710068440789],[8.99538514501103,56.2674051587536]]],"type":"Polygon"}
+}

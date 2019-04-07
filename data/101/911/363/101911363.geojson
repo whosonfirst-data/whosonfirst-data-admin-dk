@@ -1,0 +1,99 @@
+{
+  "id": 101911363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":368356.676597,
+    "geom:bbox":"10.8402855533,54.9950044937,10.8560733208,55.0030281186",
+    "geom:latitude":54.998271,
+    "geom:longitude":10.848691,
+    "iso:country":"DK",
+    "lbl:latitude":54.997676,
+    "lbl:longitude":10.848691,
+    "mps:latitude":54.997676,
+    "mps:longitude":10.848691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:dut_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:eng_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:nno_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:nob_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:swe_x_preferred":[
+        "Tranek\u00e6r"
+    ],
+    "name:unk_x_variant":[
+        "Tranekiar"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"9",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Langeland",
+    "qs:la_lc":"*DK1083482",
+    "qs:level":"locality",
+    "qs:loc":"Tranek\u00e6r Slot",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611307,
+        "gp:id":558227,
+        "qs:id":243259,
+        "qs_pg:id":243259,
+        "wd:id":"Q12339700"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b7dc2649f682b14d3b0469f49b599d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":101911363,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101911363,
+    "wof:lastmodified":1530291732,
+    "wof:name":"Tranek\u00e6r Slot",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.84028555331059,
+    54.99500449371061,
+    10.856073320848,
+    55.00302811859405
+],
+  "geometry": {"coordinates":[[[10.856073320848,55.003017466264],[10.85601649231074,55.00032176120624],[10.85445455752091,55.00033241272928],[10.85443565124416,54.99943384423273],[10.8528737502445,54.99944447603536],[10.85281714109834,54.99674877011466],[10.85125534298425,54.99675938166166],[10.85123650982268,54.99586081287822],[10.8449894479707,54.99590306349864],[10.84497075398497,54.99500449371061],[10.84028555331059,54.99503597665932],[10.84032273500992,54.99683311788749],[10.84188453840818,54.99682264249151],[10.84190316528958,54.99772121293461],[10.84346500248444,54.99771071782351],[10.84348366490644,54.99860928806396],[10.8466074061364,54.99858823895801],[10.84662613865345,54.99948680872967],[10.84974994596473,54.9994656812857],[10.8497687485841,55.00036425058607],[10.85133068565642,55.00035365741923],[10.85136836300848,55.00215079567289],[10.85449237309376,55.00212954990991],[10.85451128239015,55.00302811859405],[10.856073320848,55.003017466264]]],"type":"Polygon"}
+}

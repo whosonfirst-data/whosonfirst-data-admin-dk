@@ -1,0 +1,68 @@
+{
+  "id": 1276511505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69698,55.57492,8.69698,55.57492",
+    "geom:latitude":55.57492,
+    "geom:longitude":8.69698,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Avtrup",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2624405,
+    "gn:latitude":55.57492,
+    "gn:longitude":8.69698,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Avtrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624405
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"59678c976b6b491ac2de7603c4caed54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1276511505,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276511505,
+    "wof:lastmodified":1537035914,
+    "wof:name":"Avtrup",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69698,
+    55.57492,
+    8.69698,
+    55.57492
+],
+  "geometry": {"coordinates":[8.69698,55.57492],"type":"Point"}
+}

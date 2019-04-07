@@ -1,0 +1,68 @@
+{
+  "id": 1310381247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.74436,55.76613,9.74436,55.76613",
+    "geom:latitude":55.76613,
+    "geom:longitude":9.74436,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Store Dalby",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612444,
+    "gn:latitude":55.76613,
+    "gn:longitude":9.74436,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Store Dalby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612444
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1b2ec3dac4578fce9fc74d28f011a468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":1310381247,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1310381247,
+    "wof:lastmodified":1537093042,
+    "wof:name":"Store Dalby",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.74436,
+    55.76613,
+    9.74436,
+    55.76613
+],
+  "geometry": {"coordinates":[9.74436,55.76613],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327395677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83266,54.76127,11.83266,54.76127",
+    "geom:latitude":54.76127,
+    "geom:longitude":11.83266,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Nagelsti Skovhuse",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616618,
+    "gn:latitude":54.76127,
+    "gn:longitude":11.83266,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nagelsti Skovhuse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skovhuse",
+        "Nagelsti Skovhuse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616618
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d1e4d5648cc69b67a651d1bbf0739f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1327395677,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327395677,
+    "wof:lastmodified":1537619837,
+    "wof:name":"Nagelsti Skovhuse",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83266,
+    54.76127,
+    11.83266,
+    54.76127
+],
+  "geometry": {"coordinates":[11.83266,54.76127],"type":"Point"}
+}

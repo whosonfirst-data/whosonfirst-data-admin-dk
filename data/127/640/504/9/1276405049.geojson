@@ -1,0 +1,68 @@
+{
+  "id": 1276405049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10285,56.96638,10.10285,56.96638",
+    "geom:latitude":56.96638,
+    "geom:longitude":10.10285,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"851.0",
+    "gn:asciiname":"Gudumholm",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621055,
+    "gn:latitude":56.96638,
+    "gn:longitude":10.10285,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Gudumholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621055
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0ef97c94168c644c52d41e370f9444c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":1276405049,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1276405049,
+    "wof:lastmodified":1536682548,
+    "wof:name":"Gudumholm",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10285,
+    56.96638000000001,
+    10.10285,
+    56.96638000000001
+],
+  "geometry": {"coordinates":[10.10285,56.96638000000001],"type":"Point"}
+}

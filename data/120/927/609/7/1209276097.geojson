@@ -1,0 +1,93 @@
+{
+  "id": 1209276097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2741,54.79956,11.2741,54.79956",
+    "geom:latitude":54.79956,
+    "geom:longitude":11.2741,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Hojreby",
+    "gn:country_code":"DK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619923,
+    "gn:latitude":54.79956,
+    "gn:longitude":11.2741,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f8jreby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:fao_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:nor_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina H\u00f8jreby"
+    ],
+    "name:por_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f8jreby"
+    ],
+    "name:und_x_variant":[
+        "H\u00f8jreby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619923,
+        "wk:page":"H%C3%B8jreby"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0d1dd8ed32a43586aac5f3b15336906d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209276097
+        }
+    ],
+    "wof:id":1209276097,
+    "wof:lastmodified":1537619860,
+    "wof:name":"Hojreby",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2741,
+    54.79956,
+    11.2741,
+    54.79956
+],
+  "geometry": {"coordinates":[11.2741,54.79956],"type":"Point"}
+}

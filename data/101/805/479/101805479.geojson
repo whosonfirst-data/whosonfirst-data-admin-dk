@@ -1,0 +1,101 @@
+{
+  "id": 101805479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000149,
+    "geom:area_square_m":1035199.660069,
+    "geom:bbox":"8.27641045297,55.7718241357,8.30060548949,55.7844234383",
+    "geom:latitude":55.778529,
+    "geom:longitude":8.289992,
+    "iso:country":"DK",
+    "lbl:latitude":55.777684,
+    "lbl:longitude":8.290817,
+    "mps:latitude":55.777684,
+    "mps:longitude":8.290817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:ger_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Varde",
+    "qs:la_lc":"*DK1083573",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rre Nebel",
+    "qs:loc_alt":"Norre Nebel",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616279,
+        "gp:id":555880,
+        "qs:id":1335287,
+        "qs_pg:id":1335287,
+        "wd:id":"Q1771813",
+        "wk:page":"N\u00f8rre Nebel"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6b74474b99355c9fd5228f4ec20267e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":101805479,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805479,
+    "wof:lastmodified":1530296380,
+    "wof:name":"N\u00f8rre Nebel",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.27641045297213,
+    55.77182413565953,
+    8.30060548948973,
+    55.7844234382888
+],
+  "geometry": {"coordinates":[[[8.29062535396747,55.7844234382888],[8.29066422466184,55.78352501238521],[8.29225669469486,55.78354634875751],[8.29233435739104,55.7817494961447],[8.29551915756127,55.78179210703388],[8.29555791339538,55.7808936797735],[8.29874264762037,55.78093621003472],[8.29897470437515,55.77554564196123],[8.30056685688402,55.77556687396992],[8.30060548948973,55.77466844575719],[8.29423703367723,55.77458340065738],[8.29431458184104,55.77278654893627],[8.29272254419874,55.77276523907165],[8.29276135127185,55.77186681391231],[8.28957735310092,55.77182413565953],[8.28949959222763,55.77362098386698],[8.28631545586006,55.77357822389632],[8.28615961946565,55.77717191707455],[8.28456740905449,55.77715050505572],[8.28452840849525,55.77804892804454],[8.28293616352966,55.77802749559174],[8.28289712468319,55.77892591812491],[8.28130484516322,55.7789044652373],[8.28126576802561,55.7798028873143],[8.27808114149161,55.77975992078689],[8.27804198988872,55.78065834185065],[8.27644964287572,55.78063682820931],[8.27641045297213,55.78153524881526],[8.28118760737505,55.78159973176759],[8.28114852386136,55.78249815414392],[8.28274094806596,55.78251960925485],[8.28270189860291,55.78341803228682],[8.28907175623414,55.78350365613028],[8.28903284936069,55.78440208148078],[8.29062535396747,55.7844234382888]]],"type":"Polygon"}
+}

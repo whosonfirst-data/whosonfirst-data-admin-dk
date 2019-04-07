@@ -1,0 +1,73 @@
+{
+  "id": 1309867459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83721,55.63032,11.83721,55.63032",
+    "geom:latitude":55.63032,
+    "geom:longitude":11.83721,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"350.0",
+    "gn:asciiname":"Vester Saby",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610382,
+    "gn:latitude":55.63032,
+    "gn:longitude":11.83721,
+    "gn:modification_date":"2010-11-25",
+    "gn:name":"Vester S\u00e5by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vester Saaby",
+        "Vester S\u00e5by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297805,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610382
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bb7e0aa6f0518ee2d303f69bd61d0bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297805,
+            "locality_id":1309867459,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1309867459,
+    "wof:lastmodified":1537619789,
+    "wof:name":"Vester Saby",
+    "wof:parent_id":1159297805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83721,
+    55.63032,
+    11.83721,
+    55.63032
+],
+  "geometry": {"coordinates":[11.83721,55.63032],"type":"Point"}
+}

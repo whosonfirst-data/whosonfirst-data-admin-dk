@@ -1,0 +1,68 @@
+{
+  "id": 1276189385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95334,55.88117,8.95334,55.88117",
+    "geom:latitude":55.88117,
+    "geom:longitude":8.95334,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"530.0",
+    "gn:asciiname":"Engebaek",
+    "gn:country_code":"DK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2622520,
+    "gn:latitude":55.88117,
+    "gn:longitude":8.95334,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Engeb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297863,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622520
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3319b899a570a2e8780341679106f10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297863,
+            "locality_id":1276189385,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276189385,
+    "wof:lastmodified":1536971527,
+    "wof:name":"Engebaek",
+    "wof:parent_id":1159297863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95334,
+    55.88117,
+    8.95334,
+    55.88117
+],
+  "geometry": {"coordinates":[8.95334,55.88117],"type":"Point"}
+}

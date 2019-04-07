@@ -1,0 +1,72 @@
+{
+  "id": 1327307999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00524,55.41303,10.00524,55.41303",
+    "geom:latitude":55.41303,
+    "geom:longitude":10.00524,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Alsbo",
+    "gn:country_code":"DK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624786,
+    "gn:latitude":55.41303,
+    "gn:longitude":10.00524,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5lsbo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aalsbo",
+        "\u00c5lsbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624786
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d0bd77f9af739886fd3c5be9d4e00c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1327307999,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327307999,
+    "wof:lastmodified":1537619897,
+    "wof:name":"Alsbo",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00524,
+    55.41303000000001,
+    10.00524,
+    55.41303000000001
+],
+  "geometry": {"coordinates":[10.00524,55.41303000000001],"type":"Point"}
+}

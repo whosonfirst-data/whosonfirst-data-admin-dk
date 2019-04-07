@@ -1,0 +1,72 @@
+{
+  "id": 1193243993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.41966,56.79979,9.41966,56.79979",
+    "geom:latitude":56.79979,
+    "geom:longitude":9.41966,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Havbro",
+    "gn:country_code":"DK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620666,
+    "gn:latitude":56.79979,
+    "gn:longitude":9.41966,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Havbro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f8nder Havbro",
+        "Havbro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620666
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8e02103c4a083f1961f0c0a3ee4946f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":1193243993,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1193243993,
+    "wof:lastmodified":1537619866,
+    "wof:name":"Havbro",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.41966,
+    56.79979,
+    9.41966,
+    56.79979
+],
+  "geometry": {"coordinates":[9.41966,56.79979],"type":"Point"}
+}

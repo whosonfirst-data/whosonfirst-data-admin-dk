@@ -1,0 +1,68 @@
+{
+  "id": 1259549789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.13753,56.1261,9.13753,56.1261",
+    "geom:latitude":56.1261,
+    "geom:longitude":9.13753,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Annalyst",
+    "gn:country_code":"DK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8644228,
+    "gn:latitude":56.1261,
+    "gn:longitude":9.13753,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"Annalyst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644228
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"90bf7894413c417fdcc8dff324c6af6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1259549789,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259549789,
+    "wof:lastmodified":1536763852,
+    "wof:name":"Annalyst",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.13753,
+    56.1261,
+    9.13753,
+    56.1261
+],
+  "geometry": {"coordinates":[9.13753,56.1261],"type":"Point"}
+}

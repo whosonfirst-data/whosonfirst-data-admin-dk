@@ -1,0 +1,77 @@
+{
+  "id": 101805673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:bbox":"10.2445413785,55.9106531966,10.2588964722,55.9268431668",
+    "geom:latitude":55.918425,
+    "geom:longitude":10.251947,
+    "iso:country":"DK",
+    "lbl:latitude":55.918716,
+    "lbl:longitude":10.252084,
+    "mps:latitude":55.918716,
+    "mps:longitude":10.252084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Odder",
+    "qs:la_lc":"*DK1082727",
+    "qs:level":"locality",
+    "qs:loc":"Hov",
+    "qs:loc_alt":"Hov",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297815,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619736,
+        "gp:id":554346,
+        "qs:id":1329386,
+        "qs_pg:id":1329386
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"573cdcd8d0218a2ec201211d4aa07d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297815,
+            "locality_id":101805673,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805673,
+    "wof:lastmodified":1530291474,
+    "wof:name":"Hov",
+    "wof:parent_id":1159297815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24454137846544,
+    55.91065319657628,
+    10.25889647221402,
+    55.92684316681465
+],
+  "geometry": {"coordinates":[[[10.25738656713622,55.92683360836321],[10.25729835896624,55.9133526162413],[10.25889647221402,55.91334939139921],[10.25887872973027,55.91065319657628],[10.24769269855938,55.91067534941692],[10.24770401548687,55.91247281366174],[10.24610593707274,55.91247589864889],[10.24611155949174,55.91337463103736],[10.24770967441407,55.91337154596982],[10.24772665304965,55.91606774363748],[10.24612842859091,55.91607082894581],[10.24613967619234,55.91786829483823],[10.24454137846544,55.91787136033668],[10.24458049906269,55.92416249543237],[10.24937615859068,55.92415323733854],[10.24938185807071,55.92505197118021],[10.25098044730998,55.92504884511936],[10.25098618363728,55.92594757900434],[10.25258480917466,55.92594443288704],[10.2525905823536,55.92684316681465],[10.25738656713622,55.92683360836321]]],"type":"Polygon"}
+}

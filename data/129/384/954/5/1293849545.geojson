@@ -1,0 +1,68 @@
+{
+  "id": 1293849545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29618,57.11501,10.29618,57.11501",
+    "geom:latitude":57.11501,
+    "geom:longitude":10.29618,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Hylholt",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2619473,
+    "gn:latitude":57.11501,
+    "gn:longitude":10.29618,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hylholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297753,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619473
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b2525c50be4b0d70f817207232eb633c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297753,
+            "locality_id":1293849545,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1293849545,
+    "wof:lastmodified":1536762642,
+    "wof:name":"Hylholt",
+    "wof:parent_id":1159297753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29618,
+    57.11501,
+    10.29618,
+    57.11501
+],
+  "geometry": {"coordinates":[10.29618,57.11501],"type":"Point"}
+}

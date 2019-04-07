@@ -1,0 +1,72 @@
+{
+  "id": 1343736303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58481,55.42359,10.58481,55.42359",
+    "geom:latitude":55.42359,
+    "geom:longitude":10.58481,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"440.0",
+    "gn:asciiname":"Kolstrup",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618400,
+    "gn:latitude":55.42359,
+    "gn:longitude":10.58481,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00f8lstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiolstrup",
+        "K\u00f8lstrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297755,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618400
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3e6d9ebb7b044750ed0a995e43aa9314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297755,
+            "locality_id":1343736303,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343736303,
+    "wof:lastmodified":1537619849,
+    "wof:name":"Kolstrup",
+    "wof:parent_id":1159297755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58481,
+    55.42359,
+    10.58481,
+    55.42359
+],
+  "geometry": {"coordinates":[10.58481,55.42359],"type":"Point"}
+}

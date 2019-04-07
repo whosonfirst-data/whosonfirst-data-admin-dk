@@ -1,0 +1,131 @@
+{
+  "id": 101818199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":1861665.159907,
+    "geom:bbox":"14.9008579563,55.0619972376,14.9303105224,55.0779069175",
+    "geom:latitude":55.070501,
+    "geom:longitude":14.916775,
+    "gn:population":2195,
+    "iso:country":"DK",
+    "lbl:latitude":55.071001,
+    "lbl:longitude":14.917779,
+    "mps:latitude":55.071001,
+    "mps:longitude":14.917779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:dan_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:dut_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:eng_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:est_x_preferred":[
+        "\u00c5kirkeby"
+    ],
+    "name:fin_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:fre_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:ger_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:glg_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:hun_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:ita_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:nno_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:nob_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u06a9\u06cc\u0631\u06a9\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Aakirkeby"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5kirkeby"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06a9\u0631\u06a9\u06d2\u0628\u06d2"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Bornholm",
+    "qs:la_lc":"*DK1084400",
+    "qs:level":"locality",
+    "qs:loc":"Aakirkeby",
+    "qs:loc_alt":"Akirkeby",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624929,
+        "gp:id":551878,
+        "qs:id":245672,
+        "wd:id":"Q259969",
+        "wk:page":"Aakirkeby Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cee65f1051724b8c9e5928b2822711b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":101818199,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101818199,
+    "wof:lastmodified":1530291111,
+    "wof:name":"Aakirkeby",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:population":2195,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90085795626601,
+    55.06199723758368,
+    14.93031052237961,
+    55.07790691745765
+],
+  "geometry": {"coordinates":[[[14.92315769001164,55.07664325872162],[14.92293937507463,55.07485083274986],[14.92450106277329,55.07478952848561],[14.9243918796634,55.07389331696299],[14.92595352860957,55.0738319948386],[14.92573511111749,55.07203957472063],[14.92729668696353,55.07197823628604],[14.92718745258611,55.07108202769052],[14.93031052237961,55.07095929569903],[14.92998264805726,55.06827067886729],[14.92842121838885,55.06833204991722],[14.9278750491244,55.06385101296951],[14.9294363071175,55.06378964966677],[14.92921781142377,55.06199723758368],[14.92609542835328,55.06211993859074],[14.92620460463888,55.06301614775873],[14.92308213531913,55.06313877425384],[14.92330036798631,55.0649311986096],[14.91237110631869,55.06535980179774],[14.91247999100858,55.06625602471144],[14.90623446473961,55.0665005201023],[14.90634321786382,55.06739674913268],[14.90322035975379,55.06751888348225],[14.9035464477754,55.07020757948919],[14.90666951195067,55.07008543588734],[14.90710465175113,55.07367035077561],[14.90085795626601,55.07391458502127],[14.90118395960906,55.07660328910697],[14.90586929701283,55.07642012865892],[14.90576052037181,55.07552389864514],[14.91044571524475,55.07534056813347],[14.91055459495976,55.07623679351678],[14.91367810498605,55.07611447303793],[14.91389601923748,55.07790691745765],[14.9170196491371,55.07778451315551],[14.91691062039195,55.07688829406527],[14.92315769001164,55.07664325872162]]],"type":"Polygon"}
+}

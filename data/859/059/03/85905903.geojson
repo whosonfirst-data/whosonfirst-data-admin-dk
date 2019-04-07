@@ -1,0 +1,103 @@
+{
+  "id": 85905903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9356.494113,
+    "geom:bbox":"12.5738525391,55.6791330379,12.5755691528,55.6802944688",
+    "geom:latitude":55.679726,
+    "geom:longitude":12.574792,
+    "iso:country":"DK",
+    "lbl:latitude":55.679871,
+    "lbl:longitude":12.578544,
+    "mps:latitude":55.679714,
+    "mps:longitude":12.574895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Fiolstr\u00e6de"
+    ],
+    "name:unk_x_variant":[
+        "Fiolstr\u00e6de"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Fiolstr\u00e6de",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Fiolstr\u00e6de",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":232,
+    "qs:photo_sum":567,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":592,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229168,
+        "wd:id":"Q5451014"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1c7b941ef7e0b7b17d57c1edf5a11340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905903,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905903,
+    "wof:lastmodified":1530296533,
+    "wof:name":"Fiolstr\u00e6de",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57385253909177,
+    55.67913303786698,
+    12.57556915281475,
+    55.68029446880008
+],
+  "geometry": {"coordinates":[[[12.57453918460004,55.68029446880008],[12.57465229943051,55.68029446816682],[12.57522583010007,55.68029446832516],[12.57522583009626,55.68010795348987],[12.57556517460802,55.67990732920005],[12.57556915280003,55.67990732920005],[12.57556915281475,55.67990497723333],[12.57556915281407,55.67971375786128],[12.57556915280736,55.67952253532472],[12.57556915280003,55.67952018580006],[12.57556517866709,55.67952018580006],[12.57523775382367,55.6793266114254],[12.57522583008813,55.6793266114254],[12.57522583010007,55.67913303850007],[12.57511271389342,55.67913303822304],[12.57465230104674,55.67913303786698],[12.57453918460004,55.67913303850007],[12.57453918460004,55.67932661141047],[12.57453322275694,55.67933013605735],[12.57442606898456,55.67952018539397],[12.57385253910013,55.67952018519084],[12.57385253909177,55.67970670449218],[12.57385253910013,55.67990732920005],[12.5741918860034,55.67990732920005],[12.57419586180742,55.6799096797313],[12.57419586181572,55.68010089934388],[12.57453918460004,55.68010089934744],[12.57453918460004,55.68029446880008]]],"type":"Polygon"}
+}

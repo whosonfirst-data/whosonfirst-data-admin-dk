@@ -1,0 +1,68 @@
+{
+  "id": 1242937545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.29077,55.04762,9.29077,55.04762",
+    "geom:latitude":55.04762,
+    "geom:longitude":9.29077,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Norre Onlev",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616272,
+    "gn:latitude":55.04762,
+    "gn:longitude":9.29077,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rre \u00d8nlev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616272
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"61ece76c615458c94c49fd50dfb471f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1242937545,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1242937545,
+    "wof:lastmodified":1537040670,
+    "wof:name":"Norre Onlev",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.29077,
+    55.04762,
+    9.29077,
+    55.04762
+],
+  "geometry": {"coordinates":[9.29077,55.04762],"type":"Point"}
+}

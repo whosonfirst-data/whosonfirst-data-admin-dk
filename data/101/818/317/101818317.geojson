@@ -1,0 +1,101 @@
+{
+  "id": 101818317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":577416.631831,
+    "geom:bbox":"12.0458418846,55.0447830359,12.0646471206,55.0547147029",
+    "geom:latitude":55.049595,
+    "geom:longitude":12.056837,
+    "iso:country":"DK",
+    "lbl:latitude":55.049321,
+    "lbl:longitude":12.058261,
+    "mps:latitude":55.049321,
+    "mps:longitude":12.058261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Mern"
+    ],
+    "name:dan_x_preferred":[
+        "Mern"
+    ],
+    "name:dut_x_preferred":[
+        "Mern"
+    ],
+    "name:eng_x_preferred":[
+        "Mern"
+    ],
+    "name:nld_x_preferred":[
+        "Mern"
+    ],
+    "name:swe_x_preferred":[
+        "Mern"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e6rn"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Vordingborg",
+    "qs:la_lc":"*DK1085390",
+    "qs:level":"locality",
+    "qs:loc":"Mern",
+    "qs:loc_alt":"Mern",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616945,
+        "gp:id":555555,
+        "qs:id":1012189,
+        "wd:id":"Q2106553",
+        "wk:page":"Mern"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e714cbea296e9812d89faabaa708ffe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":101818317,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818317,
+    "wof:lastmodified":1530296448,
+    "wof:name":"Mern",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04584188464776,
+    55.044783035943,
+    12.06464712060961,
+    55.05471470291008
+],
+  "geometry": {"coordinates":[[[12.06184036510638,55.05461213110124],[12.0615204898059,55.04832459952479],[12.06464712060961,55.0482732059026],[12.06460136468093,55.04737498859373],[12.06303808479942,55.04740069448786],[12.06299236590496,55.04650247657571],[12.05986586980134,55.04655382866986],[12.05982022253119,55.04565560950647],[12.05825700631021,55.0456812557079],[12.05821139606485,55.044783035943],[12.05508502728924,55.04483426865744],[12.05522165774676,55.04752893197872],[12.04584188464776,55.04768217460867],[12.04593256855327,55.04947862480725],[12.05374939672311,55.04935096482404],[12.05384043633057,55.05114740875632],[12.05540386566645,55.0511218170659],[12.05558611242691,55.05471470291008],[12.06184036510638,55.05461213110124]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125776405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4865,54.87256,10.4865,54.87256",
+    "geom:latitude":54.87256,
+    "geom:longitude":10.4865,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.87256,
+    "lbl:longitude":10.4865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ommel"
+    ],
+    "name:dut_x_preferred":[
+        "Ommel"
+    ],
+    "name:eng_x_preferred":[
+        "Ommel"
+    ],
+    "name:ger_x_preferred":[
+        "Ommel"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2615817,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ommel",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":267753,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":556108,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297837,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615817,
+        "gp:id":556108,
+        "qs_pg:id":267753,
+        "wd:id":"Q1740109"
+    },
+    "wof:country":"DK",
+    "wof:created":1497290276,
+    "wof:geomhash":"154ee23e056320eae5f5401c7e643ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297837,
+            "locality_id":1125776405,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125776405,
+    "wof:lastmodified":1530291718,
+    "wof:name":"Ommel",
+    "wof:parent_id":1159297837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4865,
+    54.87256,
+    10.4865,
+    54.87256
+],
+  "geometry": {"coordinates":[10.4865,54.87256],"type":"Point"}
+}

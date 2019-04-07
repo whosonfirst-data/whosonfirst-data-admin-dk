@@ -1,0 +1,68 @@
+{
+  "id": 1193103363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46375,55.80383,8.46375,55.80383",
+    "geom:latitude":55.80383,
+    "geom:longitude":8.46375,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Norhede",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616389,
+    "gn:latitude":55.80383,
+    "gn:longitude":8.46375,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rhede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616389
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0622ac3ac38f7a3998baba3c3ac17a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1193103363,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1193103363,
+    "wof:lastmodified":1536381102,
+    "wof:name":"Norhede",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46375,
+    55.80383000000001,
+    8.46375,
+    55.80383000000001
+],
+  "geometry": {"coordinates":[8.46375,55.80383000000001],"type":"Point"}
+}

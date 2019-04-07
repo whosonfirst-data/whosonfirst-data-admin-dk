@@ -1,0 +1,72 @@
+{
+  "id": 1226506801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73842,55.58692,8.73842,55.58692",
+    "geom:latitude":55.58692,
+    "geom:longitude":8.73842,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Faborg",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622382,
+    "gn:latitude":55.58692,
+    "gn:longitude":8.73842,
+    "gn:modification_date":"2009-03-03",
+    "gn:name":"F\u00e5borg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faaborg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622382
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c0e07dc905a0b7aaef8587b37121973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1226506801,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226506801,
+    "wof:lastmodified":1537619879,
+    "wof:name":"Faborg",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73842,
+    55.58691999999999,
+    8.73842,
+    55.58691999999999
+],
+  "geometry": {"coordinates":[8.73842,55.58691999999999],"type":"Point"}
+}

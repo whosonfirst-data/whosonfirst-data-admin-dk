@@ -1,0 +1,72 @@
+{
+  "id": 1226020159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45148,56.86876,8.45148,56.86876",
+    "geom:latitude":56.86876,
+    "geom:longitude":8.45148,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Sonderha",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613047,
+    "gn:latitude":56.86876,
+    "gn:longitude":8.45148,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f8nderh\u00e5",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6nderhaa",
+        "S\u00f8nderh\u00e5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613047
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"063e6da1c939cca70f1975662fe0299b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":1226020159,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1226020159,
+    "wof:lastmodified":1537619807,
+    "wof:name":"Sonderha",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45148,
+    56.86876,
+    8.45148,
+    56.86876
+],
+  "geometry": {"coordinates":[8.45148,56.86876],"type":"Point"}
+}

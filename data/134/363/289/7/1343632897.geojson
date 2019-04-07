@@ -1,0 +1,72 @@
+{
+  "id": 1343632897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20515,55.67661,12.20515,55.67661",
+    "geom:latitude":55.67661,
+    "geom:longitude":12.20515,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"169.0",
+    "gn:asciiname":"Vasby",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610707,
+    "gn:latitude":55.67661,
+    "gn:longitude":12.20515,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vasby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vadsby",
+        "Vasby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297827,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610707
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f01a6c336f919c1fb5bb249a71125ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297827,
+            "locality_id":1343632897,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1343632897,
+    "wof:lastmodified":1537619791,
+    "wof:name":"Vasby",
+    "wof:parent_id":1159297827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20515,
+    55.67661,
+    12.20515,
+    55.67661
+],
+  "geometry": {"coordinates":[12.20515,55.67661],"type":"Point"}
+}

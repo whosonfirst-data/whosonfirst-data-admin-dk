@@ -1,0 +1,62 @@
+{
+  "id": 1209481519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79728,56.47918,10.79728,56.47918",
+    "geom:latitude":56.47918,
+    "geom:longitude":10.79728,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Rimso",
+    "gn:country_code":"DK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614800,
+    "gn:latitude":56.47918,
+    "gn:longitude":10.79728,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Rims\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614800
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"918907656aaf3e0552e405c0d06cea48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209481519
+        }
+    ],
+    "wof:id":1209481519,
+    "wof:lastmodified":1536285768,
+    "wof:name":"Rimso",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79728,
+    56.47918000000001,
+    10.79728,
+    56.47918000000001
+],
+  "geometry": {"coordinates":[10.79728,56.47918000000001],"type":"Point"}
+}

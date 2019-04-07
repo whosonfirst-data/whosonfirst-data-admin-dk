@@ -1,0 +1,68 @@
+{
+  "id": 1226617615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.10126,55.9166,12.10126,55.9166",
+    "geom:latitude":55.9166,
+    "geom:longitude":12.10126,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"260.0",
+    "gn:asciiname":"Grimstrup",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621199,
+    "gn:latitude":55.9166,
+    "gn:longitude":12.10126,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Grimstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297739,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621199
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bdca62abc82dbb08999c271683e03ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297739,
+            "locality_id":1226617615,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1226617615,
+    "wof:lastmodified":1536899882,
+    "wof:name":"Grimstrup",
+    "wof:parent_id":1159297739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.10126,
+    55.9166,
+    12.10126,
+    55.9166
+],
+  "geometry": {"coordinates":[12.10126,55.9166],"type":"Point"}
+}

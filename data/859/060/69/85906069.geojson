@@ -1,0 +1,109 @@
+{
+  "id": 85906069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":12450.773994,
+    "geom:bbox":"12.572479248,55.6785523102,12.574652301,55.6799096797",
+    "geom:latitude":55.679241,
+    "geom:longitude":12.573638,
+    "iso:country":"DK",
+    "lbl:latitude":55.679267,
+    "lbl:longitude":12.573467,
+    "mps:latitude":55.679203,
+    "mps:longitude":12.573617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:eng_x_variant":[
+        "N\u00f8rregade"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f8rregade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"N\u00f8rregade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"N\u00f8rregade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":137,
+    "qs:photo_sum":356,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":425,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229347,
+        "wd:id":"Q12329712"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4f643bcdbeb0b6fbc43a5f3a4f1759ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906069,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906069,
+    "wof:lastmodified":1530296564,
+    "wof:name":"N\u00f8rregade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57247924800009,
+    55.67855231017516,
+    12.57465230104674,
+    55.67990967973874
+],
+  "geometry": {"coordinates":[[[12.57350921632519,55.67990967973874],[12.57351319214717,55.67990732920005],[12.57385253910013,55.67990732920005],[12.57385253909177,55.67970670449218],[12.57385253910013,55.67952018519084],[12.57442606898456,55.67952018539397],[12.57453918460004,55.67952018580006],[12.57453918460004,55.67932661141047],[12.57454514645735,55.67932308675513],[12.57465230104674,55.67913303786698],[12.57461591997242,55.67893946317496],[12.57462402218891,55.67889635315665],[12.57453918458549,55.67874588725432],[12.57419586181572,55.67874588724395],[12.57419586181572,55.67855231025955],[12.57385253910013,55.67855231027242],[12.5737758038822,55.67855231017516],[12.57373942228776,55.6787458870251],[12.57316589358447,55.67874588680651],[12.57316589358447,55.67913303790648],[12.57259236423363,55.67913303786698],[12.57247924800009,55.67913303850007],[12.57247924800009,55.67952018580006],[12.57281859661765,55.67952018580006],[12.57282257080016,55.67952253534658],[12.57282257080021,55.67971375784386],[12.57316589360011,55.67971375784741],[12.57316589356935,55.67990732913789],[12.57350524050412,55.67990732920005],[12.57350921632519,55.67990967973874]]],"type":"Polygon"}
+}

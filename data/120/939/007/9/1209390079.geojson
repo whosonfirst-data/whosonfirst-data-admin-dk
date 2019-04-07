@@ -1,0 +1,62 @@
+{
+  "id": 1209390079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72965,57.25986,9.72965,57.25986",
+    "geom:latitude":57.25986,
+    "geom:longitude":9.72965,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Sonder Saltum",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612979,
+    "gn:latitude":57.25986,
+    "gn:longitude":9.72965,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Saltum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612979
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"df55de6a98a8e0446f9b4ebed0356df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209390079
+        }
+    ],
+    "wof:id":1209390079,
+    "wof:lastmodified":1536288490,
+    "wof:name":"Sonder Saltum",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72965,
+    57.25986,
+    9.72965,
+    57.25986
+],
+  "geometry": {"coordinates":[9.72965,57.25986],"type":"Point"}
+}

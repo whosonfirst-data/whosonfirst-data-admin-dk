@@ -1,0 +1,62 @@
+{
+  "id": 1209379701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46226,55.58993,11.46226,55.58993",
+    "geom:latitude":55.58993,
+    "geom:longitude":11.46226,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Skellingsted",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613785,
+    "gn:latitude":55.58993,
+    "gn:longitude":11.46226,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skellingsted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613785
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c022fa2ab0953195274c0de610009937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209379701
+        }
+    ],
+    "wof:id":1209379701,
+    "wof:lastmodified":1536288827,
+    "wof:name":"Skellingsted",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46226,
+    55.58993,
+    11.46226,
+    55.58993
+],
+  "geometry": {"coordinates":[11.46226,55.58993],"type":"Point"}
+}

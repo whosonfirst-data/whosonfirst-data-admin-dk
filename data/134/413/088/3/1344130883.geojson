@@ -1,0 +1,72 @@
+{
+  "id": 1344130883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44421,55.48573,9.44421,55.48573",
+    "geom:latitude":55.48573,
+    "geom:longitude":9.44421,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"621.0",
+    "gn:asciiname":"Seest",
+    "gn:country_code":"DK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614130,
+    "gn:latitude":55.48573,
+    "gn:longitude":9.44421,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Seest",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sest",
+        "Seest"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297823,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614130
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b48c5937747bec4e8f1f8b1145440d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297823,
+            "locality_id":1344130883,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1344130883,
+    "wof:lastmodified":1537619817,
+    "wof:name":"Seest",
+    "wof:parent_id":1159297823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44421,
+    55.48573,
+    9.44421,
+    55.48573
+],
+  "geometry": {"coordinates":[9.44421,55.48573],"type":"Point"}
+}

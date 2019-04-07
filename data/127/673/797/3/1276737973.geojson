@@ -1,0 +1,68 @@
+{
+  "id": 1276737973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99807,57.43633,9.99807,57.43633",
+    "geom:latitude":57.43633,
+    "geom:longitude":9.99807,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Bagterp",
+    "gn:country_code":"DK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624387,
+    "gn:latitude":57.43633,
+    "gn:longitude":9.99807,
+    "gn:modification_date":"2017-07-07",
+    "gn:name":"Bagterp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624387
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5be8704955ed2cbf67e96ca94fc1996c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1276737973,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1276737973,
+    "wof:lastmodified":1536733906,
+    "wof:name":"Bagterp",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99807,
+    57.43633000000001,
+    9.99807,
+    57.43633000000001
+],
+  "geometry": {"coordinates":[9.99807,57.43633000000001],"type":"Point"}
+}

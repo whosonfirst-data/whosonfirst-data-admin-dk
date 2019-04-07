@@ -1,0 +1,68 @@
+{
+  "id": 1242751901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2922,55.72377,8.2922,55.72377",
+    "geom:latitude":55.72377,
+    "geom:longitude":8.2922,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Over Fidde",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615317,
+    "gn:latitude":55.72377,
+    "gn:longitude":8.2922,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Over Fidde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615317
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e62550fb485222827d5bda89008d17fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1242751901,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1242751901,
+    "wof:lastmodified":1536812154,
+    "wof:name":"Over Fidde",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2922,
+    55.72377,
+    8.2922,
+    55.72377
+],
+  "geometry": {"coordinates":[8.2922,55.72377],"type":"Point"}
+}

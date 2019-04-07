@@ -1,0 +1,192 @@
+{
+  "id": 101805703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001057,
+    "geom:area_square_m":7215432.316609,
+    "geom:bbox":"8.55617822898,56.4720551061,8.61346117806,56.5002642896",
+    "geom:latitude":56.485718,
+    "geom:longitude":8.586835,
+    "gn:population":11317,
+    "iso:country":"DK",
+    "lbl:latitude":56.484725,
+    "lbl:longitude":8.587381,
+    "mps:latitude":56.484725,
+    "mps:longitude":8.587381,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Struer"
+    ],
+    "name:cat_x_variant":[
+        "Municipi de Struer"
+    ],
+    "name:ceb_x_preferred":[
+        "Struer"
+    ],
+    "name:ceb_x_variant":[
+        "Struer Kommune"
+    ],
+    "name:dan_x_preferred":[
+        "Struer"
+    ],
+    "name:deu_x_preferred":[
+        "Struer"
+    ],
+    "name:dut_x_preferred":[
+        "Struer"
+    ],
+    "name:eng_x_preferred":[
+        "Struer Municipality"
+    ],
+    "name:fao_x_preferred":[
+        "Struer"
+    ],
+    "name:fin_x_preferred":[
+        "Struer"
+    ],
+    "name:fin_x_variant":[
+        "Struerin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Struer"
+    ],
+    "name:frr_x_preferred":[
+        "Struer Komuun"
+    ],
+    "name:ger_x_preferred":[
+        "Struer"
+    ],
+    "name:ice_x_preferred":[
+        "Struer"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Struer"
+    ],
+    "name:ita_x_preferred":[
+        "Struer"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30eb\u30fc\u30a2"
+    ],
+    "name:kal_x_preferred":[
+        "Struer"
+    ],
+    "name:nan_x_preferred":[
+        "Struer Ch\u016b-t\u012b-chh\u012b"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Struer"
+    ],
+    "name:nld_x_preferred":[
+        "Struer"
+    ],
+    "name:nno_x_preferred":[
+        "Struer"
+    ],
+    "name:nob_x_preferred":[
+        "Struer"
+    ],
+    "name:nor_x_preferred":[
+        "Struer kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Struer"
+    ],
+    "name:por_x_preferred":[
+        "Struer"
+    ],
+    "name:ron_x_preferred":[
+        "Struer"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Struer"
+    ],
+    "name:rum_x_preferred":[
+        "Struer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u044d\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0440\u0443\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Struer"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Struer"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u695a\u5384\u81ea\u6cbb\u5e02"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Struer",
+    "qs:la_lc":"*DK1082671",
+    "qs:level":"locality",
+    "qs:loc":"Struer",
+    "qs:loc_alt":"Struer",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":321,
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612204,
+        "gp:id":557763,
+        "qs:id":1079064,
+        "qs_pg:id":1079064,
+        "wd:id":"Q1797189",
+        "wk:page":"Struer, Denmark"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"35817b2437bdfd7abe3f950655dc3bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":101805703,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805703,
+    "wof:lastmodified":1530296402,
+    "wof:name":"Struer",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:population":11317,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55617822898444,
+    56.47205510613674,
+    8.61346117805675,
+    56.50026428957528
+],
+  "geometry": {"coordinates":[[[8.61112757298525,56.50026428957528],[8.61151621458043,56.48948067347374],[8.61313788549694,56.48949804682024],[8.61323489210145,56.48680214479168],[8.61161333454442,56.48678477282806],[8.61171043834196,56.48408887353105],[8.61333188255838,56.48410624411207],[8.61346117805675,56.48051171196869],[8.61183988493178,56.48049434323059],[8.61193695102384,56.47779844707486],[8.60707341973944,56.47774622324943],[8.60717080951002,56.47505033259256],[8.59420235937472,56.47491018732529],[8.59423512106372,56.47401156112107],[8.58937208829826,56.47395867324565],[8.58940496142492,56.47306004859291],[8.58454205440137,56.47300697951118],[8.58457503895119,56.47210835641437],[8.57971225770399,56.47205510613674],[8.57954675036302,56.4765482160463],[8.57630452565439,56.47651260969445],[8.57623815882397,56.47830985281001],[8.56975342415137,56.47823839281443],[8.56972008692395,56.47913701269994],[8.56323522371935,56.47906522611635],[8.56326871199548,56.47816660813487],[8.55678402245815,56.47809449877303],[8.55671674194576,56.47989173105941],[8.55833798772926,56.47990978979669],[8.55820355538185,56.48350425806888],[8.56144635335568,56.48354031848839],[8.56134573617265,56.48623617412488],[8.55810271154053,56.48620011083528],[8.55786734394951,56.49249043917405],[8.55624556925522,56.49247237372816],[8.55617822898444,56.49426961078103],[8.55780007927103,56.49428767718581],[8.5577664441314,56.49518629641602],[8.56101022456392,56.49522236927606],[8.56097666316083,56.49612098961296],[8.56422052486664,56.49615698221692],[8.56425401066639,56.49525836092471],[8.56587590583996,56.49527632629486],[8.56590935198108,56.4943777046754],[8.56915307096443,56.49441357355482],[8.56918643965395,56.49351495113342],[8.5805392358202,56.49363984936861],[8.58050613172048,56.49453847510455],[8.5821280031484,56.49455623697281],[8.58209493501244,56.49545486332994],[8.586960671074,56.49550802852951],[8.5869277145124,56.49640665644773],[8.59341553329045,56.49647726100795],[8.59344833863696,56.49557863121584],[8.60317988151803,56.49568392614293],[8.60314730299768,56.49658255872941],[8.60476926944131,56.49660003728565],[8.60473672691978,56.49749867048638],[8.60635873254506,56.49751612920153],[8.60632622602594,56.498414763016],[8.60794827083379,56.4984322018895],[8.60791580032162,56.49933083631748],[8.60953788431215,56.49934825534797],[8.60950544981119,56.50024689038884],[8.61112757298525,56.50026428957528]]],"type":"Polygon"}
+}

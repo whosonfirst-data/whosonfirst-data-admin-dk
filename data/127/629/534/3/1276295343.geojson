@@ -1,0 +1,68 @@
+{
+  "id": 1276295343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42741,55.9826,12.42741,55.9826",
+    "geom:latitude":55.9826,
+    "geom:longitude":12.42741,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"210.0",
+    "gn:asciiname":"Veksebo",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610567,
+    "gn:latitude":55.9826,
+    "gn:longitude":12.42741,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Veksebo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297817,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610567
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"10e56171d5b416c010b7f16c8dc87b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297817,
+            "locality_id":1276295343,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1276295343,
+    "wof:lastmodified":1536828717,
+    "wof:name":"Veksebo",
+    "wof:parent_id":1159297817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42741,
+    55.9826,
+    12.42741,
+    55.9826
+],
+  "geometry": {"coordinates":[12.42741,55.9826],"type":"Point"}
+}

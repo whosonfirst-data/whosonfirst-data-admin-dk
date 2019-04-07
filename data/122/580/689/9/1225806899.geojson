@@ -1,0 +1,68 @@
+{
+  "id": 1225806899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.57268,55.29945,11.57268,55.29945",
+    "geom:latitude":55.29945,
+    "geom:longitude":11.57268,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Sneslev",
+    "gn:country_code":"DK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613308,
+    "gn:latitude":55.29945,
+    "gn:longitude":11.57268,
+    "gn:modification_date":"2010-09-29",
+    "gn:name":"Sneslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613308
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d9d2b93d328524a24ebc52983f632d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1225806899,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1225806899,
+    "wof:lastmodified":1537066963,
+    "wof:name":"Sneslev",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.57268,
+    55.29945,
+    11.57268,
+    55.29945
+],
+  "geometry": {"coordinates":[11.57268,55.29945],"type":"Point"}
+}

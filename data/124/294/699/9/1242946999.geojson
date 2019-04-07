@@ -1,0 +1,68 @@
+{
+  "id": 1242946999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34314,55.28808,9.34314,55.28808",
+    "geom:latitude":55.28808,
+    "geom:longitude":9.34314,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Magstrup",
+    "gn:country_code":"DK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617130,
+    "gn:latitude":55.28808,
+    "gn:longitude":9.34314,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Magstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617130
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9acf103aa0181b72e3f3380e031ca428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":1242946999,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1242946999,
+    "wof:lastmodified":1537027530,
+    "wof:name":"Magstrup",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34314,
+    55.28808000000001,
+    9.34314,
+    55.28808000000001
+],
+  "geometry": {"coordinates":[9.34314,55.28808000000001],"type":"Point"}
+}

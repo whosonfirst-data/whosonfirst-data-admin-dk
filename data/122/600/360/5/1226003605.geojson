@@ -1,0 +1,68 @@
+{
+  "id": 1226003605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4345,55.59921,8.4345,55.59921",
+    "geom:latitude":55.59921,
+    "geom:longitude":8.4345,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Toftnaes",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611563,
+    "gn:latitude":55.59921,
+    "gn:longitude":8.4345,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Toftn\u00e6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611563
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"42de84c80e0331cab8dae734c6294ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1226003605,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226003605,
+    "wof:lastmodified":1536786547,
+    "wof:name":"Toftnaes",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4345,
+    55.59921,
+    8.4345,
+    55.59921
+],
+  "geometry": {"coordinates":[8.4345,55.59921],"type":"Point"}
+}

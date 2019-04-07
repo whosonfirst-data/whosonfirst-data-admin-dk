@@ -1,0 +1,73 @@
+{
+  "id": 101805699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:bbox":"9.99520779047,55.8893452663,10.009584419,55.8992315713",
+    "geom:latitude":55.894002,
+    "geom:longitude":10.002107,
+    "iso:country":"DK",
+    "lbl:latitude":55.894366,
+    "lbl:longitude":10.001525,
+    "mps:latitude":55.894366,
+    "mps:longitude":10.001525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Horsens",
+    "qs:la_lc":"*DK1082615",
+    "qs:level":"locality",
+    "qs:loc":"S\u00f8vind",
+    "qs:loc_alt":"Sovind",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297859,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612871,
+        "gp:id":557503,
+        "qs:id":931793
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"106015b6d186ba68aa3d0df7eff67099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297859,
+            "locality_id":101805699,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805699,
+    "wof:lastmodified":1530291847,
+    "wof:name":"S\u00f8vind",
+    "wof:parent_id":1159297859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99520779046895,
+    55.88934526627196,
+    10.00958441902168,
+    55.89923157130227
+],
+  "geometry": {"coordinates":[[[10.00958441902168,55.89563630643295],[10.00958310628545,55.89024389185676],[10.00798592191842,55.89024400160758],[10.00798573962868,55.88934526627196],[10.00319429586233,55.88934547579078],[10.00319444169787,55.89114294659572],[9.99840277915041,55.89114297652856],[9.99840281561029,55.89024424106401],[9.99520844683707,55.89024416124522],[9.99520779046895,55.89563657586331],[9.9968051936433,55.89563662575779],[9.99680490184454,55.89923157130227],[10.00319509815552,55.89923157130227],[10.00319495224841,55.89743409828367],[10.00479242836866,55.89743404838669],[10.00479220953144,55.89563657586331],[10.00958441902168,55.89563630643295]]],"type":"Polygon"}
+}

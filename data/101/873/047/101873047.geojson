@@ -1,0 +1,113 @@
+{
+  "id": 101873047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.505653,56.637428,8.505653,56.637428",
+    "geom:latitude":56.637428,
+    "geom:longitude":8.505653,
+    "iso:country":"DK",
+    "lbl:latitude":56.637428,
+    "lbl:longitude":8.505653,
+    "mps:latitude":56.637428,
+    "mps:longitude":8.505653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:dut_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:eng_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:fao_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:fre_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:ger_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:ice_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:kal_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:nno_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:nob_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:swe_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:unk_x_variant":[
+        "Hvidbierg"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hvidbjerg",
+    "qs:loc_alt":"Hvidbjerg",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619551,
+        "gp:id":553252,
+        "qs:id":1,
+        "wd:id":"Q2658123"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"178f9d09ace1aa657adf5985e7fa3201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":101873047,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101873047,
+    "wof:lastmodified":1544751450,
+    "wof:name":"Hvidbjerg",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.505653,
+    56.637428,
+    8.505653,
+    56.637428
+],
+  "geometry": {"coordinates":[8.505653,56.637428],"type":"Point"}
+}

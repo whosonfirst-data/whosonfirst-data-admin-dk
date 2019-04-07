@@ -1,0 +1,68 @@
+{
+  "id": 1260363705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5622,55.29962,9.5622,55.29962",
+    "geom:latitude":55.29962,
+    "geom:longitude":9.5622,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Sillerup",
+    "gn:country_code":"DK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614026,
+    "gn:latitude":55.29962,
+    "gn:longitude":9.5622,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sillerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614026
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"da259418da6f9905ae09cf958a1ef7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":1260363705,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1260363705,
+    "wof:lastmodified":1536601269,
+    "wof:name":"Sillerup",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5622,
+    55.29962,
+    9.5622,
+    55.29962
+],
+  "geometry": {"coordinates":[9.5622,55.29962],"type":"Point"}
+}

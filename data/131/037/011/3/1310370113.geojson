@@ -1,0 +1,68 @@
+{
+  "id": 1310370113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78333,54.68333,11.78333,54.68333",
+    "geom:latitude":54.68333,
+    "geom:longitude":11.78333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Baekkeskov",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623967,
+    "gn:latitude":54.68333,
+    "gn:longitude":11.78333,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"B\u00e6kkeskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623967
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"196df5aa6795ccc4cdaf5f51def1dcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1310370113,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1310370113,
+    "wof:lastmodified":1536612445,
+    "wof:name":"Baekkeskov",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78333,
+    54.68333000000001,
+    11.78333,
+    54.68333000000001
+],
+  "geometry": {"coordinates":[11.78333,54.68333000000001],"type":"Point"}
+}

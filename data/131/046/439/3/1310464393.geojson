@@ -1,0 +1,72 @@
+{
+  "id": 1310464393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75124,57.18673,9.75124,57.18673",
+    "geom:latitude":57.18673,
+    "geom:longitude":9.75124,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Skovengene",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2613612,
+    "gn:latitude":57.18673,
+    "gn:longitude":9.75124,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skovengene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skovenge",
+        "Skovengene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613612
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"92420db988e1859f6252f1e95f95e43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1310464393,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1310464393,
+    "wof:lastmodified":1537619812,
+    "wof:name":"Skovengene",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75124,
+    57.18673,
+    9.75124,
+    57.18673
+],
+  "geometry": {"coordinates":[9.75124,57.18673],"type":"Point"}
+}

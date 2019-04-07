@@ -1,0 +1,68 @@
+{
+  "id": 1209990999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.12595,55.12387,12.12595,55.12387",
+    "geom:latitude":55.12387,
+    "geom:longitude":12.12595,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Roneklint",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614636,
+    "gn:latitude":55.12387,
+    "gn:longitude":12.12595,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Roneklint",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614636
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dd76e1fde90af801c33632f1fa93c8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1209990999,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1209990999,
+    "wof:lastmodified":1536386421,
+    "wof:name":"Roneklint",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.12595,
+    55.12387,
+    12.12595,
+    55.12387
+],
+  "geometry": {"coordinates":[12.12595,55.12387],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310468195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55827,56.55388,9.55827,56.55388",
+    "geom:latitude":56.55388,
+    "geom:longitude":9.55827,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Hersom",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620404,
+    "gn:latitude":56.55388,
+    "gn:longitude":9.55827,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hersom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hersum",
+        "Hersom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620404
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d51d6dfc8fec59510d5bf2be6dffe9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1310468195,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1310468195,
+    "wof:lastmodified":1537619864,
+    "wof:name":"Hersom",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55827,
+    56.55388000000001,
+    9.55827,
+    56.55388000000001
+],
+  "geometry": {"coordinates":[9.55827,56.55388000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344130889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.67216,55.39609,10.67216,55.39609",
+    "geom:latitude":55.39609,
+    "geom:longitude":10.67216,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"450.0",
+    "gn:asciiname":"Mullerup",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616688,
+    "gn:latitude":55.39609,
+    "gn:longitude":10.67216,
+    "gn:modification_date":"2017-07-07",
+    "gn:name":"Mullerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616688
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"62ef62a0c0809b956111e5ab2cb0f993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1344130889,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1344130889,
+    "wof:lastmodified":1536774703,
+    "wof:name":"Mullerup",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.67216,
+    55.39609,
+    10.67216,
+    55.39609
+],
+  "geometry": {"coordinates":[10.67216,55.39609],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85906131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":73459.875845,
+    "geom:bbox":"12.5422668457,55.6659677487,12.5463867188,55.6691299473",
+    "geom:latitude":55.667445,
+    "geom:longitude":12.544168,
+    "iso:country":"DK",
+    "lbl:latitude":55.667948,
+    "lbl:longitude":12.54419,
+    "mps:latitude":55.667517,
+    "mps:longitude":12.544001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Rejsbygade"
+    ],
+    "name:unk_x_variant":[
+        "Rejsbygade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Rejsbygade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Rejsbygade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":397,
+    "qs:photo_sum":1273,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":21,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229394
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4968aac842abc7bd1566f4f5fc1b86cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906131,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906131,
+    "wof:lastmodified":1530296574,
+    "wof:name":"Rejsbygade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54226684570006,
+    55.66596774869392,
+    12.54638671880014,
+    55.6691299472857
+],
+  "geometry": {"coordinates":[[[12.54332116569066,55.6691299472857],[12.54347778682563,55.66906586047507],[12.54364013669999,55.66906586158085],[12.54478716767096,55.66906586270643],[12.5450134277001,55.66906586430001],[12.5450134277001,55.66876852212282],[12.54511006655116,55.6687217896055],[12.54535282249691,55.6682913567691],[12.54638671878621,55.66829135687532],[12.54638671878342,55.66811861464105],[12.54638671880014,55.6675168384],[12.54638671880014,55.66712957229994],[12.54638671878558,55.66692898144295],[12.5463867187907,55.66674230240007],[12.54638671877518,55.66634112235248],[12.54570791219447,55.66674230240007],[12.54570007320012,55.66674230240007],[12.54569223425722,55.66674230240007],[12.54501342771459,55.66634112232289],[12.54501342771573,55.66596774869392],[12.54364013669999,55.66596774896125],[12.54226684570006,55.66596774896125],[12.54226684570006,55.66674230027517],[12.54226684570006,55.66751683583364],[12.54226684570011,55.66828206017324],[12.54226684570006,55.66829135900004],[12.54228257868903,55.66829135900004],[12.54313104385494,55.66879283591105],[12.54332116569066,55.6691299472857]]],"type":"Polygon"}
+}

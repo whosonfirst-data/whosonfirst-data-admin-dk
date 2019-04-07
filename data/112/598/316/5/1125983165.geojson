@@ -1,0 +1,107 @@
+{
+  "id": 1125983165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85101,56.21237,8.85101,56.21237",
+    "geom:latitude":56.21237,
+    "geom:longitude":8.85101,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.21237,
+    "lbl:longitude":8.85101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sinding"
+    ],
+    "name:dut_x_preferred":[
+        "Sinding"
+    ],
+    "name:eng_x_preferred":[
+        "Sinding"
+    ],
+    "name:fao_x_preferred":[
+        "Sinding"
+    ],
+    "name:ger_x_preferred":[
+        "Sinding"
+    ],
+    "name:nob_x_preferred":[
+        "Sinding"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2614001,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hinding",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994171,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554075,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614001,
+        "gp:id":554075,
+        "qs_pg:id":994171,
+        "wd:id":"Q1967812"
+    },
+    "wof:country":"DK",
+    "wof:created":1497298657,
+    "wof:geomhash":"34774b638758219b14a2a369bfc50355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1125983165,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125983165,
+    "wof:lastmodified":1530290394,
+    "wof:name":"Hinding",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85101,
+    56.21237,
+    8.85101,
+    56.21237
+],
+  "geometry": {"coordinates":[8.85101,56.21237],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293065531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28929,55.47348,9.28929,55.47348",
+    "geom:latitude":55.47348,
+    "geom:longitude":9.28929,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"621.0",
+    "gn:asciiname":"Dollerup",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622995,
+    "gn:latitude":55.47348,
+    "gn:longitude":9.28929,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Dollerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297823,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622995
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"60f0dcc904196eb2cd388d22eab6f512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297823,
+            "locality_id":1293065531,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293065531,
+    "wof:lastmodified":1536898535,
+    "wof:name":"Dollerup",
+    "wof:parent_id":1159297823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28929,
+    55.47348,
+    9.28929,
+    55.47348
+],
+  "geometry": {"coordinates":[9.28929,55.47348],"type":"Point"}
+}

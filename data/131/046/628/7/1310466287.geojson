@@ -1,0 +1,68 @@
+{
+  "id": 1310466287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6427,55.64877,9.6427,55.64877",
+    "geom:latitude":55.64877,
+    "geom:longitude":9.6427,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Vognsvad",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2610077,
+    "gn:latitude":55.64877,
+    "gn:longitude":9.6427,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vognsvad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610077
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c98f00579030439877b8bf80326b9ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1310466287,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310466287,
+    "wof:lastmodified":1536973168,
+    "wof:name":"Vognsvad",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6427,
+    55.64876999999999,
+    9.6427,
+    55.64876999999999
+],
+  "geometry": {"coordinates":[9.6427,55.64876999999999],"type":"Point"}
+}

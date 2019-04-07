@@ -1,0 +1,73 @@
+{
+  "id": 1309767941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21551,54.87797,11.21551,54.87797",
+    "geom:latitude":54.87797,
+    "geom:longitude":11.21551,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Vester Nordlunde",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610396,
+    "gn:latitude":54.87797,
+    "gn:longitude":11.21551,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vester Nordlunde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nordlunde",
+        "Vester Nordlunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610396,
+        "wk:page":"Nordlunde"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ccf6288d88de489ee326d5537d2649ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1309767941,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1309767941,
+    "wof:lastmodified":1537619789,
+    "wof:name":"Vester Nordlunde",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21551,
+    54.87797,
+    11.21551,
+    54.87797
+],
+  "geometry": {"coordinates":[11.21551,54.87797],"type":"Point"}
+}

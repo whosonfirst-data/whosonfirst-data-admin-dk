@@ -1,0 +1,75 @@
+{
+  "id": 420784603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5177221493,55.7480454893,12.5177221493,55.7480454893",
+    "geom:latitude":55.748045,
+    "geom:longitude":12.517722,
+    "iso:country":"DK",
+    "lbl:latitude":55.748045,
+    "lbl:longitude":12.517722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:dan_x_preferred":[
+        "Vangede"
+    ],
+    "name:nor_x_preferred":[
+        "Vangede"
+    ],
+    "name:swe_x_preferred":[
+        "Vangede"
+    ],
+    "src:geom":"unknown",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1754206"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871932,
+    "wof:geomhash":"5c7c1a15b32275b732c7437f5b8d6850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784603,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784603,
+    "wof:lastmodified":1530296500,
+    "wof:name":"Vangede",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51772214925453,
+    55.74804548929146,
+    12.51772214925453,
+    55.74804548929146
+],
+  "geometry": {"coordinates":[12.51772214925453,55.74804548929146],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85906263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":162947.539462,
+    "geom:bbox":"12.5848388672,55.6667422939,12.5907845549,55.6717834993",
+    "geom:latitude":55.668864,
+    "geom:longitude":12.587771,
+    "iso:country":"DK",
+    "lbl:latitude":55.669363,
+    "lbl:longitude":12.587564,
+    "mps:latitude":55.6688,
+    "mps:longitude":12.588012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Voldg\u00e5rden"
+    ],
+    "name:unk_x_variant":[
+        "Voldg\u00e5rden"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Voldg\u00e5rden",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Voldg\u00e5rden",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":133,
+    "qs:photo_sum":463,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229520
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"981d9bdc776db402c37361a054d829f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906263,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906263,
+    "wof:lastmodified":1530296598,
+    "wof:name":"Voldg\u00e5rden",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58483886720001,
+    55.66674229387247,
+    12.59078455487838,
+    55.67178349930539
+],
+  "geometry": {"coordinates":[[[12.58759727809695,55.67178349930539],[12.58826420711421,55.67138928830006],[12.58827209470007,55.67138928830006],[12.58827998228622,55.67138928830006],[12.58878904967935,55.6716901898409],[12.5889587400784,55.67138928774413],[12.5891284310793,55.67108838417427],[12.58911220358681,55.67100205957523],[12.58918499609001,55.67061482675432],[12.59033203121407,55.67061482686124],[12.59033203121476,55.66984035206896],[12.59067141982842,55.66923855582952],[12.59063895439471,55.66906586047507],[12.59078455487838,55.66829134367522],[12.59033203121459,55.66748898070556],[12.5903320312139,55.66674229472521],[12.58758544920005,55.66674229387247],[12.5852913981455,55.66674229713378],[12.58483886720001,55.66674230240007],[12.58483886720001,55.66754465712903],[12.58483886720001,55.66829135133763],[12.58483886720001,55.66903795961763],[12.58483886720001,55.66984035430006],[12.58619643815371,55.66984035430006],[12.58621215820011,55.6698496456609],[12.58621215820011,55.67061482643349],[12.58621215820011,55.67138928617517],[12.58735919548377,55.6713892871846],[12.58757362024437,55.67176951545967],[12.58758544920005,55.67177650739985],[12.58759727809695,55.67178349930539]]],"type":"Polygon"}
+}

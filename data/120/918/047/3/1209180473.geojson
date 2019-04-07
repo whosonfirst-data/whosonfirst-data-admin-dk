@@ -1,0 +1,66 @@
+{
+  "id": 1209180473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50164,56.2127,9.50164,56.2127",
+    "geom:latitude":56.2127,
+    "geom:longitude":9.50164,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Skaegkaer",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613769,
+    "gn:latitude":56.2127,
+    "gn:longitude":9.50164,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sk\u00e6gk\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00e6rk\u00e6r",
+        "Sk\u00e6gk\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613769
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a3f73db02f537c1a40ab8dda7e85e9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209180473
+        }
+    ],
+    "wof:id":1209180473,
+    "wof:lastmodified":1537619813,
+    "wof:name":"Skaegkaer",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50164,
+    56.2127,
+    9.50164,
+    56.2127
+],
+  "geometry": {"coordinates":[9.50164,56.2127],"type":"Point"}
+}

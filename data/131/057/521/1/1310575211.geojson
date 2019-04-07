@@ -1,0 +1,73 @@
+{
+  "id": 1310575211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.92524,55.06845,10.92524,55.06845",
+    "geom:latitude":55.06845,
+    "geom:longitude":10.92524,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"482.0",
+    "gn:asciiname":"Snode Hesselbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613289,
+    "gn:latitude":55.06845,
+    "gn:longitude":10.92524,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sn\u00f8de Hesselbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hesselbj\u00e6rg Huse",
+        "Sn\u00f8de Hesselbj\u00e6rg",
+        "Sn\u00f8de Hesselbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613289
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5ae0fcb10d1491c862ae07674fee8c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":1310575211,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310575211,
+    "wof:lastmodified":1537619809,
+    "wof:name":"Snode Hesselbjerg",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.92524,
+    55.06845,
+    10.92524,
+    55.06845
+],
+  "geometry": {"coordinates":[10.92524,55.06845],"type":"Point"}
+}

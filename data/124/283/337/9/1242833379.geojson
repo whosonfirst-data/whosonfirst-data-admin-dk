@@ -1,0 +1,68 @@
+{
+  "id": 1242833379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64834,55.69768,8.64834,55.69768",
+    "geom:latitude":55.69768,
+    "geom:longitude":8.64834,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Hodde",
+    "gn:country_code":"DK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620162,
+    "gn:latitude":55.69768,
+    "gn:longitude":8.64834,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hodde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620162
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"23fc4177305fa54fe73feb9388a87346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1242833379,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1242833379,
+    "wof:lastmodified":1536695617,
+    "wof:name":"Hodde",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64834,
+    55.69768000000001,
+    8.64834,
+    55.69768000000001
+],
+  "geometry": {"coordinates":[8.64834,55.69768000000001],"type":"Point"}
+}

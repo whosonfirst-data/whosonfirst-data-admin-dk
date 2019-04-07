@@ -1,0 +1,68 @@
+{
+  "id": 1326592415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93456,56.71036,9.93456,56.71036",
+    "geom:latitude":56.71036,
+    "geom:longitude":9.93456,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"846.0",
+    "gn:asciiname":"Stubberup",
+    "gn:country_code":"DK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612173,
+    "gn:latitude":56.71036,
+    "gn:longitude":9.93456,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Stubberup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297835,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612173
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6e646395d4f3e7f73a25f5b127fedfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297835,
+            "locality_id":1326592415,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1326592415,
+    "wof:lastmodified":1536897268,
+    "wof:name":"Stubberup",
+    "wof:parent_id":1159297835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93456,
+    56.71036,
+    9.93456,
+    56.71036
+],
+  "geometry": {"coordinates":[9.93456,56.71036],"type":"Point"}
+}

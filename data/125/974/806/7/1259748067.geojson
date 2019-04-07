@@ -1,0 +1,68 @@
+{
+  "id": 1259748067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.50982,55.56138,11.50982,55.56138",
+    "geom:latitude":55.56138,
+    "geom:longitude":11.50982,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Verup",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610507,
+    "gn:latitude":55.56138,
+    "gn:longitude":11.50982,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Verup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297921,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610507
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"69e665dcb76f201b390b1da01276bb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297921,
+            "locality_id":1259748067,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259748067,
+    "wof:lastmodified":1536973819,
+    "wof:name":"Verup",
+    "wof:parent_id":1159297921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.50982,
+    55.56138000000001,
+    11.50982,
+    55.56138000000001
+],
+  "geometry": {"coordinates":[11.50982,55.56138000000001],"type":"Point"}
+}

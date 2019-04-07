@@ -1,0 +1,68 @@
+{
+  "id": 1225906049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13211,54.75765,11.13211,54.75765",
+    "geom:latitude":54.75765,
+    "geom:longitude":11.13211,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Majbolle",
+    "gn:country_code":"DK",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617126,
+    "gn:latitude":54.75765,
+    "gn:longitude":11.13211,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Majb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617126
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d9e88b2c349be97cf6d75782a4d42f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1225906049,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1225906049,
+    "wof:lastmodified":1536927660,
+    "wof:name":"Majbolle",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13211,
+    54.75765,
+    11.13211,
+    54.75765
+],
+  "geometry": {"coordinates":[11.13211,54.75765],"type":"Point"}
+}

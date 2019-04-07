@@ -1,0 +1,101 @@
+{
+  "id": 85906121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":20202.335387,
+    "geom:bbox":"12.5738525391,55.6706148269,12.5768253737,55.6725509438",
+    "geom:latitude":55.671328,
+    "geom:longitude":12.575422,
+    "iso:country":"DK",
+    "lbl:latitude":55.671159,
+    "lbl:longitude":12.575737,
+    "mps:latitude":55.671196,
+    "mps:longitude":12.575523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Puggaardsgade"
+    ],
+    "name:unk_x_variant":[
+        "Puggaardsgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Puggaardsgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Puggaardsgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":73,
+    "qs:photo_sum":157,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229387
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4d52521b8c1e240203afc2fabeab10f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906121,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906121,
+    "wof:lastmodified":1530296573,
+    "wof:name":"Puggaardsgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57385253908637,
+    55.67061482686124,
+    12.57682537374257,
+    55.67255094377516
+],
+  "geometry": {"coordinates":[[[12.57499957394003,55.67061482739176],[12.57385253908637,55.67061482686124],[12.5738525390878,55.67138928638762],[12.57499957622156,55.67138928710021],[12.57507236599463,55.67177651125029],[12.57522583010007,55.67177651151586],[12.57591247560015,55.67177651160652],[12.57591247560015,55.67215906616603],[12.57591247560009,55.67216373230009],[12.57592036964292,55.67216373230009],[12.57657544383426,55.67255094377516],[12.5765991211,55.67255094377516],[12.57660701352199,55.67255094377516],[12.57682537374257,55.67216372975021],[12.57676062212943,55.67181926572003],[12.57670436375832,55.67177651125029],[12.57659912108551,55.67158988994167],[12.5765991211,55.67138928830006],[12.57625974090593,55.67138928830006],[12.57625579831466,55.67138695790986],[12.57625579831682,55.67119567473345],[12.5762557983075,55.67100438848199],[12.57625579830011,55.6710020605001],[12.57625185974894,55.6710020605001],[12.57591247560015,55.67080145941786],[12.57591247560015,55.67061482845845],[12.57522583010007,55.67061482766017],[12.57499957394003,55.67061482739176]]],"type":"Polygon"}
+}

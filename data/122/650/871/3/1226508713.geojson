@@ -1,0 +1,68 @@
+{
+  "id": 1226508713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61478,56.17228,9.61478,56.17228",
+    "geom:latitude":56.17228,
+    "geom:longitude":9.61478,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Skaerbaek",
+    "gn:country_code":"DK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613536,
+    "gn:latitude":56.17228,
+    "gn:longitude":9.61478,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sk\u00e6rb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613536
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"43268b9f51dcc920244ce7fc7b9c3639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1226508713,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226508713,
+    "wof:lastmodified":1537049444,
+    "wof:name":"Skaerbaek",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61478,
+    56.17228000000001,
+    9.61478,
+    56.17228000000001
+],
+  "geometry": {"coordinates":[9.61478,56.17228000000001],"type":"Point"}
+}

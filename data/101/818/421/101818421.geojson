@@ -1,0 +1,146 @@
+{
+  "id": 101818421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000441,
+    "geom:area_square_m":3065772.838741,
+    "geom:bbox":"12.1333561418,55.7804424369,12.1659416213,55.804533707",
+    "geom:latitude":55.791905,
+    "geom:longitude":12.149791,
+    "gn:population":5348,
+    "iso:country":"DK",
+    "lbl:latitude":55.790799,
+    "lbl:longitude":12.149544,
+    "mps:latitude":55.790799,
+    "mps:longitude":12.149544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:dan_x_preferred":[
+        "\u00d8lstykke Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "\u00d8lstykke Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:fao_x_preferred":[
+        "\u00d8lstykke kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:fre_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:ger_x_preferred":[
+        "\u00d8lstykke Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:lit_x_preferred":[
+        "Elstiuk\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8lstykke kommune"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u00d8lstykke"
+    ],
+    "name:por_x_preferred":[
+        "\u00d8lstykke"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna \u00d8lstykke"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u0441\u0442\u044e\u043a\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8lstykke kommun"
+    ],
+    "name:unk_x_variant":[
+        "\u00d8lstykke Stationsby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Egedal",
+    "qs:la_lc":"*DK1084240",
+    "qs:level":"locality",
+    "qs:loc":"\u00d8lstykke",
+    "qs:loc_alt":"Olstykke",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":146,
+    "wof:belongsto":[
+        102191581,
+        1159297851,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615730,
+        "gp:id":556101,
+        "qs:id":964078,
+        "qs_pg:id":900929,
+        "wd:id":"Q308180"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2e0c9fb7a8ab2f8088a164814e9a5f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297851,
+            "locality_id":101818421,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101818421,
+    "wof:lastmodified":1530296459,
+    "wof:name":"\u00d8lstykke",
+    "wof:parent_id":1159297851,
+    "wof:placetype":"locality",
+    "wof:population":5348,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13335614176685,
+    55.78044243685241,
+    12.16594162130957,
+    55.80453370701696
+],
+  "geometry": {"coordinates":[[[12.16305118993461,55.80450670375546],[12.16275591081097,55.79911720018993],[12.16594162130957,55.79906314241106],[12.16589234512628,55.7981648935384],[12.16270670699379,55.7982189499163],[12.16250991848688,55.79462594973626],[12.1641025938568,55.79459893428998],[12.16390570347897,55.79100593837018],[12.15753556854531,55.79111386967247],[12.15738836283424,55.78841911529906],[12.16057321737628,55.78836519359993],[12.1605240818227,55.7874669437212],[12.15893169172523,55.78749391381137],[12.15888259500156,55.78659566332476],[12.15729023903504,55.7866226128383],[12.15719212590727,55.78482611074134],[12.15559984022599,55.78485303898179],[12.1555508238157,55.78395478737201],[12.15236631868834,55.78400858282862],[12.15221950234121,55.78131382436283],[12.15062735519268,55.78134069018864],[12.15057845787715,55.78044243685241],[12.14580211276251,55.78052291299565],[12.14585090164212,55.78142116841667],[12.14107442996402,55.78150146776903],[12.14117179878866,55.78329798304372],[12.13480285256065,55.78340477612693],[12.13494849180194,55.78609955802216],[12.13335614176685,55.78612620867324],[12.13350169628796,55.78882099346214],[12.13827906582208,55.78874097565591],[12.13847360946977,55.79233401502967],[12.13688101029561,55.79236071027782],[12.1370754515724,55.79595375388573],[12.13866819544643,55.79592705587015],[12.13871684855587,55.79682531630988],[12.141902402634,55.79677185924322],[12.14195113075368,55.79767011838959],[12.14513674914411,55.79761658039968],[12.14518555228091,55.79851483825036],[12.14837123497455,55.7984612193336],[12.1485178774368,55.80115598926756],[12.15011082431613,55.80112914789504],[12.15020867163781,55.80292566025275],[12.16135974979875,55.80273720406149],[12.16145811449491,55.80453370701696],[12.16305118993461,55.80450670375546]]],"type":"Polygon"}
+}

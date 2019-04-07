@@ -1,0 +1,68 @@
+{
+  "id": 1259759105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01132,56.4923,9.01132,56.4923",
+    "geom:latitude":56.4923,
+    "geom:longitude":9.01132,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Fly",
+    "gn:country_code":"DK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622052,
+    "gn:latitude":56.4923,
+    "gn:longitude":9.01132,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622052
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"69232b79e564f7f02ea3f78d0684d7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1259759105,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259759105,
+    "wof:lastmodified":1536958266,
+    "wof:name":"Fly",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01132,
+    56.4923,
+    9.01132,
+    56.4923
+],
+  "geometry": {"coordinates":[9.01132,56.4923],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276616563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79809,56.99651,8.79809,56.99651",
+    "geom:latitude":56.99651,
+    "geom:longitude":8.79809,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Hov",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619735,
+    "gn:latitude":56.99651,
+    "gn:longitude":8.79809,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619735
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"59bec4e4d844cd376258f8ca6cd27ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":1276616563,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1276616563,
+    "wof:lastmodified":1536896534,
+    "wof:name":"Hov",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79809,
+    56.99651,
+    8.79809,
+    56.99651
+],
+  "geometry": {"coordinates":[8.79809,56.99651],"type":"Point"}
+}

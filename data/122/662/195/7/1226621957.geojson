@@ -1,0 +1,68 @@
+{
+  "id": 1226621957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48438,56.19074,9.48438,56.19074",
+    "geom:latitude":56.19074,
+    "geom:longitude":9.48438,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Oster Bording",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615602,
+    "gn:latitude":56.19074,
+    "gn:longitude":9.48438,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8ster Bording",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615602
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"99793522e5b968c36efa3fa81409e844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1226621957,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226621957,
+    "wof:lastmodified":1536893564,
+    "wof:name":"Oster Bording",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48438,
+    56.19074000000001,
+    9.48438,
+    56.19074000000001
+],
+  "geometry": {"coordinates":[9.48438,56.19074000000001],"type":"Point"}
+}

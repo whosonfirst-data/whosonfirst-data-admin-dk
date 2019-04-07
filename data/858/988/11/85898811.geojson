@@ -1,0 +1,112 @@
+{
+  "id": 85898811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":28489281.276306,
+    "geom:bbox":"12.185759,55.45574,12.185759,55.45574",
+    "geom:latitude":55.45574,
+    "geom:longitude":12.185759,
+    "iso:country":"DK",
+    "lbl:latitude":55.45574,
+    "lbl:longitude":12.185759,
+    "mps:latitude":55.456139,
+    "mps:longitude":12.176957,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dan_x_colloquial":[
+        "Soender Koege",
+        "Sonder Koge"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00f8nder K\u00f8ge"
+    ],
+    "name:unk_x_variant":[
+        "S\u00f8nder K\u00f8ge"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2618415,
+    "qs:gn_nam_loc":"K\u00f8ge, K\u00f8ge, Sj\u00e6lland, DK",
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"S\u00f8nder K\u00f8ge",
+    "qs:local_max":2017,
+    "qs:local_sum":2017,
+    "qs:localhoods":1,
+    "qs:name":"S\u00f8nder K\u00f8ge",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Sj\u00e6lland",
+    "qs:name_adm2":"K\u00f8ge",
+    "qs:name_local":"K\u00f8ge",
+    "qs:photo_max":332,
+    "qs:photo_sum":2017,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":96,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362582,
+    "qs:woe_adm2":12582783,
+    "qs:woe_lau":0,
+    "qs:woe_local":554896,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682589,
+        102191581,
+        1159297933,
+        85633121,
+        101840797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957709,
+        "gp:id":557369,
+        "qs:id":1082931,
+        "qs_pg:id":1082931
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"524de28b2f15be9afb90a2f71cec3a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297933,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":85898811,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531932113,
+    "wof:name":"S\u00f8nder K\u00f8ge",
+    "wof:parent_id":101840797,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.185759,
+    55.45574,
+    12.185759,
+    55.45574
+],
+  "geometry": {"coordinates":[12.185759,55.45574],"type":"Point"}
+}

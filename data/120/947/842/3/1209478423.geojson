@@ -1,0 +1,62 @@
+{
+  "id": 1209478423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48443,56.34876,8.48443,56.34876",
+    "geom:latitude":56.34876,
+    "geom:longitude":8.48443,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Estrup",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622408,
+    "gn:latitude":56.34876,
+    "gn:longitude":8.48443,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Estrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622408
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a400fa0f6ea8f250b3a9f7f0269f3304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209478423
+        }
+    ],
+    "wof:id":1209478423,
+    "wof:lastmodified":1536285861,
+    "wof:name":"Estrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48443,
+    56.34876,
+    8.48443,
+    56.34876
+],
+  "geometry": {"coordinates":[8.48443,56.34876],"type":"Point"}
+}

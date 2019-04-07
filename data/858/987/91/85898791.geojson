@@ -1,0 +1,112 @@
+{
+  "id": 85898791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24088.77327,
+    "geom:bbox":"12.5971984863,55.682230107,12.5999450684,55.6837785529",
+    "geom:latitude":55.683109,
+    "geom:longitude":12.598387,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":55.682933,
+    "lbl:longitude":12.598276,
+    "mps:latitude":55.683004,
+    "mps:longitude":12.597949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":20.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Inderhavn"
+    ],
+    "name:eng_x_preferred":[
+        "Inre Hamnen"
+    ],
+    "name:eng_x_variant":[
+        "Inre Hamnen"
+    ],
+    "name:unk_x_variant":[
+        "Inderhavn"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Inderhavn",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Inre Hamnen",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":46,
+    "qs:photo_sum":92,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101749159,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":554498,
+        "qs:id":1077829,
+        "qs_pg:id":1077829
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4e25514c793ccffb1592568f39dff5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898791,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85898791,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1527270587,
+    "wof:name":"Inderhavn",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5971984863001,
+    55.68223010697666,
+    12.59994506840007,
+    55.68377855290005
+],
+  "geometry": {"coordinates":[[[12.59742470545984,55.68377855035028],[12.59857177731681,55.6837785503502],[12.59994506838763,55.68377855098772],[12.59994506839286,55.68340560337607],[12.59994506840007,55.68300433880002],[12.59926640769243,55.68300433880002],[12.59925842288555,55.68299961770113],[12.59925842288646,55.68261722547764],[12.59857177730004,55.68261722531575],[12.59857177730004,55.68223010940007],[12.59834555421452,55.68223010851251],[12.59753782192547,55.68223010697666],[12.5971984863001,55.68223010940007],[12.5971984863001,55.68300433880002],[12.5971984863001,55.68339144297532],[12.5971984863001,55.68377855290005],[12.59742470545984,55.68377855035028]]],"type":"Polygon"}
+}

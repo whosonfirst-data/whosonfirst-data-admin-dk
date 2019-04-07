@@ -1,0 +1,107 @@
+{
+  "id": 101847787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000072,
+    "geom:area_square_m":497675.737218,
+    "geom:bbox":"12.5159257171,55.9354274269,12.5305407499,55.9470711094",
+    "geom:latitude":55.939901,
+    "geom:longitude":12.523888,
+    "gn:population":8035,
+    "iso:country":"DK",
+    "lbl:latitude":55.939815,
+    "lbl:longitude":12.524996,
+    "mps:latitude":55.939815,
+    "mps:longitude":12.524996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bos_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:dan_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:dut_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:eng_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:ger_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:nob_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:rum_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "name:swe_x_preferred":[
+        "Niv\u00e5"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Fredensborg",
+    "qs:la_lc":"*DK1084210",
+    "qs:level":"locality",
+    "qs:loc":"Niv\u00e5",
+    "qs:loc_alt":"Niva",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":381,
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616450,
+        "gp:id":555769,
+        "qs:id":1312935,
+        "wd:id":"Q2926034",
+        "wk:page":"Niv\u00e5"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"994a4e652b9531a4d62b9029b5ed7be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101847787,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101847787,
+    "wof:lastmodified":1534985888,
+    "wof:name":"Niv\u00e5",
+    "wof:parent_id":85682581,
+    "wof:placetype":"locality",
+    "wof:population":8035,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[
+        1175611409
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51592571712501,
+    55.93542742687231,
+    12.53054074991309,
+    55.94707110941806
+],
+  "geometry": {"coordinates":[[[12.52940509672152,55.94703951637877],[12.52923157393604,55.94434523018714],[12.52763307172438,55.94437682075818],[12.52740189812164,55.94078443715568],[12.5290002544404,55.94075284987463],[12.52894243246084,55.93985475502421],[12.53054074991309,55.93982314860591],[12.5304828946251,55.93892505466931],[12.52888461363875,55.93895666026458],[12.5287111761138,55.93626237653103],[12.52551482572198,55.93632552291251],[12.52545709244316,55.93542742687231],[12.52385895011327,55.9354589693055],[12.52397434690403,55.93725516311912],[12.51758146198978,55.93738113983898],[12.5175239078639,55.93648303960731],[12.51592571712501,55.93651448307293],[12.5161558066273,55.94010688782117],[12.51775414322464,55.94007544108086],[12.51781170992268,55.94097354167724],[12.52260681478856,55.94087907923773],[12.52272217644872,55.94267527578535],[12.52432061289767,55.94264374674304],[12.52437833492769,55.94354184433274],[12.52597680545659,55.94351029450758],[12.52609233192857,55.94530648831784],[12.52769087301596,55.94527491688683],[12.52780648506996,55.94707110941806],[12.52940509672152,55.94703951637877]]],"type":"Polygon"}
+}

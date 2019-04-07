@@ -1,0 +1,125 @@
+{
+  "id": 1125807901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82446,55.10821,14.82446,55.10821",
+    "geom:latitude":55.10821,
+    "geom:longitude":14.82446,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.10821,
+    "lbl:longitude":14.82446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:dut_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:eng_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:fao_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:fre_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:ger_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:ice_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:kal_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:nno_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:nob_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:swe_x_preferred":[
+        "Vestermarie"
+    ],
+    "name:unk_x_variant":[
+        "Vester-Mariekirke"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2610406,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vester Marie",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":83,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":83,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":558644,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610406,
+        "gp:id":558644,
+        "qs_pg:id":1165961,
+        "wd:id":"Q984918"
+    },
+    "wof:country":"DK",
+    "wof:created":1497291538,
+    "wof:geomhash":"5d49ae0d6f821a7d213aa4fae38124ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1125807901,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125807901,
+    "wof:lastmodified":1530291135,
+    "wof:name":"Vester Marie",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82446,
+    55.10821,
+    14.82446,
+    55.10821
+],
+  "geometry": {"coordinates":[14.82446,55.10821],"type":"Point"}
+}

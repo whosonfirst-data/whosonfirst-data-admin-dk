@@ -1,0 +1,62 @@
+{
+  "id": 1209278803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21635,55.51527,10.21635,55.51527",
+    "geom:latitude":55.51527,
+    "geom:longitude":10.21635,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Askeby",
+    "gn:country_code":"DK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624544,
+    "gn:latitude":55.51527,
+    "gn:longitude":10.21635,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Askeby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624544
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"99b97e536745193ee61f5d960b79c0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209278803
+        }
+    ],
+    "wof:id":1209278803,
+    "wof:lastmodified":1536292097,
+    "wof:name":"Askeby",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21635,
+    55.51527,
+    10.21635,
+    55.51527
+],
+  "geometry": {"coordinates":[10.21635,55.51527],"type":"Point"}
+}

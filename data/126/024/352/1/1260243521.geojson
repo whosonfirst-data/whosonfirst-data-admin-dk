@@ -1,0 +1,68 @@
+{
+  "id": 1260243521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09593,54.84476,11.09593,54.84476",
+    "geom:latitude":54.84476,
+    "geom:longitude":11.09593,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Hellenaes",
+    "gn:country_code":"DK",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620521,
+    "gn:latitude":54.84476,
+    "gn:longitude":11.09593,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hellen\u00e6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620521
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e93c320e3335bf59d844f7ed0f92f4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1260243521,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1260243521,
+    "wof:lastmodified":1536766568,
+    "wof:name":"Hellenaes",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09593,
+    54.84476,
+    11.09593,
+    54.84476
+],
+  "geometry": {"coordinates":[11.09593,54.84476],"type":"Point"}
+}

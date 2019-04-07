@@ -1,0 +1,68 @@
+{
+  "id": 1277052153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37666,56.05324,12.37666,56.05324",
+    "geom:latitude":56.05324,
+    "geom:longitude":12.37666,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Vejret i Esrum",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9612661,
+    "gn:latitude":56.05324,
+    "gn:longitude":12.37666,
+    "gn:modification_date":"2014-09-29",
+    "gn:name":"Vejret i Esrum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9612661
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e6ca86298731e62a47fde9fd3e78af97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":1277052153,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1277052153,
+    "wof:lastmodified":1536809779,
+    "wof:name":"Vejret i Esrum",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37666,
+    56.05324,
+    12.37666,
+    56.05324
+],
+  "geometry": {"coordinates":[12.37666,56.05324],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209178991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34804,55.48101,11.34804,55.48101",
+    "geom:latitude":55.48101,
+    "geom:longitude":11.34804,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"326.0",
+    "gn:asciiname":"Solbjerg",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613255,
+    "gn:latitude":55.48101,
+    "gn:longitude":11.34804,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Solbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solbj\u00e6rg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613255
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"05cb98e9d54c6a36b74ed9821aef506c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209178991
+        }
+    ],
+    "wof:id":1209178991,
+    "wof:lastmodified":1537619809,
+    "wof:name":"Solbjerg",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34804,
+    55.48101,
+    11.34804,
+    55.48101
+],
+  "geometry": {"coordinates":[11.34804,55.48101],"type":"Point"}
+}

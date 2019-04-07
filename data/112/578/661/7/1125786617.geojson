@@ -1,0 +1,91 @@
+{
+  "id": 1125786617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7454,55.10768,14.7454,55.10768",
+    "geom:latitude":55.10768,
+    "geom:longitude":14.7454,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.10768,
+    "lbl:longitude":14.7454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Saint Knud"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2618607,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Knudsker",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":38052,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554880,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618607,
+        "gp:id":554880,
+        "qs_pg:id":38052
+    },
+    "wof:country":"DK",
+    "wof:created":1497290706,
+    "wof:geomhash":"80c0c4f213037afe279a97d7c149203f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1125786617,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125786617,
+    "wof:lastmodified":1530291129,
+    "wof:name":"Knudsker",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7454,
+    55.10768,
+    14.7454,
+    55.10768
+],
+  "geometry": {"coordinates":[14.7454,55.10768],"type":"Point"}
+}

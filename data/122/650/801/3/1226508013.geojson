@@ -1,0 +1,68 @@
+{
+  "id": 1226508013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18333,57.51667,10.18333,57.51667",
+    "geom:latitude":57.51667,
+    "geom:longitude":10.18333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Holt",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2620034,
+    "gn:latitude":57.51667,
+    "gn:longitude":10.18333,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Holt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620034
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"70c9d797ec5f07eec011f6c5182324fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1226508013,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1226508013,
+    "wof:lastmodified":1537050431,
+    "wof:name":"Holt",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18333,
+    57.51667,
+    10.18333,
+    57.51667
+],
+  "geometry": {"coordinates":[10.18333,57.51667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209381163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47462,56.64486,8.47462,56.64486",
+    "geom:latitude":56.64486,
+    "geom:longitude":8.47462,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Kallerup",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619176,
+    "gn:latitude":56.64486,
+    "gn:longitude":8.47462,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kallerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619176
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fcc4f80e5be78c1599c77d6b8f7c1048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209381163
+        }
+    ],
+    "wof:id":1209381163,
+    "wof:lastmodified":1536288779,
+    "wof:name":"Kallerup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47462,
+    56.64486,
+    8.47462,
+    56.64486
+],
+  "geometry": {"coordinates":[8.47462,56.64486],"type":"Point"}
+}

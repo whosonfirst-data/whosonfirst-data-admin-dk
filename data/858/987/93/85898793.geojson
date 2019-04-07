@@ -1,0 +1,236 @@
+{
+  "id": 85898793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30042261.662423,
+    "geom:bbox":"12.601609,56.037312,12.601609,56.037312",
+    "geom:latitude":56.037312,
+    "geom:longitude":12.601609,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":56.037312,
+    "lbl:longitude":12.601609,
+    "mps:latitude":56.044978,
+    "mps:longitude":12.589578,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0643\u0631\u0648\u0646\u0628\u0648\u0631\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043c\u0430\u043a \u041a\u0440\u043e\u043d\u0431\u0430\u0440\u0433"
+    ],
+    "name:bre_x_preferred":[
+        "Kastell Kronborg"
+    ],
+    "name:cat_x_preferred":[
+        "Castell de Kronborg"
+    ],
+    "name:ceb_x_preferred":[
+        "Kronborg"
+    ],
+    "name:ces_x_preferred":[
+        "Kronborg"
+    ],
+    "name:dan_x_preferred":[
+        "Kronborg"
+    ],
+    "name:deu_x_preferred":[
+        "Schloss Kronborg"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039a\u03c1\u03cc\u03bd\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "Kastelo de Kronborg"
+    ],
+    "name:est_x_preferred":[
+        "Kronborgi loss"
+    ],
+    "name:eus_x_preferred":[
+        "Kronborg gaztelua"
+    ],
+    "name:fin_x_preferred":[
+        "Kronborgin linna"
+    ],
+    "name:fra_x_preferred":[
+        "Ch\u00e2teau de Kronborg"
+    ],
+    "name:glg_x_preferred":[
+        "Castelo de Kronborg"
+    ],
+    "name:hbs_x_preferred":[
+        "Dvorac Kronborg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e8\u05ea \u05e7\u05e8\u05d5\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hrv_x_preferred":[
+        "Dvorac Kronborg"
+    ],
+    "name:hun_x_preferred":[
+        "Kronborg"
+    ],
+    "name:ina_x_preferred":[
+        "Kronborg"
+    ],
+    "name:ind_x_preferred":[
+        "Kronborg"
+    ],
+    "name:isl_x_preferred":[
+        "Kr\u00f3nborgarh\u00f6ll"
+    ],
+    "name:ita_x_preferred":[
+        "Castello di Kronborg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30f3\u30dc\u30fc\u57ce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10dd\u10dc\u10d1\u10dd\u10e0\u10d2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub860\ubcf4\ub974 \uc131"
+    ],
+    "name:lav_x_preferred":[
+        "Kronborga"
+    ],
+    "name:lit_x_preferred":[
+        "Kronborgas"
+    ],
+    "name:nld_x_preferred":[
+        "Kronborg"
+    ],
+    "name:nno_x_preferred":[
+        "Kronborg slott"
+    ],
+    "name:nor_x_preferred":[
+        "Kronborg slott"
+    ],
+    "name:pol_x_preferred":[
+        "Kronborg"
+    ],
+    "name:por_x_preferred":[
+        "Castelo de Kronborg"
+    ],
+    "name:ron_x_preferred":[
+        "Castelul Kronborg"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1mok Kronborg"
+    ],
+    "name:spa_x_preferred":[
+        "Castillo de Kronborg"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u043e\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Kronborg"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e04\u0e23\u0e2d\u0e19\u0e1a\u0e2d\u0e23\u0e4c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043e\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Kronborg"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e2u \u0111\u00e0i Kronborg"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u9686\u5821"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2620473,
+    "qs:gn_nam_loc":"Helsing\u00f8r, Helsing\u00f8r, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:local_max":2198,
+    "qs:local_sum":2805,
+    "qs:localhoods":2,
+    "qs:name":"Kronborg",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"Helsing\u00f8r",
+    "qs:name_local":"Helsing\u00f8r",
+    "qs:photo_max":347,
+    "qs:photo_sum":2198,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":104,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":12582653,
+    "qs:woe_lau":0,
+    "qs:woe_local":553989,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":2172,
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297819,
+        85633121,
+        101818397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":555031,
+        "qs:id":336274,
+        "qs_pg:id":336274,
+        "wd:id":"Q189358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b517cab5788de14aa8c42393367b0bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297819,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85898793,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531932109,
+    "wof:name":"Kronborg",
+    "wof:parent_id":101818397,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.601609,
+    56.037312,
+    12.601609,
+    56.037312
+],
+  "geometry": {"coordinates":[12.601609,56.037312],"type":"Point"}
+}

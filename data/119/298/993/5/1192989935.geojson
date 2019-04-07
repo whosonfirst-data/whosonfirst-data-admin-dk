@@ -1,0 +1,71 @@
+{
+  "id": 1192989935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31667,55.63333,12.31667,55.63333",
+    "geom:latitude":55.63333,
+    "geom:longitude":12.31667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"183.0",
+    "gn:asciiname":"Taastrup Valby",
+    "gn:country_code":"DK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611822,
+    "gn:latitude":55.63333,
+    "gn:longitude":12.31667,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Taastrup Valby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e5strup-Valby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297793,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611822
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3fd816159ad561bf1801c325e6cb6368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297793,
+            "locality_id":1192989935,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1192989935,
+    "wof:lastmodified":1537619798,
+    "wof:name":"Taastrup Valby",
+    "wof:parent_id":1159297793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31667,
+    55.63333000000001,
+    12.31667,
+    55.63333000000001
+],
+  "geometry": {"coordinates":[12.31667,55.63333000000001],"type":"Point"}
+}

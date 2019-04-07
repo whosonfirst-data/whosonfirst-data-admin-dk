@@ -1,0 +1,68 @@
+{
+  "id": 1326604477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33168,55.39579,11.33168,55.39579",
+    "geom:latitude":55.39579,
+    "geom:longitude":11.33168,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"330.0",
+    "gn:asciiname":"Landsgrav",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617985,
+    "gn:latitude":55.39579,
+    "gn:longitude":11.33168,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Landsgrav",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297897,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617985
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ff9ed7d0141e83e5430175feeb2c1e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297897,
+            "locality_id":1326604477,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1326604477,
+    "wof:lastmodified":1536879188,
+    "wof:name":"Landsgrav",
+    "wof:parent_id":1159297897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33168,
+    55.39579000000001,
+    11.33168,
+    55.39579000000001
+],
+  "geometry": {"coordinates":[11.33168,55.39579000000001],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85905907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":31068.475466,
+    "geom:bbox":"12.5944519043,55.6845480227,12.5974247013,55.6865023842",
+    "geom:latitude":55.685423,
+    "geom:longitude":12.595856,
+    "iso:country":"DK",
+    "lbl:latitude":55.685083,
+    "lbl:longitude":12.595516,
+    "mps:latitude":55.685357,
+    "mps:longitude":12.595828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Fredericiagade"
+    ],
+    "name:unk_x_variant":[
+        "Fredericiagade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Fredericiagade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Fredericiagade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":607,
+    "qs:photo_sum":872,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229175
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"43733d682126f8ef14fab4350fa404bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905907,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905907,
+    "wof:lastmodified":1530296533,
+    "wof:name":"Fredericiagade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59445190430012,
+    55.68454802274515,
+    12.5974247013238,
+    55.68650238422738
+],
+  "geometry": {"coordinates":[[[12.59582519530005,55.68650238422738],[12.59650383010336,55.68610110320004],[12.59651184080008,55.68610110320004],[12.59651985149708,55.68610110320004],[12.59702882657319,55.68640206336387],[12.59719848618158,55.68610110265853],[12.59736814638768,55.68580014049719],[12.59735196336919,55.68571402012522],[12.5974247013238,55.68532693370746],[12.59735196265046,55.6849398443501],[12.5971984863001,55.68493984471947],[12.59651184080013,55.68493984470634],[12.59651184080008,55.68455275115845],[12.59582519530016,55.68455275113145],[12.59514654758783,55.68455275170005],[12.59513854980014,55.68454802274515],[12.59513055201245,55.68455275170005],[12.59445190430012,55.68455275170005],[12.59445190430029,55.6849540244652],[12.59445190430012,55.68532693297506],[12.59445190430012,55.68610110107527],[12.59559898262108,55.68610110208449],[12.59582519530005,55.68650238422738]]],"type":"Polygon"}
+}

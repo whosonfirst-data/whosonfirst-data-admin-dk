@@ -1,0 +1,68 @@
+{
+  "id": 1259548977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17904,57.10195,9.17904,57.10195",
+    "geom:latitude":57.10195,
+    "geom:longitude":9.17904,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Terp",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611778,
+    "gn:latitude":57.10195,
+    "gn:longitude":9.17904,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Terp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611778
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"916478946509c81489a03c24157615f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1259548977,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1259548977,
+    "wof:lastmodified":1536765083,
+    "wof:name":"Terp",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17904,
+    57.10195,
+    9.17904,
+    57.10195
+],
+  "geometry": {"coordinates":[9.17904,57.10195],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209175957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18102,55.40422,12.18102,55.40422",
+    "geom:latitude":55.40422,
+    "geom:longitude":12.18102,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"259.0",
+    "gn:asciiname":"Vedskolle",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610657,
+    "gn:latitude":55.40422,
+    "gn:longitude":12.18102,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vedsk\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610657
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aa4165086b31d5f24d08f39a971d5fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209175957
+        }
+    ],
+    "wof:id":1209175957,
+    "wof:lastmodified":1536295422,
+    "wof:name":"Vedskolle",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18102,
+    55.40422,
+    12.18102,
+    55.40422
+],
+  "geometry": {"coordinates":[12.18102,55.40422],"type":"Point"}
+}

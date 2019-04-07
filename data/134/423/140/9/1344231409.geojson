@@ -1,0 +1,68 @@
+{
+  "id": 1344231409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72888,55.42943,11.72888,55.42943",
+    "geom:latitude":55.42943,
+    "geom:longitude":11.72888,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"329.0",
+    "gn:asciiname":"Sigersted",
+    "gn:country_code":"DK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614040,
+    "gn:latitude":55.42943,
+    "gn:longitude":11.72888,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sigersted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297777,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614040
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1159c8d77a8cf8fedace31e132d6aec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297777,
+            "locality_id":1344231409,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1344231409,
+    "wof:lastmodified":1536627215,
+    "wof:name":"Sigersted",
+    "wof:parent_id":1159297777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72888,
+    55.42943,
+    11.72888,
+    55.42943
+],
+  "geometry": {"coordinates":[11.72888,55.42943],"type":"Point"}
+}

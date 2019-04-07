@@ -1,0 +1,72 @@
+{
+  "id": 1209890117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82536,55.00757,10.82536,55.00757",
+    "geom:latitude":55.00757,
+    "geom:longitude":10.82536,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"482.0",
+    "gn:asciiname":"Aso",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624518,
+    "gn:latitude":55.00757,
+    "gn:longitude":10.82536,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5s\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aas\u00f6",
+        "\u00c5s\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624518
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b1493a8334d41def63838ad5cf186ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":1209890117,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1209890117,
+    "wof:lastmodified":1537619895,
+    "wof:name":"Aso",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82536,
+    55.00757,
+    10.82536,
+    55.00757
+],
+  "geometry": {"coordinates":[10.82536,55.00757],"type":"Point"}
+}

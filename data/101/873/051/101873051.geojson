@@ -1,0 +1,99 @@
+{
+  "id": 101873051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.868351,56.549381,9.868351,56.549381",
+    "geom:latitude":56.549381,
+    "geom:longitude":9.868351,
+    "iso:country":"DK",
+    "lbl:latitude":56.549381,
+    "lbl:longitude":9.868351,
+    "mps:latitude":56.549381,
+    "mps:longitude":9.868351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "F\u00e5rup Sommerland"
+    ],
+    "name:deu_x_preferred":[
+        "F\u00e5rup Sommerland"
+    ],
+    "name:fin_x_preferred":[
+        "F\u00e5rupin kes\u00e4puisto"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00e5rup Sommerland"
+    ],
+    "name:nld_x_preferred":[
+        "F\u00e5rup Sommerland"
+    ],
+    "name:nor_x_preferred":[
+        "F\u00e5rup Sommerland"
+    ],
+    "name:unk_x_variant":[
+        "Faarup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"F\u00e5rup",
+    "qs:loc_alt":"Farup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622298,
+        "gp:id":553142,
+        "qs:id":182628,
+        "qs_pg:id":182628
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8a57a4709d9b9fc6d4356f3071728e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":101873051,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101873051,
+    "wof:lastmodified":1544751453,
+    "wof:name":"F\u00e5rup",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.868351,
+    56.549381,
+    9.868351,
+    56.549381
+],
+  "geometry": {"coordinates":[9.868351,56.549381],"type":"Point"}
+}

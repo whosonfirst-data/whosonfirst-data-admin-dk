@@ -1,0 +1,95 @@
+{
+  "id": 1125963889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8252,55.28698,10.8252,55.28698",
+    "geom:latitude":55.28698,
+    "geom:longitude":10.8252,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.28698,
+    "lbl:longitude":10.8252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Slipshavn"
+    ],
+    "name:eng_x_preferred":[
+        "Slipshavn"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613421,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Slipshavn",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":305,
+    "qs_pg:photos_1k":62,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":305,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":221905,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":557196,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613421,
+        "gp:id":557196,
+        "qs_pg:id":221905,
+        "wd:id":"Q12336077"
+    },
+    "wof:country":"DK",
+    "wof:created":1497297900,
+    "wof:geomhash":"82e804a76f5dce06ef81a86c6e4493ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1125963889,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125963889,
+    "wof:lastmodified":1530290988,
+    "wof:name":"Slipshavn",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8252,
+    55.28698,
+    10.8252,
+    55.28698
+],
+  "geometry": {"coordinates":[10.8252,55.28698],"type":"Point"}
+}

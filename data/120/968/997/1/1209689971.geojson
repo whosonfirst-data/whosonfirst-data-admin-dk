@@ -1,0 +1,62 @@
+{
+  "id": 1209689971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10266,55.54299,10.10266,55.54299",
+    "geom:latitude":55.54299,
+    "geom:longitude":10.10266,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Harritslevgard",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620728,
+    "gn:latitude":55.54299,
+    "gn:longitude":10.10266,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Harritslevg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620728
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"84338bc554e8aa73b46127dc82907e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209689971
+        }
+    ],
+    "wof:id":1209689971,
+    "wof:lastmodified":1536279278,
+    "wof:name":"Harritslevgard",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10266,
+    55.54299,
+    10.10266,
+    55.54299
+],
+  "geometry": {"coordinates":[10.10266,55.54299],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 101805719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:bbox":"8.64225223585,56.2562661097,8.66339587118,56.2669821896",
+    "geom:latitude":56.262116,
+    "geom:longitude":8.653636,
+    "iso:country":"DK",
+    "lbl:latitude":56.262041,
+    "lbl:longitude":8.653637,
+    "mps:latitude":56.262041,
+    "mps:longitude":8.653637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Herning",
+    "qs:la_lc":"*DK1082657",
+    "qs:level":"locality",
+    "qs:loc":"S\u00f8rvad",
+    "qs:loc_alt":"Sorvad",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612894,
+        "gp:id":557491,
+        "qs:id":1012270
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"24c4dcb4e01ea2cb92faf3ef376fbcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":101805719,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805719,
+    "wof:lastmodified":1530290394,
+    "wof:name":"S\u00f8rvad",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64225223584901,
+    56.25626610965395,
+    8.66339587118028,
+    56.26698218961087
+],
+  "geometry": {"coordinates":[[[8.65335048814183,56.26698218961087],[8.65341278889412,56.26518497442601],[8.6598620619294,56.26525219509398],[8.65989306063875,56.26435358593625],[8.66150534487838,56.26437034024457],[8.66153630460809,56.26347173078221],[8.6631485528747,56.26348846448337],[8.66339587118028,56.25629959016942],[8.66017197213,56.25626610965395],[8.66011000375732,56.25806332565185],[8.65688596088091,56.25802976272234],[8.65685489961606,56.25892837004193],[8.6487946289497,56.25884410765252],[8.6487633796724,56.25974271288965],[8.64553920604584,56.25970886590079],[8.64550788052253,56.26060747038287],[8.64228363762601,56.26057354184644],[8.64225223584901,56.26147214557119],[8.64386439390319,56.26148912036837],[8.643707545393,56.26598214327021],[8.64693223814209,56.26601603683281],[8.64690093780234,56.26691464271482],[8.65335048814183,56.26698218961087]]],"type":"Polygon"}
+}

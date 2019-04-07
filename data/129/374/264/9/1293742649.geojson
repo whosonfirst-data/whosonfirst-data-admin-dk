@@ -1,0 +1,72 @@
+{
+  "id": 1293742649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46442,55.31753,10.46442,55.31753",
+    "geom:latitude":55.31753,
+    "geom:longitude":10.46442,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Rindebaek",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614797,
+    "gn:latitude":55.31753,
+    "gn:longitude":10.46442,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rindeb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rindb\u00e6k",
+        "Rindeb\u00e6k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614797
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"26e9a096a6cd77342364abee91131e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1293742649,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293742649,
+    "wof:lastmodified":1537619822,
+    "wof:name":"Rindebaek",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46442,
+    55.31753000000001,
+    10.46442,
+    55.31753000000001
+],
+  "geometry": {"coordinates":[10.46442,55.31753000000001],"type":"Point"}
+}

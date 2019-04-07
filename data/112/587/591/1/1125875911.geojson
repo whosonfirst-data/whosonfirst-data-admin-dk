@@ -1,0 +1,91 @@
+{
+  "id": 1125875911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.24384,56.16871,9.24384,56.16871",
+    "geom:latitude":56.16871,
+    "geom:longitude":9.24384,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2104,
+    "gn:population":2104,
+    "iso:country":"DK",
+    "lbl:latitude":56.16871,
+    "lbl:longitude":9.24384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Borring"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623694,
+    "qs_pg:gn_pop":2104,
+    "qs_pg:name":"Bording Kirkeby",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":433758,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552476,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623694,
+        "gp:id":552476,
+        "qs_pg:id":433758
+    },
+    "wof:country":"DK",
+    "wof:created":1497294538,
+    "wof:geomhash":"900aca852b3872f3798ba8828b95fa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1125875911,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125875911,
+    "wof:lastmodified":1530292558,
+    "wof:name":"Bording Kirkeby",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:population":2104,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.24384,
+    56.16871,
+    9.24384,
+    56.16871
+],
+  "geometry": {"coordinates":[9.24384,56.16871],"type":"Point"}
+}

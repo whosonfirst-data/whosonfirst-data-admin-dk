@@ -1,0 +1,110 @@
+{
+  "id": 1126022955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11032,55.14415,15.11032,55.14415",
+    "geom:latitude":55.14415,
+    "geom:longitude":15.11032,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.14415,
+    "lbl:longitude":15.11032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0435\u0434"
+    ],
+    "name:dan_x_preferred":[
+        "Listed"
+    ],
+    "name:dut_x_preferred":[
+        "Listed"
+    ],
+    "name:eng_x_preferred":[
+        "Listed"
+    ],
+    "name:fre_x_preferred":[
+        "Listed"
+    ],
+    "name:ger_x_preferred":[
+        "Listed"
+    ],
+    "name:swe_x_preferred":[
+        "Listed"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617533,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Listed",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":158,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":158,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":313590,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555295,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617533,
+        "gp:id":555295,
+        "qs_pg:id":313590,
+        "wd:id":"Q984923"
+    },
+    "wof:country":"DK",
+    "wof:created":1497300944,
+    "wof:geomhash":"e2a6ee7622cafc6a0fb2383d4c595383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1126022955,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1126022955,
+    "wof:lastmodified":1530291122,
+    "wof:name":"Listed",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11032,
+    55.14415,
+    15.11032,
+    55.14415
+],
+  "geometry": {"coordinates":[15.11032,55.14415],"type":"Point"}
+}

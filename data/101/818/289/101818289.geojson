@@ -1,0 +1,114 @@
+{
+  "id": 101818289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":617155.139006,
+    "geom:bbox":"12.1489765389,55.6902946947,12.1681375823,55.6986481321",
+    "geom:latitude":55.694664,
+    "geom:longitude":12.156795,
+    "iso:country":"DK",
+    "lbl:latitude":55.695404,
+    "lbl:longitude":12.155054,
+    "mps:latitude":55.695404,
+    "mps:longitude":12.155054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Martin \u00c5gerup"
+    ],
+    "name:dut_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:fao_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:fre_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:ger_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:ice_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:kal_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:unk_x_variant":[
+        "Aagerup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Roskilde",
+    "qs:la_lc":"*DK1085265",
+    "qs:level":"locality",
+    "qs:loc":"\u00c5gerup",
+    "qs:loc_alt":"Aagerup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624958,
+        "gp:id":551857,
+        "qs:id":997370,
+        "qs_pg:id":1092494,
+        "wd:id":"Q2177880"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5a7ffe5a5e247d444eb97e8ecd0ed65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":101818289,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818289,
+    "wof:lastmodified":1530292021,
+    "wof:name":"\u00c5gerup",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14897653893473,
+    55.69029469469029,
+    12.16813758228568,
+    55.69864813205538
+],
+  "geometry": {"coordinates":[[[12.16813758228568,55.69383354738403],[12.16803929738705,55.69203707734374],[12.16645074527321,55.69206413217626],[12.16640164277106,55.69116589658455],[12.16481312458581,55.69119293089534],[12.16476406069415,55.69029469469029],[12.16317557643714,55.6903217084801],[12.16322460438045,55.69121994538273],[12.1616360821572,55.69124694004699],[12.16168507680959,55.69214517773156],[12.14897653893473,55.69236042696213],[12.14931756224354,55.69864813205538],[12.15726167205941,55.69851372566734],[12.15721276669251,55.69761548529817],[12.16039032460498,55.69756158534238],[12.16024340865994,55.69486686892293],[12.16183207671236,55.69483989129515],[12.16178307408711,55.69394165335564],[12.16813758228568,55.69383354738403]]],"type":"Polygon"}
+}

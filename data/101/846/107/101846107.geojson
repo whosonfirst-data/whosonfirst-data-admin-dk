@@ -1,0 +1,76 @@
+{
+  "id": 101846107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"9.89783131962,56.4780142805,9.91406057551,56.4905967273",
+    "geom:latitude":56.484116,
+    "geom:longitude":9.907151,
+    "iso:country":"DK",
+    "lbl:latitude":56.484755,
+    "lbl:longitude":9.907704,
+    "mps:latitude":56.484755,
+    "mps:longitude":9.907704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u00d8ster Bj\u00e6rgegrav"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Randers",
+    "qs:la_lc":"*DK1082730",
+    "qs:level":"locality",
+    "qs:loc":"\u00d8ster Bjerregrav",
+    "qs:loc_alt":"Oster Bjerregrav",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615607,
+        "gp:id":556212,
+        "qs:id":243781
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b637d96d98c053682b98bd33ade9ca0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":101846107,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101846107,
+    "wof:lastmodified":1530292289,
+    "wof:name":"\u00d8ster Bjerregrav",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89783131961815,
+    56.47801428052924,
+    9.91406057551092,
+    56.49059672727668
+],
+  "geometry": {"coordinates":[[[9.90754657031556,56.49059672727668],[9.90754872623069,56.48969789811002],[9.90917067671711,56.48969904548045],[9.90917491254874,56.48790138756863],[9.91241866250925,56.48790362126829],[9.91243703738598,56.47981416807829],[9.91405857222202,56.47981525420931],[9.91406057551092,56.47891642684976],[9.91243907847257,56.47891534074768],[9.91244111944565,56.47801651357713],[9.90919820122031,56.47801428052924],[9.90919396797403,56.47981193491194],[9.90595089891951,56.47980962053975],[9.90594651399931,56.4816072754403],[9.90270329411146,56.48160487973513],[9.90270102586118,56.48250370736218],[9.89783608334,56.48249996143579],[9.89783131961815,56.48429761697224],[9.90107476576304,56.48430013469317],[9.9010678460632,56.4869966194014],[9.90431151947217,56.48699905609971],[9.90430705696963,56.4887967135042],[9.90592896945145,56.48879790145776],[9.90592458209716,56.49059555956808],[9.90754657031556,56.49059672727668]]],"type":"Polygon"}
+}

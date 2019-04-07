@@ -1,0 +1,74 @@
+{
+  "id": 1260361109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10633,55.11759,15.10633,55.11759",
+    "geom:latitude":55.11759,
+    "geom:longitude":15.10633,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Ibsker",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619443,
+    "gn:latitude":55.11759,
+    "gn:longitude":15.10633,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ibsker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etsker",
+        "Ibskirke",
+        "Ibsker Kirke",
+        "Ibsker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619443
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d88c40371a52483972bec684994d3c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1260361109,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1260361109,
+    "wof:lastmodified":1537619857,
+    "wof:name":"Ibsker",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10633,
+    55.11759,
+    15.10633,
+    55.11759
+],
+  "geometry": {"coordinates":[15.10633,55.11759],"type":"Point"}
+}

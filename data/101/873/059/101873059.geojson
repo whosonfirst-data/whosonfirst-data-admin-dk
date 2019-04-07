@@ -1,0 +1,117 @@
+{
+  "id": 101873059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3189,56.287208,9.3189,56.287208",
+    "geom:latitude":56.287208,
+    "geom:longitude":9.3189,
+    "iso:country":"DK",
+    "lbl:latitude":56.287208,
+    "lbl:longitude":9.3189,
+    "mps:latitude":56.287208,
+    "mps:longitude":9.3189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Thorning"
+    ],
+    "name:deu_x_preferred":[
+        "Thorning"
+    ],
+    "name:dut_x_preferred":[
+        "Thorning"
+    ],
+    "name:eng_x_preferred":[
+        "Thorning"
+    ],
+    "name:fao_x_preferred":[
+        "Thorning"
+    ],
+    "name:fre_x_preferred":[
+        "Thorning"
+    ],
+    "name:ger_x_preferred":[
+        "Thorning"
+    ],
+    "name:ice_x_preferred":[
+        "Thorning"
+    ],
+    "name:kal_x_preferred":[
+        "Thorning"
+    ],
+    "name:nld_x_preferred":[
+        "Thorning"
+    ],
+    "name:nno_x_preferred":[
+        "Thorning"
+    ],
+    "name:nob_x_preferred":[
+        "Thorning"
+    ],
+    "name:swe_x_preferred":[
+        "Thorning"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Thorning",
+    "qs:loc_alt":"Thorning",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611436,
+        "gp:id":558122,
+        "qs:id":3,
+        "wd:id":"Q1911961"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"41fc6e6fa50cc8b3f2fc198490db2029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":101873059,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101873059,
+    "wof:lastmodified":1544751458,
+    "wof:name":"Thorning",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3189,
+    56.287208,
+    9.3189,
+    56.287208
+],
+  "geometry": {"coordinates":[9.3189,56.287208],"type":"Point"}
+}

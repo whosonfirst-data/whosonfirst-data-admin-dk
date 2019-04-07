@@ -1,0 +1,72 @@
+{
+  "id": 1226113797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14503,55.79159,12.14503,55.79159",
+    "geom:latitude":55.79159,
+    "geom:longitude":12.14503,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"240.0",
+    "gn:asciiname":"Olstykke Stationsby",
+    "gn:country_code":"DK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615729,
+    "gn:latitude":55.79159,
+    "gn:longitude":12.14503,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"\u00d8lstykke Stationsby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8lstykke",
+        "\u00d8lstykke Stationsby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297851,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615729
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dcdb9ce577e300cf8c23f250a4676e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297851,
+            "locality_id":1226113797,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1226113797,
+    "wof:lastmodified":1537619830,
+    "wof:name":"Olstykke Stationsby",
+    "wof:parent_id":1159297851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14503,
+    55.79159,
+    12.14503,
+    55.79159
+],
+  "geometry": {"coordinates":[12.14503,55.79159],"type":"Point"}
+}

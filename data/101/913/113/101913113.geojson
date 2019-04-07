@@ -1,0 +1,88 @@
+{
+  "id": 101913113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:bbox":"14.9593046971,55.2038143404,14.970023816,55.2154028181",
+    "geom:latitude":55.208874,
+    "geom:longitude":14.965066,
+    "iso:country":"DK",
+    "lbl:latitude":55.205537,
+    "lbl:longitude":14.963391,
+    "mps:latitude":55.205537,
+    "mps:longitude":14.963391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Oluf H\u00f8st"
+    ],
+    "name:nor_x_preferred":[
+        "Oluf H\u00f8st"
+    ],
+    "name:swe_x_preferred":[
+        "Oluf H\u00f8st"
+    ],
+    "name:unk_x_variant":[
+        "Gudhjem Nordlige Havn"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"3",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Bornholm",
+    "qs:la_lc":"*DK1084400",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rresand",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616261,
+        "gp:id":555933,
+        "qs:id":470679,
+        "qs_pg:id":470679
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3e2a58e9c08d381a1a9fe337ceb8a89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":101913113,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101913113,
+    "wof:lastmodified":1530291120,
+    "wof:name":"N\u00f8rresand",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95930469707133,
+    55.20381434036432,
+    14.97002381600021,
+    55.21540281814686
+],
+  "geometry": {"coordinates":[[[[14.97002381600021,55.21347829834622],[14.96952887205089,55.21259730214189],[14.96656690414011,55.21271428373501],[14.96667755313763,55.21361046192305],[14.96511055563343,55.21367232049818],[14.96522117590797,55.21456850020479],[14.96678820804476,55.21450664006045],[14.96689886886213,55.21540281814686],[14.96846593115436,55.21534093694851],[14.96835523570331,55.21444476043206],[14.96992225888158,55.2143828613199],[14.9698115347104,55.21348668632294],[14.97002381600021,55.21347829834622]]],[[[14.9670541420108,55.20819230279847],[14.96507432784415,55.20466824968446],[14.96400467774089,55.20471052063192],[14.9638941224265,55.20381434036432],[14.96232750128752,55.2038761622033],[14.96243802198893,55.20477234403893],[14.95930469707133,55.204895932417],[14.95941515444383,55.20579211733599],[14.96098185375314,55.20573033131933],[14.96109235164079,55.20662651462027],[14.96422580607913,55.20650288101342],[14.96433637910417,55.20739906112738],[14.96590313423138,55.20733721353577],[14.96601374778101,55.20823339202985],[14.9670541420108,55.20819230279847]]]],"type":"MultiPolygon"}
+}

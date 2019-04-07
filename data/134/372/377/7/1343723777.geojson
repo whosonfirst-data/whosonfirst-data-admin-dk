@@ -1,0 +1,68 @@
+{
+  "id": 1343723777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7796,55.29447,11.7796,55.29447",
+    "geom:latitude":55.29447,
+    "geom:longitude":11.7796,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Hjulebaek",
+    "gn:country_code":"DK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620178,
+    "gn:latitude":55.29447,
+    "gn:longitude":11.7796,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hjuleb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620178
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fe47c5fd6d8a61c630e8f6ef569cf8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1343723777,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343723777,
+    "wof:lastmodified":1536862546,
+    "wof:name":"Hjulebaek",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7796,
+    55.29447,
+    11.7796,
+    55.29447
+],
+  "geometry": {"coordinates":[11.7796,55.29447],"type":"Point"}
+}

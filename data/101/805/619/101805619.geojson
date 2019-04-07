@@ -1,0 +1,114 @@
+{
+  "id": 101805619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:area_square_m":1124579.214864,
+    "geom:bbox":"8.17064702046,56.6100201952,8.19166924002,56.6235889517",
+    "geom:latitude":56.617383,
+    "geom:longitude":8.181243,
+    "gn:population":1745,
+    "iso:country":"DK",
+    "lbl:latitude":56.617277,
+    "lbl:longitude":8.181243,
+    "mps:latitude":56.617277,
+    "mps:longitude":8.181243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re Kommune"
+    ],
+    "name:fao_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re kommuna"
+    ],
+    "name:ita_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re"
+    ],
+    "name:nld_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re"
+    ],
+    "name:nor_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Thybor\u00f8n-Harbo\u00f8re"
+    ],
+    "name:por_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Thybor\u00f8n-Harbo\u00f8re"
+    ],
+    "name:swe_x_preferred":[
+        "Thybor\u00f8n-Harbo\u00f8re kommun"
+    ],
+    "name:unk_x_variant":[
+        "Harbo\u00f8r"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Lemvig",
+    "qs:la_lc":"*DK1082665",
+    "qs:level":"locality",
+    "qs:loc":"Harbo\u00f8re",
+    "qs:loc_alt":"Harboore",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297919,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620767,
+        "gp:id":553847,
+        "qs:id":1036731,
+        "qs_pg:id":1036731
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bc5188052dbdb69113554f4801849d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297919,
+            "locality_id":101805619,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805619,
+    "wof:lastmodified":1530292489,
+    "wof:name":"Harbo\u00f8re",
+    "wof:parent_id":1159297919,
+    "wof:placetype":"locality",
+    "wof:population":1745,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.17064702045997,
+    56.61002019516388,
+    8.19166924002138,
+    56.62358895174742
+],
+  "geometry": {"coordinates":[[[8.1866183384696,56.62358895174742],[8.18666082329486,56.62269043223836],[8.19154214243167,56.62275847857791],[8.19166924002138,56.62006291551558],[8.18841525392412,56.6200175752889],[8.18850012613859,56.61822053641737],[8.18687321193062,56.61819783695393],[8.18708554143234,56.61370524543293],[8.18545881934267,56.61368252862383],[8.18558630283525,56.61098697733019],[8.18395969671201,56.61096424196887],[8.18400222452834,56.61006572577696],[8.18074909379339,56.61002019516388],[8.1807064898764,56.61091871014293],[8.17582669317119,56.61085025964661],[8.17561306715135,56.61534282767389],[8.1723594978389,56.61529708607907],[8.17231668937211,56.61619559891597],[8.170689869375,56.61617269695319],[8.17064702045997,56.61707120932982],[8.17227387852142,56.61709411190299],[8.1722310652865,56.61799262504013],[8.17385796322964,56.61801550785168],[8.17377240574569,56.61981253579631],[8.17539938164225,56.61983539945447],[8.17522839038571,56.62342945958574],[8.17848265222619,56.62347513065106],[8.17852532745275,56.62257661417527],[8.18503372051703,56.62266770937526],[8.18499119761111,56.62356622827883],[8.1866183384696,56.62358895174742]]],"type":"Polygon"}
+}

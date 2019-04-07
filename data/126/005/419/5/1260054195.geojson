@@ -1,0 +1,72 @@
+{
+  "id": 1260054195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93632,54.90703,9.93632,54.90703",
+    "geom:latitude":54.90703,
+    "geom:longitude":9.93632,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Mintebjerg",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616886,
+    "gn:latitude":54.90703,
+    "gn:longitude":9.93632,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mintebjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mintebj\u00e6rg",
+        "Mintebjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616886
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"178622fbc118451c6b3d2ff02fba86b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1260054195,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1260054195,
+    "wof:lastmodified":1537619839,
+    "wof:name":"Mintebjerg",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93632,
+    54.90703000000001,
+    9.93632,
+    54.90703000000001
+],
+  "geometry": {"coordinates":[9.93632,54.90703000000001],"type":"Point"}
+}

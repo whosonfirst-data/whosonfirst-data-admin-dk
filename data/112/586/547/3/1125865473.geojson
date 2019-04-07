@@ -1,0 +1,104 @@
+{
+  "id": 1125865473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.50446,55.99348,12.50446,55.99348",
+    "geom:latitude":55.99348,
+    "geom:longitude":12.50446,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.99348,
+    "lbl:longitude":12.50446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:dut_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:eng_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:fre_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:unk_x_variant":[
+        "Kvistgaard"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2618091,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kvistg\u00e5rd",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1184467,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555066,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297819,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618091,
+        "gp:id":555066,
+        "qs_pg:id":1184467,
+        "wd:id":"Q2236093"
+    },
+    "wof:country":"DK",
+    "wof:created":1497294018,
+    "wof:geomhash":"46f2fd54c03a7aa10f38f380bf6320eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297819,
+            "locality_id":1125865473,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125865473,
+    "wof:lastmodified":1530291494,
+    "wof:name":"Kvistg\u00e5rd",
+    "wof:parent_id":1159297819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.50446,
+    55.99348,
+    12.50446,
+    55.99348
+],
+  "geometry": {"coordinates":[12.50446,55.99348],"type":"Point"}
+}

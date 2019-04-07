@@ -1,0 +1,111 @@
+{
+  "id": 101817277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:area_square_m":1393384.463898,
+    "geom:bbox":"10.4584285044,56.2955774259,10.4874265456,56.3073558527",
+    "geom:latitude":56.30115,
+    "geom:longitude":10.4738,
+    "gn:population":2213,
+    "iso:country":"DK",
+    "lbl:latitude":56.300544,
+    "lbl:longitude":10.477874,
+    "mps:latitude":56.300544,
+    "mps:longitude":10.477874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:dan_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:nor_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:por_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Syddjurs",
+    "qs:la_lc":"*DK1082706",
+    "qs:level":"locality",
+    "qs:loc":"R\u00f8nde",
+    "qs:loc_alt":"Ronde",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614565,
+        "gp:id":556697,
+        "qs:id":278955,
+        "qs_pg:id":278955,
+        "wd:id":"Q1993774",
+        "wk:page":"R\u00f8nde"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0bcc74811c9ab3ea83476552e8b192cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":101817277,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101817277,
+    "wof:lastmodified":1530296423,
+    "wof:name":"R\u00f8nde",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:population":2213,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45842850438618,
+    56.2955774259076,
+    10.48742654558538,
+    56.30735585270929
+],
+  "geometry": {"coordinates":[[[10.46973837319621,56.30461887508909],[10.47458090180652,56.30460115207973],[10.47459189576796,56.30549992732597],[10.48104874367391,56.30547601326856],[10.48103760014993,56.30457723865294],[10.4826517735703,56.30457120980566],[10.48264059327306,56.30367243549682],[10.48425472883537,56.30366638661292],[10.48424351176914,56.30276761261121],[10.48585760947441,56.30276154369164],[10.4858125978771,56.29916644980079],[10.48742654558538,56.29916036132846],[10.48741525686324,56.29826158838478],[10.48580134653076,56.29826767669664],[10.48579009580561,56.29736890373999],[10.4841762223748,56.29737497169924],[10.48415379752902,56.2955774259076],[10.47285719361378,56.29561933403897],[10.47286814413781,56.29651810796605],[10.46964046411858,56.29652990031059],[10.46965134050316,56.29742867469599],[10.46642358391296,56.29744038658328],[10.46646679643595,56.30103548683456],[10.46485276795033,56.30104131310469],[10.46486353518952,56.30194008869],[10.46002133487804,56.30195744679304],[10.46004264682529,56.30375499932228],[10.45842850438618,56.30376074527015],[10.45847098577281,56.30735585270929],[10.46169956933932,56.30734433940307],[10.46168887332283,56.30644556262507],[10.46330312703822,56.30643977582776],[10.46329239421931,56.30554099935017],[10.46974925498591,56.30551765080304],[10.46973837319621,56.30461887508909]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326495035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11218,55.33332,12.11218,55.33332",
+    "geom:latitude":55.33332,
+    "geom:longitude":12.11218,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Kaederup",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618986,
+    "gn:latitude":55.33332,
+    "gn:longitude":12.11218,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"K\u00e6derup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297811,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618986
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4300b27eae0aab07c85b80b648972469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297811,
+            "locality_id":1326495035,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1326495035,
+    "wof:lastmodified":1537036163,
+    "wof:name":"Kaederup",
+    "wof:parent_id":1159297811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11218,
+    55.33331999999999,
+    12.11218,
+    55.33331999999999
+],
+  "geometry": {"coordinates":[12.11218,55.33331999999999],"type":"Point"}
+}

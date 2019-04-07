@@ -1,0 +1,82 @@
+{
+  "id": 1125972057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.327564,57.150814,9.327564,57.150814",
+    "geom:latitude":57.150814,
+    "geom:longitude":9.327564,
+    "gn:gn_country":"DK",
+    "iso:country":"DK",
+    "lbl:latitude":57.150814,
+    "lbl:longitude":9.327564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:name":"Sanden",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":212,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":212,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":234078,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20099488,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20099488,
+        "qs_pg:id":234078
+    },
+    "wof:country":"DK",
+    "wof:created":1497298208,
+    "wof:geomhash":"28c4775650074153e97f9ddb827ffa6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1125972057,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1125972057,
+    "wof:lastmodified":1530292382,
+    "wof:name":"Sanden",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.327564,
+    57.150814,
+    9.327564,
+    57.150814
+],
+  "geometry": {"coordinates":[9.327564,57.150814],"type":"Point"}
+}

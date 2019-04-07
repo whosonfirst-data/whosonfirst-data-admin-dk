@@ -1,0 +1,68 @@
+{
+  "id": 1260258941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9061,55.99018,11.9061,55.99018",
+    "geom:latitude":55.99018,
+    "geom:longitude":11.9061,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"260.0",
+    "gn:asciiname":"Hald",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620923,
+    "gn:latitude":55.99018,
+    "gn:longitude":11.9061,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hald",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297739,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620923
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fbe15768411e7864e4909b1c376d03ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297739,
+            "locality_id":1260258941,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1260258941,
+    "wof:lastmodified":1536744802,
+    "wof:name":"Hald",
+    "wof:parent_id":1159297739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9061,
+    55.99018,
+    11.9061,
+    55.99018
+],
+  "geometry": {"coordinates":[11.9061,55.99018],"type":"Point"}
+}

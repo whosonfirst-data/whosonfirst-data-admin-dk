@@ -1,0 +1,68 @@
+{
+  "id": 1226218441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06904,56.4096,10.06904,56.4096",
+    "geom:latitude":56.4096,
+    "geom:longitude":10.06904,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"730.0",
+    "gn:asciiname":"Sonder Borup",
+    "gn:country_code":"DK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613098,
+    "gn:latitude":56.4096,
+    "gn:longitude":10.06904,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Borup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613098
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b205a32123fb4611d2a80ed7ae06192e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1226218441,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226218441,
+    "wof:lastmodified":1536972647,
+    "wof:name":"Sonder Borup",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06904,
+    56.4096,
+    10.06904,
+    56.4096
+],
+  "geometry": {"coordinates":[10.06904,56.4096],"type":"Point"}
+}

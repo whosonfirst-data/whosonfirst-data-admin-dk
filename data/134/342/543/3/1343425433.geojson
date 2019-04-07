@@ -1,0 +1,68 @@
+{
+  "id": 1343425433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.86742,55.48346,8.86742,55.48346",
+    "geom:latitude":55.48346,
+    "geom:longitude":8.86742,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Sonder Lovrup",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613008,
+    "gn:latitude":55.48346,
+    "gn:longitude":8.86742,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Lovrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613008
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0ee42a29b710676696ce19cb8555fef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1343425433,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343425433,
+    "wof:lastmodified":1536797104,
+    "wof:name":"Sonder Lovrup",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.86742,
+    55.48346,
+    8.86742,
+    55.48346
+],
+  "geometry": {"coordinates":[8.86742,55.48346],"type":"Point"}
+}

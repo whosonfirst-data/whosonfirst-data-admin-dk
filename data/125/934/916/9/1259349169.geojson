@@ -1,0 +1,72 @@
+{
+  "id": 1259349169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7011,55.77043,9.7011,55.77043",
+    "geom:latitude":55.77043,
+    "geom:longitude":9.7011,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Hedensted",
+    "gn:country_code":"DK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2620583,
+    "gn:latitude":55.77043,
+    "gn:longitude":9.7011,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Hedensted",
+    "gn:population":10048,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620583,
+        "wk:page":"Hedensted"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ddb156fd40d18b3fa61182cfd294f683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":1259349169,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259349169,
+    "wof:lastmodified":1537504214,
+    "wof:name":"Hedensted",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:population":10048,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7011,
+    55.77043000000001,
+    9.7011,
+    55.77043000000001
+],
+  "geometry": {"coordinates":[9.7011,55.77043000000001],"type":"Point"}
+}

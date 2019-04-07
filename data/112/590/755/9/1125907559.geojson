@@ -1,0 +1,104 @@
+{
+  "id": 1125907559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35,55.61667,12.35,55.61667",
+    "geom:latitude":55.61667,
+    "geom:longitude":12.35,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.61667,
+    "lbl:longitude":12.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Br\u00f8ndby Strand"
+    ],
+    "name:dut_x_preferred":[
+        "Br\u00f8ndby Strand"
+    ],
+    "name:eng_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:nob_x_preferred":[
+        "Br\u00f8ndby Strand"
+    ],
+    "name:swe_x_preferred":[
+        "Br\u00f8ndby Strand"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623341,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Br\u00f8ndby Strand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":456,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":456,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263098,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552661,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297793,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623341,
+        "gp:id":552661,
+        "qs_pg:id":1263098,
+        "wd:id":"Q3359606"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296036,
+    "wof:geomhash":"271ef57d8f8a3581f5be9642d9a319a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297793,
+            "locality_id":1125907559,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125907559,
+    "wof:lastmodified":1530291274,
+    "wof:name":"Br\u00f8ndby Strand",
+    "wof:parent_id":1159297793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35,
+    55.61667,
+    12.35,
+    55.61667
+],
+  "geometry": {"coordinates":[12.35,55.61667],"type":"Point"}
+}

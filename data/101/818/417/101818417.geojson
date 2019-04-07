@@ -1,0 +1,108 @@
+{
+  "id": 101818417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":935670.405586,
+    "geom:bbox":"12.227121313,55.7499965691,12.2510366701,55.7593140633",
+    "geom:latitude":55.754085,
+    "geom:longitude":12.2387,
+    "gn:population":1921,
+    "iso:country":"DK",
+    "lbl:latitude":55.75373,
+    "lbl:longitude":12.239896,
+    "mps:latitude":55.75373,
+    "mps:longitude":12.239896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:dan_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:dut_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:eng_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:nno_x_preferred":[
+        "Viks\u00f8"
+    ],
+    "name:nob_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "Veks\u00f8"
+    ],
+    "name:unk_x_variant":[
+        "Viks\u00f8"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Egedal",
+    "qs:la_lc":"*DK1084240",
+    "qs:level":"locality",
+    "qs:loc":"Veks\u00f8",
+    "qs:loc_alt":"Vekso",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":274,
+    "wof:belongsto":[
+        102191581,
+        1159297851,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610566,
+        "gp:id":558563,
+        "qs:id":278943,
+        "qs_pg:id":278943,
+        "wd:id":"Q7918750",
+        "wk:page":"Veks\u00f8"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1edaa3941bf323f6056576d959aec295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297851,
+            "locality_id":101818417,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101818417,
+    "wof:lastmodified":1530296458,
+    "wof:name":"Veks\u00f8",
+    "wof:parent_id":1159297851,
+    "wof:placetype":"locality",
+    "wof:population":1921,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.22712131299033,
+    55.74999656912325,
+    12.25103667013082,
+    55.75931406330159
+],
+  "geometry": {"coordinates":[[[12.24949679656669,55.75445952448638],[12.24944570025622,55.7535613184412],[12.25103667013082,55.75353322168053],[12.25093441368466,55.751736811304],[12.24934351596357,55.75176490661056],[12.24929242798009,55.75086670082504],[12.24770156422596,55.75089477554877],[12.24765051508984,55.74999656912325],[12.23810550483813,55.75016459614113],[12.23815633753992,55.75106280691426],[12.23179281113386,55.75117443070184],[12.2318435022957,55.75207264445021],[12.22866165439211,55.75212833864703],[12.22871227615241,55.75302655392375],[12.22712131299033,55.75305437195658],[12.227171901421,55.75395258804014],[12.23035389781683,55.7538969306766],[12.2305058961033,55.75659157512945],[12.22891479069801,55.75661941590164],[12.22906670549304,55.75931406330159],[12.23384034024116,55.75923047491665],[12.23378959095055,55.75833226119283],[12.2369719314691,55.75827643774295],[12.2369211127579,55.75737822555124],[12.24169449954383,55.75729434359528],[12.24164357533391,55.75639613366144],[12.24482575051843,55.75634011450876],[12.24477475690713,55.75544190611168],[12.24795685150991,55.75538580897461],[12.24790578850542,55.75448760211606],[12.24949679656669,55.75445952448638]]],"type":"Polygon"}
+}

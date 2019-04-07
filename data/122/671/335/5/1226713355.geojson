@@ -1,0 +1,68 @@
+{
+  "id": 1226713355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50463,56.09147,9.50463,56.09147",
+    "geom:latitude":56.09147,
+    "geom:longitude":9.50463,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Hjortsballe",
+    "gn:country_code":"DK",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620187,
+    "gn:latitude":56.09147,
+    "gn:longitude":9.50463,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hjortsballe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620187
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4612622dd0589c20419afc9f58e5a648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1226713355,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226713355,
+    "wof:lastmodified":1536762690,
+    "wof:name":"Hjortsballe",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50463,
+    56.09147,
+    9.50463,
+    56.09147
+],
+  "geometry": {"coordinates":[9.50463,56.09147],"type":"Point"}
+}

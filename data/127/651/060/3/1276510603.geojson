@@ -1,0 +1,72 @@
+{
+  "id": 1276510603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0942,55.90874,12.0942,55.90874",
+    "geom:latitude":55.90874,
+    "geom:longitude":12.0942,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"260.0",
+    "gn:asciiname":"Lille Havelse",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617693,
+    "gn:latitude":55.90874,
+    "gn:longitude":12.0942,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lille Havelse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lille Hagelse",
+        "Lille Havelse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297739,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617693
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9c869b9a19a1c36a173370d8c60baae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297739,
+            "locality_id":1276510603,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1276510603,
+    "wof:lastmodified":1537619844,
+    "wof:name":"Lille Havelse",
+    "wof:parent_id":1159297739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0942,
+    55.90874,
+    12.0942,
+    55.90874
+],
+  "geometry": {"coordinates":[12.0942,55.90874],"type":"Point"}
+}

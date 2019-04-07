@@ -1,0 +1,72 @@
+{
+  "id": 1310179297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.45179,54.98872,9.45179,54.98872",
+    "geom:latitude":54.98872,
+    "geom:longitude":9.45179,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Sonder Hostrup",
+    "gn:country_code":"DK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613030,
+    "gn:latitude":54.98872,
+    "gn:longitude":9.45179,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f8nder Hostrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f8ndre Hostrup",
+        "S\u00f8nder Hostrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613030
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2ce5d22398b5291d4be36f033b308e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1310179297,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310179297,
+    "wof:lastmodified":1537619807,
+    "wof:name":"Sonder Hostrup",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.45179,
+    54.98872,
+    9.45179,
+    54.98872
+],
+  "geometry": {"coordinates":[9.45179,54.98872],"type":"Point"}
+}

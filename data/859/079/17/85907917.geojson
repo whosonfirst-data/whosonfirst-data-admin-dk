@@ -1,0 +1,114 @@
+{
+  "id": 85907917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":41572989.539464,
+    "geom:bbox":"9.906393,57.041527,9.906393,57.041527",
+    "geom:latitude":57.041527,
+    "geom:longitude":9.906393,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":57.041527,
+    "lbl:longitude":9.906393,
+    "mps:latitude":57.024958,
+    "mps:longitude":9.879003,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:dan_x_preferred":[
+        "Aalborg SV"
+    ],
+    "name:eng_x_preferred":[
+        "Aalborg South West"
+    ],
+    "name:eng_x_variant":[
+        "Aalborg South West"
+    ],
+    "name:unk_x_variant":[
+        "Aalborg SV"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2624886,
+    "qs:gn_nam_loc":"Aalborg, Aalborg, Nordjylland, DK",
+    "qs:gn_namadm1":"19",
+    "qs:local_max":2276,
+    "qs:local_sum":4583,
+    "qs:localhoods":3,
+    "qs:name":"Aalborg SV",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Nordjylland",
+    "qs:name_adm2":"Aalborg",
+    "qs:name_en":"Aalborg South West",
+    "qs:name_local":"Aalborg",
+    "qs:photo_max":183,
+    "qs:photo_sum":2276,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":116,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362579,
+    "qs:woe_adm2":12582734,
+    "qs:woe_lau":0,
+    "qs:woe_local":551890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682593,
+        102191581,
+        1159297743,
+        85633121,
+        101749169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875613,
+        "qs:id":1115819,
+        "qs_pg:id":1115819
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f94609c696206ccc623383973a36d9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101749169,
+            "neighbourhood_id":85907917,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":85907917,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531936654,
+    "wof:name":"Aalborg SV",
+    "wof:parent_id":101749169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.906393,
+    57.041527,
+    9.906393,
+    57.041527
+],
+  "geometry": {"coordinates":[9.906393,57.041527],"type":"Point"}
+}

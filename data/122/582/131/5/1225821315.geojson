@@ -1,0 +1,68 @@
+{
+  "id": 1225821315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69498,56.36366,8.69498,56.36366",
+    "geom:latitude":56.36366,
+    "geom:longitude":8.69498,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Mejrup",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616978,
+    "gn:latitude":56.36366,
+    "gn:longitude":8.69498,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Mejrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616978
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6c3ccfe6a612ae6a4a0e702aaa8e3fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1225821315,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1225821315,
+    "wof:lastmodified":1537047006,
+    "wof:name":"Mejrup",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69498,
+    56.36366,
+    8.69498,
+    56.36366
+],
+  "geometry": {"coordinates":[8.69498,56.36366],"type":"Point"}
+}

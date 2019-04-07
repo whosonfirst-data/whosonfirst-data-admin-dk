@@ -1,0 +1,72 @@
+{
+  "id": 1293356589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05496,56.82613,9.05496,56.82613",
+    "geom:latitude":56.82613,
+    "geom:longitude":9.05496,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Engelst",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2622511,
+    "gn:latitude":56.82613,
+    "gn:longitude":9.05496,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Engelst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engels",
+        "Engelst"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622511
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c47047e77972f123fd4475e8384a1d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1293356589,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293356589,
+    "wof:lastmodified":1537619880,
+    "wof:name":"Engelst",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05496,
+    56.82613000000001,
+    9.05496,
+    56.82613000000001
+],
+  "geometry": {"coordinates":[9.05496,56.82613000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260240527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37708,55.75892,9.37708,55.75892",
+    "geom:latitude":55.75892,
+    "geom:longitude":9.37708,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Molvang",
+    "gn:country_code":"DK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616782,
+    "gn:latitude":55.75892,
+    "gn:longitude":9.37708,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00f8lvang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f6lvang Gaard",
+        "M\u00f8lvang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616782
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f4351eda68afa68095d32ad966a1444c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1260240527,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1260240527,
+    "wof:lastmodified":1537619839,
+    "wof:name":"Molvang",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37708,
+    55.75892,
+    9.37708,
+    55.75892
+],
+  "geometry": {"coordinates":[9.37708,55.75892],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101805621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000204,
+    "geom:bbox":"8.7716257038,55.9302641325,8.79547530338,55.9492860722",
+    "geom:latitude":55.940364,
+    "geom:longitude":8.783748,
+    "iso:country":"DK",
+    "lbl:latitude":55.940091,
+    "lbl:longitude":8.781941,
+    "mps:latitude":55.940091,
+    "mps:longitude":8.781941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:dan_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:deu_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:fin_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:fra_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:nor_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "name:pol_x_preferred":[
+        "Niels Holst-S\u00f8rensen"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Herning",
+    "qs:la_lc":"*DK1082657",
+    "qs:level":"locality",
+    "qs:loc":"S\u00f8nder Felding",
+    "qs:loc_alt":"Sonder Felding",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613064,
+        "gp:id":557351,
+        "qs:id":182752,
+        "qs_pg:id":182752
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ff169aa94b80b71649410ca6457bdb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":101805621,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805621,
+    "wof:lastmodified":1530290393,
+    "wof:name":"S\u00f8nder Felding",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77162570379863,
+    55.9302641325234,
+    8.79547530338226,
+    55.94928607217793
+],
+  "geometry": {"coordinates":[[[8.78927176916613,55.94203694759608],[8.78935482314068,55.93934116562104],[8.79255277964313,55.93937138065399],[8.79260799522706,55.93757419168588],[8.78621237915706,55.93751368486176],[8.78643435021672,55.93032494630057],[8.78003992160257,55.9302641325234],[8.77990047047513,55.93475708532418],[8.77830168356587,55.93474182996272],[8.77824581937756,55.93653901110991],[8.77664696055569,55.93652373497792],[8.77653506769946,55.9401180970911],[8.77333706120606,55.94008748171012],[8.77328095941743,55.94188466187751],[8.77168188482113,55.94186932342109],[8.77162570379863,55.94366650326054],[8.77802230157596,55.94372774040318],[8.7779664068587,55.94552492390494],[8.78756177696567,55.94561618497158],[8.78745084669288,55.94921056290411],[8.79544775136861,55.94928607217793],[8.79547530338226,55.94838747554991],[8.79387595671898,55.9483724140544],[8.79393112935486,55.94657522193836],[8.79233185696245,55.94656014124575],[8.79241471428452,55.94386435513803],[8.79081555271159,55.9438492556439],[8.79087085648632,55.94205206628283],[8.78927176916613,55.94203694759608]]],"type":"Polygon"}
+}

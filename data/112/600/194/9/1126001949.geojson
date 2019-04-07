@@ -1,0 +1,98 @@
+{
+  "id": 1126001949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11283,56.19376,10.11283,56.19376",
+    "geom:latitude":56.19376,
+    "geom:longitude":10.11283,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.19376,
+    "lbl:longitude":10.11283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Tilst"
+    ],
+    "name:eng_x_preferred":[
+        "Tilst"
+    ],
+    "name:unk_x_variant":[
+        "Tiilst"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2611720,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tilst",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":323,
+    "qs_pg:photos_1k":65,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":323,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":243261,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":557990,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611720,
+        "gp:id":557990,
+        "qs_pg:id":243261,
+        "wd:id":"Q7802966"
+    },
+    "wof:country":"DK",
+    "wof:created":1497299703,
+    "wof:geomhash":"3163f94def796ad1412aaf706826327b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1126001949,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1126001949,
+    "wof:lastmodified":1530291308,
+    "wof:name":"Tilst",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11283,
+    56.19376,
+    10.11283,
+    56.19376
+],
+  "geometry": {"coordinates":[10.11283,56.19376],"type":"Point"}
+}

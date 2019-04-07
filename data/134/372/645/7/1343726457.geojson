@@ -1,0 +1,72 @@
+{
+  "id": 1343726457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17179,55.8403,9.17179,55.8403",
+    "geom:latitude":55.8403,
+    "geom:longitude":9.17179,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Sondersthoved",
+    "gn:country_code":"DK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2612949,
+    "gn:latitude":55.8403,
+    "gn:longitude":9.17179,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f8ndersthoved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6nderhoved",
+        "S\u00f8ndersthoved"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612949
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d381c0e5e9f82435c0aea903e8e48f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1343726457,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343726457,
+    "wof:lastmodified":1537619806,
+    "wof:name":"Sondersthoved",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17179,
+    55.8403,
+    9.17179,
+    55.8403
+],
+  "geometry": {"coordinates":[9.17179,55.8403],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226418335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76084,56.5391,8.76084,56.5391",
+    "geom:latitude":56.5391,
+    "geom:longitude":8.76084,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Geddal",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621563,
+    "gn:latitude":56.5391,
+    "gn:longitude":8.76084,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Geddal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621563
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"90ec52f09467da56f735db30b05f5e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1226418335,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226418335,
+    "wof:lastmodified":1536685033,
+    "wof:name":"Geddal",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76084,
+    56.5391,
+    8.76084,
+    56.5391
+],
+  "geometry": {"coordinates":[8.76084,56.5391],"type":"Point"}
+}

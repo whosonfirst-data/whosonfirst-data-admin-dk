@@ -1,0 +1,91 @@
+{
+  "id": 1125999267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46306,57.51497,10.46306,57.51497",
+    "geom:latitude":57.51497,
+    "geom:longitude":10.46306,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":57.51497,
+    "lbl:longitude":10.46306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bratten"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623520,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bratten Strand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":38160,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552590,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297889,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623520,
+        "gp:id":552590,
+        "qs_pg:id":38160
+    },
+    "wof:country":"DK",
+    "wof:created":1497299547,
+    "wof:geomhash":"4c074f6af8b893fb81993e28b506448b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297889,
+            "locality_id":1125999267,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1125999267,
+    "wof:lastmodified":1530292125,
+    "wof:name":"Bratten Strand",
+    "wof:parent_id":1159297889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46306,
+    57.51497,
+    10.46306,
+    57.51497
+],
+  "geometry": {"coordinates":[10.46306,57.51497],"type":"Point"}
+}

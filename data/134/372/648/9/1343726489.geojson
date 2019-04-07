@@ -1,0 +1,75 @@
+{
+  "id": 1343726489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21076,55.37348,10.21076,55.37348",
+    "geom:latitude":55.37348,
+    "geom:longitude":10.21076,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"461.0",
+    "gn:asciiname":"Hesbjerg",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620399,
+    "gn:latitude":55.37348,
+    "gn:longitude":10.21076,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Hesbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hesbjerg Huse",
+        "Hesbj\u00e6rg Huse",
+        "Hesbj\u00e6rg",
+        "Hesbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620399
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"922d3d7b2acc3a9149231e2745c1943a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":1343726489,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343726489,
+    "wof:lastmodified":1537619864,
+    "wof:name":"Hesbjerg",
+    "wof:parent_id":1159297847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21076,
+    55.37348000000001,
+    10.21076,
+    55.37348000000001
+],
+  "geometry": {"coordinates":[10.21076,55.37348000000001],"type":"Point"}
+}

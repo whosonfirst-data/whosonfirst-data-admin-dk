@@ -1,0 +1,76 @@
+{
+  "id": 101818405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:bbox":"12.1913868336,55.8820819282,12.2043078525,55.8893228419",
+    "geom:latitude":55.885373,
+    "geom:longitude":12.198073,
+    "iso:country":"DK",
+    "lbl:latitude":55.884836,
+    "lbl:longitude":12.19755,
+    "mps:latitude":55.884836,
+    "mps:longitude":12.19755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Hiller\u00f8d",
+    "qs:la_lc":"*DK1084219",
+    "qs:level":"locality",
+    "qs:loc":"G\u00f8rl\u00f8se",
+    "qs:loc_alt":"Gorlose",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297779,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621303,
+        "gp:id":553594,
+        "qs:id":900924,
+        "qs_pg:id":900924
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dca5f83df4e88a5ba1113a982503edba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297779,
+            "locality_id":101818405,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101818405,
+    "wof:lastmodified":1530291086,
+    "wof:name":"G\u00f8rl\u00f8se",
+    "wof:parent_id":1159297779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.19138683361672,
+    55.88208192815756,
+    12.2043078524826,
+    55.88932284193226
+],
+  "geometry": {"coordinates":[[[12.20281202918358,55.88834213192894],[12.2027114861711,55.88654564385047],[12.2043078524826,55.88651811751828],[12.20410665387192,55.8829251453754],[12.20091421012506,55.88298017238395],[12.20086399005856,55.88208192815756],[12.19447922308018,55.88219174013005],[12.19452929768522,55.88308998721033],[12.19293306438715,55.88311739108542],[12.19298310535515,55.88401563897412],[12.19138683361672,55.88404302362812],[12.19158687928706,55.88763601899154],[12.19797253576144,55.88752634937435],[12.19807286598945,55.88932284193226],[12.20126582727858,55.88926788465511],[12.20121558803862,55.8883696397566],[12.20281202918358,55.88834213192894]]],"type":"Polygon"}
+}

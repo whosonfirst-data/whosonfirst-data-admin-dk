@@ -1,0 +1,68 @@
+{
+  "id": 1276629043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55037,55.23526,9.55037,55.23526",
+    "geom:latitude":55.23526,
+    "geom:longitude":9.55037,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Lunding",
+    "gn:country_code":"DK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617297,
+    "gn:latitude":55.23526,
+    "gn:longitude":9.55037,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Lunding",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617297
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"492f90acc408f0e2b7e790859bafa2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":1276629043,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276629043,
+    "wof:lastmodified":1536879104,
+    "wof:name":"Lunding",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55037,
+    55.23526,
+    9.55037,
+    55.23526
+],
+  "geometry": {"coordinates":[9.55037,55.23526],"type":"Point"}
+}

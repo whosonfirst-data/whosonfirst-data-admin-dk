@@ -1,0 +1,68 @@
+{
+  "id": 1242752389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14628,55.23936,12.14628,55.23936",
+    "geom:latitude":55.23936,
+    "geom:longitude":12.14628,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Rejnstrup",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2614876,
+    "gn:latitude":55.23936,
+    "gn:longitude":12.14628,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Rejnstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297811,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614876
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e862f4345ef1ce1e7593df3fed292a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297811,
+            "locality_id":1242752389,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1242752389,
+    "wof:lastmodified":1536811481,
+    "wof:name":"Rejnstrup",
+    "wof:parent_id":1159297811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14628,
+    55.23936,
+    12.14628,
+    55.23936
+],
+  "geometry": {"coordinates":[12.14628,55.23936],"type":"Point"}
+}

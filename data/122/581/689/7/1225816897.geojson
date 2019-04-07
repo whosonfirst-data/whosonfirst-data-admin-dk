@@ -1,0 +1,74 @@
+{
+  "id": 1225816897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34636,56.04975,12.34636,56.04975",
+    "geom:latitude":56.04975,
+    "geom:longitude":12.34636,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Kirke-Esbonderup",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618888,
+    "gn:latitude":56.04975,
+    "gn:longitude":12.34636,
+    "gn:modification_date":"2011-03-24",
+    "gn:name":"Kirke-Esb\u00f8nderup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esb\u00f6nderup",
+        "Kirke-Esb\u00f8nderup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618888,
+        "wk:page":"Esb%C3%B8nderup"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"643e2be0b79650a4d74b60e31bd5c9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":1225816897,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1225816897,
+    "wof:lastmodified":1537619853,
+    "wof:name":"Kirke-Esbonderup",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34636,
+    56.04975,
+    12.34636,
+    56.04975
+],
+  "geometry": {"coordinates":[12.34636,56.04975],"type":"Point"}
+}

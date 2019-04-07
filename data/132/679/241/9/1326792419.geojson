@@ -1,0 +1,68 @@
+{
+  "id": 1326792419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.59828,55.8047,11.59828,55.8047",
+    "geom:latitude":55.8047,
+    "geom:longitude":11.59828,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"306.0",
+    "gn:asciiname":"Herrestrup",
+    "gn:country_code":"DK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620417,
+    "gn:latitude":55.8047,
+    "gn:longitude":11.59828,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Herrestrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297935,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620417
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c410285dff837786177d6a3ab17b7357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297935,
+            "locality_id":1326792419,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1326792419,
+    "wof:lastmodified":1536606186,
+    "wof:name":"Herrestrup",
+    "wof:parent_id":1159297935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59828,
+    55.8047,
+    11.59828,
+    55.8047
+],
+  "geometry": {"coordinates":[11.59828,55.8047],"type":"Point"}
+}

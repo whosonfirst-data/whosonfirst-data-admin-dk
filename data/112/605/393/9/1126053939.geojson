@@ -1,0 +1,104 @@
+{
+  "id": 1126053939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66844,54.99868,9.66844,54.99868",
+    "geom:latitude":54.99868,
+    "geom:longitude":9.66844,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.99868,
+    "lbl:longitude":9.66844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ballebro"
+    ],
+    "name:dut_x_preferred":[
+        "Ballebro"
+    ],
+    "name:eng_x_preferred":[
+        "Ballebro"
+    ],
+    "name:fre_x_preferred":[
+        "Ballebro"
+    ],
+    "name:ger_x_preferred":[
+        "Ballebro"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2624356,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballebro",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":978096,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552193,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624356,
+        "gp:id":552193,
+        "qs_pg:id":978096,
+        "wd:id":"Q12302794"
+    },
+    "wof:country":"DK",
+    "wof:created":1497302965,
+    "wof:geomhash":"cff00fa92d0312a85164939e86abfc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1126053939,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1126053939,
+    "wof:lastmodified":1530291994,
+    "wof:name":"Ballebro",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66844,
+    54.99868,
+    9.66844,
+    54.99868
+],
+  "geometry": {"coordinates":[9.66844,54.99868],"type":"Point"}
+}

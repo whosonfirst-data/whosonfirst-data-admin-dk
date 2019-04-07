@@ -1,0 +1,68 @@
+{
+  "id": 1343233633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11416,55.89775,12.11416,55.89775",
+    "geom:latitude":55.89775,
+    "geom:longitude":12.11416,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"219.0",
+    "gn:asciiname":"Strolille",
+    "gn:country_code":"DK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612208,
+    "gn:latitude":55.89775,
+    "gn:longitude":12.11416,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Str\u00f8lille",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297779,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612208
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7766a4724732e3665298e4849bc70f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297779,
+            "locality_id":1343233633,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1343233633,
+    "wof:lastmodified":1537070731,
+    "wof:name":"Strolille",
+    "wof:parent_id":1159297779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11416,
+    55.89775,
+    12.11416,
+    55.89775
+],
+  "geometry": {"coordinates":[12.11416,55.89775],"type":"Point"}
+}

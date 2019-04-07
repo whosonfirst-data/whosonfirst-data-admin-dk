@@ -1,0 +1,87 @@
+{
+  "id": 1125934231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77399,55.23592,10.77399,55.23592",
+    "geom:latitude":55.23592,
+    "geom:longitude":10.77399,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.23592,
+    "lbl:longitude":10.77399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Taarup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2611848,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"T\u00e5rup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":557927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611848,
+        "gp:id":557927,
+        "qs_pg:id":182767
+    },
+    "wof:country":"DK",
+    "wof:created":1497296911,
+    "wof:geomhash":"c9d7eed43661d99ed90cd1dca17b0d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1125934231,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125934231,
+    "wof:lastmodified":1530290988,
+    "wof:name":"T\u00e5rup",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77399,
+    55.23592,
+    10.77399,
+    55.23592
+],
+  "geometry": {"coordinates":[10.77399,55.23592],"type":"Point"}
+}

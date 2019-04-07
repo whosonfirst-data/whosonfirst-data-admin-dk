@@ -1,0 +1,123 @@
+{
+  "id": 101847783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.00004,
+    "geom:area_square_m":278704.053978,
+    "geom:bbox":"12.164233271,55.8260377112,12.1773318498,55.8332237333",
+    "geom:latitude":55.830563,
+    "geom:longitude":12.169723,
+    "gn:population":6829,
+    "iso:country":"DK",
+    "lbl:latitude":55.830916,
+    "lbl:longitude":12.169723,
+    "mps:latitude":55.830916,
+    "mps:longitude":12.169723,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Slangerup"
+    ],
+    "name:dan_x_preferred":[
+        "Slangerup"
+    ],
+    "name:eng_x_preferred":[
+        "Slangerup"
+    ],
+    "name:est_x_preferred":[
+        "Slangerup"
+    ],
+    "name:fao_x_preferred":[
+        "Slangerup"
+    ],
+    "name:fra_x_preferred":[
+        "Slangerup"
+    ],
+    "name:ita_x_preferred":[
+        "Slangerup"
+    ],
+    "name:nld_x_preferred":[
+        "Slangerup"
+    ],
+    "name:nor_x_preferred":[
+        "Slangerup"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Slangerup"
+    ],
+    "name:por_x_preferred":[
+        "Slangerup"
+    ],
+    "name:swe_x_preferred":[
+        "Slangerup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Frederikssund",
+    "qs:la_lc":"*DK1084250",
+    "qs:level":"locality",
+    "qs:loc":"Slangerup",
+    "qs:loc_alt":"Slangerup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":55.8467,
+    "wd:longitude":12.1761,
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191581,
+        1159297729,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613451,
+        "gp:id":554568,
+        "qs:id":4,
+        "wd:id":"Q3617406",
+        "wk:page":"Slangerup"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c447640854ac02d06f3b8c3ad77ed90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297729,
+            "locality_id":101847783,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101847783,
+    "wof:lastmodified":1534985888,
+    "wof:name":"Slangerup",
+    "wof:parent_id":1159297729,
+    "wof:placetype":"locality",
+    "wof:population":6829,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[
+        1175611407
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16423327097215,
+    55.82603771123479,
+    12.17733184978874,
+    55.83322373332896
+],
+  "geometry": {"coordinates":[[[12.16781610460475,55.83319666783888],[12.16776672640577,55.83229841545227],[12.17733184978874,55.83213560874407],[12.17723266640633,55.83033911269951],[12.17563855680112,55.83036629549969],[12.17558900541093,55.82946804691198],[12.16602452231689,55.82963072153512],[12.16582721364671,55.82603771123479],[12.16423327097215,55.82606475120792],[12.1645783355961,55.83235252512435],[12.16617253202111,55.83232548024034],[12.16622187396194,55.83322373332896],[12.16781610460475,55.83319666783888]]],"type":"Polygon"}
+}

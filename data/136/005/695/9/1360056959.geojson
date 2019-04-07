@@ -1,0 +1,72 @@
+{
+  "id": 1360056959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47021,55.72592,12.47021,55.72592",
+    "geom:latitude":55.72592,
+    "geom:longitude":12.47021,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"159.0",
+    "gn:asciiname":"Morkhoj",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616768,
+    "gn:latitude":55.72592,
+    "gn:longitude":12.47021,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"M\u00f8rkh\u00f8j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f8rkh\u00f8j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297873,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616768,
+        "wk:page":"M%C3%B8rkh%C3%B8j"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"00678e66aba3ba7c63782fb93b0d8444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297873,
+            "locality_id":1360056959,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1360056959,
+    "wof:lastmodified":1537619839,
+    "wof:name":"Morkhoj",
+    "wof:parent_id":1159297873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47021,
+    55.72592,
+    12.47021,
+    55.72592
+],
+  "geometry": {"coordinates":[12.47021,55.72592],"type":"Point"}
+}

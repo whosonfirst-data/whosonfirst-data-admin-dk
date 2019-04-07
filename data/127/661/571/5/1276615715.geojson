@@ -1,0 +1,68 @@
+{
+  "id": 1276615715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12164,54.79076,11.12164,54.79076",
+    "geom:latitude":54.79076,
+    "geom:longitude":11.12164,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Brydebolle",
+    "gn:country_code":"DK",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623275,
+    "gn:latitude":54.79076,
+    "gn:longitude":11.12164,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Brydeb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623275
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"211d79d3d50a4ea5f5ab255fdf9b1c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1276615715,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1276615715,
+    "wof:lastmodified":1536897750,
+    "wof:name":"Brydebolle",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12164,
+    54.79076,
+    11.12164,
+    54.79076
+],
+  "geometry": {"coordinates":[11.12164,54.79076],"type":"Point"}
+}

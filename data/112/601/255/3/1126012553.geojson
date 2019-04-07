@@ -1,0 +1,105 @@
+{
+  "id": 1126012553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72125,55.52253,9.72125,55.52253",
+    "geom:latitude":55.52253,
+    "geom:longitude":9.72125,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2371,
+    "gn:population":2371,
+    "iso:country":"DK",
+    "lbl:latitude":55.52253,
+    "lbl:longitude":9.72125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Snogh\u00f8j"
+    ],
+    "name:dut_x_preferred":[
+        "Snogh\u00f8j"
+    ],
+    "name:eng_x_preferred":[
+        "Snogh\u00f8j"
+    ],
+    "name:swe_x_preferred":[
+        "Snogh\u00f8j"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613293,
+    "qs_pg:gn_pop":2371,
+    "qs_pg:name":"Snogh\u00f8j",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":211,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":211,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":246702,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":557264,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297769,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613293,
+        "gp:id":557264,
+        "qs_pg:id":246702,
+        "wd:id":"Q2253859"
+    },
+    "wof:country":"DK",
+    "wof:created":1497300360,
+    "wof:geomhash":"03d919e7a86efb012ff5e8ceebe882e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297769,
+            "locality_id":1126012553,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1126012553,
+    "wof:lastmodified":1530291051,
+    "wof:name":"Snogh\u00f8j",
+    "wof:parent_id":1159297769,
+    "wof:placetype":"locality",
+    "wof:population":2371,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72125,
+    55.52253,
+    9.72125,
+    55.52253
+],
+  "geometry": {"coordinates":[9.72125,55.52253],"type":"Point"}
+}

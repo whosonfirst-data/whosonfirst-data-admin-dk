@@ -1,0 +1,68 @@
+{
+  "id": 1242850721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94827,55.10796,14.94827,55.10796",
+    "geom:latitude":55.10796,
+    "geom:longitude":14.94827,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Svinemose",
+    "gn:country_code":"DK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941486,
+    "gn:latitude":55.10796,
+    "gn:longitude":14.94827,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Svinemose",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941486
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"35f530f82090f2b539702c0b11654296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1242850721,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1242850721,
+    "wof:lastmodified":1536670294,
+    "wof:name":"Svinemose",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94827,
+    55.10796,
+    14.94827,
+    55.10796
+],
+  "geometry": {"coordinates":[14.94827,55.10796],"type":"Point"}
+}

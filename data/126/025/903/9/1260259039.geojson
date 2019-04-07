@@ -1,0 +1,68 @@
+{
+  "id": 1260259039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41908,55.89374,12.41908,55.89374",
+    "geom:latitude":55.89374,
+    "geom:longitude":12.41908,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"210.0",
+    "gn:asciiname":"Donse",
+    "gn:country_code":"DK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622983,
+    "gn:latitude":55.89374,
+    "gn:longitude":12.41908,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Donse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297817,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622983
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5d3b24dcf5685218f6033f1ceac936fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297817,
+            "locality_id":1260259039,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1260259039,
+    "wof:lastmodified":1536744679,
+    "wof:name":"Donse",
+    "wof:parent_id":1159297817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41908,
+    55.89374,
+    12.41908,
+    55.89374
+],
+  "geometry": {"coordinates":[12.41908,55.89374],"type":"Point"}
+}

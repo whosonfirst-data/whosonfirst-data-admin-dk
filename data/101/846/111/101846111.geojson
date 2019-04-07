@@ -1,0 +1,104 @@
+{
+  "id": 101846111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":1094640.064776,
+    "geom:bbox":"9.21634994098,56.8919803849,9.23940833312,56.9009975808",
+    "geom:latitude":56.896877,
+    "geom:longitude":9.227916,
+    "iso:country":"DK",
+    "lbl:latitude":56.897335,
+    "lbl:longitude":9.227916,
+    "mps:latitude":56.897335,
+    "mps:longitude":9.227916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Ranum"
+    ],
+    "name:deu_x_preferred":[
+        "Ranum"
+    ],
+    "name:dut_x_preferred":[
+        "Ranum"
+    ],
+    "name:eng_x_preferred":[
+        "Ranum"
+    ],
+    "name:fre_x_preferred":[
+        "Ranum"
+    ],
+    "name:ger_x_preferred":[
+        "Ranum"
+    ],
+    "name:nld_x_preferred":[
+        "Ranum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043d\u0443\u043c"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Vesthimmerland",
+    "qs:la_lc":"*DK1081820",
+    "qs:level":"locality",
+    "qs:loc":"Ranum",
+    "qs:loc_alt":"Ranum",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":204,
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614977,
+        "gp:id":556502,
+        "qs:id":1335403,
+        "qs_pg:id":1335403,
+        "wd:id":"Q984847",
+        "wk:page":"Ranum"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"757a973af549bf32960e2635798127e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":101846111,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101846111,
+    "wof:lastmodified":1530296476,
+    "wof:name":"Ranum",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21634994097741,
+    56.89198038486234,
+    9.23940833312452,
+    56.90099758083034
+],
+  "geometry": {"coordinates":[[[9.23764298085268,56.90008918180484],[9.23773317562416,56.89559493410235],[9.23937233985822,56.89560448149507],[9.23940833312452,56.89380678318452],[9.23776924644159,56.89379723630549],[9.23780531320824,56.89199953924157],[9.23452729724397,56.89198038486234],[9.23450918682681,56.89287923278732],[9.23287014123582,56.8928696245149],[9.23285199102969,56.89376847236457],[9.22137842232871,56.89370063723413],[9.22139684393869,56.89280179120954],[9.21647972831562,56.89277241154423],[9.21634994097741,56.89906433203021],[9.21962856016262,56.8990839427168],[9.21961009252237,56.8999827897614],[9.22124944208798,56.89999256453723],[9.22123101219961,56.90089141202844],[9.23926433579919,56.90099758083034],[9.23928233900324,56.90009873048206],[9.23764298085268,56.90008918180484]]],"type":"Polygon"}
+}

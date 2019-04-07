@@ -1,0 +1,68 @@
+{
+  "id": 1259558027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.57655,55.63624,11.57655,55.63624",
+    "geom:latitude":55.63624,
+    "geom:longitude":11.57655,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Kagerup",
+    "gn:country_code":"DK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619205,
+    "gn:latitude":55.63624,
+    "gn:longitude":11.57655,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kagerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619205
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d42234e956452c04149d8b98cdb3c5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1259558027,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259558027,
+    "wof:lastmodified":1536751530,
+    "wof:name":"Kagerup",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.57655,
+    55.63624,
+    11.57655,
+    55.63624
+],
+  "geometry": {"coordinates":[11.57655,55.63624],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277135935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.19638,55.66806,9.19638,55.66806",
+    "geom:latitude":55.66806,
+    "geom:longitude":9.19638,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Frederikshab",
+    "gn:country_code":"DK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621929,
+    "gn:latitude":55.66806,
+    "gn:longitude":9.19638,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Frederiksh\u00e5b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frederikshaab",
+        "Frederiksh\u00e5b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621929
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f1376e136bca7a73b7d53cc6336f3e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1277135935,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277135935,
+    "wof:lastmodified":1537619876,
+    "wof:name":"Frederikshab",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.19638,
+    55.66806,
+    9.19638,
+    55.66806
+],
+  "geometry": {"coordinates":[9.19638,55.66806],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1126004323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14617,56.48454,9.14617,56.48454",
+    "geom:latitude":56.48454,
+    "geom:longitude":9.14617,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2202,
+    "gn:population":2202,
+    "iso:country":"DK",
+    "lbl:latitude":56.48454,
+    "lbl:longitude":9.14617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u043e\u0445\u043e\u043b\u043c"
+    ],
+    "name:dan_x_preferred":[
+        "Stoholm"
+    ],
+    "name:dut_x_preferred":[
+        "Stoholm"
+    ],
+    "name:eng_x_preferred":[
+        "Stoholm"
+    ],
+    "name:swe_x_preferred":[
+        "Stoholm"
+    ],
+    "name:unk_x_variant":[
+        "Stoholm"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2612529,
+    "qs_pg:gn_pop":2202,
+    "qs_pg:name":"Stokholm",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":278949,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306299,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612529,
+        "gp:id":29306299,
+        "qs_pg:id":278949,
+        "wd:id":"Q2311042"
+    },
+    "wof:country":"DK",
+    "wof:created":1497299841,
+    "wof:geomhash":"f2f70f5a0976faeea07ee3fbe6fe91af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1126004323,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1126004323,
+    "wof:lastmodified":1530291534,
+    "wof:name":"Stokholm",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:population":2202,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14617,
+    56.48454,
+    9.14617,
+    56.48454
+],
+  "geometry": {"coordinates":[9.14617,56.48454],"type":"Point"}
+}

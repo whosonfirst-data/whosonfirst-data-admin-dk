@@ -1,0 +1,73 @@
+{
+  "id": 101805721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:bbox":"9.76669708103,56.1749469868,9.78441570311,56.1812440682",
+    "geom:latitude":56.177884,
+    "geom:longitude":9.776027,
+    "iso:country":"DK",
+    "lbl:latitude":56.1781,
+    "lbl:longitude":9.776027,
+    "mps:latitude":56.1781,
+    "mps:longitude":9.776027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Silkeborg",
+    "qs:la_lc":"*DK1082740",
+    "qs:level":"locality",
+    "qs:loc":"Sorring",
+    "qs:loc_alt":"Sorring",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612861,
+        "gp:id":556943,
+        "qs:id":182735
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5261316337be41d61ff4304c1e633e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":101805721,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805721,
+    "wof:lastmodified":1530291063,
+    "wof:name":"Sorring",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76669708102702,
+    56.17494698678689,
+    9.78441570311213,
+    56.18124406821312
+],
+  "geometry": {"coordinates":[[[9.77472637211559,56.18124406821312],[9.7747315675856,56.18034529530212],[9.78116776967119,56.18035640361779],[9.7811728164246,56.17945763055593],[9.78439084452458,56.1794630638297],[9.78441570311213,56.17496919991811],[9.78119804602773,56.17496376735755],[9.78119300066237,56.17586253971598],[9.77475754064784,56.17585143285868],[9.77476273440334,56.17495266079197],[9.77154507988769,56.17494698678689],[9.77153981193788,56.17584575870455],[9.76832208410917,56.17584000406674],[9.76831139893784,56.17763754802166],[9.76670246115697,56.17763464036886],[9.76669708102702,56.17853341248087],[9.76830605591158,56.17853632021024],[9.76829536897685,56.18033386500946],[9.77312251760361,56.18034246791416],[9.77311728502411,56.18124124075092],[9.77472637211559,56.18124406821312]]],"type":"Polygon"}
+}

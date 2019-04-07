@@ -1,0 +1,68 @@
+{
+  "id": 1310566075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72769,54.78521,11.72769,54.78521",
+    "geom:latitude":54.78521,
+    "geom:longitude":11.72769,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Krungerup",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618154,
+    "gn:latitude":54.78521,
+    "gn:longitude":11.72769,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Krungerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618154
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5b469be74ee2a3f00c9f7a94c3295f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1310566075,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1310566075,
+    "wof:lastmodified":1536828717,
+    "wof:name":"Krungerup",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72769,
+    54.78521,
+    11.72769,
+    54.78521
+],
+  "geometry": {"coordinates":[11.72769,54.78521],"type":"Point"}
+}

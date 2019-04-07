@@ -1,0 +1,68 @@
+{
+  "id": 1310167365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25608,55.6241,11.25608,55.6241",
+    "geom:latitude":55.6241,
+    "geom:longitude":11.25608,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"326.0",
+    "gn:asciiname":"Kelleklinte",
+    "gn:country_code":"DK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618963,
+    "gn:latitude":55.6241,
+    "gn:longitude":11.25608,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kelleklinte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618963
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"667ba0db923d07dc1500f4191e36493c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":1310167365,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1310167365,
+    "wof:lastmodified":1536907742,
+    "wof:name":"Kelleklinte",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25608,
+    55.6241,
+    11.25608,
+    55.6241
+],
+  "geometry": {"coordinates":[11.25608,55.6241],"type":"Point"}
+}

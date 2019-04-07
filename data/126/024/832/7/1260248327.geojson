@@ -1,0 +1,68 @@
+{
+  "id": 1260248327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18945,56.335,10.18945,56.335",
+    "geom:latitude":56.335,
+    "geom:longitude":10.18945,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"706.0",
+    "gn:asciiname":"Halling",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620881,
+    "gn:latitude":56.335,
+    "gn:longitude":10.18945,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Halling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620881
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0864f735dbe8b26699d2efb24f3b6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":1260248327,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1260248327,
+    "wof:lastmodified":1536759769,
+    "wof:name":"Halling",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18945,
+    56.335,
+    10.18945,
+    56.335
+],
+  "geometry": {"coordinates":[10.18945,56.335],"type":"Point"}
+}

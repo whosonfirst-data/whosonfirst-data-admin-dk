@@ -1,0 +1,68 @@
+{
+  "id": 1310565613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.03481,55.40955,10.03481,55.40955",
+    "geom:latitude":55.40955,
+    "geom:longitude":10.03481,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Haekkebolle",
+    "gn:country_code":"DK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620175,
+    "gn:latitude":55.40955,
+    "gn:longitude":10.03481,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"H\u00e6kkeb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620175
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"25edb71ed7f2c18aa2de5df2643984eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1310565613,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310565613,
+    "wof:lastmodified":1536829355,
+    "wof:name":"Haekkebolle",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03481,
+    55.40955,
+    10.03481,
+    55.40955
+],
+  "geometry": {"coordinates":[10.03481,55.40955],"type":"Point"}
+}

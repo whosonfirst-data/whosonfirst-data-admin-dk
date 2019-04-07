@@ -1,0 +1,122 @@
+{
+  "id": 1126060429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.40996,55.65029,12.40996,55.65029",
+    "geom:latitude":55.65029,
+    "geom:longitude":12.40996,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.65029,
+    "lbl:longitude":12.40996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Br\u00f8ndby"
+    ],
+    "name:dut_x_preferred":[
+        "Br\u00f8ndbyvester"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u00f8ndby"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u00f8ndbyvester"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30f3\u30d3\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Brionbis"
+    ],
+    "name:may_x_preferred":[
+        "Br\u00f8ndbyvester"
+    ],
+    "name:pol_x_preferred":[
+        "Br\u00f8ndby"
+    ],
+    "name:swe_x_preferred":[
+        "Br\u00f8ndbyvester"
+    ],
+    "name:tur_x_preferred":[
+        "Br\u00f8ndbyvester"
+    ],
+    "name:unk_x_variant":[
+        "West Br\u00f6ndby"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2623340,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Br\u00f8ndbyvester",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":913,
+    "qs_pg:photos_1k":185,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":913,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552663,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297871,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623340,
+        "gp:id":552663,
+        "qs_pg:id":1074204,
+        "wd:id":"Q979259"
+    },
+    "wof:country":"DK",
+    "wof:created":1497304141,
+    "wof:geomhash":"0477b903d2e66d360f0eb63570c959e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297871,
+            "locality_id":1126060429,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1126060429,
+    "wof:lastmodified":1530291971,
+    "wof:name":"Br\u00f8ndbyvester",
+    "wof:parent_id":1159297871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40996,
+    55.65029,
+    12.40996,
+    55.65029
+],
+  "geometry": {"coordinates":[12.40996,55.65029],"type":"Point"}
+}

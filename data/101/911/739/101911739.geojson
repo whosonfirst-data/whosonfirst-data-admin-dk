@@ -1,0 +1,96 @@
+{
+  "id": 101911739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:bbox":"12.0837488212,55.6904352805,12.1060842806,55.6970107246",
+    "geom:latitude":55.694346,
+    "geom:longitude":12.094826,
+    "iso:country":"DK",
+    "lbl:latitude":55.695061,
+    "lbl:longitude":12.094826,
+    "mps:latitude":55.695061,
+    "mps:longitude":12.094826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ris\u00f8"
+    ],
+    "name:dan_x_preferred":[
+        "Ris\u00f8 DTU"
+    ],
+    "name:deu_x_preferred":[
+        "Ris\u00f8 DTU"
+    ],
+    "name:fra_x_preferred":[
+        "Laboratoire national Ris\u00f8"
+    ],
+    "name:pol_x_preferred":[
+        "Du\u0144ski O\u015brodek Naukowy Ris\u00f8"
+    ],
+    "name:spa_x_preferred":[
+        "Ris\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "Forskningscenter Ris\u00f8"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Roskilde",
+    "qs:la_lc":"*DK1085265",
+    "qs:level":"locality",
+    "qs:loc":"Forskningscenter Ris\u00f8",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306160,
+        "qs:id":1314778,
+        "qs_pg:id":1314778
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7fddbe2c76e3b7e1a984ff968d230439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":101911739,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101911739,
+    "wof:lastmodified":1530292023,
+    "wof:name":"Forskningscenter Ris\u00f8",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08374882122143,
+    55.69043528052515,
+    12.10608428058896,
+    55.69701072459992
+],
+  "geometry": {"coordinates":[[[12.0872098379844,55.69698467813538],[12.08716252290202,55.69608640791341],[12.09192879483027,55.69600815157548],[12.09197621780856,55.6969064197761],[12.10309770232055,55.69672312297314],[12.10305002759077,55.69582485950701],[12.10463876728863,55.69579859561838],[12.1044956507348,55.69310380777392],[12.10608428058896,55.6930775260949],[12.10598881058002,55.69128100265431],[12.10281169272798,55.69133354347326],[12.10276403351133,55.69043528052515],[12.10117550759378,55.69046152052061],[12.10131838513644,55.69315631165625],[12.09337518685226,55.69328722441833],[12.09332773820512,55.69238895723907],[12.08538467087163,55.6925193709946],[12.08533740457568,55.69162110053378],[12.08374882122143,55.69164712313722],[12.0839849985407,55.69613847966957],[12.085573761695,55.6961124537051],[12.08562104081165,55.69701072459992],[12.0872098379844,55.69698467813538]]],"type":"Polygon"}
+}

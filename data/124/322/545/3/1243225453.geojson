@@ -1,0 +1,68 @@
+{
+  "id": 1243225453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.87318,55.71093,11.87318,55.71093",
+    "geom:latitude":55.71093,
+    "geom:longitude":11.87318,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"350.0",
+    "gn:asciiname":"Kyndelose",
+    "gn:country_code":"DK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618060,
+    "gn:latitude":55.71093,
+    "gn:longitude":11.87318,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kyndel\u00f8se",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297805,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618060
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2a3307b04e3d79d0cc86e9a74f3d6847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297805,
+            "locality_id":1243225453,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1243225453,
+    "wof:lastmodified":1536625365,
+    "wof:name":"Kyndelose",
+    "wof:parent_id":1159297805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.87318,
+    55.71093000000001,
+    11.87318,
+    55.71093000000001
+],
+  "geometry": {"coordinates":[11.87318,55.71093000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243513429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61231,55.27703,10.61231,55.27703",
+    "geom:latitude":55.27703,
+    "geom:longitude":10.61231,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"450.0",
+    "gn:asciiname":"Mare",
+    "gn:country_code":"DK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617086,
+    "gn:latitude":55.27703,
+    "gn:longitude":10.61231,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"M\u00e5re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617086
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5facba03085ed11e63690caeb5bc7519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1243513429,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243513429,
+    "wof:lastmodified":1536709369,
+    "wof:name":"Mare",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61231,
+    55.27703,
+    10.61231,
+    55.27703
+],
+  "geometry": {"coordinates":[10.61231,55.27703],"type":"Point"}
+}

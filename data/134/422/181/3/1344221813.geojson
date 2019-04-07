@@ -1,0 +1,72 @@
+{
+  "id": 1344221813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92544,55.03254,11.92544,55.03254",
+    "geom:latitude":55.03254,
+    "geom:longitude":11.92544,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Ornebjerg",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615375,
+    "gn:latitude":55.03254,
+    "gn:longitude":11.92544,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ornebjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ornebj\u00e6rg",
+        "Ornebjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615375
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0dd707a9d40abc462993c8505a723481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1344221813,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1344221813,
+    "wof:lastmodified":1537619827,
+    "wof:name":"Ornebjerg",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92544,
+    55.03254,
+    11.92544,
+    55.03254
+],
+  "geometry": {"coordinates":[11.92544,55.03254],"type":"Point"}
+}

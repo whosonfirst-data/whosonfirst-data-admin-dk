@@ -1,0 +1,111 @@
+{
+  "id": 101818211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1254315.338867,
+    "geom:bbox":"10.3856017945,55.2929001019,10.4045151827,55.3099547816",
+    "geom:latitude":55.302347,
+    "geom:longitude":10.395214,
+    "iso:country":"DK",
+    "lbl:latitude":55.301874,
+    "lbl:longitude":10.395859,
+    "mps:latitude":55.301874,
+    "mps:longitude":10.395859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:dan_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:deu_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f8rre Lyndelse"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rre Lyndelse"
+    ],
+    "name:fra_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d4"
+    ],
+    "name:lat_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:nno_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:nor_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:pol_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "name:spa_x_preferred":[
+        "Ly\u00f8"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Faaborg-Midtfyn",
+    "qs:la_lc":"*DK1083430",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rre Lyndelse",
+    "qs:loc_alt":"Norre Lyndelse",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616289,
+        "gp:id":555875,
+        "qs:id":927630,
+        "wd:id":"Q3200002"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0fd0de5d55dfa160db658c9f7e5a7b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":101818211,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101818211,
+    "wof:lastmodified":1530292050,
+    "wof:name":"N\u00f8rre Lyndelse",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38560179447666,
+    55.29290010191346,
+    10.40451518272386,
+    55.30995478164505
+],
+  "geometry": {"coordinates":[[[10.40295924994678,55.30993979752265],[10.40294122504412,55.30814249429318],[10.40451518272386,55.3081374605926],[10.4045061357985,55.30723880923381],[10.40293221331819,55.30724384280592],[10.40292320207647,55.30634519140358],[10.40134931442691,55.30635020522419],[10.401322389185,55.30365425114235],[10.40289617125302,55.30364923770526],[10.40286914478236,55.30095328476881],[10.40129546827893,55.30095829782221],[10.40125060973435,55.29646504397823],[10.39810360744053,55.29647500995469],[10.39809470752613,55.29557635918457],[10.39180083930574,55.29559605522559],[10.39177456448397,55.29290010191346],[10.39020120204879,55.2929049765084],[10.39020992468335,55.29380362765266],[10.38863652672347,55.29380848275599],[10.38865390305216,55.29560578554418],[10.39022737135639,55.29560093019342],[10.39027972261397,55.30099283983856],[10.38713236349236,55.30100253240624],[10.38717565051843,55.30549579400457],[10.38560179447666,55.30550061147278],[10.3856104180802,55.30639926416956],[10.3871843093176,55.30639444657845],[10.38720162831112,55.3081917519811],[10.38877558959422,55.30818691452032],[10.38876689466503,55.30728826189994],[10.39506259544453,55.30726871631504],[10.39507143117243,55.30816736843684],[10.39821934981001,55.30815747765121],[10.39823716349866,55.30995478164505],[10.40295924994678,55.30993979752265]]],"type":"Polygon"}
+}

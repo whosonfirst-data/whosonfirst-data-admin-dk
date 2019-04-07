@@ -1,0 +1,68 @@
+{
+  "id": 1259547929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75153,55.39424,8.75153,55.39424",
+    "geom:latitude":55.39424,
+    "geom:longitude":8.75153,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"561.0",
+    "gn:asciiname":"Brokaer",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623361,
+    "gn:latitude":55.39424,
+    "gn:longitude":8.75153,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Brok\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623361
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3913936fe736b8a1729aff86e1dc2585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":1259547929,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1259547929,
+    "wof:lastmodified":1536766639,
+    "wof:name":"Brokaer",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75153,
+    55.39424,
+    8.75153,
+    55.39424
+],
+  "geometry": {"coordinates":[8.75153,55.39424],"type":"Point"}
+}

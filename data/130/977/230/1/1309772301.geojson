@@ -1,0 +1,68 @@
+{
+  "id": 1309772301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41254,55.87765,8.41254,55.87765",
+    "geom:latitude":55.87765,
+    "geom:longitude":8.41254,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Fjerbaek",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622140,
+    "gn:latitude":55.87765,
+    "gn:longitude":8.41254,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fjerb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622140
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4d540c3a44cb876c5b428f3fad2ba439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1309772301,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1309772301,
+    "wof:lastmodified":1536978882,
+    "wof:name":"Fjerbaek",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41254,
+    55.87765,
+    8.41254,
+    55.87765
+],
+  "geometry": {"coordinates":[8.41254,55.87765],"type":"Point"}
+}

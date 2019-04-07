@@ -1,0 +1,72 @@
+{
+  "id": 1360048661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00987,56.52148,10.00987,56.52148",
+    "geom:latitude":56.52148,
+    "geom:longitude":10.00987,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"730.0",
+    "gn:asciiname":"Bjergby",
+    "gn:country_code":"DK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624067,
+    "gn:latitude":56.52148,
+    "gn:longitude":10.00987,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bjergby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bj\u00e6rgby",
+        "Bjergby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624067
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"85c5dff1192dc6929666f638e6224e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1360048661,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1360048661,
+    "wof:lastmodified":1537619890,
+    "wof:name":"Bjergby",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00987,
+    56.52148,
+    10.00987,
+    56.52148
+],
+  "geometry": {"coordinates":[10.00987,56.52148],"type":"Point"}
+}

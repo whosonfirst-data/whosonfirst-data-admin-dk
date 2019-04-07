@@ -1,0 +1,62 @@
+{
+  "id": 1209279941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30975,56.71585,9.30975,56.71585",
+    "geom:latitude":56.71585,
+    "geom:longitude":9.30975,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Gammel Ullits",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621627,
+    "gn:latitude":56.71585,
+    "gn:longitude":9.30975,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Gammel Ullits",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621627
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6d0217f00bb092261205d5ff057ef741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209279941
+        }
+    ],
+    "wof:id":1209279941,
+    "wof:lastmodified":1536292059,
+    "wof:name":"Gammel Ullits",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30975,
+    56.71585,
+    9.30975,
+    56.71585
+],
+  "geometry": {"coordinates":[9.30975,56.71585],"type":"Point"}
+}

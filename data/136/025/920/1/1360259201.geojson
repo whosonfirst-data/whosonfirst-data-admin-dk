@@ -1,0 +1,68 @@
+{
+  "id": 1360259201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09016,55.10091,9.09016,55.10091",
+    "geom:latitude":55.10091,
+    "geom:longitude":9.09016,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"550.0",
+    "gn:asciiname":"Bovlund",
+    "gn:country_code":"DK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623592,
+    "gn:latitude":55.10091,
+    "gn:longitude":9.09016,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bovlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623592
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0c0316a630ac04839676d10191f5689f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":1360259201,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1360259201,
+    "wof:lastmodified":1536694744,
+    "wof:name":"Bovlund",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09016,
+    55.10091,
+    9.09016,
+    55.10091
+],
+  "geometry": {"coordinates":[9.09016,55.10091],"type":"Point"}
+}

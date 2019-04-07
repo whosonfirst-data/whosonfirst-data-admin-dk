@@ -1,0 +1,68 @@
+{
+  "id": 1209379699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0,55.01667,12.0,55.01667",
+    "geom:latitude":55.01667,
+    "geom:longitude":12.0,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Nyrad-Stensved",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2615931,
+    "gn:latitude":55.01667,
+    "gn:longitude":12.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nyr\u00e5d-Stensved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stensved",
+        "Nyraad Stensved",
+        "Nyr\u00e5d-Stensved"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615931
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4ba24f072f229f42ae39401bc61c18a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209379699
+        }
+    ],
+    "wof:id":1209379699,
+    "wof:lastmodified":1537619833,
+    "wof:name":"Nyrad-Stensved",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0,
+    55.01667,
+    12.0,
+    55.01667
+],
+  "geometry": {"coordinates":[12.0,55.01667],"type":"Point"}
+}

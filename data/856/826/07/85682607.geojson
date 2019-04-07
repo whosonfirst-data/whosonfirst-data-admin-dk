@@ -1,0 +1,77 @@
+{
+  "id": 85682607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000337,
+    "geom:area_square_m":2389066.304181,
+    "geom:bbox":"10.9521465,54.9769785,11.900198,55.3319895",
+    "geom:latitude":55.047444,
+    "geom:longitude":11.725507,
+    "iso:country":"DK",
+    "lbl:latitude":54.987328,
+    "lbl:longitude":11.887044,
+    "mps:latitude":54.987328,
+    "mps:longitude":11.887044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Minor islands of Denmark"
+    ],
+    "qs:a0_lc":"DK0000",
+    "qs:a1_lc":"DK1085",
+    "qs:adm0":"Denmark",
+    "qs:adm0_a3":"DNK",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191581,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"DK",
+    "wof:geomhash":"183836cfff5787d3685e62fabf0d5ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "region_id":85682607
+        }
+    ],
+    "wof:id":85682607,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan",
+        "deu",
+        "kal"
+    ],
+    "wof:lastmodified":1536169869,
+    "wof:name":"Minor islands of Denmark",
+    "wof:parent_id":85633121,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[
+        85682589
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9521464999998,
+    54.97697849999983,
+    11.90019799999979,
+    55.33198949999985
+],
+  "geometry": {"coordinates":[[[[11.89171199999979,54.97697849999983],[11.89117049999979,54.97711249999983],[11.88789649999978,54.97792049999984],[11.88100699999978,54.98492049999984],[11.8743934999998,54.99526999999983],[11.87814499999979,54.99750149999983],[11.88224749999978,54.99804299999983],[11.88583899999978,54.99641699999983],[11.8899154999998,54.99457149999984],[11.8900194999998,54.99439899999985],[11.90019799999979,54.97758499999983],[11.89728499999978,54.97737649999985],[11.89171199999979,54.97697849999983]]],[[[10.96309649999978,55.32814799999983],[10.9580999999998,55.32828549999985],[10.9521464999998,55.32844849999984],[10.9617469999998,55.33198949999985],[10.97115649999978,55.33188949999985],[10.9779374999998,55.33181749999982],[10.97196749999978,55.32936099999984],[10.96309649999978,55.32814799999983]]]],"type":"MultiPolygon"}
+}

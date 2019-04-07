@@ -1,0 +1,68 @@
+{
+  "id": 1226306173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52567,56.62337,8.52567,56.62337",
+    "geom:latitude":56.62337,
+    "geom:longitude":8.52567,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Bjorndal",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2624007,
+    "gn:latitude":56.62337,
+    "gn:longitude":8.52567,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bj\u00f8rndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624007
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d95d22755c9a6ea9da06a94aef34edee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":1226306173,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226306173,
+    "wof:lastmodified":1536845583,
+    "wof:name":"Bjorndal",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52567,
+    56.62337,
+    8.52567,
+    56.62337
+],
+  "geometry": {"coordinates":[8.52567,56.62337],"type":"Point"}
+}

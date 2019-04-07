@@ -1,0 +1,68 @@
+{
+  "id": 1343919769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98876,55.46315,11.98876,55.46315",
+    "geom:latitude":55.46315,
+    "geom:longitude":11.98876,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"259.0",
+    "gn:asciiname":"Regnemark",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614884,
+    "gn:latitude":55.46315,
+    "gn:longitude":11.98876,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Regnemark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297933,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614884
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5832c3008feee3aecd09261c388ace8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297933,
+            "locality_id":1343919769,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343919769,
+    "wof:lastmodified":1537075763,
+    "wof:name":"Regnemark",
+    "wof:parent_id":1159297933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98876,
+    55.46315,
+    11.98876,
+    55.46315
+],
+  "geometry": {"coordinates":[11.98876,55.46315],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343626429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55685,55.93861,11.55685,55.93861",
+    "geom:latitude":55.93861,
+    "geom:longitude":11.55685,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"306.0",
+    "gn:asciiname":"Sonnerup",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613213,
+    "gn:latitude":55.93861,
+    "gn:longitude":11.55685,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sonnerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297935,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613213
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"39c4ddb1c2095bcc631faeca50a94db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297935,
+            "locality_id":1343626429,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343626429,
+    "wof:lastmodified":1537003478,
+    "wof:name":"Sonnerup",
+    "wof:parent_id":1159297935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55685,
+    55.93861,
+    11.55685,
+    55.93861
+],
+  "geometry": {"coordinates":[11.55685,55.93861],"type":"Point"}
+}

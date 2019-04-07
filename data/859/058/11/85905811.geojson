@@ -1,0 +1,199 @@
+{
+  "id": 85905811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":22758.708515,
+    "geom:bbox":"12.5928102839,55.6818429885,12.5958251953,55.6835850007",
+    "geom:latitude":55.682701,
+    "geom:longitude":12.594281,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":55.682642,
+    "lbl:longitude":12.594044,
+    "mps:latitude":55.682907,
+    "mps:longitude":12.594403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0627\u0644\u064a\u0646\u0628\u0648\u0631\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0430\u043b\u0456\u0435\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043c\u0430\u043b\u0456\u0435\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:ces_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:dan_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:deu_x_preferred":[
+        "Schloss Amalienborg"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03ba\u03c4\u03bf\u03c1\u03b1 \u0391\u03bc\u03ac\u03bb\u03b9\u03b5\u03bd\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
+    ],
+    "name:est_x_preferred":[
+        "Amalienborgi loss"
+    ],
+    "name:eus_x_preferred":[
+        "Amalienborg jauregia"
+    ],
+    "name:fin_x_preferred":[
+        "Amalienborgin linna"
+    ],
+    "name:fra_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:hun_x_preferred":[
+        "Amalienborg palota"
+    ],
+    "name:isl_x_preferred":[
+        "Amal\u00eduborg"
+    ],
+    "name:ita_x_preferred":[
+        "Palazzo di Amalienborg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30de\u30ea\u30a8\u30f3\u30dc\u30fc\u5bae\u6bbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub9d0\ub9ac\uc5d4\ubcf4\ub974 \uc131"
+    ],
+    "name:lav_x_preferred":[
+        "Am\u0101lienborga"
+    ],
+    "name:lit_x_preferred":[
+        "Amalienborgas"
+    ],
+    "name:nld_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:nno_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:nor_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:pol_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:por_x_preferred":[
+        "Pal\u00e1cio de Amalienborg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043b\u0438\u0435\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:slv_x_preferred":[
+        "Pala\u010da Amalienborg"
+    ],
+    "name:spa_x_preferred":[
+        "Palacio de Amalienborg"
+    ],
+    "name:swe_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c\u0430\u043b\u0456\u0454\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Amalienborg"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9a6c\u6797\u5821\u5bab"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Amalienborg",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":144,
+    "qs:photo_sum":593,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":2611,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229066,
+        "qs:id":1121042,
+        "qs_pg:id":1121042,
+        "wd:id":"Q211053"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3716675711d4f85a8d52cf342b6ea0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905811,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905811,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1530296515,
+    "wof:name":"Amalienborg",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59281028394963,
+    55.68184298845846,
+    12.59582519530005,
+    55.68358500068759
+],
+  "geometry": {"coordinates":[[[12.5947952270929,55.68339380712438],[12.59479921741394,55.68339144780008],[12.59513854980014,55.68339144780008],[12.59513854980014,55.68300433880002],[12.59582519530005,55.68300433880002],[12.59582519530005,55.68280370586142],[12.59582519522553,55.6822301090415],[12.59514652810998,55.68223010940007],[12.59513854980014,55.68222539224193],[12.5951305714903,55.68223010940007],[12.59445190430023,55.68223010884618],[12.59387837065174,55.68223010884618],[12.59376525880003,55.68202947852966],[12.59376525880009,55.68184298846394],[12.59307861330001,55.68184298845846],[12.59307861330001,55.68202947850027],[12.5928563757455,55.68242366795006],[12.59281028394963,55.68247272073988],[12.59286353746614,55.68294502157583],[12.59285239171862,55.68300433641271],[12.59307861330001,55.68300433728497],[12.59376525880009,55.68300433820637],[12.59376525880003,55.68319081382062],[12.59376525880003,55.68339144780008],[12.59387437660558,55.68339144779999],[12.59388635556002,55.68339144779999],[12.59402774057634,55.68344160521876],[12.59410858151267,55.68358500068759],[12.59445190430023,55.68358500067505],[12.59479522708455,55.68358500065951],[12.5947952270929,55.68339380712438]]],"type":"Polygon"}
+}

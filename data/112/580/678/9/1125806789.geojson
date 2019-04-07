@@ -1,0 +1,116 @@
+{
+  "id": 1125806789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14327,55.41366,12.14327,55.41366",
+    "geom:latitude":55.41366,
+    "geom:longitude":12.14327,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.41366,
+    "lbl:longitude":12.14327,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:dut_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:eng_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:fre_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:glg_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30eb\u30d5\u30a9\u30fc\u30b0"
+    ],
+    "name:lit_x_preferred":[
+        "Herfiolg\u0117"
+    ],
+    "name:swe_x_preferred":[
+        "Herf\u00f8lge"
+    ],
+    "name:unk_x_variant":[
+        "Herf\u00f6gle"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2620433,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Herf\u00f8lge",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":476,
+    "qs_pg:photos_1k":96,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":476,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165783,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554011,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297933,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620433,
+        "gp:id":554011,
+        "qs_pg:id":1165783,
+        "wd:id":"Q3087877"
+    },
+    "wof:country":"DK",
+    "wof:created":1497291498,
+    "wof:geomhash":"46cf55ee196bfb07c4a590306fce1722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297933,
+            "locality_id":1125806789,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125806789,
+    "wof:lastmodified":1530292565,
+    "wof:name":"Herf\u00f8lge",
+    "wof:parent_id":1159297933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14327,
+    55.41366,
+    12.14327,
+    55.41366
+],
+  "geometry": {"coordinates":[12.14327,55.41366],"type":"Point"}
+}

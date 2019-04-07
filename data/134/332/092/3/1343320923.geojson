@@ -1,0 +1,72 @@
+{
+  "id": 1343320923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.22063,55.484,10.22063,55.484",
+    "geom:latitude":55.484,
+    "geom:longitude":10.22063,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Kelleby",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618964,
+    "gn:latitude":55.484,
+    "gn:longitude":10.22063,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kelleby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keldeby",
+        "Kelleby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297789,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618964
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"304f60d4a213d8b93888ffa687d4bd41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297789,
+            "locality_id":1343320923,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343320923,
+    "wof:lastmodified":1537619853,
+    "wof:name":"Kelleby",
+    "wof:parent_id":1159297789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.22063,
+    55.484,
+    10.22063,
+    55.484
+],
+  "geometry": {"coordinates":[10.22063,55.484],"type":"Point"}
+}

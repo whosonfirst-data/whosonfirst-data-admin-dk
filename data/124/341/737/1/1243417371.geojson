@@ -1,0 +1,68 @@
+{
+  "id": 1243417371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68501,56.43683,8.68501,56.43683",
+    "geom:latitude":56.43683,
+    "geom:longitude":8.68501,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Kvium",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618087,
+    "gn:latitude":56.43683,
+    "gn:longitude":8.68501,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kvium",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618087
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6449be2e0d39477db1ca4686bf4704ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":1243417371,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1243417371,
+    "wof:lastmodified":1536846414,
+    "wof:name":"Kvium",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68501,
+    56.43683000000001,
+    8.68501,
+    56.43683000000001
+],
+  "geometry": {"coordinates":[8.68501,56.43683000000001],"type":"Point"}
+}

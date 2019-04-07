@@ -1,0 +1,68 @@
+{
+  "id": 1310466217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88929,55.6172,8.88929,55.6172",
+    "geom:latitude":55.6172,
+    "geom:longitude":8.88929,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Galstho",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2621712,
+    "gn:latitude":55.6172,
+    "gn:longitude":8.88929,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Galstho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621712
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b81d6b49a60846c6e645418251717915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1310466217,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310466217,
+    "wof:lastmodified":1536973266,
+    "wof:name":"Galstho",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88929,
+    55.6172,
+    8.88929,
+    55.6172
+],
+  "geometry": {"coordinates":[8.88929,55.6172],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1125921041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2099,56.11116,10.2099,56.11116",
+    "geom:latitude":56.11116,
+    "geom:longitude":10.2099,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.11116,
+    "lbl:longitude":10.2099,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "H\u00f8jbjerg"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00f8jbjerg"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f8jbjerg"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f8jbjerg"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2619970,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00f8jbjerg",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":2382,
+    "qs_pg:photos_1k":483,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2382,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074205,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554168,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619970,
+        "gp:id":554168,
+        "qs_pg:id":1074205,
+        "wd:id":"Q5964801"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296481,
+    "wof:geomhash":"f0e4f2277bd0aca517908c86a6e4459d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1125921041,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125921041,
+    "wof:lastmodified":1530291306,
+    "wof:name":"H\u00f8jbjerg",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2099,
+    56.11116,
+    10.2099,
+    56.11116
+],
+  "geometry": {"coordinates":[10.2099,56.11116],"type":"Point"}
+}

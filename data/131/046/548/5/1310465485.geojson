@@ -1,0 +1,68 @@
+{
+  "id": 1310465485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75558,55.13451,14.75558,55.13451",
+    "geom:latitude":55.13451,
+    "geom:longitude":14.75558,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Gongeherred",
+    "gn:country_code":"DK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621308,
+    "gn:latitude":55.13451,
+    "gn:longitude":14.75558,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"G\u00f8ngeherred",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621308
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6cf5fd24f44d39f0a1db24f6e9cecfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1310465485,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1310465485,
+    "wof:lastmodified":1536974286,
+    "wof:name":"Gongeherred",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75558,
+    55.13451,
+    14.75558,
+    55.13451
+],
+  "geometry": {"coordinates":[14.75558,55.13451],"type":"Point"}
+}

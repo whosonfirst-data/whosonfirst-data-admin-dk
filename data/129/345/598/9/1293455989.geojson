@@ -1,0 +1,72 @@
+{
+  "id": 1293455989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.4664,56.62007,9.4664,56.62007",
+    "geom:latitude":56.62007,
+    "geom:longitude":9.4664,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Vester Tostrup",
+    "gn:country_code":"DK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610357,
+    "gn:latitude":56.62007,
+    "gn:longitude":9.4664,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vester Tostrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tostrup",
+        "Vester Tostrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610357
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b104bd168b217522ccbbdbfbb4262054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1293455989,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293455989,
+    "wof:lastmodified":1537619789,
+    "wof:name":"Vester Tostrup",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4664,
+    56.62007,
+    9.4664,
+    56.62007
+],
+  "geometry": {"coordinates":[9.4664,56.62007],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126089303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5683,55.6761,12.5683,55.6761",
+    "geom:latitude":55.6761,
+    "geom:longitude":12.5683,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.6761,
+    "lbl:longitude":12.5683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Inner City"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6949461,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Indre By",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":325,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":325,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":352376,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":55862990,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297727,
+        85633121,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6949461,
+        "gp:id":55862990,
+        "qs_pg:id":352376
+    },
+    "wof:country":"DK",
+    "wof:created":1497313406,
+    "wof:geomhash":"22a6a8a8fb40235e8ef1e7926637d0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":1126089303,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1126089303,
+    "wof:lastmodified":1530290465,
+    "wof:name":"Indre By",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5683,
+    55.6761,
+    12.5683,
+    55.6761
+],
+  "geometry": {"coordinates":[12.5683,55.6761],"type":"Point"}
+}

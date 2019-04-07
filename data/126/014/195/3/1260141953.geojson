@@ -1,0 +1,68 @@
+{
+  "id": 1260141953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05536,55.43592,12.05536,55.43592",
+    "geom:latitude":55.43592,
+    "geom:longitude":12.05536,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"259.0",
+    "gn:asciiname":"Lidemark",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617763,
+    "gn:latitude":55.43592,
+    "gn:longitude":12.05536,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Lidemark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297933,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617763
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6cf5b1636163446043573fcd2f5dda6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297933,
+            "locality_id":1260141953,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1260141953,
+    "wof:lastmodified":1536905155,
+    "wof:name":"Lidemark",
+    "wof:parent_id":1159297933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05536,
+    55.43592,
+    12.05536,
+    55.43592
+],
+  "geometry": {"coordinates":[12.05536,55.43592],"type":"Point"}
+}

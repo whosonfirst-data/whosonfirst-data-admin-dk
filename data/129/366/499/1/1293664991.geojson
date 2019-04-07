@@ -1,0 +1,72 @@
+{
+  "id": 1293664991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39674,56.33474,9.39674,56.33474",
+    "geom:latitude":56.33474,
+    "geom:longitude":9.39674,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Vium Ostermark",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2610110,
+    "gn:latitude":56.33474,
+    "gn:longitude":9.39674,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vium \u00d8stermark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6stermark",
+        "Vium \u00d8stermark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610110
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6e47066ab783369051e3f852aabfb8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1293664991,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293664991,
+    "wof:lastmodified":1537619788,
+    "wof:name":"Vium Ostermark",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39674,
+    56.33474,
+    9.39674,
+    56.33474
+],
+  "geometry": {"coordinates":[9.39674,56.33474],"type":"Point"}
+}

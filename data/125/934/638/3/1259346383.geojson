@@ -1,0 +1,68 @@
+{
+  "id": 1259346383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35559,56.09557,12.35559,56.09557",
+    "geom:latitude":56.09557,
+    "geom:longitude":12.35559,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Firhoj",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622189,
+    "gn:latitude":56.09557,
+    "gn:longitude":12.35559,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Firh\u00f8j",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622189
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"22fcec6815c4a89d9a19e1c4a8773f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":1259346383,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1259346383,
+    "wof:lastmodified":1537053497,
+    "wof:name":"Firhoj",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35559,
+    56.09557,
+    12.35559,
+    56.09557
+],
+  "geometry": {"coordinates":[12.35559,56.09557],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226715521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54702,56.87587,9.54702,56.87587",
+    "geom:latitude":56.87587,
+    "geom:longitude":9.54702,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Kelddal Garde",
+    "gn:country_code":"DK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618973,
+    "gn:latitude":56.87587,
+    "gn:longitude":9.54702,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kelddal G\u00e5rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kjelddal Gaarde",
+        "Kelddal Gaarde",
+        "Kelddal G\u00e5rde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618973
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c82fe7e9b287b2afac403586f5338321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":1226715521,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1226715521,
+    "wof:lastmodified":1537619853,
+    "wof:name":"Kelddal Garde",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54702,
+    56.87586999999999,
+    9.54702,
+    56.87586999999999
+],
+  "geometry": {"coordinates":[9.54702,56.87586999999999],"type":"Point"}
+}

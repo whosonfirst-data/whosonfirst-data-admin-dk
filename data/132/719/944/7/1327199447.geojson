@@ -1,0 +1,68 @@
+{
+  "id": 1327199447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.96095,57.32052,9.96095,57.32052",
+    "geom:latitude":57.32052,
+    "geom:longitude":9.96095,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Kalum",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619156,
+    "gn:latitude":57.32052,
+    "gn:longitude":9.96095,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kalum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297753,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619156
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cb855c19ee44d64cc7d5e3570e210e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297753,
+            "locality_id":1327199447,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1327199447,
+    "wof:lastmodified":1537016573,
+    "wof:name":"Kalum",
+    "wof:parent_id":1159297753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.96095,
+    57.32052,
+    9.96095,
+    57.32052
+],
+  "geometry": {"coordinates":[9.96095,57.32052],"type":"Point"}
+}

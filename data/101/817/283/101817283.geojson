@@ -1,0 +1,106 @@
+{
+  "id": 101817283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:bbox":"10.3667190643,56.3291882881,10.3877202142,56.3417570448",
+    "geom:latitude":56.335903,
+    "geom:longitude":10.37786,
+    "iso:country":"DK",
+    "lbl:latitude":56.335986,
+    "lbl:longitude":10.377701,
+    "mps:latitude":56.335986,
+    "mps:longitude":10.377701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "name:fin_x_preferred":[
+        "Inn i evighetens m\u00f8rke"
+    ],
+    "name:fra_x_preferred":[
+        "Inn i evighetens m\u00f8rke"
+    ],
+    "name:hrv_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "name:ita_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "name:nor_x_preferred":[
+        "Inn i evighetens m\u00f8rke"
+    ],
+    "name:pol_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "name:por_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "name:ron_x_preferred":[
+        "Inn i evighetens m\u00f8rke"
+    ],
+    "name:spa_x_preferred":[
+        "Inn I Evighetens M\u00f8rke"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Syddjurs",
+    "qs:la_lc":"*DK1082706",
+    "qs:level":"locality",
+    "qs:loc":"M\u00f8rke",
+    "qs:loc_alt":"Morke",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616773,
+        "gp:id":555621,
+        "qs:id":246351,
+        "qs_pg:id":246351
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"42cfb3bb349bdf24d191191b3f07cd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":101817283,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101817283,
+    "wof:lastmodified":1530291429,
+    "wof:name":"M\u00f8rke",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36671906425863,
+    56.32918828807624,
+    10.38772021416418,
+    56.34175704480833
+],
+  "geometry": {"coordinates":[[[10.38455169976186,56.34175224275288],[10.38454278004514,56.34085345359495],[10.38615847607599,56.34084863144835],[10.38613160746979,56.33815226525934],[10.38451602385231,56.33815708702423],[10.38448927209527,56.33546072180656],[10.38772021416418,56.3354510588261],[10.38771122297555,56.33455227097568],[10.38609578959046,56.33455711244551],[10.38608683635726,56.33365832461755],[10.38447144005431,56.3336631457459],[10.38446252477286,56.33276435794068],[10.38123180595773,56.33277393930285],[10.38122296607793,56.33187515139474],[10.37960764356717,56.33187991163032],[10.37959004017625,56.33008233601271],[10.37797479219859,56.3300870757854],[10.37796602868082,56.32918828807624],[10.37635081778353,56.32919300751263],[10.37635954385246,56.33009179534633],[10.37151379662055,56.33010583275916],[10.37155687237595,56.33459977602979],[10.36832599785993,56.33460903446843],[10.36833453951709,56.33550782381735],[10.36671906425863,56.33551242283647],[10.36672756892477,56.33641121245699],[10.37318961765078,56.33639269460201],[10.37321558407621,56.33908906289918],[10.37159996003493,56.33909372305516],[10.37160857899556,56.33999251291141],[10.36999291712016,56.3399971529729],[10.37000149908374,56.34089594310234],[10.38292708363912,56.34085825552376],[10.38293596588056,56.34175704480833],[10.38455169976186,56.34175224275288]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225906071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81759,55.40624,11.81759,55.40624",
+    "geom:latitude":55.40624,
+    "geom:longitude":11.81759,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"329.0",
+    "gn:asciiname":"Havbyrd",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620665,
+    "gn:latitude":55.40624,
+    "gn:longitude":11.81759,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Havbyrd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297777,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620665
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"da551d2a9e9c24971c3a11001ee2e271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297777,
+            "locality_id":1225906071,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1225906071,
+    "wof:lastmodified":1536927621,
+    "wof:name":"Havbyrd",
+    "wof:parent_id":1159297777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81759,
+    55.40624,
+    11.81759,
+    55.40624
+],
+  "geometry": {"coordinates":[11.81759,55.40624],"type":"Point"}
+}

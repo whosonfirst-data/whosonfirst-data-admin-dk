@@ -1,0 +1,123 @@
+{
+  "id": 101847769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":776392.951085,
+    "geom:bbox":"12.2325104303,55.6781683267,12.2613502455,55.6845954403",
+    "geom:latitude":55.681668,
+    "geom:longitude":12.245487,
+    "iso:country":"DK",
+    "lbl:latitude":55.681334,
+    "lbl:longitude":12.240886,
+    "mps:latitude":55.681334,
+    "mps:longitude":12.240886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Municipi de H\u00f8je-Taastrup"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00f8je-Taastrup Kommune"
+    ],
+    "name:dan_x_historical":[
+        "Si\u00e6ngel\u00f8se",
+        "Sengil\u00f8s"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00f8je-Taastrup Kommune"
+    ],
+    "name:dan_x_variant":[
+        "Si\u00e6ngel\u00f8se",
+        "Sengil\u00f8s",
+        "Sengel\u00f8se"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00f8je-Taastrup Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "Sengel\u00f8se"
+    ],
+    "name:eng_x_preferred":[
+        "Sengel\u00f8se"
+    ],
+    "name:fao_x_preferred":[
+        "H\u00f8je-Taastrup kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "H\u00f8je-Taastrupin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00f8je-Taastrup"
+    ],
+    "name:frr_x_preferred":[
+        "H\u00f8je-Taastrup Komuun"
+    ],
+    "name:hrv_x_preferred":[
+        "H\u00f8je-Taastrup"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00f8je-Taastrup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"H\u00f8je Taastrup",
+    "qs:la_lc":"*DK1084169",
+    "qs:level":"locality",
+    "qs:loc":"Sengel\u00f8se",
+    "qs:loc_alt":"Sengelose",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297827,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614078,
+        "gp:id":556893,
+        "qs:id":271388,
+        "qs_pg:id":271388,
+        "wd:id":"Q2345706"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"83e2c46df3cdfa702a4d94dee4c6b0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297827,
+            "locality_id":101847769,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101847769,
+    "wof:lastmodified":1530291548,
+    "wof:name":"Sengel\u00f8se",
+    "wof:parent_id":1159297827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2325104303489,
+    55.67816832668012,
+    12.26135024550143,
+    55.68459544027201
+],
+  "geometry": {"coordinates":[[[12.26135024550143,55.68322021596407],[12.26124777439662,55.68142383182823],[12.25965970346618,55.68145204889834],[12.2595573153103,55.6796556636329],[12.2516172882826,55.67979644447252],[12.25166830137982,55.68069464069856],[12.24531609828813,55.68080691159298],[12.24526522886833,55.67990871246866],[12.24367720877831,55.67993672992918],[12.24362637803443,55.67903853016378],[12.24203839177051,55.67906652708592],[12.24198759969846,55.67816832668012],[12.23881169273494,55.67822425963544],[12.2388624129743,55.67912246148524],[12.2325104303489,55.67923409250147],[12.23261159171955,55.68103050221151],[12.23419966234144,55.68100262274089],[12.23440216169826,55.68459544027201],[12.2439314038412,55.68442772998958],[12.24388055931541,55.68352952981292],[12.26135024550143,55.68322021596407]]],"type":"Polygon"}
+}

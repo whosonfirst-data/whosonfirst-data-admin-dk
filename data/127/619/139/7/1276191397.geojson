@@ -1,0 +1,72 @@
+{
+  "id": 1276191397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.14537,56.37939,10.14537,56.37939",
+    "geom:latitude":56.37939,
+    "geom:longitude":10.14537,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"710.0",
+    "gn:asciiname":"Hvallos",
+    "gn:country_code":"DK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619591,
+    "gn:latitude":56.37939,
+    "gn:longitude":10.14537,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hvall\u00f8s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hvall\u00f6se",
+        "Hvall\u00f8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297745,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619591
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ca71dc6e5837152b7c68642e8c32fc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297745,
+            "locality_id":1276191397,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276191397,
+    "wof:lastmodified":1537619858,
+    "wof:name":"Hvallos",
+    "wof:parent_id":1159297745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.14537,
+    56.37939,
+    10.14537,
+    56.37939
+],
+  "geometry": {"coordinates":[10.14537,56.37939],"type":"Point"}
+}

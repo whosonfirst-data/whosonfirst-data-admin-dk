@@ -1,0 +1,68 @@
+{
+  "id": 1277033651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.67537,54.99222,10.67537,54.99222",
+    "geom:latitude":54.99222,
+    "geom:longitude":10.67537,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"479.0",
+    "gn:asciiname":"Ny Vemmenaes",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615901,
+    "gn:latitude":54.99222,
+    "gn:longitude":10.67537,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ny Vemmen\u00e6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297853,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615901
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ba4b787f4e2833e3623c6d3489e73d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297853,
+            "locality_id":1277033651,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277033651,
+    "wof:lastmodified":1536834036,
+    "wof:name":"Ny Vemmenaes",
+    "wof:parent_id":1159297853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.67537,
+    54.99222,
+    10.67537,
+    54.99222
+],
+  "geometry": {"coordinates":[10.67537,54.99222],"type":"Point"}
+}

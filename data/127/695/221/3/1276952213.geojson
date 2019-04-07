@@ -1,0 +1,68 @@
+{
+  "id": 1276952213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05498,55.17914,10.05498,55.17914",
+    "geom:latitude":55.17914,
+    "geom:longitude":10.05498,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Skovkrogen",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223210,
+    "gn:latitude":55.17914,
+    "gn:longitude":10.05498,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skovkrogen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223210
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d260c2e8cd809b8e00020a239b279a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1276952213,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276952213,
+    "wof:lastmodified":1536944902,
+    "wof:name":"Skovkrogen",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05498,
+    55.17914,
+    10.05498,
+    55.17914
+],
+  "geometry": {"coordinates":[10.05498,55.17914],"type":"Point"}
+}

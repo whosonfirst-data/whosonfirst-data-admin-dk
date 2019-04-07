@@ -1,0 +1,68 @@
+{
+  "id": 1259646107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9819,57.01396,9.9819,57.01396",
+    "geom:latitude":57.01396,
+    "geom:longitude":9.9819,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"851.0",
+    "gn:asciiname":"Sonder Tranders",
+    "gn:country_code":"DK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612942,
+    "gn:latitude":57.01396,
+    "gn:longitude":9.9819,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Tranders",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612942
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"44859b907b1c3dbf58bb5028195053f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":1259646107,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1259646107,
+    "wof:lastmodified":1536622571,
+    "wof:name":"Sonder Tranders",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9819,
+    57.01396,
+    9.9819,
+    57.01396
+],
+  "geometry": {"coordinates":[9.9819,57.01396],"type":"Point"}
+}

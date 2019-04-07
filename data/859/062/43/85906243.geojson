@@ -1,0 +1,109 @@
+{
+  "id": 85906243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":11408.18769,
+    "geom:bbox":"12.5812925191,55.67564854,12.5834655762,55.6768100744",
+    "geom:latitude":55.676169,
+    "geom:longitude":12.582363,
+    "iso:country":"DK",
+    "lbl:latitude":55.676251,
+    "lbl:longitude":12.582393,
+    "mps:latitude":55.676105,
+    "mps:longitude":12.582384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:eng_x_variant":[
+        "Ved Stranden"
+    ],
+    "name:nor_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:unk_x_variant":[
+        "Ved Stranden"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Ved Stranden",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Ved Stranden",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":113,
+    "qs:photo_sum":400,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":474,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229501,
+        "wd:id":"Q15955246"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8794134c5f021655b7b5e6c6702274d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906243,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906243,
+    "wof:lastmodified":1530296595,
+    "wof:name":"Ved Stranden",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58129251912908,
+    55.67564853996696,
+    12.58346557620013,
+    55.67681007440005
+],
+  "geometry": {"coordinates":[[[12.58277893070004,55.67681007440005],[12.58277893070004,55.67661648766257],[12.58312225341581,55.67661648765944],[12.58312225341047,55.67642524199267],[12.58312621464336,55.67642290030007],[12.58346557620007,55.67642290030007],[12.58346557619188,55.67622228481885],[12.58346557620013,55.67603572179083],[12.5828920512019,55.67603572183141],[12.58277893070016,55.67583510794661],[12.58277893070016,55.6756485400724],[12.58209228518342,55.67564853996696],[12.58140563961263,55.67564854012515],[12.58140563961234,55.67583510790219],[12.58129251912908,55.67603572183141],[12.581328905487,55.67622931157528],[12.58140563960012,55.67622931163815],[12.58174896240007,55.67622931167644],[12.58174896240007,55.67642290014383],[12.58209228518547,55.67642290015424],[12.58209228520013,55.67681007440005],[12.58220540488884,55.67681007376679],[12.58266581118113,55.67681007402514],[12.58277893070004,55.67681007440005]]],"type":"Polygon"}
+}

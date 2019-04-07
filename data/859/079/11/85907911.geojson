@@ -1,0 +1,113 @@
+{
+  "id": 85907911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":38062792.915569,
+    "geom:bbox":"9.985856,57.045593,9.985856,57.045593",
+    "geom:latitude":57.045593,
+    "geom:longitude":9.985856,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":57.045593,
+    "lbl:longitude":9.985856,
+    "mps:latitude":57.041003,
+    "mps:longitude":9.984832,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:dan_x_preferred":[
+        "Aalborg O"
+    ],
+    "name:eng_x_preferred":[
+        "Aalborg East"
+    ],
+    "name:eng_x_variant":[
+        "Aalborg East"
+    ],
+    "name:unk_x_variant":[
+        "Aalborg O"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2624886,
+    "qs:gn_nam_loc":"Aalborg, Aalborg, Nordjylland, DK",
+    "qs:gn_namadm1":"19",
+    "qs:local_max":2276,
+    "qs:local_sum":4583,
+    "qs:localhoods":3,
+    "qs:name":"Aalborg O",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Nordjylland",
+    "qs:name_adm2":"Aalborg",
+    "qs:name_en":"Aalborg East",
+    "qs:name_local":"Aalborg",
+    "qs:photo_max":123,
+    "qs:photo_sum":736,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":73,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362579,
+    "qs:woe_adm2":12582734,
+    "qs:woe_lau":0,
+    "qs:woe_local":551890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682593,
+        102191581,
+        1159297743,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24867066,
+        "qs:id":1086069,
+        "qs_pg:id":1086069
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"75fb319365dcef720705ccbe19c8fa31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":-1,
+            "neighbourhood_id":85907911,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":85907911,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531936652,
+    "wof:name":"Aalborg O",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.985856,
+    57.045593,
+    9.985856,
+    57.045593
+],
+  "geometry": {"coordinates":[9.985856,57.045593],"type":"Point"}
+}

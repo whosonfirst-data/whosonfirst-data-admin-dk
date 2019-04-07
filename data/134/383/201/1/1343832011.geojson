@@ -1,0 +1,68 @@
+{
+  "id": 1343832011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25684,55.58181,10.25684,55.58181",
+    "geom:latitude":55.58181,
+    "geom:longitude":10.25684,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Klinte",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618746,
+    "gn:latitude":55.58181,
+    "gn:longitude":10.25684,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Klinte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297789,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618746
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9ad2e1e15dc75adab64a5ad56fe8ffae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297789,
+            "locality_id":1343832011,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343832011,
+    "wof:lastmodified":1536708028,
+    "wof:name":"Klinte",
+    "wof:parent_id":1159297789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25684,
+    55.58181,
+    10.25684,
+    55.58181
+],
+  "geometry": {"coordinates":[10.25684,55.58181],"type":"Point"}
+}

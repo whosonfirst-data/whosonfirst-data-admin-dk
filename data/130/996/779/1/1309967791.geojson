@@ -1,0 +1,68 @@
+{
+  "id": 1309967791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08732,55.50538,12.08732,55.50538",
+    "geom:latitude":55.50538,
+    "geom:longitude":12.08732,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"259.0",
+    "gn:asciiname":"Assendrup",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624505,
+    "gn:latitude":55.50538,
+    "gn:longitude":12.08732,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Assendrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297933,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624505
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a4bc03d8ff67df874a8509a51414875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297933,
+            "locality_id":1309967791,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1309967791,
+    "wof:lastmodified":1536698026,
+    "wof:name":"Assendrup",
+    "wof:parent_id":1159297933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08732,
+    55.50538,
+    12.08732,
+    55.50538
+],
+  "geometry": {"coordinates":[12.08732,55.50538],"type":"Point"}
+}

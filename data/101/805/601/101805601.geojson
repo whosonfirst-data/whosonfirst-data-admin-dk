@@ -1,0 +1,101 @@
+{
+  "id": 101805601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000251,
+    "geom:area_square_m":1731825.279312,
+    "geom:bbox":"9.98392306394,56.1365023932,10.011255411,56.1535790704",
+    "geom:latitude":56.145888,
+    "geom:longitude":9.996942,
+    "iso:country":"DK",
+    "lbl:latitude":56.146627,
+    "lbl:longitude":9.997149,
+    "mps:latitude":56.146627,
+    "mps:longitude":9.997149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Harlev"
+    ],
+    "name:deu_x_preferred":[
+        "Harlev"
+    ],
+    "name:dut_x_preferred":[
+        "Harlev"
+    ],
+    "name:eng_x_preferred":[
+        "Harlev"
+    ],
+    "name:ger_x_preferred":[
+        "Harlev"
+    ],
+    "name:unk_x_variant":[
+        "Harlev Stationsby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"\u00c5rhus",
+    "qs:la_lc":"*DK1082751",
+    "qs:level":"locality",
+    "qs:loc":"Harlev",
+    "qs:loc_alt":"Harlev",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":56.1447,
+    "wd:longitude":9.99694,
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620750,
+        "gp:id":553859,
+        "qs:id":1135994,
+        "qs_pg:id":1135994,
+        "wd:id":"Q1585507",
+        "wk:page":"Harlev"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0f555d228d0e542998192e58582e9749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":101805601,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805601,
+    "wof:lastmodified":1530296393,
+    "wof:name":"Harlev",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98392306394169,
+    56.13650239320503,
+    10.01125541103733,
+    56.15357907042733
+],
+  "geometry": {"coordinates":[[[10.00803976458212,56.15357897994136],[10.00803957934363,56.15268020620681],[10.01125541103733,56.15267996491696],[10.01125515171765,56.15178119132787],[10.00803939411509,56.15178143261153],[10.0080386533034,56.14818633962341],[10.00643092265204,56.14818643009522],[10.0064303301333,56.14459133932326],[10.00482274760537,56.14459140968285],[10.00482230331369,56.1409963211255],[10.00160743443996,56.14099640152818],[10.00160732338838,56.13830008655975],[10.0,56.13830009660927],[10.0,56.13650255398915],[9.99357100255861,56.13650239320503],[9.99356996607781,56.1427937947708],[9.98874744069559,56.1427934630928],[9.98874769985844,56.14189469103354],[9.98714022844075,56.14189454027485],[9.98713993225419,56.14279331233018],[9.98553242382542,56.1427931414658],[9.98553142408718,56.14548945845149],[9.98392380459046,56.1454892674704],[9.98392306394169,56.14728681281213],[9.98553075750323,56.14728700380317],[9.98552942411578,56.15088209617545],[9.99196079110339,56.15088265915568],[9.99196060588497,56.15178143261153],[10.00321575765679,56.15178164373452],[10.00321583174809,56.15268041733532],[10.00643166348414,56.15268029669051],[10.0064318116751,56.15357907042733],[10.00803976458212,56.15357897994136]]],"type":"Polygon"}
+}

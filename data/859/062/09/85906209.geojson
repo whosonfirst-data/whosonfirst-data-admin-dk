@@ -1,0 +1,101 @@
+{
+  "id": 85906209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":54360.438408,
+    "geom:bbox":"12.5447871719,55.6690658618,12.549472688,55.6713892877",
+    "geom:latitude":55.670246,
+    "geom:longitude":12.547065,
+    "iso:country":"DK",
+    "lbl:latitude":55.670539,
+    "lbl:longitude":12.546378,
+    "mps:latitude":55.670227,
+    "mps:longitude":12.547065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Sundevedsgade"
+    ],
+    "name:unk_x_variant":[
+        "Sundevedsgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Sundevedsgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Sundevedsgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":56,
+    "qs:photo_sum":266,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229469
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"114700b3c4b3d50d67cb40ba42026a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906209,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906209,
+    "wof:lastmodified":1530296589,
+    "wof:name":"Sundevedsgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54478717193069,
+    55.66906586175013,
+    12.54947268796036,
+    55.67138928765
+],
+  "geometry": {"coordinates":[[[12.54947268796036,55.67044214253984],[12.54913330080012,55.66984035281261],[12.54913330080012,55.66906586217515],[12.54776000980007,55.66906586175013],[12.54661297898139,55.66906586175013],[12.54638671880014,55.66906586430001],[12.54638671880014,55.66984035430006],[12.54570794783751,55.66984035430006],[12.54570007322525,55.6698356999277],[12.54569219861406,55.66984035430006],[12.5450134277001,55.66984035430006],[12.5450134277001,55.67022758875025],[12.54500555471998,55.67022758875025],[12.54478717193069,55.67061482675432],[12.54485996431356,55.67100205957523],[12.54478717370893,55.67138928590019],[12.5450134277001,55.67138928744917],[12.54570007321689,55.67138928765],[12.54638671880014,55.67138928693562],[12.54661297276397,55.67138928670018],[12.54776000980007,55.67138928617517],[12.54776000980007,55.6706148265939],[12.54913330080012,55.67061482622638],[12.54944022684975,55.67061482515008],[12.54947268796036,55.67044214253984]]],"type":"Polygon"}
+}

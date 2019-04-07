@@ -1,0 +1,103 @@
+{
+  "id": 85905979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":89659.370459,
+    "geom:bbox":"12.55213,55.680949,12.55213,55.680949",
+    "geom:latitude":55.680949,
+    "geom:longitude":12.55213,
+    "iso:country":"DK",
+    "lbl:latitude":55.680949,
+    "lbl:longitude":12.55213,
+    "mps:latitude":55.680368,
+    "mps:longitude":12.552163,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Johnstrups All\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Johnstrups All\u00e9"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2621942,
+    "qs:gn_nam_loc":"Frederiksberg, Frederiksberg, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":4158,
+    "qs:local_sum":18220,
+    "qs:localhoods":20,
+    "qs:name":"Johnstrups All\u00e9",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"Frederiksberg",
+    "qs:name_en":"Johnstrups All\u00e9",
+    "qs:name_local":"Frederiksberg",
+    "qs:photo_max":128,
+    "qs:photo_sum":563,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":12582714,
+    "qs:woe_lau":0,
+    "qs:woe_local":553307,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297727,
+        85633121,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229257
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"293de73a49d58fecac41d95607f4f1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905979,
+    "wof:lastmodified":1531936409,
+    "wof:name":"Johnstrups All\u00e9",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55213,
+    55.680949,
+    12.55213,
+    55.680949
+],
+  "geometry": {"coordinates":[12.55213,55.680949],"type":"Point"}
+}

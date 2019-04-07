@@ -1,0 +1,68 @@
+{
+  "id": 1259745007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46433,55.28974,11.46433,55.28974",
+    "geom:latitude":55.28974,
+    "geom:longitude":11.46433,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Sonder Jellinge",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613026,
+    "gn:latitude":55.28974,
+    "gn:longitude":11.46433,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder Jellinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297897,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613026
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d429f49213c9369f79909492b3d9a9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297897,
+            "locality_id":1259745007,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259745007,
+    "wof:lastmodified":1536978082,
+    "wof:name":"Sonder Jellinge",
+    "wof:parent_id":1159297897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46433,
+    55.28974,
+    11.46433,
+    55.28974
+],
+  "geometry": {"coordinates":[11.46433,55.28974],"type":"Point"}
+}

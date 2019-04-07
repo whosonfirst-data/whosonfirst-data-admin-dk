@@ -1,0 +1,72 @@
+{
+  "id": 1327110391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.773,56.49997,8.773,56.49997",
+    "geom:latitude":56.49997,
+    "geom:longitude":8.773,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Alskov",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2624781,
+    "gn:latitude":56.49997,
+    "gn:longitude":8.773,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5lskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aaleskov",
+        "\u00c5lskov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624781
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"97084e7933ddc732eea102ac910ebfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1327110391,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1327110391,
+    "wof:lastmodified":1537619897,
+    "wof:name":"Alskov",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.773,
+    56.49997,
+    8.773,
+    56.49997
+],
+  "geometry": {"coordinates":[8.773,56.49997],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1125931251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17694,56.81005,9.17694,56.81005",
+    "geom:latitude":56.81005,
+    "geom:longitude":9.17694,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.81005,
+    "lbl:longitude":9.17694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:dut_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:eng_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:ger_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:nds_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:tur_x_preferred":[
+        "Erteb\u00f8lle"
+    ],
+    "name:unk_x_variant":[
+        "\u00c6rtb\u00f6lle"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2622449,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Erteb\u00f8lle",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":115,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":115,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1271122,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":553064,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622449,
+        "gp:id":553064,
+        "qs_pg:id":1271122,
+        "wd:id":"Q2487136"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296811,
+    "wof:geomhash":"1119b35549e773c6365c810354fe5bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":1125931251,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1125931251,
+    "wof:lastmodified":1530290608,
+    "wof:name":"Erteb\u00f8lle",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17694,
+    56.81005,
+    9.17694,
+    56.81005
+],
+  "geometry": {"coordinates":[9.17694,56.81005],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1126000757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58769,55.31018,10.58769,55.31018",
+    "geom:latitude":55.31018,
+    "geom:longitude":10.58769,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.31018,
+    "lbl:longitude":10.58769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0424\u044c\u0435\u0440\u0440\u0438\u0442\u0441\u043b\u0435\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Ferreslev"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2622221,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ferritslev",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1003972,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":553176,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622221,
+        "gp:id":553176,
+        "qs_pg:id":1003972
+    },
+    "wof:country":"DK",
+    "wof:created":1497299633,
+    "wof:geomhash":"e6da81df73a68cebc6b5fb21432f0652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1126000757,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1126000757,
+    "wof:lastmodified":1530292048,
+    "wof:name":"Ferritslev",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58769,
+    55.31018,
+    10.58769,
+    55.31018
+],
+  "geometry": {"coordinates":[10.58769,55.31018],"type":"Point"}
+}

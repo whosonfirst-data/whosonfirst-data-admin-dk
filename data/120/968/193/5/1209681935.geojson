@@ -1,0 +1,67 @@
+{
+  "id": 1209681935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36667,56.53333,10.36667,56.53333",
+    "geom:latitude":56.53333,
+    "geom:longitude":10.36667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Kare",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619106,
+    "gn:latitude":56.53333,
+    "gn:longitude":10.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahr",
+        "Kare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619106
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cd9b65cbaa758e25f0669752c40e0b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209681935
+        }
+    ],
+    "wof:id":1209681935,
+    "wof:lastmodified":1537619855,
+    "wof:name":"Kare",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36667,
+    56.53333000000001,
+    10.36667,
+    56.53333000000001
+],
+  "geometry": {"coordinates":[10.36667,56.53333000000001],"type":"Point"}
+}

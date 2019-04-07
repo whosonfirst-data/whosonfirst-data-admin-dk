@@ -1,0 +1,68 @@
+{
+  "id": 1276943705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20973,56.02602,10.20973,56.02602",
+    "geom:latitude":56.02602,
+    "geom:longitude":10.20973,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"751.0",
+    "gn:asciiname":"Pedholt",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615193,
+    "gn:latitude":56.02602,
+    "gn:longitude":10.20973,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Pedholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615193
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"656dbbc279953d20039fa9c3af2c5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1276943705,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276943705,
+    "wof:lastmodified":1536955904,
+    "wof:name":"Pedholt",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20973,
+    56.02602,
+    10.20973,
+    56.02602
+],
+  "geometry": {"coordinates":[10.20973,56.02602],"type":"Point"}
+}

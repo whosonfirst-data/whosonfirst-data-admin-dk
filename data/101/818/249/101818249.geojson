@@ -1,0 +1,103 @@
+{
+  "id": 101818249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":826180.702617,
+    "geom:bbox":"12.1400396786,55.7328619468,12.1609084239,55.742689042",
+    "geom:latitude":55.736961,
+    "geom:longitude":12.149644,
+    "gn:population":2149,
+    "iso:country":"DK",
+    "lbl:latitude":55.73771,
+    "lbl:longitude":12.150671,
+    "mps:latitude":55.73771,
+    "mps:longitude":12.150671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:dan_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:dut_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:eng_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:nld_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:swe_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Roskilde",
+    "qs:la_lc":"*DK1085265",
+    "qs:level":"locality",
+    "qs:loc":"Gunds\u00f8magle",
+    "qs:loc_alt":"Gundsomagle",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":55.7361,
+    "wd:longitude":12.1478,
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620997,
+        "gp:id":553748,
+        "qs:id":1224375,
+        "qs_pg:id":1224375,
+        "wd:id":"Q2612301"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5768124ced4a31c194b04b197b3db813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":101818249,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818249,
+    "wof:lastmodified":1530296440,
+    "wof:name":"Gunds\u00f8magle",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:population":2149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14003967856053,
+    55.73286194684204,
+    12.16090842391208,
+    55.74268904196759
+],
+  "geometry": {"coordinates":[[[12.15170835601026,55.74266218617674],[12.151659500699,55.74176393807772],[12.15643115842551,55.741683253676],[12.15638219759279,55.74078500775249],[12.15479168309224,55.74081192170905],[12.15464492470937,55.73811718237783],[12.15623533104684,55.73809027050976],[12.15618638084845,55.73719202493794],[12.15936711536779,55.73713814304523],[12.15931809573107,55.73623989895492],[12.16090842391208,55.73621292893171],[12.16081032053455,55.73441644240916],[12.15444928405441,55.73452419783348],[12.15440038053032,55.73362595191674],[12.14644921979925,55.73376019614295],[12.14640049913658,55.73286194684204],[12.14003967856053,55.73296898219508],[12.14023400036933,55.73656199099878],[12.14182435270072,55.73653525916637],[12.14192160153709,55.7383317627141],[12.14351202396551,55.73830500964823],[12.14356068839834,55.73920326086244],[12.14515114487421,55.73917648725364],[12.14519984800569,55.74007473786355],[12.146790338529,55.74004794371069],[12.14683908036301,55.74094619371573],[12.14842960493411,55.74091937901807],[12.14847838547422,55.74181762841755],[12.15006894409271,55.74179079317383],[12.15011776334342,55.74268904196759],[12.15170835601026,55.74266218617674]]],"type":"Polygon"}
+}

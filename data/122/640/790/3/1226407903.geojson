@@ -1,0 +1,68 @@
+{
+  "id": 1226407903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55723,56.69648,9.55723,56.69648",
+    "geom:latitude":56.69648,
+    "geom:longitude":9.55723,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Simested",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614022,
+    "gn:latitude":56.69648,
+    "gn:longitude":9.55723,
+    "gn:modification_date":"2017-11-15",
+    "gn:name":"Simested",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614022
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8bb170912bf37da763837d552629d543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":1226407903,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1226407903,
+    "wof:lastmodified":1536700415,
+    "wof:name":"Simested",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55723,
+    56.69648000000001,
+    9.55723,
+    56.69648000000001
+],
+  "geometry": {"coordinates":[9.55723,56.69648000000001],"type":"Point"}
+}

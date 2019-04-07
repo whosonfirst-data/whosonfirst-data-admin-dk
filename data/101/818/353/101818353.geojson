@@ -1,0 +1,84 @@
+{
+  "id": 101818353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:bbox":"11.7451287416,55.2902779657,11.7580272279,55.3020222032",
+    "geom:latitude":55.295885,
+    "geom:longitude":11.753044,
+    "iso:country":"DK",
+    "lbl:latitude":55.295058,
+    "lbl:longitude":11.752921,
+    "mps:latitude":55.295058,
+    "mps:longitude":11.752921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Gelsted"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"N\u00e6stved",
+    "qs:la_lc":"*DK1085370",
+    "qs:level":"locality",
+    "qs:loc":"Gelsted",
+    "qs:loc_alt":"Gelsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":55.3981,
+    "wd:longitude":9.97139,
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621523,
+        "gp:id":553489,
+        "qs:id":34364,
+        "qs_pg:id":34364,
+        "wd:id":"Q12313590"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"68512e3761936ddfadadc9134ecd5664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":101818353,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818353,
+    "wof:lastmodified":1530296452,
+    "wof:name":"Gelsted",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74512874161439,
+    55.29027796568249,
+    11.75802722788899,
+    55.30202220321127
+],
+  "geometry": {"coordinates":[[[11.75802722788899,55.30103633336131],[11.75767355396704,55.29295113123891],[11.75610058204097,55.29297303349796],[11.7559828340419,55.29027796568249],[11.75126422478604,55.29034354981457],[11.75130336665501,55.29124190735632],[11.74973045859838,55.2912637300829],[11.74980867839065,55.29306044648433],[11.74666271701693,55.29310403534714],[11.74670175980901,55.29400239476195],[11.74512874161439,55.2940241603406],[11.74516775137334,55.29492252037886],[11.74674080469617,55.29490075424542],[11.74677985167762,55.2957991137975],[11.74835293854198,55.29577732750261],[11.74847019745778,55.29847240490562],[11.75161657721469,55.29842877015881],[11.75177323291717,55.30202220321127],[11.75491988741823,55.30197848557373],[11.75488065005607,55.30108012832187],[11.75802722788899,55.30103633336131]]],"type":"Polygon"}
+}

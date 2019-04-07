@@ -1,0 +1,68 @@
+{
+  "id": 1226009121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.19854,54.91408,9.19854,54.91408",
+    "geom:latitude":54.91408,
+    "geom:longitude":9.19854,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Kravlund",
+    "gn:country_code":"DK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618287,
+    "gn:latitude":54.91408,
+    "gn:longitude":9.19854,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kravlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618287
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6462929bff3e12637be68e9f3a37602c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1226009121,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226009121,
+    "wof:lastmodified":1536778610,
+    "wof:name":"Kravlund",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.19854,
+    54.91408000000001,
+    9.19854,
+    54.91408000000001
+],
+  "geometry": {"coordinates":[9.19854,54.91408000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259559431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.02557,56.72975,9.02557,56.72975",
+    "geom:latitude":56.72975,
+    "geom:longitude":9.02557,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Hestbaek",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2620360,
+    "gn:latitude":56.72975,
+    "gn:longitude":9.02557,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hestb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620360
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cf3c28b7f423bc31674d8d0c35f6a9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1259559431,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259559431,
+    "wof:lastmodified":1536749430,
+    "wof:name":"Hestbaek",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.02557,
+    56.72975,
+    9.02557,
+    56.72975
+],
+  "geometry": {"coordinates":[9.02557,56.72975],"type":"Point"}
+}

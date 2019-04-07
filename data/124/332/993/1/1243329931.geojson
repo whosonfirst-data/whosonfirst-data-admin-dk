@@ -1,0 +1,68 @@
+{
+  "id": 1243329931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50342,56.4357,8.50342,56.4357",
+    "geom:latitude":56.4357,
+    "geom:longitude":8.50342,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Asp",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624515,
+    "gn:latitude":56.4357,
+    "gn:longitude":8.50342,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Asp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624515
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0a73ae55bd18ce209313cf7601208fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":1243329931,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1243329931,
+    "wof:lastmodified":1536973217,
+    "wof:name":"Asp",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50342,
+    56.4357,
+    8.50342,
+    56.4357
+],
+  "geometry": {"coordinates":[8.50342,56.4357],"type":"Point"}
+}

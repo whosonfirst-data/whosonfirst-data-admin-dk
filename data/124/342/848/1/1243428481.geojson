@@ -1,0 +1,68 @@
+{
+  "id": 1243428481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.64038,55.27454,9.64038,55.27454",
+    "geom:latitude":55.27454,
+    "geom:longitude":9.64038,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"510.0",
+    "gn:asciiname":"Stevelt",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612574,
+    "gn:latitude":55.27454,
+    "gn:longitude":9.64038,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Stevelt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612574
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1a7aaf61577f315665ca95731c12d012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":1243428481,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243428481,
+    "wof:lastmodified":1536830443,
+    "wof:name":"Stevelt",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.64038,
+    55.27454,
+    9.64038,
+    55.27454
+],
+  "geometry": {"coordinates":[9.64038,55.27454],"type":"Point"}
+}

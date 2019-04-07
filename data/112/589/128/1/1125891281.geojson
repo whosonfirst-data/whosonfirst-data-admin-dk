@@ -1,0 +1,81 @@
+{
+  "id": 1125891281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.50378,55.77044,12.50378,55.77044",
+    "geom:latitude":55.77044,
+    "geom:longitude":12.50378,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":10600,
+    "gn:population":10600,
+    "iso:country":"DK",
+    "lbl:latitude":55.77044,
+    "lbl:longitude":12.50378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lyngby"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2618468,
+    "qs_pg:gn_pop":10600,
+    "qs_pg:name":"Kongens Lyngby",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1036723,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297723,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618468,
+        "qs_pg:id":1036723
+    },
+    "wof:country":"DK",
+    "wof:created":1497295330,
+    "wof:geomhash":"bdab5c8f7b9a7681a59d93eb4d278ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297723,
+            "locality_id":1125891281,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125891281,
+    "wof:lastmodified":1530290376,
+    "wof:name":"Kongens Lyngby",
+    "wof:parent_id":1159297723,
+    "wof:placetype":"locality",
+    "wof:population":10600,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.50378,
+    55.77044,
+    12.50378,
+    55.77044
+],
+  "geometry": {"coordinates":[12.50378,55.77044],"type":"Point"}
+}

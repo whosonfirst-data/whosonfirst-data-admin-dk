@@ -1,0 +1,101 @@
+{
+  "id": 1125992983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16861,56.22076,10.16861,56.22076",
+    "geom:latitude":56.22076,
+    "geom:longitude":10.16861,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.22076,
+    "lbl:longitude":10.16861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Lisbjerg"
+    ],
+    "name:dut_x_preferred":[
+        "Lisbjerg"
+    ],
+    "name:eng_x_preferred":[
+        "Lisbjerg"
+    ],
+    "name:unk_x_variant":[
+        "Lisbj\u00e6rg"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617543,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lisbjerg",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555290,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617543,
+        "gp:id":555290,
+        "qs_pg:id":281947,
+        "wd:id":"Q2230082"
+    },
+    "wof:country":"DK",
+    "wof:created":1497299149,
+    "wof:geomhash":"281665639bb63c32d4fa49cf73f64218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1125992983,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125992983,
+    "wof:lastmodified":1530291310,
+    "wof:name":"Lisbjerg",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16861,
+    56.22076,
+    10.16861,
+    56.22076
+],
+  "geometry": {"coordinates":[10.16861,56.22076],"type":"Point"}
+}

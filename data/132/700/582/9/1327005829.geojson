@@ -1,0 +1,68 @@
+{
+  "id": 1327005829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50019,56.13291,10.50019,56.13291",
+    "geom:latitude":56.13291,
+    "geom:longitude":10.50019,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"706.0",
+    "gn:asciiname":"Fejrup",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2622247,
+    "gn:latitude":56.13291,
+    "gn:longitude":10.50019,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fejrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622247
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0ccb96a59b8ca6e53f4056ccab8f04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":1327005829,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1327005829,
+    "wof:lastmodified":1536798983,
+    "wof:name":"Fejrup",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50019,
+    56.13291,
+    10.50019,
+    56.13291
+],
+  "geometry": {"coordinates":[10.50019,56.13291],"type":"Point"}
+}

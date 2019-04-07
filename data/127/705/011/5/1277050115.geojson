@@ -1,0 +1,72 @@
+{
+  "id": 1277050115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66352,54.71846,11.66352,54.71846",
+    "geom:latitude":54.71846,
+    "geom:longitude":11.66352,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Store Musse",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612375,
+    "gn:latitude":54.71846,
+    "gn:longitude":11.66352,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Store Musse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musse",
+        "Store Musse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612375
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ced4926280a02756046a5a21b5c203a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1277050115,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1277050115,
+    "wof:lastmodified":1537619803,
+    "wof:name":"Store Musse",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66352,
+    54.71846,
+    11.66352,
+    54.71846
+],
+  "geometry": {"coordinates":[11.66352,54.71846],"type":"Point"}
+}

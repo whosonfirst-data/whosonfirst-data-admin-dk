@@ -1,0 +1,72 @@
+{
+  "id": 1259754679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31803,56.08481,12.31803,56.08481",
+    "geom:latitude":56.08481,
+    "geom:longitude":12.31803,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Soborg",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613204,
+    "gn:latitude":56.08481,
+    "gn:longitude":12.31803,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"S\u00f8borg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f8borg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613204,
+        "wk:page":"S%C3%B8borg%2C_Gribskov_Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aebccd6e7d74367e8fce52bde157ebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":1259754679,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1259754679,
+    "wof:lastmodified":1537619809,
+    "wof:name":"Soborg",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31803,
+    56.08481,
+    12.31803,
+    56.08481
+],
+  "geometry": {"coordinates":[12.31803,56.08481],"type":"Point"}
+}

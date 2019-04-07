@@ -1,0 +1,73 @@
+{
+  "id": 1327496687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21798,56.43882,9.21798,56.43882",
+    "geom:latitude":56.43882,
+    "geom:longitude":9.21798,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Krogsgard",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618203,
+    "gn:latitude":56.43882,
+    "gn:longitude":9.21798,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Krogsg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krogsgaarde",
+        "Krogsgaard",
+        "Krogsg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618203
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"eeadb2e5d670d9d0fcd69d95d380b779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1327496687,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1327496687,
+    "wof:lastmodified":1537619848,
+    "wof:name":"Krogsgard",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21798,
+    56.43881999999999,
+    9.21798,
+    56.43881999999999
+],
+  "geometry": {"coordinates":[9.21798,56.43881999999999],"type":"Point"}
+}

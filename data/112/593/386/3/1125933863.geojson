@@ -1,0 +1,115 @@
+{
+  "id": 1125933863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.72184,54.78887,10.72184,54.78887",
+    "geom:latitude":54.78887,
+    "geom:longitude":10.72184,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.78887,
+    "lbl:longitude":10.72184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:fao_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:kal_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2614154,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e6dballe",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182728,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":556794,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614154,
+        "gp:id":556794,
+        "qs_pg:id":182728,
+        "wd:id":"Q19391560"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296899,
+    "wof:geomhash":"2825f26e269c41d3b47e1d959d80a87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":1125933863,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125933863,
+    "wof:lastmodified":1530291732,
+    "wof:name":"S\u00e6dballe",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.72184,
+    54.78887,
+    10.72184,
+    54.78887
+],
+  "geometry": {"coordinates":[10.72184,54.78887],"type":"Point"}
+}

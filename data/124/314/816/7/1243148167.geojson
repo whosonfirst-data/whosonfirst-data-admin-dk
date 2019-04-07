@@ -1,0 +1,68 @@
+{
+  "id": 1243148167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.08082,55.98557,10.08082,55.98557",
+    "geom:latitude":55.98557,
+    "geom:longitude":10.08082,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"727.0",
+    "gn:asciiname":"Fensholt",
+    "gn:country_code":"DK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622227,
+    "gn:latitude":55.98557,
+    "gn:longitude":10.08082,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fensholt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297815,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622227
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c978b4555ede3e10f607662e3a3d28fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297815,
+            "locality_id":1243148167,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1243148167,
+    "wof:lastmodified":1536738587,
+    "wof:name":"Fensholt",
+    "wof:parent_id":1159297815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.08082,
+    55.98557,
+    10.08082,
+    55.98557
+],
+  "geometry": {"coordinates":[10.08082,55.98557],"type":"Point"}
+}

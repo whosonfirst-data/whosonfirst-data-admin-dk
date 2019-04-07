@@ -1,0 +1,93 @@
+{
+  "id": 101805807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":706529.023911,
+    "geom:bbox":"10.2470414941,57.0710456377,10.2635672798,57.0827481368",
+    "geom:latitude":57.076256,
+    "geom:longitude":10.257004,
+    "iso:country":"DK",
+    "lbl:latitude":57.076299,
+    "lbl:longitude":10.256879,
+    "mps:latitude":57.076299,
+    "mps:longitude":10.256879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ulsted"
+    ],
+    "name:dan_x_preferred":[
+        "Ulsted"
+    ],
+    "name:dut_x_preferred":[
+        "Ulsted"
+    ],
+    "name:eng_x_preferred":[
+        "Ulsted"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e1\u05d8\u05d3"
+    ],
+    "name:ice_x_preferred":[
+        "Ulsted"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aalborg",
+    "qs:la_lc":"*DK1081851",
+    "qs:level":"locality",
+    "qs:loc":"Ulsted",
+    "qs:loc_alt":"Ulsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610920,
+        "gp:id":558406,
+        "qs:id":1222346,
+        "wd:id":"Q2741864"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c40c86e39598bdd0c963b6b43c217b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101805807,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805807,
+    "wof:lastmodified":1530290671,
+    "wof:name":"Ulsted",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24704149409911,
+    57.07104563766029,
+    10.26356727980038,
+    57.08274813682254
+],
+  "geometry": {"coordinates":[[[10.25863775764066,57.08274168783703],[10.25863159631893,57.08184274625415],[10.26027891731212,57.08183949084508],[10.26027271709756,57.08094054954853],[10.26356727980038,57.08093397690158],[10.26356100145881,57.08003503598133],[10.26026651723294,57.08004160845013],[10.26024172127461,57.07644584603639],[10.26353589163756,57.07643927427944],[10.26349823753691,57.07104563766029],[10.25855768758413,57.07105546270151],[10.25856384473326,57.07195440190992],[10.25691695500041,57.07195763568654],[10.25692307327836,57.07285657518025],[10.24704149409911,57.07287554443451],[10.24705326102787,57.07467342504157],[10.25034727867319,57.07466718427258],[10.25035324108649,57.07556612470364],[10.25200028875025,57.0755629732372],[10.25201229304383,57.07736085452245],[10.25365941890635,57.07735768221897],[10.25368963175407,57.08185238846704],[10.25533695353812,57.08184919506505],[10.25534303637437,57.08274813682254],[10.25863775764066,57.08274168783703]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 85905865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":51854.778946,
+    "geom:bbox":"12.5765991211,55.6690658618,12.5807189941,55.6717765116",
+    "geom:latitude":55.670247,
+    "geom:longitude":12.578364,
+    "iso:country":"DK",
+    "lbl:latitude":55.6705,
+    "lbl:longitude":12.5783,
+    "mps:latitude":55.670304,
+    "mps:longitude":12.578325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Christiansborggade"
+    ],
+    "name:unk_x_variant":[
+        "Christiansborggade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Christiansborggade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Christiansborggade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":133,
+    "qs:photo_sum":653,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229128
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1b4dff066a11a91e7f8394314aaac7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905865,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905865,
+    "wof:lastmodified":1530296525,
+    "wof:name":"Christiansborggade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5765991211,
+    55.66906586175013,
+    12.58071899411578,
+    55.6717765116275
+],
+  "geometry": {"coordinates":[[[12.57865905760013,55.67139394472996],[12.5786669354593,55.67138928830006],[12.57934570310005,55.67138928830006],[12.57934570310005,55.67100205577525],[12.5793535825797,55.67100205577525],[12.57957196007089,55.67061482675432],[12.58071899411578,55.6706148265939],[12.58071899411414,55.66984035217517],[12.57957196114728,55.66984035206896],[12.57934570310005,55.66943915786568],[12.57934570310005,55.66906586217515],[12.57797241210011,55.66906586175013],[12.5765991211,55.66906586217515],[12.5765991211,55.66943915786568],[12.5765991211,55.66984035430006],[12.5765991211,55.670614828621],[12.5771726387253,55.67061482900006],[12.57720903500569,55.67080844497524],[12.57720092081229,55.67085160955587],[12.57728576662896,55.67100206037121],[12.57728576660003,55.67138928830006],[12.57739889404246,55.67138928830006],[12.5774120492099,55.67145926969248],[12.57780272157936,55.6716901898409],[12.5778189479945,55.67177651125029],[12.57797241210011,55.6717765116275],[12.57865905760013,55.67177651160652],[12.57865905760013,55.67139394472996]]],"type":"Polygon"}
+}

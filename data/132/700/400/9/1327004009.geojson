@@ -1,0 +1,71 @@
+{
+  "id": 1327004009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93957,55.45209,8.93957,55.45209",
+    "geom:latitude":55.45209,
+    "geom:longitude":8.93957,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Fovling",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622005,
+    "gn:latitude":55.45209,
+    "gn:longitude":8.93957,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"F\u00f8vling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00f8vling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622005
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dc2e0f128d760f1b39314c41754f9480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1327004009,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327004009,
+    "wof:lastmodified":1537619876,
+    "wof:name":"Fovling",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93957,
+    55.45209000000001,
+    8.93957,
+    55.45209000000001
+],
+  "geometry": {"coordinates":[8.93957,55.45209000000001],"type":"Point"}
+}

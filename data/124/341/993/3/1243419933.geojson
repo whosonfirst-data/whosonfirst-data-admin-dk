@@ -1,0 +1,68 @@
+{
+  "id": 1243419933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.62076,57.28146,9.62076,57.28146",
+    "geom:latitude":57.28146,
+    "geom:longitude":9.62076,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Pirupshvarre",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615159,
+    "gn:latitude":57.28146,
+    "gn:longitude":9.62076,
+    "gn:modification_date":"2010-08-15",
+    "gn:name":"Pirupshvarre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615159
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4d46427dca22e050cd28d7f38f084f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1243419933,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1243419933,
+    "wof:lastmodified":1536842774,
+    "wof:name":"Pirupshvarre",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62076,
+    57.28146,
+    9.62076,
+    57.28146
+],
+  "geometry": {"coordinates":[9.62076,57.28146],"type":"Point"}
+}

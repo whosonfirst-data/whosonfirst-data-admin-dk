@@ -1,0 +1,68 @@
+{
+  "id": 1193096041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84604,55.50198,9.84604,55.50198",
+    "geom:latitude":55.50198,
+    "geom:longitude":9.84604,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"410.0",
+    "gn:asciiname":"Kustrup",
+    "gn:country_code":"DK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618115,
+    "gn:latitude":55.50198,
+    "gn:longitude":9.84604,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kustrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297791,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618115
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0dd268885c585ec0e488b21e21d35550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297791,
+            "locality_id":1193096041,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1193096041,
+    "wof:lastmodified":1536365940,
+    "wof:name":"Kustrup",
+    "wof:parent_id":1159297791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84604,
+    55.50198,
+    9.84604,
+    55.50198
+],
+  "geometry": {"coordinates":[9.84604,55.50198],"type":"Point"}
+}

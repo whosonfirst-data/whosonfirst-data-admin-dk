@@ -1,0 +1,75 @@
+{
+  "id": 1343535693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.82719,55.09337,11.82719,55.09337",
+    "geom:latitude":55.09337,
+    "geom:longitude":11.82719,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Kong Firgarde",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618462,
+    "gn:latitude":55.09337,
+    "gn:longitude":11.82719,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00f8ng Firg\u00e5rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firgaarde",
+        "K\u00f8ng Fireg\u00e5rde",
+        "K\u00f8ng Fireg\u00e5rd",
+        "K\u00f6ng Firgaarde",
+        "K\u00f8ng Firg\u00e5rde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618462
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c04033be5ac7198ba598b2fb494de44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1343535693,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343535693,
+    "wof:lastmodified":1537619850,
+    "wof:name":"Kong Firgarde",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.82719,
+    55.09336999999999,
+    11.82719,
+    55.09336999999999
+],
+  "geometry": {"coordinates":[11.82719,55.09336999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101913121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1180729.013925,
+    "geom:bbox":"10.5209296757,56.5038980817,10.5610438191,56.514601547",
+    "geom:latitude":56.510358,
+    "geom:longitude":10.539308,
+    "iso:country":"DK",
+    "lbl:latitude":56.510643,
+    "lbl:longitude":10.53627,
+    "mps:latitude":56.510643,
+    "mps:longitude":10.53627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rygaardstrand"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"7",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Norddjurs",
+    "qs:la_lc":"*DK1082707",
+    "qs:level":"locality",
+    "qs:loc":"Ryg\u00e5rd Strand",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612268,
+        "gp:id":556777,
+        "qs:id":262002,
+        "qs_pg:id":262002
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3ec3c46fbde6ab600f972c1490d65d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":101913121,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101913121,
+    "wof:lastmodified":1530291205,
+    "wof:name":"Ryg\u00e5rd Strand",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.52092967574322,
+    56.50389808169854,
+    10.56104381913156,
+    56.51460154696053
+],
+  "geometry": {"coordinates":[[[10.56104381913156,56.51458278984023],[10.56057807857712,56.51188811293957],[10.55503382134782,56.51191209888401],[10.55500791689929,56.51011449400625],[10.55013961116867,56.51013525065457],[10.55012677361401,56.50923644790504],[10.53876763970618,56.50928416766737],[10.53875506789717,56.50838536381116],[10.5355096719843,56.50839881480914],[10.5354721878922,56.50570240313124],[10.53709477254051,56.505695688326],[10.53706971090969,56.50389808169854],[10.52733464936563,56.50393806366787],[10.52738386689646,56.50753328181031],[10.53225185428727,56.5075133801289],[10.53228911537019,56.51020979383424],[10.52092967574322,56.51025595032883],[10.52096614779452,56.51295236915678],[10.54368659179681,56.51285905311886],[10.54369928071463,56.51375785723781],[10.55668264763364,56.51370274414455],[10.55669564025004,56.51460154696053],[10.56104381913156,56.51458278984023]]],"type":"Polygon"}
+}

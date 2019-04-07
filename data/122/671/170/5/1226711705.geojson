@@ -1,0 +1,71 @@
+{
+  "id": 1226711705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,54.75,11.3,54.75",
+    "geom:latitude":54.75,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Asko",
+    "gn:country_code":"DK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624537,
+    "gn:latitude":54.75,
+    "gn:longitude":11.3,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ask\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ask\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624537
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"605dcf6ee9d872b000f95befd74910cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1226711705,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1226711705,
+    "wof:lastmodified":1537619895,
+    "wof:name":"Asko",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    54.75,
+    11.3,
+    54.75
+],
+  "geometry": {"coordinates":[11.3,54.75],"type":"Point"}
+}

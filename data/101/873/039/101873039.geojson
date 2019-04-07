@@ -1,0 +1,88 @@
+{
+  "id": 101873039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.138902,56.064932,12.138902,56.064932",
+    "geom:latitude":56.064932,
+    "geom:longitude":12.138902,
+    "iso:country":"DK",
+    "lbl:latitude":56.064932,
+    "lbl:longitude":12.138902,
+    "mps:latitude":56.064932,
+    "mps:longitude":12.138902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Vejby"
+    ],
+    "name:dut_x_preferred":[
+        "Vejby"
+    ],
+    "name:eng_x_preferred":[
+        "Vejby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vejby",
+    "qs:loc_alt":"Vejby",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297855,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610640,
+        "gp:id":558527,
+        "qs:id":889417,
+        "qs_pg:id":889417,
+        "wd:id":"Q1876093"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fb787800bb730457829ed64fa104c4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297855,
+            "locality_id":101873039,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101873039,
+    "wof:lastmodified":1544751447,
+    "wof:name":"Vejby",
+    "wof:parent_id":1159297855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.138902,
+    56.064932,
+    12.138902,
+    56.064932
+],
+  "geometry": {"coordinates":[12.138902,56.064932],"type":"Point"}
+}

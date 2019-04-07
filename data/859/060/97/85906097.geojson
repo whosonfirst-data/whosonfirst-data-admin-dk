@@ -1,0 +1,104 @@
+{
+  "id": 85906097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":52036.300522,
+    "geom:bbox":"12.5944519043,55.6725369481,12.5985717773,55.6753472101",
+    "geom:latitude":55.673934,
+    "geom:longitude":12.596721,
+    "iso:country":"DK",
+    "lbl:latitude":55.673919,
+    "lbl:longitude":12.596907,
+    "mps:latitude":55.67404,
+    "mps:longitude":12.596721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Bombeb\u00f8ssen"
+    ],
+    "name:eng_x_variant":[
+        "Overgaden oven Vandet"
+    ],
+    "name:unk_x_variant":[
+        "Overgaden oven Vandet"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Overgaden oven Vandet",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Overgaden oven Vandet",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":128,
+    "qs:photo_sum":966,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229371
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fabec4b2bf84b97fd3d069b63a5281c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906097,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906097,
+    "wof:lastmodified":1530296568,
+    "wof:name":"Overgaden oven Vandet",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59445190430012,
+    55.67253694809399,
+    12.59857177731681,
+    55.67534721011781
+],
+  "geometry": {"coordinates":[[[12.59744054761694,55.67526135500005],[12.59772336333276,55.67516104497558],[12.59788513180013,55.67487416503143],[12.59788513180013,55.67448697170637],[12.59857177731573,55.67448697170637],[12.59857177731408,55.67409977467237],[12.59788513180013,55.67409977460638],[12.59788513180013,55.67371257370651],[12.59857177731573,55.67371257370651],[12.59857177731681,55.67332536895007],[12.5985717773076,55.67293816100009],[12.59857177731328,55.67253694809399],[12.59789302260066,55.67293816100009],[12.59788513180013,55.67293816100009],[12.59787724099948,55.67293816100009],[12.5971984863001,55.67253694810857],[12.59651973160089,55.67293816100009],[12.59651184080008,55.67293816100009],[12.59650394999971,55.67293816100009],[12.59582519530034,55.67253694810883],[12.59582519530022,55.67293816100009],[12.59582519530016,55.67332536899075],[12.59513854980014,55.67332536905842],[12.59513854980014,55.67370790031408],[12.59513064278741,55.67371257430007],[12.59445190430012,55.67371257430007],[12.59445190430012,55.6744869723001],[12.5946781495723,55.67448697090744],[12.59559895022113,55.67448697118446],[12.59581332745574,55.67486714529328],[12.59582519530005,55.67487416077516],[12.59582519530005,55.67526135500005],[12.59605143822472,55.67526135245008],[12.59711779739735,55.67526135388438],[12.5971984863001,55.67534721011781],[12.59744054761694,55.67526135500005]]],"type":"Polygon"}
+}

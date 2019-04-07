@@ -1,0 +1,82 @@
+{
+  "id": 1125986983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.529392,55.900629,12.529392,55.900629",
+    "geom:latitude":55.900629,
+    "geom:longitude":12.529392,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":55.900629,
+    "lbl:longitude":12.529392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rungstedlund",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":1180,
+    "qs_pg:photos_1k":239,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1180,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":556764,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297813,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":556764,
+        "qs_pg:id":238463
+    },
+    "wof:country":"DK",
+    "wof:created":1497298860,
+    "wof:geomhash":"06e3f928bb994af12cd58e13f2792537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297813,
+            "locality_id":1125986983,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125986983,
+    "wof:lastmodified":1530291471,
+    "wof:name":"Rungstedlund",
+    "wof:parent_id":1159297813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.529392,
+    55.900629,
+    12.529392,
+    55.900629
+],
+  "geometry": {"coordinates":[12.529392,55.900629],"type":"Point"}
+}

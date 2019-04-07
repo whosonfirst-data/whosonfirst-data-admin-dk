@@ -1,0 +1,68 @@
+{
+  "id": 1343724495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88608,57.46697,9.88608,57.46697",
+    "geom:latitude":57.46697,
+    "geom:longitude":9.88608,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Norum",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616192,
+    "gn:latitude":57.46697,
+    "gn:longitude":9.88608,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616192
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ce849a7fbd2c438c99771f4f0c38f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1343724495,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1343724495,
+    "wof:lastmodified":1536861467,
+    "wof:name":"Norum",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88608,
+    57.46697,
+    9.88608,
+    57.46697
+],
+  "geometry": {"coordinates":[9.88608,57.46697],"type":"Point"}
+}

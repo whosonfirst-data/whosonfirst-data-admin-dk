@@ -1,0 +1,68 @@
+{
+  "id": 1242743529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48676,56.81927,8.48676,56.81927",
+    "geom:latitude":56.81927,
+    "geom:longitude":8.48676,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Villerslev",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610245,
+    "gn:latitude":56.81927,
+    "gn:longitude":8.48676,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Villerslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610245
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b141e5b06c8ca4b80b08c886565147c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":1242743529,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1242743529,
+    "wof:lastmodified":1536823936,
+    "wof:name":"Villerslev",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48676,
+    56.81927,
+    8.48676,
+    56.81927
+],
+  "geometry": {"coordinates":[8.48676,56.81927],"type":"Point"}
+}

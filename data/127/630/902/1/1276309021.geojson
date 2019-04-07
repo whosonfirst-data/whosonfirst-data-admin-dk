@@ -1,0 +1,78 @@
+{
+  "id": 1276309021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07394,55.06175,15.07394,55.06175",
+    "geom:latitude":55.06175,
+    "geom:longitude":15.07394,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Bodilsker",
+    "gn:country_code":"DK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623870,
+    "gn:latitude":55.06175,
+    "gn:longitude":15.07394,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bodilsker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Sankt Bodil"
+    ],
+    "name:eng_x_preferred":[
+        "Sct. Bothulf"
+    ],
+    "name:und_x_variant":[
+        "Bodilskirke",
+        "Sankt Bodil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623870
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b005cfaefd461304708debe20f23dd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1276309021,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1276309021,
+    "wof:lastmodified":1537619888,
+    "wof:name":"Bodilsker",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07394,
+    55.06175,
+    15.07394,
+    55.06175
+],
+  "geometry": {"coordinates":[15.07394,55.06175],"type":"Point"}
+}

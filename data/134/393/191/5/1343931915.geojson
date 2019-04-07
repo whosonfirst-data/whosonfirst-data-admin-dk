@@ -1,0 +1,68 @@
+{
+  "id": 1343931915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77356,55.45648,8.77356,55.45648",
+    "geom:latitude":55.45648,
+    "geom:longitude":8.77356,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"561.0",
+    "gn:asciiname":"Sonder Boel",
+    "gn:country_code":"DK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613104,
+    "gn:latitude":55.45648,
+    "gn:longitude":8.77356,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nder B\u00f8el",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613104
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7256ab984d204dccc453f3a3a439555b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":1343931915,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343931915,
+    "wof:lastmodified":1537058702,
+    "wof:name":"Sonder Boel",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77356,
+    55.45648000000001,
+    8.77356,
+    55.45648000000001
+],
+  "geometry": {"coordinates":[8.77356,55.45648000000001],"type":"Point"}
+}

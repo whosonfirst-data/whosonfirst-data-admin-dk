@@ -1,0 +1,68 @@
+{
+  "id": 1309686139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32617,55.30721,10.32617,55.30721",
+    "geom:latitude":55.30721,
+    "geom:longitude":10.32617,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"461.0",
+    "gn:asciiname":"Fangel Torp",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622343,
+    "gn:latitude":55.30721,
+    "gn:longitude":10.32617,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fangel Torp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622343
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"87878199d600f7cc81e7f62bfc2bbb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":1309686139,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1309686139,
+    "wof:lastmodified":1536603651,
+    "wof:name":"Fangel Torp",
+    "wof:parent_id":1159297847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32617,
+    55.30721,
+    10.32617,
+    55.30721
+],
+  "geometry": {"coordinates":[10.32617,55.30721],"type":"Point"}
+}

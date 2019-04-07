@@ -1,0 +1,68 @@
+{
+  "id": 1192981817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96681,56.52827,8.96681,56.52827",
+    "geom:latitude":56.52827,
+    "geom:longitude":8.96681,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Estvad",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622402,
+    "gn:latitude":56.52827,
+    "gn:longitude":8.96681,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Estvad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622402
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d311be91eda460969d554f666f0f3e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1192981817,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1192981817,
+    "wof:lastmodified":1536367168,
+    "wof:name":"Estvad",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96681,
+    56.52826999999999,
+    8.96681,
+    56.52826999999999
+],
+  "geometry": {"coordinates":[8.96681,56.52826999999999],"type":"Point"}
+}

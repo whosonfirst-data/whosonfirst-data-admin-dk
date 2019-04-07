@@ -1,0 +1,68 @@
+{
+  "id": 1277150987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12708,55.82374,9.12708,55.82374",
+    "geom:latitude":55.82374,
+    "geom:longitude":9.12708,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Ulkind",
+    "gn:country_code":"DK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610949,
+    "gn:latitude":55.82374,
+    "gn:longitude":9.12708,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ulkind",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610949
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"719add97683fccd61704023ce95c70e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1277150987,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277150987,
+    "wof:lastmodified":1536669352,
+    "wof:name":"Ulkind",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12708,
+    55.82374,
+    9.12708,
+    55.82374
+],
+  "geometry": {"coordinates":[9.12708,55.82374],"type":"Point"}
+}

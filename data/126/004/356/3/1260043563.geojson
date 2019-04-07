@@ -1,0 +1,68 @@
+{
+  "id": 1260043563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5165,55.89589,12.5165,55.89589",
+    "geom:latitude":55.89589,
+    "geom:longitude":12.5165,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"223.0",
+    "gn:asciiname":"Vallerod",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610784,
+    "gn:latitude":55.89589,
+    "gn:longitude":12.5165,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Valler\u00f8d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297813,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610784
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fefe218f86d4001df8027110e012bdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297813,
+            "locality_id":1260043563,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1260043563,
+    "wof:lastmodified":1537043867,
+    "wof:name":"Vallerod",
+    "wof:parent_id":1159297813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5165,
+    55.89589,
+    12.5165,
+    55.89589
+],
+  "geometry": {"coordinates":[12.5165,55.89589],"type":"Point"}
+}

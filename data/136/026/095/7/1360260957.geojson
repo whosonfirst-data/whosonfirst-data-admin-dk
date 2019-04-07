@@ -1,0 +1,72 @@
+{
+  "id": 1360260957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44625,56.45268,9.44625,56.45268",
+    "geom:latitude":56.45268,
+    "geom:longitude":9.44625,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Gammel Asmild",
+    "gn:country_code":"DK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621691,
+    "gn:latitude":56.45268,
+    "gn:longitude":9.44625,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gammel Asmild",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamle Asmild",
+        "Gammel Asmild"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621691
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d3aa23813ae9cffc1e8c5afbec9b0f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1360260957,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1360260957,
+    "wof:lastmodified":1537619874,
+    "wof:name":"Gammel Asmild",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44625,
+    56.45268000000001,
+    9.44625,
+    56.45268000000001
+],
+  "geometry": {"coordinates":[9.44625,56.45268000000001],"type":"Point"}
+}

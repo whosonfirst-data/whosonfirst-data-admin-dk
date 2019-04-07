@@ -1,0 +1,68 @@
+{
+  "id": 1277033649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47038,55.22202,10.47038,55.22202",
+    "geom:latitude":55.22202,
+    "geom:longitude":10.47038,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Kellerup",
+    "gn:country_code":"DK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618962,
+    "gn:latitude":55.22202,
+    "gn:longitude":10.47038,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kellerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618962
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"34bee01de0780ee19bec7a35fc75ca9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1277033649,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277033649,
+    "wof:lastmodified":1536834040,
+    "wof:name":"Kellerup",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47038,
+    55.22201999999999,
+    10.47038,
+    55.22201999999999
+],
+  "geometry": {"coordinates":[10.47038,55.22201999999999],"type":"Point"}
+}

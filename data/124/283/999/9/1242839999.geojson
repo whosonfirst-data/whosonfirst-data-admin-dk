@@ -1,0 +1,68 @@
+{
+  "id": 1242839999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.46382,57.37936,10.46382,57.37936",
+    "geom:latitude":57.37936,
+    "geom:longitude":10.46382,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"813.0",
+    "gn:asciiname":"Skibtved",
+    "gn:country_code":"DK",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2613750,
+    "gn:latitude":57.37936,
+    "gn:longitude":10.46382,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skibtved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297889,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613750
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ce2cf2440e765c207da54c9c48190f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297889,
+            "locality_id":1242839999,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1242839999,
+    "wof:lastmodified":1536685815,
+    "wof:name":"Skibtved",
+    "wof:parent_id":1159297889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.46382,
+    57.37936,
+    10.46382,
+    57.37936
+],
+  "geometry": {"coordinates":[10.46382,57.37936],"type":"Point"}
+}

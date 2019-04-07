@@ -1,0 +1,69 @@
+{
+  "id": 420784577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4962930766,55.6323044804,12.4962930766,55.6323044804",
+    "geom:latitude":55.632304,
+    "geom:longitude":12.496293,
+    "iso:country":"DK",
+    "lbl:latitude":55.632304,
+    "lbl:longitude":12.496293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:swe_x_preferred":[
+        "Erik Strandmark"
+    ],
+    "src:geom":"unknown",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5388851"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"55ca6a1ecf83b4add2aa21e2daee8abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784577,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784577,
+    "wof:lastmodified":1530296497,
+    "wof:name":"Strandmark",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.49629307658282,
+    55.63230448044997,
+    12.49629307658282,
+    55.63230448044997
+],
+  "geometry": {"coordinates":[12.49629307658282,55.63230448044997],"type":"Point"}
+}

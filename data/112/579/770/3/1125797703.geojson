@@ -1,0 +1,87 @@
+{
+  "id": 1125797703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47536,56.51579,8.47536,56.51579",
+    "geom:latitude":56.51579,
+    "geom:longitude":8.47536,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.51579,
+    "lbl:longitude":8.47536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Gudumstad"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2621057,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gudum",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":553708,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297919,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621057,
+        "gp:id":553708,
+        "qs_pg:id":182652
+    },
+    "wof:country":"DK",
+    "wof:created":1497291124,
+    "wof:geomhash":"5eaabaf0de6d71bfa4e0ae9b58ef1dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297919,
+            "locality_id":1125797703,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125797703,
+    "wof:lastmodified":1530292492,
+    "wof:name":"Gudum",
+    "wof:parent_id":1159297919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47536,
+    56.51579,
+    8.47536,
+    56.51579
+],
+  "geometry": {"coordinates":[8.47536,56.51579],"type":"Point"}
+}

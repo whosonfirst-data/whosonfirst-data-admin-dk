@@ -1,0 +1,67 @@
+{
+  "id": 1259843901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6,54.9,9.6,54.9",
+    "geom:latitude":54.9,
+    "geom:longitude":9.6,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Trappen",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611285,
+    "gn:latitude":54.9,
+    "gn:longitude":9.6,
+    "gn:modification_date":"2017-07-01",
+    "gn:name":"Trappen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trappe",
+        "Trappen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611285
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"87e34c2a69ea7a8e14ab86165e696d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259843901,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259843901,
+    "wof:lastmodified":1537619795,
+    "wof:name":"Trappen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6,
+    54.9,
+    9.6,
+    54.9
+],
+  "geometry": {"coordinates":[9.6,54.9],"type":"Point"}
+}

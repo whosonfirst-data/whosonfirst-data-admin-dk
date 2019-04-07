@@ -1,0 +1,102 @@
+{
+  "id": 1125939553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8,56.31667,9.8,56.31667",
+    "geom:latitude":56.31667,
+    "geom:longitude":9.8,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.31667,
+    "lbl:longitude":9.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Aidt"
+    ],
+    "name:dut_x_preferred":[
+        "Aidt"
+    ],
+    "name:eng_x_preferred":[
+        "Aidt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30c8"
+    ],
+    "name:unk_x_variant":[
+        "Ajt"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2624937,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Aidt",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1139993,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":551871,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297745,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624937,
+        "gp:id":551871,
+        "qs_pg:id":1139993,
+        "wd:id":"Q2544465"
+    },
+    "wof:country":"DK",
+    "wof:created":1497297072,
+    "wof:geomhash":"7d407dd5bffd7c9ec38a2ce9c73fbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297745,
+            "locality_id":1125939553,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125939553,
+    "wof:lastmodified":1530290768,
+    "wof:name":"Aidt",
+    "wof:parent_id":1159297745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8,
+    56.31667,
+    9.8,
+    56.31667
+],
+  "geometry": {"coordinates":[9.8,56.31667],"type":"Point"}
+}

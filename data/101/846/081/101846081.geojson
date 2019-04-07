@@ -1,0 +1,117 @@
+{
+  "id": 101846081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000222,
+    "geom:area_square_m":1532804.946639,
+    "geom:bbox":"10.1843622918,56.0303090129,10.20844769,56.0491707472",
+    "geom:latitude":56.03967,
+    "geom:longitude":10.197214,
+    "gn:population":3339,
+    "iso:country":"DK",
+    "lbl:latitude":56.040436,
+    "lbl:longitude":10.197396,
+    "mps:latitude":56.040436,
+    "mps:longitude":10.197396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Malling"
+    ],
+    "name:dan_x_preferred":[
+        "Malling"
+    ],
+    "name:deu_x_preferred":[
+        "Malling"
+    ],
+    "name:dut_x_preferred":[
+        "Malling"
+    ],
+    "name:eng_x_preferred":[
+        "Malling"
+    ],
+    "name:fre_x_preferred":[
+        "Malling"
+    ],
+    "name:ger_x_preferred":[
+        "Malling"
+    ],
+    "name:hun_x_preferred":[
+        "Malling"
+    ],
+    "name:ita_x_preferred":[
+        "Malling"
+    ],
+    "name:nld_x_preferred":[
+        "Malling"
+    ],
+    "name:swe_x_preferred":[
+        "Malling"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"\u00c5rhus",
+    "qs:la_lc":"*DK1082751",
+    "qs:level":"locality",
+    "qs:loc":"Malling",
+    "qs:loc_alt":"Malling",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":944,
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617114,
+        "gp:id":555478,
+        "qs:id":472785,
+        "qs_pg:id":472785,
+        "wd:id":"Q1011688",
+        "wk:page":"Malling, Denmark"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0ced191dfc63144074cf9692afb8f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":101846081,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101846081,
+    "wof:lastmodified":1530296473,
+    "wof:name":"Malling",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:population":3339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18436229177081,
+    56.03030901291078,
+    10.20844769002315,
+    56.04917074724199
+],
+  "geometry": {"coordinates":[[[10.20206177412484,56.04916325971266],[10.20205713578571,56.04826450592071],[10.19884989550542,56.04826951752267],[10.19883620285805,56.04557325654889],[10.20364673172151,56.04556570966844],[10.20363738372606,56.04376820340923],[10.20844769002315,56.04376047653091],[10.2084189898838,56.03836796213676],[10.2068157754149,56.03837055739928],[10.20680628437088,56.03657305352124],[10.20360000198673,56.03657818365701],[10.2035906591118,56.03478068003801],[10.2003845230787,56.03478572975189],[10.20037992558406,56.03388697800813],[10.19717386234356,56.03389194743869],[10.1971783862798,56.03479069931251],[10.19236917967299,56.03479800336515],[10.19235152673076,56.03120299589602],[10.1891456822824,56.03120776457394],[10.18914134319385,56.03030901291078],[10.18753845746926,56.03031136713372],[10.18756857863934,56.03660263196923],[10.18436229177081,56.03660728115818],[10.1843665221669,56.03750603392581],[10.18596970247597,56.03750371929061],[10.18597396989134,56.03840247212969],[10.1891804035493,56.0383977826167],[10.1891890862446,56.04019528844555],[10.1907923763838,56.04019291350403],[10.1908142712731,56.04468668007763],[10.19402121897872,56.04468186944149],[10.19403012583263,56.0464793767452],[10.19563367301708,56.04647694123349],[10.19564265446485,56.04827444893976],[10.19724627507946,56.04827199325433],[10.19725080298372,56.04917074724199],[10.20206177412484,56.04916325971266]]],"type":"Polygon"}
+}

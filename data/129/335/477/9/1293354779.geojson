@@ -1,0 +1,68 @@
+{
+  "id": 1293354779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9426,55.08797,8.9426,55.08797",
+    "geom:latitude":55.08797,
+    "geom:longitude":8.9426,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"550.0",
+    "gn:asciiname":"Ulstrup",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610913,
+    "gn:latitude":55.08797,
+    "gn:longitude":8.9426,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ulstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610913
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a127de73625954cccc2902ebf7c4ede4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":1293354779,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293354779,
+    "wof:lastmodified":1536977921,
+    "wof:name":"Ulstrup",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9426,
+    55.08797,
+    8.9426,
+    55.08797
+],
+  "geometry": {"coordinates":[8.9426,55.08797],"type":"Point"}
+}

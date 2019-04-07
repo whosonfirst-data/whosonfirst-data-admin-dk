@@ -1,0 +1,79 @@
+{
+  "id": 420784615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5724678509,55.6788710659,12.5724678509,55.6788710659",
+    "geom:latitude":55.678871,
+    "geom:longitude":12.572468,
+    "iso:country":"DK",
+    "lbl:latitude":55.678871,
+    "lbl:longitude":12.572468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:dan_x_preferred":[
+        "Latinerkvarteret"
+    ],
+    "name:eng_x_preferred":[
+        "Latin Quarter"
+    ],
+    "name:fre_x_preferred":[
+        "quartier latin de Copenhague"
+    ],
+    "src:geom":"unknown",
+    "wd:latitude":48.851417,
+    "wd:longitude":2.343167,
+    "wd:wordcount":288,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229273,
+        "wd:id":"Q12323994"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871932,
+    "wof:geomhash":"41aef91d20fb579c606529b8b8d4a69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784615,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784615,
+    "wof:lastmodified":1553816354,
+    "wof:name":"Latin Quarter",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57246785093317,
+    55.67887106589622,
+    12.57246785093317,
+    55.67887106589622
+],
+  "geometry": {"coordinates":[12.57246785093317,55.67887106589622],"type":"Point"}
+}

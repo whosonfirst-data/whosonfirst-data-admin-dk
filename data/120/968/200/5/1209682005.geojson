@@ -1,0 +1,66 @@
+{
+  "id": 1209682005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90651,56.74122,8.90651,56.74122",
+    "geom:latitude":56.74122,
+    "geom:longitude":8.90651,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Nautrup",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616587,
+    "gn:latitude":56.74122,
+    "gn:longitude":8.90651,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nautrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navtrup",
+        "Nautrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616587
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"35f5c8f76bb7a612158615e176b4dbd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209682005
+        }
+    ],
+    "wof:id":1209682005,
+    "wof:lastmodified":1537619837,
+    "wof:name":"Nautrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90651,
+    56.74122,
+    8.90651,
+    56.74122
+],
+  "geometry": {"coordinates":[8.90651,56.74122],"type":"Point"}
+}

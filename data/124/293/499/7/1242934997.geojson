@@ -1,0 +1,68 @@
+{
+  "id": 1242934997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00497,55.23327,12.00497,55.23327",
+    "geom:latitude":55.23327,
+    "geom:longitude":12.00497,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Tingerup",
+    "gn:country_code":"DK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2611695,
+    "gn:latitude":55.23327,
+    "gn:longitude":12.00497,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Tingerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297811,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611695
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a9530e06f3a59db16efca5392e86b05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297811,
+            "locality_id":1242934997,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1242934997,
+    "wof:lastmodified":1537044251,
+    "wof:name":"Tingerup",
+    "wof:parent_id":1159297811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00497,
+    55.23327,
+    12.00497,
+    55.23327
+],
+  "geometry": {"coordinates":[12.00497,55.23327],"type":"Point"}
+}

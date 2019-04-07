@@ -1,0 +1,106 @@
+{
+  "id": 101818349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000306,
+    "geom:bbox":"11.8453644209,55.1736673012,11.8895351428,55.1881098303",
+    "geom:latitude":55.181661,
+    "geom:longitude":11.865239,
+    "iso:country":"DK",
+    "lbl:latitude":55.181715,
+    "lbl:longitude":11.866744,
+    "mps:latitude":55.181715,
+    "mps:longitude":11.866744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Flads\u00e5"
+    ],
+    "name:dan_x_preferred":[
+        "Flads\u00e5 Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Flads\u00e5 Kommune"
+    ],
+    "name:fao_x_preferred":[
+        "Flads\u00e5 kommuna"
+    ],
+    "name:ita_x_preferred":[
+        "Flads\u00e5"
+    ],
+    "name:nld_x_preferred":[
+        "Flads\u00e5"
+    ],
+    "name:nor_x_preferred":[
+        "Flads\u00e5 kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Flads\u00e5"
+    ],
+    "name:por_x_preferred":[
+        "Flads\u00e5"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Flads\u00e5"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"N\u00e6stved",
+    "qs:la_lc":"*DK1085370",
+    "qs:level":"locality",
+    "qs:loc":"Mogenstrup",
+    "qs:loc_alt":"Mogenstrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616868,
+        "gp:id":555590,
+        "qs:id":1156370,
+        "qs_pg:id":1156370
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c7dbbe100ea37c4cab4f31070fbf6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":101818349,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818349,
+    "wof:lastmodified":1530292469,
+    "wof:name":"Mogenstrup",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.84536442093929,
+    55.17366730117891,
+    11.88953514284731,
+    55.18810983032949
+],
+  "geometry": {"coordinates":[[[11.88643975376874,55.18591639573464],[11.88639774632247,55.18501809686893],[11.88953514284731,55.18497104242948],[11.88940892465689,55.18227614977184],[11.88156594391313,55.18239363034309],[11.88152405010879,55.18149532992487],[11.87211262652238,55.18163565815939],[11.87194591085569,55.17804244282291],[11.87351434615817,55.17801910600866],[11.87343093194522,55.17622249987988],[11.86872583022989,55.17629244815106],[11.86876743159598,55.17719075296225],[11.86406221008451,55.17726052715557],[11.86389623644061,55.17366730117891],[11.85762314219869,55.17376005046413],[11.85766449279987,55.17465835922485],[11.85609618017719,55.17468149828977],[11.85626146519252,55.17827473627403],[11.84685071733082,55.17841317442281],[11.84693295451945,55.18020980080206],[11.84536442093929,55.18023280660447],[11.845446597153,55.18202943439093],[11.84701520050476,55.18200642741999],[11.84705632679646,55.18290474081863],[11.85019359827515,55.18285866707981],[11.85027599702181,55.18465529171613],[11.85655079905979,55.1845629050336],[11.85659214131277,55.18546121509479],[11.85972960207118,55.18541490331603],[11.85985385147984,55.18810983032949],[11.86612917160187,55.18801696516789],[11.86604605726882,55.18622035181664],[11.88643975376874,55.18591639573464]]],"type":"Polygon"}
+}

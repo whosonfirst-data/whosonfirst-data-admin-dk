@@ -1,0 +1,73 @@
+{
+  "id": 1327100091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89617,57.45408,9.89617,57.45408",
+    "geom:latitude":57.45408,
+    "geom:longitude":9.89617,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Norre Harritslev",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616321,
+    "gn:latitude":57.45408,
+    "gn:longitude":9.89617,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00f8rre Harritslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00f8rre Harridslev",
+        "N\u00f8rre Harreslev",
+        "N\u00f8rre Harritslev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616321
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e790afe5b357a3690df7977f952b1742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1327100091,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1327100091,
+    "wof:lastmodified":1537619835,
+    "wof:name":"Norre Harritslev",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89617,
+    57.45408000000001,
+    9.89617,
+    57.45408000000001
+],
+  "geometry": {"coordinates":[9.89617,57.45408000000001],"type":"Point"}
+}

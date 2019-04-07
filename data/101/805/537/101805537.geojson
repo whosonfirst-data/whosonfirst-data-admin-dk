@@ -1,0 +1,124 @@
+{
+  "id": 101805537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000181,
+    "geom:bbox":"8.8094666337,55.0498846765,8.83462256525,55.0624345133",
+    "geom:latitude":55.056638,
+    "geom:longitude":8.823132,
+    "iso:country":"DK",
+    "lbl:latitude":55.056908,
+    "lbl:longitude":8.822275,
+    "mps:latitude":55.056908,
+    "mps:longitude":8.822275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Bredebro Kommune"
+    ],
+    "name:dan_x_variant":[
+        "Bredebro"
+    ],
+    "name:deu_x_preferred":[
+        "Bredebro Kommune"
+    ],
+    "name:deu_x_variant":[
+        "Bredebro"
+    ],
+    "name:eng_x_preferred":[
+        "Bredebro"
+    ],
+    "name:fao_x_preferred":[
+        "Bredebro kommuna"
+    ],
+    "name:fao_x_variant":[
+        "Bredebro"
+    ],
+    "name:ita_x_preferred":[
+        "Bredebro"
+    ],
+    "name:nld_x_preferred":[
+        "Bredebro"
+    ],
+    "name:nor_x_preferred":[
+        "Bredebro kommune"
+    ],
+    "name:nor_x_variant":[
+        "Bredebro"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bredebro"
+    ],
+    "name:por_x_preferred":[
+        "Bredebro"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bredebro"
+    ],
+    "name:swe_x_preferred":[
+        "Bredebro kommun"
+    ],
+    "name:swe_x_variant":[
+        "Bredebro"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"T\u00f8nder",
+    "qs:la_lc":"*DK1083550",
+    "qs:level":"locality",
+    "qs:loc":"Bredebro",
+    "qs:loc_alt":"Bredebro",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623505,
+        "gp:id":552600,
+        "qs:id":2,
+        "wd:id":"Q707320",
+        "wk:page":"Bredebro"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"51c86fe9e1613e47bc86f564a51a4a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":101805537,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805537,
+    "wof:lastmodified":1530296387,
+    "wof:name":"Bredebro",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80946663369912,
+    55.04988467646263,
+    8.83462256525172,
+    55.06243451328072
+],
+  "geometry": {"coordinates":[[[8.82349196334457,55.06243451328072],[8.82351805126234,55.06153600580291],[8.8266464664639,55.06156527759623],[8.82667248365459,55.06066676944073],[8.82980083372195,55.06069596256259],[8.8298527252793,55.05889894496283],[8.83141683255394,55.05891351156248],[8.83144274159474,55.05801500248822],[8.83457088995482,55.05804407650623],[8.83462256525172,55.05624705707538],[8.83305855987015,55.05623253054199],[8.83313616645319,55.05353700296803],[8.8315722660833,55.05352245805807],[8.83162406621278,55.051725440724],[8.83006023619032,55.05171087707186],[8.83011210009266,55.04991386072385],[8.82698458177867,55.04988467646263],[8.82695858122599,55.05078318386728],[8.82539478899662,55.05076856215135],[8.82536875241038,55.05166706924854],[8.82380492658388,55.05165242768504],[8.82377885395999,55.05255093447397],[8.81752342259529,55.05249217195592],[8.81754963381707,55.05159366665305],[8.81442199377699,55.05156416927076],[8.81439571325643,55.05246267382756],[8.81283186017777,55.05244789554604],[8.81277922563038,55.05424490409848],[8.81590707145665,55.05427444267752],[8.81588082138785,55.0551729477944],[8.81744478054594,55.05518768823811],[8.81736612591862,55.05788320508196],[8.81423800071155,55.05785370247611],[8.81421171038255,55.05875220746935],[8.8126476147084,55.05873742657093],[8.81262128831401,55.05963593125296],[8.80949303082878,55.05960631026159],[8.80946663369912,55.06050481425689],[8.81259496051592,55.06053443599768],[8.81256863131381,55.06143294080493],[8.81569703171851,55.06146248536288],[8.81567077045156,55.06236099098066],[8.82349196334457,55.06243451328072]]],"type":"Polygon"}
+}

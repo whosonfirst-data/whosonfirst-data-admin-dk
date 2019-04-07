@@ -1,0 +1,68 @@
+{
+  "id": 1343922411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5809,55.50516,8.5809,55.50516",
+    "geom:latitude":55.50516,
+    "geom:longitude":8.5809,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"561.0",
+    "gn:asciiname":"Smorpot",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613347,
+    "gn:latitude":55.50516,
+    "gn:longitude":8.5809,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sm\u00f8rp\u00f8t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613347
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4eb6830817bb77bba57b55e0be690e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":1343922411,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343922411,
+    "wof:lastmodified":1537071925,
+    "wof:name":"Smorpot",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5809,
+    55.50516,
+    8.5809,
+    55.50516
+],
+  "geometry": {"coordinates":[8.5809,55.50516],"type":"Point"}
+}

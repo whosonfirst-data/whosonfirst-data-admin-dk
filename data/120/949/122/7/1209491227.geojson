@@ -1,0 +1,67 @@
+{
+  "id": 1209491227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14468,55.91943,9.14468,55.91943",
+    "geom:latitude":55.91943,
+    "geom:longitude":9.14468,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Store Langkaer",
+    "gn:country_code":"DK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612390,
+    "gn:latitude":55.91943,
+    "gn:longitude":9.14468,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Store Langk\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Store Langk\u00e6rg\u00e5rd",
+        "Store Langkj\u00e6r",
+        "Store Langk\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612390
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"32e3cc5abc8e045becf967f01855f3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209491227
+        }
+    ],
+    "wof:id":1209491227,
+    "wof:lastmodified":1537619803,
+    "wof:name":"Store Langkaer",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14468,
+    55.91943000000001,
+    9.14468,
+    55.91943000000001
+],
+  "geometry": {"coordinates":[9.14468,55.91943000000001],"type":"Point"}
+}

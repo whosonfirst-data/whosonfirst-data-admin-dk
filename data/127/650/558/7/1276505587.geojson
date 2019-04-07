@@ -1,0 +1,68 @@
+{
+  "id": 1276505587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1812,55.75279,9.1812,55.75279",
+    "geom:latitude":55.75279,
+    "geom:longitude":9.1812,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Godsbol",
+    "gn:country_code":"DK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621318,
+    "gn:latitude":55.75279,
+    "gn:longitude":9.1812,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"G\u00f8dsb\u00f8l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621318
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e3fb752e7cd2305593bb370535cedf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1276505587,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276505587,
+    "wof:lastmodified":1537043616,
+    "wof:name":"Godsbol",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1812,
+    55.75279000000001,
+    9.1812,
+    55.75279000000001
+],
+  "geometry": {"coordinates":[9.1812,55.75279000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292962679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.94219,55.70415,11.94219,55.70415",
+    "geom:latitude":55.70415,
+    "geom:longitude":11.94219,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"350.0",
+    "gn:asciiname":"Saeby",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614174,
+    "gn:latitude":55.70415,
+    "gn:longitude":11.94219,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00e6by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297805,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614174
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"45fef870c0d2fe249ccf583306bab0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297805,
+            "locality_id":1292962679,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1292962679,
+    "wof:lastmodified":1537044866,
+    "wof:name":"Saeby",
+    "wof:parent_id":1159297805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.94219,
+    55.70415,
+    11.94219,
+    55.70415
+],
+  "geometry": {"coordinates":[11.94219,55.70415],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 420784583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4767236698,55.6444477978,12.4767236698,55.6444477978",
+    "geom:latitude":55.644448,
+    "geom:longitude":12.476724,
+    "iso:country":"DK",
+    "lbl:latitude":55.644448,
+    "lbl:longitude":12.476724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:dan_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:eus_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:fin_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:frr_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:msa_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:pol_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:ron_x_preferred":[
+        "Hvidovre"
+    ],
+    "src:geom":"unknown",
+    "wd:wordcount":440,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3590079"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"b0c46c2f96f9efd42a3f65556255165e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784583,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784583,
+    "wof:lastmodified":1530296498,
+    "wof:name":"Hvidovre",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47672366976381,
+    55.6444477978385,
+    12.47672366976381,
+    55.6444477978385
+],
+  "geometry": {"coordinates":[12.47672366976381,55.6444477978385],"type":"Point"}
+}

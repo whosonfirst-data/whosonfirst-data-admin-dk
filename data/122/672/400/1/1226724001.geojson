@@ -1,0 +1,68 @@
+{
+  "id": 1226724001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.41895,54.82663,10.41895,54.82663",
+    "geom:latitude":54.82663,
+    "geom:longitude":10.41895,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"492.0",
+    "gn:asciiname":"Dunkaer Mark",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2622859,
+    "gn:latitude":54.82663,
+    "gn:longitude":10.41895,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Dunk\u00e6r Mark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297837,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622859
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"49db4c8d2e3d31435de41d7cf9bc9073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297837,
+            "locality_id":1226724001,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226724001,
+    "wof:lastmodified":1536746684,
+    "wof:name":"Dunkaer Mark",
+    "wof:parent_id":1159297837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.41895,
+    54.82663,
+    10.41895,
+    54.82663
+],
+  "geometry": {"coordinates":[10.41895,54.82663],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209777483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.96267,54.78892,11.96267,54.78892",
+    "geom:latitude":54.78892,
+    "geom:longitude":11.96267,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Norre Orslev",
+    "gn:country_code":"DK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616271,
+    "gn:latitude":54.78892,
+    "gn:longitude":11.96267,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rre \u00d8rslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616271
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"91744e578324e6e345b92a80bf4236a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1209777483,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1209777483,
+    "wof:lastmodified":1536377322,
+    "wof:name":"Norre Orslev",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.96267,
+    54.78892,
+    11.96267,
+    54.78892
+],
+  "geometry": {"coordinates":[11.96267,54.78892],"type":"Point"}
+}

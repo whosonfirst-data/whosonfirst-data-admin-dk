@@ -1,0 +1,68 @@
+{
+  "id": 1209875115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25035,55.06556,10.25035,55.06556",
+    "geom:latitude":55.06556,
+    "geom:longitude":10.25035,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Bjorno By",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623993,
+    "gn:latitude":55.06556,
+    "gn:longitude":10.25035,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bj\u00f8rn\u00f8 By",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623993
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"75fb8d43478f8172b1c350d0de66a9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1209875115,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1209875115,
+    "wof:lastmodified":1536369315,
+    "wof:name":"Bjorno By",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25035,
+    55.06556,
+    10.25035,
+    55.06556
+],
+  "geometry": {"coordinates":[10.25035,55.06556],"type":"Point"}
+}

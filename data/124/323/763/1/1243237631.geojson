@@ -1,0 +1,73 @@
+{
+  "id": 1243237631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32374,55.68256,9.32374,55.68256",
+    "geom:latitude":55.68256,
+    "geom:longitude":9.32374,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Smakaer",
+    "gn:country_code":"DK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613380,
+    "gn:latitude":55.68256,
+    "gn:longitude":9.32374,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sm\u00e5k\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smaak\u00e6r",
+        "Smaakj\u00e6r",
+        "Sm\u00e5k\u00e6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613380
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e6d01c08a825207f8042051f6125aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1243237631,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243237631,
+    "wof:lastmodified":1537619810,
+    "wof:name":"Smakaer",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32374,
+    55.68256,
+    9.32374,
+    55.68256
+],
+  "geometry": {"coordinates":[9.32374,55.68256],"type":"Point"}
+}

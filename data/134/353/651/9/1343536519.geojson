@@ -1,0 +1,68 @@
+{
+  "id": 1343536519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.36884,57.05996,9.36884,57.05996",
+    "geom:latitude":57.05996,
+    "geom:longitude":9.36884,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Bonderup",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623797,
+    "gn:latitude":57.05996,
+    "gn:longitude":9.36884,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bonderup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623797
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0d6d4db8acbde622b8ec6c81b044ca9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1343536519,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1343536519,
+    "wof:lastmodified":1536635279,
+    "wof:name":"Bonderup",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.36884,
+    57.05996,
+    9.36884,
+    57.05996
+],
+  "geometry": {"coordinates":[9.36884,57.05996],"type":"Point"}
+}

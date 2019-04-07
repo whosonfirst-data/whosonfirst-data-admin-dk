@@ -1,0 +1,67 @@
+{
+  "id": 1209681311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84119,56.88542,8.84119,56.88542",
+    "geom:latitude":56.88542,
+    "geom:longitude":8.84119,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"773.0",
+    "gn:asciiname":"Sonder Draby",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613070,
+    "gn:latitude":56.88542,
+    "gn:longitude":8.84119,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f8nder Dr\u00e5by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draaby",
+        "S\u00f8nder Draaby",
+        "S\u00f8nder Dr\u00e5by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613070
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4ca3e0766aa64c46ac09d8838eb3021d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209681311
+        }
+    ],
+    "wof:id":1209681311,
+    "wof:lastmodified":1537619808,
+    "wof:name":"Sonder Draby",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84119,
+    56.88542,
+    8.84119,
+    56.88542
+],
+  "geometry": {"coordinates":[8.84119,56.88542],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360251253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.07864,56.64897,9.07864,56.64897",
+    "geom:latitude":56.64897,
+    "geom:longitude":9.07864,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Oster Gronning",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615552,
+    "gn:latitude":56.64897,
+    "gn:longitude":9.07864,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8ster Gr\u00f8nning",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615552
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ee8ae32aa2cd616cc0f00b314b895fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1360251253,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1360251253,
+    "wof:lastmodified":1536706294,
+    "wof:name":"Oster Gronning",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.07864,
+    56.64897,
+    9.07864,
+    56.64897
+],
+  "geometry": {"coordinates":[9.07864,56.64897],"type":"Point"}
+}

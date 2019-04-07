@@ -1,0 +1,62 @@
+{
+  "id": 1209276101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.59695,54.82906,11.59695,54.82906",
+    "geom:latitude":54.82906,
+    "geom:longitude":11.59695,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Orebygard",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615398,
+    "gn:latitude":54.82906,
+    "gn:longitude":11.59695,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Orebyg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615398
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"614a671d35fe8e20de238843cdc543ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209276101
+        }
+    ],
+    "wof:id":1209276101,
+    "wof:lastmodified":1536292190,
+    "wof:name":"Orebygard",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59695,
+    54.82906,
+    11.59695,
+    54.82906
+],
+  "geometry": {"coordinates":[11.59695,54.82906],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226118341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.33105,55.95053,9.33105,55.95053",
+    "geom:latitude":55.95053,
+    "geom:longitude":9.33105,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Krejbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618267,
+    "gn:latitude":55.95053,
+    "gn:longitude":9.33105,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Krejbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krejbj\u00e6rg",
+        "Krejbjerg Gaarde",
+        "Krejbj\u00e6rg Gaarde",
+        "Krejbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618267
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ffb8a43107643c0281c1da202ee39d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1226118341,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226118341,
+    "wof:lastmodified":1537619848,
+    "wof:name":"Krejbjerg",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.33105,
+    55.95053000000001,
+    9.33105,
+    55.95053000000001
+],
+  "geometry": {"coordinates":[9.33105,55.95053000000001],"type":"Point"}
+}

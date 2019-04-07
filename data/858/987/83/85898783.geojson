@@ -1,0 +1,108 @@
+{
+  "id": 85898783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9462688.273655,
+    "geom:bbox":"10.192899,57.475704,10.192899,57.475704",
+    "geom:latitude":57.475704,
+    "geom:longitude":10.192899,
+    "iso:country":"DK",
+    "lbl:latitude":57.475704,
+    "lbl:longitude":10.192899,
+    "mps:latitude":57.477061,
+    "mps:longitude":10.196281,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:dan_x_preferred":[
+        "Gammel Sindal"
+    ],
+    "name:unk_x_variant":[
+        "Gammel Sindal"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2614010,
+    "qs:gn_nam_loc":"sindal",
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Gammel Sindal",
+    "qs:local_max":66,
+    "qs:local_sum":66,
+    "qs:localhoods":1,
+    "qs:name":"Gammel Sindal",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Nordjylland",
+    "qs:name_adm2":"Hj\u00f8rring",
+    "qs:name_local":"Sindal",
+    "qs:photo_max":24,
+    "qs:photo_sum":66,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362579,
+    "qs:woe_adm2":12582733,
+    "qs:woe_lau":0,
+    "qs:woe_local":556924,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682593,
+        102191581,
+        1159297775,
+        85633121,
+        101805829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621641,
+        "gp:id":553430,
+        "qs:id":303960,
+        "qs_pg:id":303960
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bbed98c3736268152ec6d8d0a109729d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":85898783,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531932108,
+    "wof:name":"Gammel Sindal",
+    "wof:parent_id":101805829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.192899,
+    57.475704,
+    10.192899,
+    57.475704
+],
+  "geometry": {"coordinates":[10.192899,57.475704],"type":"Point"}
+}

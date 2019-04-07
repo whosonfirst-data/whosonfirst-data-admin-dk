@@ -1,0 +1,68 @@
+{
+  "id": 1259642467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42475,55.2842,10.42475,55.2842",
+    "geom:latitude":55.2842,
+    "geom:longitude":10.42475,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Freltofte",
+    "gn:country_code":"DK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621891,
+    "gn:latitude":55.2842,
+    "gn:longitude":10.42475,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Freltofte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621891
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aebe72e206a592aa94801097af2e1a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1259642467,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1259642467,
+    "wof:lastmodified":1536628115,
+    "wof:name":"Freltofte",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42475,
+    55.2842,
+    10.42475,
+    55.2842
+],
+  "geometry": {"coordinates":[10.42475,55.2842],"type":"Point"}
+}

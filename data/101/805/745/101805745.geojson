@@ -1,0 +1,100 @@
+{
+  "id": 101805745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00024,
+    "geom:bbox":"9.26046899575,56.1389883197,9.29593294346,56.1506173934",
+    "geom:latitude":56.143847,
+    "geom:longitude":9.27711,
+    "geonames:id":"2623692,2623694",
+    "iso:country":"DK",
+    "lbl:latitude":56.144799,
+    "lbl:longitude":9.275901,
+    "mps:latitude":56.144799,
+    "mps:longitude":9.275901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:deu_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:fra_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:nld_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:nor_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:pol_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:ron_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "name:slk_x_preferred":[
+        "FC Midtjylland Ikast H\u00e5ndbold"
+    ],
+    "name:swe_x_preferred":[
+        "FC Midtjylland H\u00e5ndbold"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Ikast-Brande",
+    "qs:la_lc":"*DK1082756",
+    "qs:level":"locality",
+    "qs:loc":"Bording",
+    "qs:loc_alt":"Bording",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":552475,
+        "qs:id":4
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b89d012ff2569ad656b0f06ab9edbbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":101805745,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805745,
+    "wof:lastmodified":1530292557,
+    "wof:name":"Bording",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26046899575454,
+    56.13898831972602,
+    9.29593294345733,
+    56.15061739340979
+],
+  "geometry": {"coordinates":[[[9.27163809262578,56.15061739340979],[9.27165487231309,56.14971867393564],[9.28130120497036,56.14977295988717],[9.28136742583666,56.14617807765654],[9.28297500226563,56.14618705400972],[9.2829915181851,56.14528833355718],[9.28620659906608,56.14530622548904],[9.28622304003665,56.14440750470322],[9.28783054448724,56.14441642028351],[9.2878469475354,56.14351769939981],[9.29588429494385,56.14356197462831],[9.29593294345733,56.14086580930956],[9.29432558365932,56.14085699515783],[9.29435808556627,56.13905955275402],[9.28149982390499,56.13898831972602],[9.28148327732913,56.13988703899179],[9.27344670116054,56.13984186399489],[9.27342996862444,56.14074058221172],[9.26700057222018,56.14070407949316],[9.26698369071653,56.14160279688844],[9.26055415754757,56.14156597162895],[9.26046899575454,56.14605955581175],[9.26207656307275,56.14606879348639],[9.26205956492959,56.14696751097296],[9.26848998938385,56.14700426161994],[9.26845628651171,56.14880169892933],[9.27006396844331,56.14881083681513],[9.27003033592854,56.15060827514878],[9.27163809262578,56.15061739340979]]],"type":"Polygon"}
+}

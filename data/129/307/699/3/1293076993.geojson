@@ -1,0 +1,68 @@
+{
+  "id": 1293076993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16667,56.26667,9.16667,56.26667",
+    "geom:latitude":56.26667,
+    "geom:longitude":9.16667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Elkaer",
+    "gn:country_code":"DK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2622612,
+    "gn:latitude":56.26667,
+    "gn:longitude":9.16667,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Elk\u00e6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622612
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d0080f9b17af20221b9a6dbe06336225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1293076993,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293076993,
+    "wof:lastmodified":1536881245,
+    "wof:name":"Elkaer",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16667,
+    56.26667,
+    9.16667,
+    56.26667
+],
+  "geometry": {"coordinates":[9.16667,56.26667],"type":"Point"}
+}

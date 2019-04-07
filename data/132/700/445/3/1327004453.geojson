@@ -1,0 +1,96 @@
+{
+  "id": 1327004453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12129,54.74073,11.12129,54.74073",
+    "geom:latitude":54.74073,
+    "geom:longitude":11.12129,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"360.0",
+    "gn:asciiname":"Rudbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614445,
+    "gn:latitude":54.74073,
+    "gn:longitude":11.12129,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rudbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:eng_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:fao_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:ita_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:nld_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:nor_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Rudbjerg"
+    ],
+    "name:por_x_preferred":[
+        "Rudbjerg"
+    ],
+    "name:swe_x_preferred":[
+        "Rudbjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297799,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614445,
+        "wk:page":"Rudbjerg"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cbbcd2342e3e8a04012f36307a4e3cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297799,
+            "locality_id":1327004453,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327004453,
+    "wof:lastmodified":1537619820,
+    "wof:name":"Rudbjerg",
+    "wof:parent_id":1159297799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12129,
+    54.74073000000001,
+    11.12129,
+    54.74073000000001
+],
+  "geometry": {"coordinates":[11.12129,54.74073000000001],"type":"Point"}
+}

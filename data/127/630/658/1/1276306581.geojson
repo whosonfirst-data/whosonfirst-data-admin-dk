@@ -1,0 +1,68 @@
+{
+  "id": 1276306581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75062,55.13088,10.75062,55.13088",
+    "geom:latitude":55.13088,
+    "geom:longitude":10.75062,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"479.0",
+    "gn:asciiname":"Bolsmose",
+    "gn:country_code":"DK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623817,
+    "gn:latitude":55.13088,
+    "gn:longitude":10.75062,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bolsmose",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297853,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623817
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"985c6acd35916873ad298ebd63b97496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297853,
+            "locality_id":1276306581,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276306581,
+    "wof:lastmodified":1536813929,
+    "wof:name":"Bolsmose",
+    "wof:parent_id":1159297853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75062,
+    55.13088000000001,
+    10.75062,
+    55.13088000000001
+],
+  "geometry": {"coordinates":[10.75062,55.13088000000001],"type":"Point"}
+}

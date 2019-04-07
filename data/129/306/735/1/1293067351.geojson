@@ -1,0 +1,68 @@
+{
+  "id": 1293067351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58397,56.43473,8.58397,56.43473",
+    "geom:latitude":56.43473,
+    "geom:longitude":8.58397,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"671.0",
+    "gn:asciiname":"Vejrumstad",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610581,
+    "gn:latitude":56.43473,
+    "gn:longitude":8.58397,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vejrumstad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610581
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b200fe63521d2936b6e50f1f63ffabe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":1293067351,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293067351,
+    "wof:lastmodified":1536895755,
+    "wof:name":"Vejrumstad",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58397,
+    56.43473,
+    8.58397,
+    56.43473
+],
+  "geometry": {"coordinates":[8.58397,56.43473],"type":"Point"}
+}

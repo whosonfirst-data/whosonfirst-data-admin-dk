@@ -1,0 +1,73 @@
+{
+  "id": 1243235233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83903,55.15688,14.83903,55.15688",
+    "geom:latitude":55.15688,
+    "geom:longitude":14.83903,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Asseregards Huse",
+    "gn:country_code":"DK",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624492,
+    "gn:latitude":55.15688,
+    "gn:longitude":14.83903,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Assereg\u00e5rds Huse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asseregaards Huse",
+        "Assereg\u00e5rdshuse",
+        "Assereg\u00e5rds Huse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624492
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"98f7d39f0aaa33e92377780480c84b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1243235233,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1243235233,
+    "wof:lastmodified":1537619894,
+    "wof:name":"Asseregards Huse",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83903,
+    55.15688000000001,
+    14.83903,
+    55.15688000000001
+],
+  "geometry": {"coordinates":[14.83903,55.15688000000001],"type":"Point"}
+}

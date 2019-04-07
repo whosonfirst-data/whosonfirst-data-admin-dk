@@ -1,0 +1,92 @@
+{
+  "id": 101846131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":447788.519108,
+    "geom:bbox":"9.95542829796,57.1531104647,9.9686399706,57.1629986369",
+    "geom:latitude":57.158673,
+    "geom:longitude":9.961795,
+    "iso:country":"DK",
+    "lbl:latitude":57.159102,
+    "lbl:longitude":9.961345,
+    "mps:latitude":57.159102,
+    "mps:longitude":9.961345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Sulsted"
+    ],
+    "name:dut_x_preferred":[
+        "Sulsted"
+    ],
+    "name:eng_x_preferred":[
+        "Sulsted"
+    ],
+    "name:nld_x_preferred":[
+        "Sulsted"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aalborg",
+    "qs:la_lc":"*DK1081851",
+    "qs:level":"locality",
+    "qs:loc":"Sulsted",
+    "qs:loc_alt":"Sulsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612130,
+        "gp:id":557797,
+        "qs:id":182761,
+        "qs_pg:id":182761,
+        "wd:id":"Q3140099",
+        "wk:page":"Sulsted"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1f8372639b5c005b3f559b753f7f457d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101846131,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101846131,
+    "wof:lastmodified":1530296479,
+    "wof:name":"Sulsted",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95542829796398,
+    57.15311046467701,
+    9.96863997060075,
+    57.16299863687897
+],
+  "geometry": {"coordinates":[[[9.96368057990281,57.16299863687897],[9.9636831829701,57.1603017387427],[9.96533394712446,57.16030218418445],[9.96533643144869,57.15760528784386],[9.96698707733742,57.15760571253276],[9.96698865446325,57.15580778263325],[9.96863922152994,57.15580818658373],[9.96863997060075,57.15490922192794],[9.96698944295872,57.15490881798848],[9.96699101981687,57.15311088930838],[9.96534057105163,57.15311046467701],[9.96533974322494,57.15400942890381],[9.96368925507505,57.15400898354682],[9.9636883877788,57.15490794796477],[9.96203786024404,57.15490748188068],[9.96203695347373,57.15580644648941],[9.96038638655347,57.1558059596772],[9.96038544030523,57.15670492447583],[9.95873483399845,57.15670441693459],[9.95873286248025,57.15850234711445],[9.95543149227512,57.15850126982542],[9.95542829796398,57.16119816653338],[9.95707910135218,57.16119871558112],[9.95707705039263,57.16299664776767],[9.96368057990281,57.16299863687897]]],"type":"Polygon"}
+}

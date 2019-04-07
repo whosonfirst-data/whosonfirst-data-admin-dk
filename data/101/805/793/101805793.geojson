@@ -1,0 +1,122 @@
+{
+  "id": 101805793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00049,
+    "geom:area_square_m":3303823.9343,
+    "geom:bbox":"9.82916485666,56.9561704851,9.86208312833,56.9858257993",
+    "geom:latitude":56.971428,
+    "geom:longitude":9.8482,
+    "gn:population":4550,
+    "iso:country":"DK",
+    "lbl:latitude":56.969499,
+    "lbl:longitude":9.849322,
+    "mps:latitude":56.969499,
+    "mps:longitude":9.849322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u043d\u0441\u0442\u0440\u0443\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:dut_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:eng_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:fao_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:fre_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:ger_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:ice_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:kal_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:nno_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:nob_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:sco_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:swe_x_preferred":[
+        "Svenstrup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aalborg",
+    "qs:la_lc":"*DK1081851",
+    "qs:level":"locality",
+    "qs:loc":"Svenstrup",
+    "qs:loc_alt":"Svenstrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612021,
+        "gp:id":557842,
+        "qs:id":1036690,
+        "qs_pg:id":1036690,
+        "wd:id":"Q3198692"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c3ca17cce40de6c080172a14f390b9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101805793,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805793,
+    "wof:lastmodified":1530296413,
+    "wof:name":"Svenstrup",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:population":4550,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82916485665623,
+    56.95617048508916,
+    9.86208312833151,
+    56.98582579930053
+],
+  "geometry": {"coordinates":[[[9.85047305652409,56.98582579930053],[9.85047660608848,56.984926874238],[9.86033526635742,56.98493775584188],[9.86035184120436,56.98044313194322],[9.85870892579049,56.98044137010277],[9.85872233826626,56.97684567463017],[9.85707957895386,56.97684389237583],[9.85708975327407,56.97414712292931],[9.85873239564125,56.97414890503927],[9.85873909961464,56.97235105960334],[9.85709653519984,56.9723492775895],[9.8571168763965,56.96695574616359],[9.85875920700647,56.96695752788895],[9.85877595798041,56.96246292338327],[9.86041809395749,56.96246468427341],[9.86043464549647,56.95797008430139],[9.86207658689318,56.95797182436155],[9.86208312833151,56.95617398561308],[9.85879940142763,56.95617048508916],[9.85878935536658,56.9588672432144],[9.85714737531561,56.95886546192139],[9.85714059911288,56.96066330152837],[9.84893031163779,56.96065408567313],[9.84894464210311,56.95705840821563],[9.84566083970583,56.95705457812863],[9.84563887547876,56.9624480948392],[9.84235460639024,56.96244418175212],[9.84235086706303,56.96334310176593],[9.83906652071437,56.96333910619069],[9.83904743134639,56.96783370858475],[9.83740506362972,56.96783167962997],[9.83740120614738,56.96873060062734],[9.82918917525865,56.96872014659596],[9.82916485665623,56.97411367490434],[9.83409277617068,56.9741200101455],[9.83408490202663,56.97591785478841],[9.83572762016576,56.97591992544267],[9.83572372174518,56.97681884810748],[9.84065199411032,56.9768249366137],[9.84065577557965,56.97592601378471],[9.84558393245391,56.97593191669597],[9.84556560780044,56.98042653355566],[9.84720852201633,56.98042846024572],[9.84718675962353,56.98582200712491],[9.85047305652409,56.98582579930053]]],"type":"Polygon"}
+}

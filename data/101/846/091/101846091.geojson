@@ -1,0 +1,79 @@
+{
+  "id": 101846091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:bbox":"9.69928618838,55.731736061,9.72002085454,55.7389072859",
+    "geom:latitude":55.734752,
+    "geom:longitude":9.708522,
+    "iso:country":"DK",
+    "lbl:latitude":55.73533,
+    "lbl:longitude":9.708325,
+    "mps:latitude":55.73533,
+    "mps:longitude":9.708325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Davgaard"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Hedensted",
+    "qs:la_lc":"*DK1082766",
+    "qs:level":"locality",
+    "qs:loc":"Daug\u00e5rd",
+    "qs:loc_alt":"Daugard",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623060,
+        "gp:id":552804,
+        "qs:id":216715,
+        "qs_pg:id":216715
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"72b31d3b17e8274f423698026dc16b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":101846091,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101846091,
+    "wof:lastmodified":1530291413,
+    "wof:name":"Daug\u00e5rd",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69928618838077,
+    55.7317360609855,
+    9.72002085453994,
+    55.7389072859192
+],
+  "geometry": {"coordinates":[[[9.70087724914674,55.7389072859192],[9.70088404068957,55.73800857947003],[9.710430194374,55.73803063208612],[9.71043676881629,55.73713192517897],[9.71202775926645,55.73713553098764],[9.71203429723164,55.73623682409971],[9.71362525183116,55.73624040994918],[9.71363175332294,55.73534170308096],[9.71840451037048,55.7353523411586],[9.71841090316059,55.73445363412765],[9.72000178658971,55.73445714033204],[9.72002085453994,55.73176101964106],[9.7088854344824,55.7317360609855],[9.70887882607258,55.73263476712435],[9.699333974257,55.73261259874874],[9.69928618838077,55.73890354085216],[9.70087724914674,55.7389072859192]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209373805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19339,55.17265,10.19339,55.17265",
+    "geom:latitude":55.17265,
+    "geom:longitude":10.19339,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Hastrup",
+    "gn:country_code":"DK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620692,
+    "gn:latitude":55.17265,
+    "gn:longitude":10.19339,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00e5strup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hostrup",
+        "Haastrup",
+        "H\u00e5strup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620692
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"92ee939402d4c02d68f2bdbb033b9644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209373805
+        }
+    ],
+    "wof:id":1209373805,
+    "wof:lastmodified":1537619866,
+    "wof:name":"Hastrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19339,
+    55.17265,
+    10.19339,
+    55.17265
+],
+  "geometry": {"coordinates":[10.19339,55.17265],"type":"Point"}
+}

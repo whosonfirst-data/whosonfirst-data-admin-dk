@@ -1,0 +1,104 @@
+{
+  "id": 1126014495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.47137,55.42686,10.47137,55.42686",
+    "geom:latitude":55.42686,
+    "geom:longitude":10.47137,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2982,
+    "gn:population":2982,
+    "iso:country":"DK",
+    "lbl:latitude":55.42686,
+    "lbl:longitude":10.47137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u0435\u0440\u0443\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Bullerup"
+    ],
+    "name:dut_x_preferred":[
+        "Bullerup"
+    ],
+    "name:eng_x_preferred":[
+        "Bullerup"
+    ],
+    "name:swe_x_preferred":[
+        "Bullerup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623247,
+    "qs_pg:gn_pop":2982,
+    "qs_pg:name":"Bullerup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":140603,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552728,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623247,
+        "gp:id":552728,
+        "qs_pg:id":140603,
+        "wd:id":"Q2340281"
+    },
+    "wof:country":"DK",
+    "wof:created":1497300468,
+    "wof:geomhash":"4d2def7af3d779a99e5f7abb2229fa35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":1126014495,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1126014495,
+    "wof:lastmodified":1530291772,
+    "wof:name":"Bullerup",
+    "wof:parent_id":1159297847,
+    "wof:placetype":"locality",
+    "wof:population":2982,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.47137,
+    55.42686,
+    10.47137,
+    55.42686
+],
+  "geometry": {"coordinates":[10.47137,55.42686],"type":"Point"}
+}

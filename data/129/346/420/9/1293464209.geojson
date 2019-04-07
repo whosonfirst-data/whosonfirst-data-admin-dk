@@ -1,0 +1,72 @@
+{
+  "id": 1293464209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43236,55.52036,11.43236,55.52036",
+    "geom:latitude":55.52036,
+    "geom:longitude":11.43236,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Sobjerg",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613278,
+    "gn:latitude":55.52036,
+    "gn:longitude":11.43236,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sobjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobj\u00e6rg",
+        "Sobjerg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297921,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613278
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"89e41b1847722d95e964ecd24b55b463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297921,
+            "locality_id":1293464209,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1293464209,
+    "wof:lastmodified":1537619809,
+    "wof:name":"Sobjerg",
+    "wof:parent_id":1159297921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43236,
+    55.52036,
+    11.43236,
+    55.52036
+],
+  "geometry": {"coordinates":[11.43236,55.52036],"type":"Point"}
+}

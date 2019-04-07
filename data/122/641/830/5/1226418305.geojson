@@ -1,0 +1,68 @@
+{
+  "id": 1226418305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73907,56.49695,10.73907,56.49695",
+    "geom:latitude":56.49695,
+    "geom:longitude":10.73907,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Hemmed",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620454,
+    "gn:latitude":56.49695,
+    "gn:longitude":10.73907,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hemmed",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620454
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3ea1187de6e91fadccd4d093e8b08417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1226418305,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226418305,
+    "wof:lastmodified":1536685079,
+    "wof:name":"Hemmed",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73907,
+    56.49695,
+    10.73907,
+    56.49695
+],
+  "geometry": {"coordinates":[10.73907,56.49695],"type":"Point"}
+}

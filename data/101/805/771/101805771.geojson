@@ -1,0 +1,134 @@
+{
+  "id": 101805771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1074797.937955,
+    "geom:bbox":"9.62157244938,56.699580509,9.65098195351,56.7121375311",
+    "geom:latitude":56.705829,
+    "geom:longitude":9.633331,
+    "iso:country":"DK",
+    "lbl:latitude":56.708531,
+    "lbl:longitude":9.632328,
+    "mps:latitude":56.708531,
+    "mps:longitude":9.632328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:dan_x_preferred":[
+        "N\u00f8rager Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "N\u00f8rager Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rager Municipality"
+    ],
+    "name:fao_x_preferred":[
+        "N\u00f8rager kommuna"
+    ],
+    "name:fre_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:ger_x_preferred":[
+        "N\u00f8rager Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00f8rager kommune"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rager kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina N\u00f8rager"
+    ],
+    "name:por_x_preferred":[
+        "N\u00f8rager"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna N\u00f8rager"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna N\u00f8rager"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f8ragers kommun"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f6rager Stationsby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Rebild",
+    "qs:la_lc":"*DK1081840",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rager",
+    "qs:loc_alt":"Norager",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":172,
+    "wof:belongsto":[
+        102191581,
+        1159297887,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616412,
+        "gp:id":555785,
+        "qs:id":1014122,
+        "qs_pg:id":1014122,
+        "wd:id":"Q1639762",
+        "wk:page":"N\u00f8rager"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d2a526ef6c4bd63d3ad9a7bbb8a0b617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297887,
+            "locality_id":101805771,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805771,
+    "wof:lastmodified":1530296410,
+    "wof:name":"N\u00f8rager",
+    "wof:parent_id":1159297887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.62157244937765,
+    56.69958050897685,
+    9.65098195351152,
+    56.71213753107327
+],
+  "geometry": {"coordinates":[[[9.63620128079037,56.71213753107327],[9.63620983190788,56.71123867314475],[9.63784115109428,56.71124322132135],[9.6378581752158,56.70944550574353],[9.63622693270935,56.7094409578101],[9.63626112858253,56.70584552922912],[9.63952330728551,56.70585460368585],[9.63953177840267,56.70495574673288],[9.64279388188953,56.7049647391994],[9.64281066940367,56.70316702533398],[9.64933457404453,56.70318476407584],[9.64932633381989,56.70408362139597],[9.65095734918458,56.7040880051091],[9.65098195351152,56.70139143331835],[9.6477201530663,56.70138264616048],[9.64773670692858,56.69958493297133],[9.64610588386728,56.69958050897685],[9.64609756885108,56.70047936536633],[9.64446670782741,56.70047492081937],[9.64445835402904,56.70137377726377],[9.63956565814169,56.70136032065818],[9.63957412689376,56.70046146457349],[9.63794326730078,56.70045693828996],[9.63792625268547,56.70225465039073],[9.6362953168163,56.70225010342989],[9.6362696763569,56.70494667251882],[9.62974547664101,56.70492827884806],[9.62978027613565,56.70133285571018],[9.62488759010455,56.70131884736827],[9.62487877600046,56.70221770251788],[9.62324784308447,56.70221299207537],[9.62323013675314,56.70401070264353],[9.621599127568,56.7040059715128],[9.62157244937765,56.7067025382882],[9.62320357354781,56.70670726979813],[9.6231681490155,56.7103026951055],[9.62969326281944,56.71032141876884],[9.62967585432347,56.71211913346787],[9.63620128079037,56.71213753107327]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327292737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21387,55.52753,9.21387,55.52753",
+    "geom:latitude":55.52753,
+    "geom:longitude":9.21387,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Oster Gesten",
+    "gn:country_code":"DK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615554,
+    "gn:latitude":55.52753,
+    "gn:longitude":9.21387,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d8ster Gesten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oster Gjesten",
+        "\u00d8ster Gesten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615554
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1798eb65db41c54d7d244f66f8664471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1327292737,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327292737,
+    "wof:lastmodified":1537619829,
+    "wof:name":"Oster Gesten",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21387,
+    55.52753000000001,
+    9.21387,
+    55.52753000000001
+],
+  "geometry": {"coordinates":[9.21387,55.52753000000001],"type":"Point"}
+}

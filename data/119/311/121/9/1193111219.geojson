@@ -1,0 +1,68 @@
+{
+  "id": 1193111219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,54.98333,9.98333,54.98333",
+    "geom:latitude":54.98333,
+    "geom:longitude":9.98333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Notmarkskov",
+    "gn:country_code":"DK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616074,
+    "gn:latitude":54.98333,
+    "gn:longitude":9.98333,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Notmarkskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616074
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d51a1c80dfdeb6eeaed0ec5f895b8c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1193111219,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1193111219,
+    "wof:lastmodified":1536373062,
+    "wof:name":"Notmarkskov",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    54.98333,
+    9.98333,
+    54.98333
+],
+  "geometry": {"coordinates":[9.98333,54.98333],"type":"Point"}
+}

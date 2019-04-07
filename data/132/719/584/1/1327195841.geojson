@@ -1,0 +1,72 @@
+{
+  "id": 1327195841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51946,55.66675,11.51946,55.66675",
+    "geom:latitude":55.66675,
+    "geom:longitude":11.51946,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Morkov Kirkeby",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616766,
+    "gn:latitude":55.66675,
+    "gn:longitude":11.51946,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"M\u00f8rk\u00f8v Kirkeby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f8rk\u00f8v",
+        "M\u00f8rk\u00f8v Kirkeby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616766
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d91fa55188759f96f41faf099ff744e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1327195841,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327195841,
+    "wof:lastmodified":1537619838,
+    "wof:name":"Morkov Kirkeby",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51946,
+    55.66675,
+    11.51946,
+    55.66675
+],
+  "geometry": {"coordinates":[11.51946,55.66675],"type":"Point"}
+}

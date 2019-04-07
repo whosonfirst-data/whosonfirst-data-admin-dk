@@ -1,0 +1,68 @@
+{
+  "id": 1225808381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80907,56.65881,8.80907,56.65881",
+    "geom:latitude":56.65881,
+    "geom:longitude":8.80907,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Mollerup",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616853,
+    "gn:latitude":56.65881,
+    "gn:longitude":8.80907,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Mollerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616853
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bb20a81393acbd770ceb80639130f570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1225808381,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1225808381,
+    "wof:lastmodified":1537064872,
+    "wof:name":"Mollerup",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80907,
+    56.65881,
+    8.80907,
+    56.65881
+],
+  "geometry": {"coordinates":[8.80907,56.65881],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209590817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93799,57.48841,9.93799,57.48841",
+    "geom:latitude":57.48841,
+    "geom:longitude":9.93799,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"860.0",
+    "gn:asciiname":"Garestrup",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2621600,
+    "gn:latitude":57.48841,
+    "gn:longitude":9.93799,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"G\u00e5restrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaarestrup",
+        "G\u00e5restrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621600
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"253feee0180d1dcd4452d89ffda612f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209590817
+        }
+    ],
+    "wof:id":1209590817,
+    "wof:lastmodified":1537619873,
+    "wof:name":"Garestrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93799,
+    57.48841,
+    9.93799,
+    57.48841
+],
+  "geometry": {"coordinates":[9.93799,57.48841],"type":"Point"}
+}

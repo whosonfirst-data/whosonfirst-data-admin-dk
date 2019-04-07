@@ -1,0 +1,72 @@
+{
+  "id": 1193237251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.968,54.89176,9.968,54.89176",
+    "geom:latitude":54.89176,
+    "geom:longitude":9.968,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Pommersgarde",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3232937,
+    "gn:latitude":54.89176,
+    "gn:longitude":9.968,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pommersg\u00e5rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pommersg\u00e5rd",
+        "Pommersg\u00e5rde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3232937
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1dd3be65b3262054b1362274ba1b7ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1193237251,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1193237251,
+    "wof:lastmodified":1537619900,
+    "wof:name":"Pommersgarde",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.968,
+    54.89176,
+    9.968,
+    54.89176
+],
+  "geometry": {"coordinates":[9.968,54.89176],"type":"Point"}
+}

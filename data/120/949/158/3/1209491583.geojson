@@ -1,0 +1,62 @@
+{
+  "id": 1209491583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.94093,55.97301,11.94093,55.97301",
+    "geom:latitude":55.97301,
+    "geom:longitude":11.94093,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"260.0",
+    "gn:asciiname":"Sverkilstrup",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612018,
+    "gn:latitude":55.97301,
+    "gn:longitude":11.94093,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Sverkilstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612018
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f95b97fba6f5d8633bba9b87f890b98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209491583
+        }
+    ],
+    "wof:id":1209491583,
+    "wof:lastmodified":1536285468,
+    "wof:name":"Sverkilstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.94093,
+    55.97301,
+    11.94093,
+    55.97301
+],
+  "geometry": {"coordinates":[11.94093,55.97301],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 101805671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":816163.838515,
+    "geom:bbox":"9.69195593542,56.0642354697,9.70631438649,56.0813343915",
+    "geom:latitude":56.072513,
+    "geom:longitude":9.698879,
+    "iso:country":"DK",
+    "lbl:latitude":56.068295,
+    "lbl:longitude":9.697791,
+    "mps:latitude":56.068295,
+    "mps:longitude":9.697791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Gammel Rye"
+    ],
+    "name:dan_x_preferred":[
+        "Gammel Rye"
+    ],
+    "name:dut_x_preferred":[
+        "Gammel Rye"
+    ],
+    "name:eng_x_preferred":[
+        "Old Rye"
+    ],
+    "name:epo_x_preferred":[
+        "Malnova Rye"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e5\u30fc"
+    ],
+    "name:swe_x_preferred":[
+        "Gammel Rye"
+    ],
+    "name:unk_x_variant":[
+        "Rye"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Skanderborg",
+    "qs:la_lc":"*DK1082746",
+    "qs:level":"locality",
+    "qs:loc":"Gammel Rye",
+    "qs:loc_alt":"Gammel Rye",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297721,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621642,
+        "gp:id":553429,
+        "qs:id":910317,
+        "qs_pg:id":910317,
+        "wd:id":"Q2229389",
+        "wk:page":"Old Rye"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"077ede1a3c37ce438f44c8859ad65fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297721,
+            "locality_id":101805671,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805671,
+    "wof:lastmodified":1530290362,
+    "wof:name":"Gammel Rye",
+    "wof:parent_id":1159297721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6919559354165,
+    56.06423546970063,
+    9.70631438649474,
+    56.08133439153443
+],
+  "geometry": {"coordinates":[[[9.70307745021432,56.08133439153443],[9.70309109712991,56.0795368841039],[9.70630088858883,56.07954426790519],[9.70631438649474,56.07774676062513],[9.70470956438027,56.07774307894954],[9.70472991908201,56.07504681932471],[9.69991578629771,56.07503565479459],[9.69995025633165,56.07054189289266],[9.70155478265019,56.07054563397475],[9.70156163866375,56.06964688189788],[9.70316612840924,56.06965060282369],[9.70319340128935,56.06605559546188],[9.69998471691463,56.06604813433273],[9.69999160789735,56.06514938302109],[9.69517869403899,56.06513804120084],[9.69518569518351,56.06423929031928],[9.69358142799223,56.06423546970063],[9.69357439000072,56.06513422048215],[9.69197008625611,56.06513037970768],[9.6919559354165,56.06692788147006],[9.6935603128602,56.06693172244542],[9.69352511325309,56.07142547968925],[9.69673423758644,56.07143310246653],[9.6967063658762,56.075028111466],[9.69510165610029,56.07502430970919],[9.69508764420817,56.07682181481363],[9.69348286098062,56.07681799279499],[9.69347581758313,56.0777167454483],[9.69668545808014,56.07772436962193],[9.69667848804988,56.0786231226088],[9.69828334561197,56.07862690469989],[9.69827641207854,56.07952565791982],[9.69988130680855,56.07952942004556],[9.69986751236473,56.08132692708529],[9.70307745021432,56.08133439153443]]],"type":"Polygon"}
+}

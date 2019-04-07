@@ -1,0 +1,125 @@
+{
+  "id": 101817307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000219,
+    "geom:area_square_m":1472775.06014,
+    "geom:bbox":"10.2942070553,56.99003372,10.3237917499,57.0026567433",
+    "geom:latitude":56.996549,
+    "geom:longitude":10.30799,
+    "gn:population":2388,
+    "iso:country":"DK",
+    "lbl:latitude":56.996107,
+    "lbl:longitude":10.308999,
+    "mps:latitude":56.996107,
+    "mps:longitude":10.308999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Hals"
+    ],
+    "name:dut_x_preferred":[
+        "Hals"
+    ],
+    "name:eng_x_preferred":[
+        "Hals"
+    ],
+    "name:fao_x_preferred":[
+        "Hals"
+    ],
+    "name:fre_x_preferred":[
+        "Hals"
+    ],
+    "name:ger_x_preferred":[
+        "Hals"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05dc\u05e1"
+    ],
+    "name:ice_x_preferred":[
+        "Hals"
+    ],
+    "name:ita_x_preferred":[
+        "Hals"
+    ],
+    "name:kal_x_preferred":[
+        "Hals"
+    ],
+    "name:nno_x_preferred":[
+        "Hals"
+    ],
+    "name:nob_x_preferred":[
+        "Hals"
+    ],
+    "name:swe_x_preferred":[
+        "Hals"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0441"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aalborg",
+    "qs:la_lc":"*DK1081851",
+    "qs:level":"locality",
+    "qs:loc":"Hals",
+    "qs:loc_alt":"Hals",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620871,
+        "gp:id":553809,
+        "qs:id":900923,
+        "qs_pg:id":900923,
+        "wd:id":"Q678119",
+        "wk:page":"Hals Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"280f96aea6d6a92544ac312d8c3d3116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101817307,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101817307,
+    "wof:lastmodified":1530290666,
+    "wof:name":"Hals",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:population":2388,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29420705533067,
+    56.99003371995121,
+    10.32379174993872,
+    57.00265674329535
+],
+  "geometry": {"coordinates":[[[10.31232368967801,57.00082075437939],[10.31231627152641,56.99992183378453],[10.32053501589343,56.99990198858103],[10.32050456675245,56.99630631027179],[10.32379174993872,56.9962982287376],[10.32378406066533,56.99539930985998],[10.32049695553894,56.995407391176],[10.32047412447105,56.99271063504295],[10.31554381556629,56.99272260143402],[10.31553632313131,56.99182368278463],[10.31224952695993,56.99183155709829],[10.31223469942853,56.99003371995121],[10.30566141542505,56.99004922038591],[10.30568318911759,56.99274597765054],[10.30403975027582,56.99274980153928],[10.30404696996737,56.99364872111522],[10.29747305542253,56.99366381094148],[10.29749424859881,56.9963605720468],[10.29420705533067,56.99636799387616],[10.29423500618333,56.99996367884813],[10.2958787591121,56.99995997784151],[10.29589984351583,57.00265674329535],[10.30083145187751,57.002645515658],[10.30081716094372,57.00084767243544],[10.31232368967801,57.00082075437939]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226010311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.27539,56.7735,10.27539,56.7735",
+    "geom:latitude":56.7735,
+    "geom:longitude":10.27539,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"846.0",
+    "gn:asciiname":"Haslevgarde",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620710,
+    "gn:latitude":56.7735,
+    "gn:longitude":10.27539,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haslevg\u00e5rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haslevgaarde",
+        "Haslevg\u00e5rde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297835,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620710
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e337f0b7ec2100e5dbce3693e9d3a3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297835,
+            "locality_id":1226010311,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1226010311,
+    "wof:lastmodified":1537619867,
+    "wof:name":"Haslevgarde",
+    "wof:parent_id":1159297835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27539,
+    56.7735,
+    10.27539,
+    56.7735
+],
+  "geometry": {"coordinates":[10.27539,56.7735],"type":"Point"}
+}

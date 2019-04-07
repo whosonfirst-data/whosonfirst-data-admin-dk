@@ -1,0 +1,106 @@
+{
+  "id": 101818177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"10.6269735609,55.0285418003,10.6566062716,55.0403187567",
+    "geom:latitude":55.034414,
+    "geom:longitude":10.641957,
+    "iso:country":"DK",
+    "lbl:latitude":55.033965,
+    "lbl:longitude":10.639488,
+    "mps:latitude":55.033965,
+    "mps:longitude":10.639488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:dan_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:deu_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5"
+    ],
+    "name:est_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:ind_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30b7\u30f3\u30a8\u5cf6"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00e5singe"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Svendborg",
+    "qs:la_lc":"*DK1083479",
+    "qs:level":"locality",
+    "qs:loc":"Troense",
+    "qs:loc_alt":"Troense",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297853,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611227,
+        "gp:id":558255,
+        "qs:id":221906,
+        "qs_pg:id":221906
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b59a4dad021590a7472d306999c465e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297853,
+            "locality_id":101818177,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101818177,
+    "wof:lastmodified":1530291808,
+    "wof:name":"Troense",
+    "wof:parent_id":1159297853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62697356089711,
+    55.02854180031341,
+    10.65660627160327,
+    55.0403187567382
+],
+  "geometry": {"coordinates":[[[10.65660627160327,55.03387664006999],[10.65654809412052,55.03028223643179],[10.65029557905768,55.0303147922059],[10.65032438928085,55.03211199553886],[10.64563478914954,55.03213620916341],[10.6455775872052,55.02854180031341],[10.64401452448345,55.02854983176837],[10.64402878920993,55.02944843408483],[10.64246569129551,55.0294564462738],[10.64250838617392,55.03215225422701],[10.63781877740718,55.03217617579287],[10.63784703670024,55.03397338263545],[10.63628376338551,55.03398131795075],[10.63631195643234,55.03577852545982],[10.63005858046722,55.03581007359975],[10.63010046006764,55.03850588775475],[10.62697356089711,55.03852154617653],[10.62700134579683,55.0403187567382],[10.63169190153866,55.04029523870497],[10.63167790480048,55.03939663398546],[10.63324138761413,55.03938875588995],[10.63322735698466,55.03849015143635],[10.63948114401262,55.03845844511062],[10.63943864100725,55.03576263455415],[10.64100198243796,55.03575465989235],[10.6409877816493,55.03485605670812],[10.64411439353091,55.03484004937167],[10.64410012424327,55.03394144665839],[10.65660627160327,55.03387664006999]]],"type":"Polygon"}
+}

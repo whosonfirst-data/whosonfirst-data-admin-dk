@@ -1,0 +1,72 @@
+{
+  "id": 1259346021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65698,56.1672,9.65698,56.1672",
+    "geom:latitude":56.1672,
+    "geom:longitude":9.65698,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Skellerup Nygarde",
+    "gn:country_code":"DK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613787,
+    "gn:latitude":56.1672,
+    "gn:longitude":9.65698,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skellerup Nyg\u00e5rde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skellerup Nygaarde",
+        "Skellerup Nyg\u00e5rde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613787
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"43f0814f57cb8d21deb535d1e33a8856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1259346021,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259346021,
+    "wof:lastmodified":1537619814,
+    "wof:name":"Skellerup Nygarde",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65698,
+    56.1672,
+    9.65698,
+    56.1672
+],
+  "geometry": {"coordinates":[9.65698,56.1672],"type":"Point"}
+}

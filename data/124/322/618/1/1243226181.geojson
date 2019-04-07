@@ -1,0 +1,72 @@
+{
+  "id": 1243226181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48528,57.0874,9.48528,57.0874",
+    "geom:latitude":57.0874,
+    "geom:longitude":9.48528,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Skovsgard",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613563,
+    "gn:latitude":57.0874,
+    "gn:longitude":9.48528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skovsg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skovsgaard",
+        "Skovsg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613563
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c4da4353e57640fac867b5f7a8585dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1243226181,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1243226181,
+    "wof:lastmodified":1537619811,
+    "wof:name":"Skovsgard",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48528,
+    57.0874,
+    9.48528,
+    57.0874
+],
+  "geometry": {"coordinates":[9.48528,57.0874],"type":"Point"}
+}

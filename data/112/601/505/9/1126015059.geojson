@@ -1,0 +1,101 @@
+{
+  "id": 1126015059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16835,56.30673,9.16835,56.30673",
+    "geom:latitude":56.30673,
+    "geom:longitude":9.16835,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2176,
+    "gn:population":2176,
+    "iso:country":"DK",
+    "lbl:latitude":56.30673,
+    "lbl:longitude":9.16835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Karup"
+    ],
+    "name:eng_x_variant":[
+        "Midtjylland"
+    ],
+    "name:unk_x_variant":[
+        "Karup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2619068,
+    "qs_pg:gn_pop":2176,
+    "qs_pg:name":"K\u00e5rup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":263,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":263,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":247441,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554675,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619068,
+        "gp:id":554675,
+        "qs_pg:id":247441
+    },
+    "wof:country":"DK",
+    "wof:created":1497300498,
+    "wof:geomhash":"4b45777f3a94afd073f661ee79c59ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1126015059,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1126015059,
+    "wof:lastmodified":1530291536,
+    "wof:name":"K\u00e5rup",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:population":2176,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16835,
+    56.30673,
+    9.16835,
+    56.30673
+],
+  "geometry": {"coordinates":[9.16835,56.30673],"type":"Point"}
+}

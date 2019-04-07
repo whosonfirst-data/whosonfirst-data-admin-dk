@@ -1,0 +1,72 @@
+{
+  "id": 1310077083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45575,55.86279,12.45575,55.86279",
+    "geom:latitude":55.86279,
+    "geom:longitude":12.45575,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"230.0",
+    "gn:asciiname":"Ravnsnaes",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614922,
+    "gn:latitude":55.86279,
+    "gn:longitude":12.45575,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ravnsn\u00e6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravnsn\u00e6s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297843,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614922,
+        "wk:page":"Ravnsn%C3%A6s"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a4d1ab81882073ee9699a624d3bbe3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297843,
+            "locality_id":1310077083,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1310077083,
+    "wof:lastmodified":1537619823,
+    "wof:name":"Ravnsnaes",
+    "wof:parent_id":1159297843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45575,
+    55.86279,
+    12.45575,
+    55.86279
+],
+  "geometry": {"coordinates":[12.45575,55.86279],"type":"Point"}
+}

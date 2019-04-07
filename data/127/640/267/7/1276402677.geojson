@@ -1,0 +1,72 @@
+{
+  "id": 1276402677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84253,56.59579,8.84253,56.59579",
+    "geom:latitude":56.59579,
+    "geom:longitude":8.84253,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Ramsing",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615018,
+    "gn:latitude":56.59579,
+    "gn:longitude":8.84253,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ramsing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Store Ramsing",
+        "Ramsing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615018
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d008259cea33fcbabd5677088b46f091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1276402677,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276402677,
+    "wof:lastmodified":1537619824,
+    "wof:name":"Ramsing",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84253,
+    56.59579,
+    8.84253,
+    56.59579
+],
+  "geometry": {"coordinates":[8.84253,56.59579],"type":"Point"}
+}

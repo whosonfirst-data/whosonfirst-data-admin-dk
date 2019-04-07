@@ -1,0 +1,67 @@
+{
+  "id": 420784661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.5756865034,55.6897823901,12.5756865034,55.6897823901",
+    "geom:latitude":55.689782,
+    "geom:longitude":12.575687,
+    "iso:country":"DK",
+    "lbl:latitude":55.689782,
+    "lbl:longitude":12.575687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "src:geom":"unknown",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862990
+    },
+    "wof:country":"DK",
+    "wof:created":1458871934,
+    "wof:geomhash":"5cb7f478306018dd0b7d32008907131e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784661,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784661,
+    "wof:lastmodified":1530296504,
+    "wof:name":"Rosenborg",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57568650337049,
+    55.68978239006489,
+    12.57568650337049,
+    55.68978239006489
+],
+  "geometry": {"coordinates":[12.57568650337049,55.68978239006489],"type":"Point"}
+}

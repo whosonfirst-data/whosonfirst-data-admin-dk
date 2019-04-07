@@ -1,0 +1,68 @@
+{
+  "id": 1242833421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.66667,55.08333,8.66667,55.08333",
+    "geom:latitude":55.08333,
+    "geom:longitude":8.66667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"550.0",
+    "gn:asciiname":"Ballum",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624337,
+    "gn:latitude":55.08333,
+    "gn:longitude":8.66667,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ballum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624337
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2ec5f96756924f6c49b281cd1533111f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":1242833421,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1242833421,
+    "wof:lastmodified":1536695556,
+    "wof:name":"Ballum",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.66667,
+    55.08333,
+    8.66667,
+    55.08333
+],
+  "geometry": {"coordinates":[8.66667,55.08333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326895361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3,55.58333,12.3,55.58333",
+    "geom:latitude":55.58333,
+    "geom:longitude":12.3,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"253.0",
+    "gn:asciiname":"Greve",
+    "gn:country_code":"DK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2621215,
+    "gn:latitude":55.58333,
+    "gn:longitude":12.3,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Greve",
+    "gn:population":47671,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297765,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621215,
+        "wk:page":"Greve_Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1b463855515feaa46c6ff49d80a3adba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297765,
+            "locality_id":1326895361,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1326895361,
+    "wof:lastmodified":1537504215,
+    "wof:name":"Greve",
+    "wof:parent_id":1159297765,
+    "wof:placetype":"locality",
+    "wof:population":47671,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3,
+    55.58333,
+    12.3,
+    55.58333
+],
+  "geometry": {"coordinates":[12.3,55.58333],"type":"Point"}
+}

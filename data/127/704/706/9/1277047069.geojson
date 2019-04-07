@@ -1,0 +1,68 @@
+{
+  "id": 1277047069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75199,55.08389,14.75199,55.08389",
+    "geom:latitude":55.08389,
+    "geom:longitude":14.75199,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Robbedale",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2614691,
+    "gn:latitude":55.08389,
+    "gn:longitude":14.75199,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Robbedale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614691
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"34bc79256ba2e8ddef3a107076c1a1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1277047069,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1277047069,
+    "wof:lastmodified":1536816323,
+    "wof:name":"Robbedale",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75199,
+    55.08389,
+    14.75199,
+    55.08389
+],
+  "geometry": {"coordinates":[14.75199,55.08389],"type":"Point"}
+}

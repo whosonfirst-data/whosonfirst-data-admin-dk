@@ -1,0 +1,68 @@
+{
+  "id": 1226116501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43334,55.51925,10.43334,55.51925",
+    "geom:latitude":55.51925,
+    "geom:longitude":10.43334,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Orritslev",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615673,
+    "gn:latitude":55.51925,
+    "gn:longitude":10.43334,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8rritslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297789,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615673
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e3c967e3b9d0de19ba9969e4d93190c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297789,
+            "locality_id":1226116501,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226116501,
+    "wof:lastmodified":1536620995,
+    "wof:name":"Orritslev",
+    "wof:parent_id":1159297789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43334,
+    55.51925,
+    10.43334,
+    55.51925
+],
+  "geometry": {"coordinates":[10.43334,55.51925],"type":"Point"}
+}

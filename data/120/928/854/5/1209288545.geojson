@@ -1,0 +1,62 @@
+{
+  "id": 1209288545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4221,55.49296,10.4221,55.49296",
+    "geom:latitude":55.49296,
+    "geom:longitude":10.4221,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Ostrup",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615440,
+    "gn:latitude":55.49296,
+    "gn:longitude":10.4221,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8strup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615440
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5a13373caf4bc5cb9c5dc2d85c6f819c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209288545
+        }
+    ],
+    "wof:id":1209288545,
+    "wof:lastmodified":1536291775,
+    "wof:name":"Ostrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4221,
+    55.49296,
+    10.4221,
+    55.49296
+],
+  "geometry": {"coordinates":[10.4221,55.49296],"type":"Point"}
+}

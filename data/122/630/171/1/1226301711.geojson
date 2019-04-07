@@ -1,0 +1,68 @@
+{
+  "id": 1226301711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4216,55.21748,10.4216,55.21748",
+    "geom:latitude":55.21748,
+    "geom:longitude":10.4216,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Findinge",
+    "gn:country_code":"DK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622198,
+    "gn:latitude":55.21748,
+    "gn:longitude":10.4216,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Findinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622198
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"27f1a26da6f9d97194fd798fdcf1dd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1226301711,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226301711,
+    "wof:lastmodified":1536852026,
+    "wof:name":"Findinge",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4216,
+    55.21748,
+    10.4216,
+    55.21748
+],
+  "geometry": {"coordinates":[10.4216,55.21748],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293653607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.59194,55.03579,9.59194,55.03579",
+    "geom:latitude":55.03579,
+    "geom:longitude":9.59194,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Peterbaek",
+    "gn:country_code":"DK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3223115,
+    "gn:latitude":55.03579,
+    "gn:longitude":9.59194,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Peterb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3223115
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2eb4e22b4ff863fd9df1216a11d4103d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1293653607,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293653607,
+    "wof:lastmodified":1537043127,
+    "wof:name":"Peterbaek",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.59194,
+    55.03579000000001,
+    9.59194,
+    55.03579000000001
+],
+  "geometry": {"coordinates":[9.59194,55.03579000000001],"type":"Point"}
+}

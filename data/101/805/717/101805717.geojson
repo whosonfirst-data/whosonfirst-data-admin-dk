@@ -1,0 +1,97 @@
+{
+  "id": 101805717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":1433119.823692,
+    "geom:bbox":"10.0259803336,56.531070883,10.0471025517,56.5463542014",
+    "geom:latitude":56.538313,
+    "geom:longitude":10.037228,
+    "gn:population":2155,
+    "iso:country":"DK",
+    "lbl:latitude":56.537967,
+    "lbl:longitude":10.038083,
+    "mps:latitude":56.537967,
+    "mps:longitude":10.038083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0435\u043d\u0442\u0440\u0443\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Spentrup"
+    ],
+    "name:dut_x_preferred":[
+        "Spentrup"
+    ],
+    "name:eng_x_preferred":[
+        "Spentrup"
+    ],
+    "name:swe_x_preferred":[
+        "Spentrup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Randers",
+    "qs:la_lc":"*DK1082730",
+    "qs:level":"locality",
+    "qs:loc":"Spentrup",
+    "qs:loc_alt":"Spentrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612823,
+        "gp:id":557514,
+        "qs:id":278951,
+        "qs_pg:id":278951,
+        "wd:id":"Q2403073"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"30c9b17ebbeea83a9d7a495e071e2953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":101805717,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805717,
+    "wof:lastmodified":1530292290,
+    "wof:name":"Spentrup",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:population":2155,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0259803336034,
+    56.53107088304159,
+    10.04710255174115,
+    56.54635420137265
+],
+  "geometry": {"coordinates":[[[10.0357329723883,56.5436560545653],[10.04222987512287,56.54365410194043],[10.04223086180775,56.54455294155417],[10.04385512534031,56.54455240253395],[10.04385615003122,56.54545124229764],[10.04548045147175,56.54545068292219],[10.04547832624644,56.54365300358882],[10.04710255174115,56.54365242390332],[10.04709594983012,56.53825938993583],[10.04547195198711,56.53825996952895],[10.04546770366221,56.534664616768],[10.04222001129403,56.53466571482744],[10.04221705321436,56.53196920188788],[10.04059332073933,56.53196972037483],[10.04059237274225,56.53107088304159],[10.03247389939656,56.53107317042253],[10.03247541623443,56.53287084537402],[10.0259803336034,56.5328723093757],[10.02598094038933,56.53377114713584],[10.02760474901362,56.53377081162643],[10.02760732821127,56.5373661642675],[10.02923128852592,56.53736580838648],[10.0292319713493,56.53826464694686],[10.03247996775963,56.53826387415597],[10.03248224409128,56.54096039075904],[10.02923402004831,56.54096116361137],[10.02923811847052,56.54635420137265],[10.03248679789397,56.5463534283968],[10.03248527979099,56.54455574852716],[10.03573380727551,56.54455489423094],[10.0357329723883,56.5436560545653]]],"type":"Polygon"}
+}

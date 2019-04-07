@@ -1,0 +1,84 @@
+{
+  "id": 1125841353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76901,55.15735,8.76901,55.15735",
+    "geom:latitude":55.15735,
+    "geom:longitude":8.76901,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3174,
+    "gn:population":3174,
+    "iso:country":"DK",
+    "lbl:latitude":55.15735,
+    "lbl:longitude":8.76901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Sherrebek"
+    ],
+    "name:unk_x_variant":[
+        "Sk\u00e6rb\u00e6k"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613539,
+    "qs_pg:gn_pop":3174,
+    "qs_pg:name":"Sherrebek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":140575,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297865,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613539,
+        "qs_pg:id":140575
+    },
+    "wof:country":"DK",
+    "wof:created":1497292950,
+    "wof:geomhash":"1a9a53868e5dada86b3cd837a34d8473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297865,
+            "locality_id":1125841353,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125841353,
+    "wof:lastmodified":1530291875,
+    "wof:name":"Sherrebek",
+    "wof:parent_id":1159297865,
+    "wof:placetype":"locality",
+    "wof:population":3174,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76901,
+    55.15735,
+    8.76901,
+    55.15735
+],
+  "geometry": {"coordinates":[8.76901,55.15735],"type":"Point"}
+}

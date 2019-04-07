@@ -1,0 +1,87 @@
+{
+  "id": 101847739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":517711.673847,
+    "geom:bbox":"11.8691976169,54.8021841808,11.8812606791,54.8166500276",
+    "geom:latitude":54.807982,
+    "geom:longitude":11.874555,
+    "iso:country":"DK",
+    "lbl:latitude":54.805398,
+    "lbl:longitude":11.875058,
+    "mps:latitude":54.805398,
+    "mps:longitude":11.875058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Nordbyen"
+    ],
+    "name:dut_x_preferred":[
+        "Nordbyen"
+    ],
+    "name:eng_x_preferred":[
+        "Nordbyen"
+    ],
+    "name:nld_x_preferred":[
+        "Nordbyen"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Guldborgsund",
+    "qs:la_lc":"*DK1085376",
+    "qs:level":"locality",
+    "qs:loc":"Nordbyen",
+    "qs:loc_alt":"Nordbyen",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000098,
+        "qs:id":9,
+        "wd:id":"Q2469456"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7188f1da8d73efca834d1e3c53bf5225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":101847739,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101847739,
+    "wof:lastmodified":1530296479,
+    "wof:name":"Nordbyen",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86919761692064,
+    54.80218418084002,
+    11.88126067912617,
+    54.81665002758018
+],
+  "geometry": {"coordinates":[[[11.87713472467124,54.81660334162945],[11.87705218824647,54.81480678909605],[11.87549771455195,54.81483014057056],[11.87545648375186,54.81393186377221],[11.87390204253967,54.81395519532009],[11.87365490834532,54.8085655317762],[11.87831761271673,54.80849548965494],[11.87815249076311,54.80490238837211],[11.88126067912617,54.80485560162981],[11.88121933587183,54.80395732757182],[11.87966527663212,54.80398073002391],[11.87958266491148,54.80218418084002],[11.87181268503986,54.80230089721221],[11.87205952297484,54.80769056275773],[11.87050531735679,54.80771385153309],[11.87075202894715,54.81310352187597],[11.86919761692064,54.81312679481687],[11.86923870900597,54.81402507391778],[11.87234759967725,54.81397850752683],[11.87238876220806,54.81487678549564],[11.87394323920529,54.81485347270376],[11.87402563908103,54.81665002758018],[11.87713472467124,54.81660334162945]]],"type":"Polygon"}
+}

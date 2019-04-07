@@ -1,0 +1,73 @@
+{
+  "id": 1310263743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90309,54.926,9.90309,54.926",
+    "geom:latitude":54.926,
+    "geom:longitude":9.90309,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Kirke-Horup",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618874,
+    "gn:latitude":54.926,
+    "gn:longitude":9.90309,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kirke-H\u00f8rup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f8rup",
+        "H\u00f8rup Kirke",
+        "Kirke-H\u00f8rup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618874
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9581348dfbef31ef0e518951db15ab07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1310263743,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310263743,
+    "wof:lastmodified":1537619853,
+    "wof:name":"Kirke-Horup",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90309,
+    54.926,
+    9.90309,
+    54.926
+],
+  "geometry": {"coordinates":[9.90309,54.926],"type":"Point"}
+}

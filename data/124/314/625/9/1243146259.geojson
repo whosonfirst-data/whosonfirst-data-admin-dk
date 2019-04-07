@@ -1,0 +1,68 @@
+{
+  "id": 1243146259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70066,55.78712,8.70066,55.78712",
+    "geom:latitude":55.78712,
+    "geom:longitude":8.70066,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Bejsnap",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2624201,
+    "gn:latitude":55.78712,
+    "gn:longitude":8.70066,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bejsnap",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624201
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"116b3b9edead2f05a4db885f5cff77cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1243146259,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243146259,
+    "wof:lastmodified":1536741262,
+    "wof:name":"Bejsnap",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70066,
+    55.78712,
+    8.70066,
+    55.78712
+],
+  "geometry": {"coordinates":[8.70066,55.78712],"type":"Point"}
+}

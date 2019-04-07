@@ -1,0 +1,82 @@
+{
+  "id": 1126038569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.807993,56.5332455,10.807993,56.5332455",
+    "geom:latitude":56.533245,
+    "geom:longitude":10.807993,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":56.533245,
+    "lbl:longitude":10.807993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nordstrand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":82,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":82,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1000390,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306331,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306331,
+        "qs_pg:id":1000390
+    },
+    "wof:country":"DK",
+    "wof:created":1497301967,
+    "wof:geomhash":"bbb6c3ff7bbb8959b479b5d5e816236e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1126038569,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1126038569,
+    "wof:lastmodified":1530291206,
+    "wof:name":"Nordstrand",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.807993,
+    56.5332455,
+    10.807993,
+    56.5332455
+],
+  "geometry": {"coordinates":[10.807993,56.5332455],"type":"Point"}
+}

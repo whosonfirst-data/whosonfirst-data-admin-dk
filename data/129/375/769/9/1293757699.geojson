@@ -1,0 +1,68 @@
+{
+  "id": 1293757699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00043,55.46668,9.00043,55.46668",
+    "geom:latitude":55.46668,
+    "geom:longitude":9.00043,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Norbolling",
+    "gn:country_code":"DK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616408,
+    "gn:latitude":55.46668,
+    "gn:longitude":9.00043,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rb\u00f8lling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616408
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e1d84210d9e61c65755fb6bf8291e684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1293757699,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293757699,
+    "wof:lastmodified":1536894444,
+    "wof:name":"Norbolling",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00043,
+    55.46668,
+    9.00043,
+    55.46668
+],
+  "geometry": {"coordinates":[9.00043,55.46668],"type":"Point"}
+}

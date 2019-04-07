@@ -1,0 +1,93 @@
+{
+  "id": 101818309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":786383.47565,
+    "geom:bbox":"11.7039731506,55.5407832807,11.7244749247,55.5498738107",
+    "geom:latitude":55.545529,
+    "geom:longitude":11.7145,
+    "iso:country":"DK",
+    "lbl:latitude":55.545239,
+    "lbl:longitude":11.7145,
+    "mps:latitude":55.545239,
+    "mps:longitude":11.7145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Store Merl\u00f8se"
+    ],
+    "name:dut_x_preferred":[
+        "Store Merl\u00f8se"
+    ],
+    "name:eng_x_preferred":[
+        "Store Merl\u00f8se"
+    ],
+    "name:nld_x_preferred":[
+        "Store Merl\u00f8se"
+    ],
+    "name:unk_x_variant":[
+        "Merl\u00f6se"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Holb\u00e6k",
+    "qs:la_lc":"*DK1085316",
+    "qs:level":"locality",
+    "qs:loc":"Store Merl\u00f8se",
+    "qs:loc_alt":"Store Merlose",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612381,
+        "gp:id":557686,
+        "qs:id":58778,
+        "wd:id":"Q2225982",
+        "wk:page":"Store Merl\u00f8se"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5acfe92160ca30bb8039d1e36da4be08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":101818309,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818309,
+    "wof:lastmodified":1530296446,
+    "wof:name":"Store Merl\u00f8se",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.70397315055732,
+    55.54078328073285,
+    11.72447492474714,
+    55.54987381071652
+],
+  "geometry": {"coordinates":[[[11.72447492474714,55.5460021544298],[11.72435827027795,55.54330697705217],[11.71960970107091,55.54337143521451],[11.71953215585603,55.54157464740672],[11.71161819863528,55.5416816772605],[11.71157960743182,55.54078328073285],[11.70999684688979,55.54080462692059],[11.71007396007462,55.54260142115788],[11.70849112664479,55.54262274869745],[11.70856817684603,55.54441954437112],[11.70698527052178,55.54444085326071],[11.70706225772489,55.54623765037002],[11.70547927849987,55.54625894060769],[11.70555620269062,55.54805573915269],[11.70397315055732,55.54807701073628],[11.70405001172151,55.54987381071652],[11.7056331351942,55.54985253803926],[11.70559466790314,55.54895413855326],[11.71984238699338,55.54876180067589],[11.7198036007681,55.54786340621979],[11.72296967178022,55.54782044833632],[11.7228919629581,55.54602366188783],[11.72447492474714,55.5460021544298]]],"type":"Polygon"}
+}

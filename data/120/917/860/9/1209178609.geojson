@@ -1,0 +1,62 @@
+{
+  "id": 1209178609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09736,55.39529,9.09736,55.39529",
+    "geom:latitude":55.39529,
+    "geom:longitude":9.09736,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Langetved",
+    "gn:country_code":"DK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617930,
+    "gn:latitude":55.39529,
+    "gn:longitude":9.09736,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Langetved",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617930
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8500616feec340de554424df61d059a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209178609
+        }
+    ],
+    "wof:id":1209178609,
+    "wof:lastmodified":1536295336,
+    "wof:name":"Langetved",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09736,
+    55.39529,
+    9.09736,
+    55.39529
+],
+  "geometry": {"coordinates":[9.09736,55.39529],"type":"Point"}
+}

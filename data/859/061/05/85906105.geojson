@@ -1,0 +1,103 @@
+{
+  "id": 85906105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7412.881087,
+    "geom:bbox":"12.5752258301,55.6802944683,12.5765991211,55.6814582191",
+    "geom:latitude":55.680875,
+    "geom:longitude":12.575912,
+    "iso:country":"DK",
+    "lbl:latitude":55.68107,
+    "lbl:longitude":12.576127,
+    "mps:latitude":55.680799,
+    "mps:longitude":12.575693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Peder Hvitfeldts Str\u00e6de"
+    ],
+    "name:unk_x_variant":[
+        "Peder Hvitfeldts Str\u00e6de"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Peder Hvitfeldts Str\u00e6de",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Peder Hvitfeldts Str\u00e6de",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":185,
+    "qs:photo_sum":306,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[
+        85906013
+    ],
+    "wof:concordances":{
+        "gp:id":20229376
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0850e7b15a7977096cb37d3c015bd2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906105,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906105,
+    "wof:lastmodified":1530296570,
+    "wof:name":"Peder Hvitfeldts Str\u00e6de",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57522583010007,
+    55.68029446827241,
+    12.5765991211,
+    55.68145821914602
+],
+  "geometry": {"coordinates":[[[12.57625579831466,55.68145821914602],[12.57625978060287,55.68145586470006],[12.5765991211,55.68145586470006],[12.5765991211,55.68125523586998],[12.5765991211,55.68106873605846],[12.5765991211,55.68068160400638],[12.57591247560015,55.68068160400638],[12.57591247560015,55.68029446827241],[12.57522583010007,55.68029446832516],[12.57522583010007,55.68048097786117],[12.57522583010007,55.68068160459994],[12.57522583010007,55.6810687366001],[12.57556517221155,55.6810687366001],[12.57556915282515,55.6810710900419],[12.57557313343995,55.6810687366001],[12.57591247560009,55.6810687366001],[12.57591247560009,55.68145586470006],[12.57625181604863,55.68145586470006],[12.57625579831466,55.68145821914602]]],"type":"Polygon"}
+}

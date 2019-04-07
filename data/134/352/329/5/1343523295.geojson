@@ -1,0 +1,100 @@
+{
+  "id": 1343523295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35097,55.66665,11.35097,55.66665",
+    "geom:latitude":55.66665,
+    "geom:longitude":11.35097,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"326.0",
+    "gn:asciiname":"Bjergsted",
+    "gn:country_code":"DK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624053,
+    "gn:latitude":55.66665,
+    "gn:longitude":11.35097,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bjergsted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:eng_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:fao_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:ita_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:nld_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:nor_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Bjergsted"
+    ],
+    "name:por_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:swe_x_preferred":[
+        "Bjergsted"
+    ],
+    "name:und_x_variant":[
+        "Bj\u00e6rgsted",
+        "Bjergsted"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624053,
+        "wk:page":"Bjergsted"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d782ebfae44d4fa04e7aa698b3f809ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":1343523295,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343523295,
+    "wof:lastmodified":1537619890,
+    "wof:name":"Bjergsted",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35097,
+    55.66665,
+    11.35097,
+    55.66665
+],
+  "geometry": {"coordinates":[11.35097,55.66665],"type":"Point"}
+}

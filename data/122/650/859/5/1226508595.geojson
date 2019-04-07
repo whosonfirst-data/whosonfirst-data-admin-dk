@@ -1,0 +1,72 @@
+{
+  "id": 1226508595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.34862,56.29384,10.34862,56.29384",
+    "geom:latitude":56.29384,
+    "geom:longitude":10.34862,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"706.0",
+    "gn:asciiname":"Eskerod",
+    "gn:country_code":"DK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622435,
+    "gn:latitude":56.29384,
+    "gn:longitude":10.34862,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Eskerod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eskerud",
+        "Eskerod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622435
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3016b31d6031a289c23e46663e716823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":1226508595,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226508595,
+    "wof:lastmodified":1537619880,
+    "wof:name":"Eskerod",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.34862,
+    56.29384,
+    10.34862,
+    56.29384
+],
+  "geometry": {"coordinates":[10.34862,56.29384],"type":"Point"}
+}

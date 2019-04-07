@@ -1,0 +1,82 @@
+{
+  "id": 1125993743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.117866,56.152003,8.117866,56.152003",
+    "geom:latitude":56.152003,
+    "geom:longitude":8.117866,
+    "gn:gn_country":"DK",
+    "iso:country":"DK",
+    "lbl:latitude":56.152003,
+    "lbl:longitude":8.117866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:name":"Kryle",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":428,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":428,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897850,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555043,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":555043,
+        "qs_pg:id":897850
+    },
+    "wof:country":"DK",
+    "wof:created":1497299187,
+    "wof:geomhash":"571b6ee99d3e0e7132342c422c49e8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1125993743,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125993743,
+    "wof:lastmodified":1530291948,
+    "wof:name":"Kryle",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.117866,
+    56.152003,
+    8.117866,
+    56.152003
+],
+  "geometry": {"coordinates":[8.117866,56.152003],"type":"Point"}
+}

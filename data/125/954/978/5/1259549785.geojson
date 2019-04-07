@@ -1,0 +1,71 @@
+{
+  "id": 1259549785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2379,55.93109,10.2379,55.93109",
+    "geom:latitude":55.93109,
+    "geom:longitude":10.2379,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"727.0",
+    "gn:asciiname":"Spottrup",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612805,
+    "gn:latitude":55.93109,
+    "gn:longitude":10.2379,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Sp\u00f8ttrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sp\u00f8ttrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297815,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612805
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"396e5550226dc43de858a1c41516863a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297815,
+            "locality_id":1259549785,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259549785,
+    "wof:lastmodified":1537619805,
+    "wof:name":"Spottrup",
+    "wof:parent_id":1159297815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2379,
+    55.93109000000001,
+    10.2379,
+    55.93109000000001
+],
+  "geometry": {"coordinates":[10.2379,55.93109000000001],"type":"Point"}
+}

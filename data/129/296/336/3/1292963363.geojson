@@ -1,0 +1,68 @@
+{
+  "id": 1292963363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65498,57.23745,9.65498,57.23745",
+    "geom:latitude":57.23745,
+    "geom:longitude":9.65498,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Kvorup",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618075,
+    "gn:latitude":57.23745,
+    "gn:longitude":9.65498,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kvorup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618075
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c08afae0a97bbbb997794b89484e31e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1292963363,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1292963363,
+    "wof:lastmodified":1537043901,
+    "wof:name":"Kvorup",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65498,
+    57.23745,
+    9.65498,
+    57.23745
+],
+  "geometry": {"coordinates":[9.65498,57.23745],"type":"Point"}
+}

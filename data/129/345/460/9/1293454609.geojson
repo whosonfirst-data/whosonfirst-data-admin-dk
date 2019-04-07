@@ -1,0 +1,68 @@
+{
+  "id": 1293454609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1469,55.73352,12.1469,55.73352",
+    "geom:latitude":55.73352,
+    "geom:longitude":12.1469,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"265.0",
+    "gn:asciiname":"Soparken",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11280427,
+    "gn:latitude":55.73352,
+    "gn:longitude":12.1469,
+    "gn:modification_date":"2016-10-17",
+    "gn:name":"S\u00f8parken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280427
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8129af16295bd505dfde857a233c45a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":1293454609,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1293454609,
+    "wof:lastmodified":1536833593,
+    "wof:name":"Soparken",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1469,
+    55.73352,
+    12.1469,
+    55.73352
+],
+  "geometry": {"coordinates":[12.1469,55.73352],"type":"Point"}
+}

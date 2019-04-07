@@ -1,0 +1,82 @@
+{
+  "id": 1125785375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3699725,55.852581,12.3699725,55.852581",
+    "geom:latitude":55.852581,
+    "geom:longitude":12.369972,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":55.852581,
+    "lbl:longitude":12.369972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kattehale",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32958,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306587,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297849,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306587,
+        "qs_pg:id":32958
+    },
+    "wof:country":"DK",
+    "wof:created":1497290654,
+    "wof:geomhash":"4cc392f581c635a936c21699c23476c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297849,
+            "locality_id":1125785375,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125785375,
+    "wof:lastmodified":1530291783,
+    "wof:name":"Kattehale",
+    "wof:parent_id":1159297849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3699725,
+    55.852581,
+    12.3699725,
+    55.852581
+],
+  "geometry": {"coordinates":[12.3699725,55.852581],"type":"Point"}
+}

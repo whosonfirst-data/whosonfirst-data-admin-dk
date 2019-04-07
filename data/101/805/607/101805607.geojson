@@ -1,0 +1,96 @@
+{
+  "id": 101805607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":816099.530638,
+    "geom:bbox":"8.62787059171,56.4340747715,8.64749486005,56.4430950553",
+    "geom:latitude":56.43825,
+    "geom:longitude":8.638313,
+    "iso:country":"DK",
+    "lbl:latitude":56.438074,
+    "lbl:longitude":8.638313,
+    "mps:latitude":56.438074,
+    "mps:longitude":8.638313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Hjerm"
+    ],
+    "name:dut_x_preferred":[
+        "Hjerm"
+    ],
+    "name:eng_x_preferred":[
+        "Hjerm"
+    ],
+    "name:fao_x_preferred":[
+        "Hjerm"
+    ],
+    "name:ger_x_preferred":[
+        "Hjerm"
+    ],
+    "name:unk_x_variant":[
+        "Hjerm Stationsby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Struer",
+    "qs:la_lc":"*DK1082671",
+    "qs:level":"locality",
+    "qs:loc":"Hjerm",
+    "qs:loc_alt":"Hjerm",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297861,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620229,
+        "gp:id":554109,
+        "qs:id":182663,
+        "qs_pg:id":182663,
+        "wd:id":"Q2356611"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"622467f13bd297053a4859b2cbe4c6ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297861,
+            "locality_id":101805607,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805607,
+    "wof:lastmodified":1530291859,
+    "wof:name":"Hjerm",
+    "wof:parent_id":1159297861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.62787059171052,
+    56.43407477151788,
+    8.64749486004831,
+    56.44309505528474
+],
+  "geometry": {"coordinates":[[[8.64559177196509,56.44309505528474],[8.64571787457487,56.43950051591247],[8.64733745943613,56.43951745808261],[8.64749486004831,56.43502428494008],[8.64587546353471,56.4350073450135],[8.64590697608799,56.4341087112752],[8.64266826237497,56.43407477151788],[8.64263667449546,56.43497340435715],[8.63453972522933,56.43488819803321],[8.63450794727521,56.43578682876284],[8.62964968078529,56.43573546039744],[8.62961778807073,56.4366340899137],[8.62799833092828,56.43661692613466],[8.62787059171052,56.44021144385067],[8.63110980871267,56.44024575477545],[8.63107794483739,56.4411443854811],[8.63269759303182,56.44116151099104],[8.6326657650697,56.44206014229781],[8.6375248307354,56.44211139855781],[8.63755654565978,56.4412127658934],[8.64403516787843,56.44128082196437],[8.64397203771739,56.44307809104674],[8.64559177196509,56.44309505528474]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343233655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79386,55.08678,14.79386,55.08678",
+    "geom:latitude":55.08678,
+    "geom:longitude":14.79386,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Blemmelyng",
+    "gn:country_code":"DK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2623919,
+    "gn:latitude":55.08678,
+    "gn:longitude":14.79386,
+    "gn:modification_date":"2017-06-23",
+    "gn:name":"Blemmelyng",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623919
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"16716463d72a400ac20a2f50d1d57835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1343233655,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1343233655,
+    "wof:lastmodified":1537070699,
+    "wof:name":"Blemmelyng",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79386,
+    55.08678000000001,
+    14.79386,
+    55.08678000000001
+],
+  "geometry": {"coordinates":[14.79386,55.08678000000001],"type":"Point"}
+}

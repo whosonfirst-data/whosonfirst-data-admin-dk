@@ -1,0 +1,91 @@
+{
+  "id": 1126051383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.69089,54.73268,11.69089,54.73268",
+    "geom:latitude":54.73268,
+    "geom:longitude":11.69089,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.73268,
+    "lbl:longitude":11.69089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "D\u00f6llefj\u00e6lde"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2622974,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"D\u00f8llefjelde",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":494471,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552826,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622974,
+        "gp:id":552826,
+        "qs_pg:id":494471
+    },
+    "wof:country":"DK",
+    "wof:created":1497302771,
+    "wof:geomhash":"15bfc636713de52d5fede0b5264ac94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1126051383,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1126051383,
+    "wof:lastmodified":1530290547,
+    "wof:name":"D\u00f8llefjelde",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.69089,
+    54.73268,
+    11.69089,
+    54.73268
+],
+  "geometry": {"coordinates":[11.69089,54.73268],"type":"Point"}
+}

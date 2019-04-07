@@ -1,0 +1,68 @@
+{
+  "id": 1226318567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.38137,56.00878,9.38137,56.00878",
+    "geom:latitude":56.00878,
+    "geom:longitude":9.38137,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Gammel Hampen",
+    "gn:country_code":"DK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621666,
+    "gn:latitude":56.00878,
+    "gn:longitude":9.38137,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Gammel Hampen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621666
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"011cace8966dd181eee213895a60e9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1226318567,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226318567,
+    "wof:lastmodified":1536827790,
+    "wof:name":"Gammel Hampen",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.38137,
+    56.00878,
+    9.38137,
+    56.00878
+],
+  "geometry": {"coordinates":[9.38137,56.00878],"type":"Point"}
+}

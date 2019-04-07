@@ -1,0 +1,111 @@
+{
+  "id": 101846059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":647108.783539,
+    "geom:bbox":"9.49569208144,54.9725800997,9.51448111161,54.9834251197",
+    "geom:latitude":54.979241,
+    "geom:longitude":9.505221,
+    "iso:country":"DK",
+    "lbl:latitude":54.979335,
+    "lbl:longitude":9.501164,
+    "mps:latitude":54.979335,
+    "mps:longitude":9.501164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Felsted"
+    ],
+    "name:dan_x_preferred":[
+        "Felsted"
+    ],
+    "name:dut_x_preferred":[
+        "Felsted"
+    ],
+    "name:eng_x_preferred":[
+        "Felsted"
+    ],
+    "name:ger_x_preferred":[
+        "Felsted"
+    ],
+    "name:nds_x_preferred":[
+        "Felsted"
+    ],
+    "name:nld_x_preferred":[
+        "Felsted"
+    ],
+    "name:pol_x_preferred":[
+        "Felsted"
+    ],
+    "name:spa_x_preferred":[
+        "Felsted"
+    ],
+    "name:swe_x_preferred":[
+        "Felsted"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aabenraa",
+    "qs:la_lc":"*DK1083580",
+    "qs:level":"locality",
+    "qs:loc":"Felsted",
+    "qs:loc_alt":"Felsted",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":51.856,
+    "wd:longitude":0.436,
+    "wd:wordcount":414,
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622239,
+        "gp:id":553168,
+        "qs:id":270212,
+        "qs_pg:id":270212,
+        "wd:id":"Q12871664"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b62e59f2cee6b8da7c6a83a3c622c9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":101846059,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101846059,
+    "wof:lastmodified":1530296471,
+    "wof:name":"Felsted",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.49569208144118,
+    54.97258009970335,
+    9.51448111161022,
+    54.98342511967201
+],
+  "geometry": {"coordinates":[[[9.5128446039065,54.98342511967201],[9.51286614927676,54.98162788627752],[9.51442743080287,54.98163394323603],[9.51448111161022,54.97714086010308],[9.51292000267301,54.97713480390877],[9.51293077163348,54.97623618762623],[9.50980862408676,54.97622401722145],[9.50977610840295,54.97891986533921],[9.50353140439159,54.97889528938225],[9.50355335821013,54.97709805848058],[9.49887004192828,54.97707942331181],[9.49892543388012,54.97258634951982],[9.49736450188493,54.97258009970335],[9.49735339016854,54.97347871417736],[9.4957924241167,54.97347244476413],[9.4957589818963,54.97616828809134],[9.4973200514732,54.97617455797928],[9.49726447515457,54.98066763225262],[9.49570323300031,54.98066136157371],[9.49569208144118,54.98155997646109],[9.50662102752727,54.98160346400834],[9.50661011703573,54.98250208005709],[9.50817143134077,54.98250821494474],[9.50816055479362,54.98340683121233],[9.5128446039065,54.98342511967201]]],"type":"Polygon"}
+}

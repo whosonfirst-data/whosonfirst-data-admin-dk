@@ -1,0 +1,72 @@
+{
+  "id": 1209891301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28206,56.94487,9.28206,56.94487",
+    "geom:latitude":56.94487,
+    "geom:longitude":9.28206,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Mjallerup",
+    "gn:country_code":"DK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2616885,
+    "gn:latitude":56.94487,
+    "gn:longitude":9.28206,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mjallerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mjellerup",
+        "Mjallerup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297741,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616885
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6a78e084ba0334ac39c4d672f0beaf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297741,
+            "locality_id":1209891301,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1209891301,
+    "wof:lastmodified":1537619839,
+    "wof:name":"Mjallerup",
+    "wof:parent_id":1159297741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28206,
+    56.94487,
+    9.28206,
+    56.94487
+],
+  "geometry": {"coordinates":[9.28206,56.94487],"type":"Point"}
+}

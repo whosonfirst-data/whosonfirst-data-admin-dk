@@ -1,0 +1,68 @@
+{
+  "id": 1276834047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.83099,55.28114,8.83099,55.28114",
+    "geom:latitude":55.28114,
+    "geom:longitude":8.83099,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"561.0",
+    "gn:asciiname":"Hom",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619888,
+    "gn:latitude":55.28114,
+    "gn:longitude":8.83099,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"H\u00f8m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619888
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d2624ec996a04b9e5125b417fd5fc704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":1276834047,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276834047,
+    "wof:lastmodified":1536601933,
+    "wof:name":"Hom",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.83099,
+    55.28114,
+    8.83099,
+    55.28114
+],
+  "geometry": {"coordinates":[8.83099,55.28114],"type":"Point"}
+}

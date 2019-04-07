@@ -1,0 +1,68 @@
+{
+  "id": 1327497001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.29336,55.68574,12.29336,55.68574",
+    "geom:latitude":55.68574,
+    "geom:longitude":12.29336,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"169.0",
+    "gn:asciiname":"Vridslosemagle",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2609963,
+    "gn:latitude":55.68574,
+    "gn:longitude":12.29336,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vridsl\u00f8semagle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297827,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2609963
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4fc69d8fa83988819835decdcce96291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297827,
+            "locality_id":1327497001,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1327497001,
+    "wof:lastmodified":1537082199,
+    "wof:name":"Vridslosemagle",
+    "wof:parent_id":1159297827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.29336,
+    55.68574,
+    12.29336,
+    55.68574
+],
+  "geometry": {"coordinates":[12.29336,55.68574],"type":"Point"}
+}

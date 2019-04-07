@@ -1,0 +1,62 @@
+{
+  "id": 1209678875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78409,56.37634,10.78409,56.37634",
+    "geom:latitude":56.37634,
+    "geom:longitude":10.78409,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Fladstrup",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622116,
+    "gn:latitude":56.37634,
+    "gn:longitude":10.78409,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fladstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622116
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5aab69bbeff3ce1a7b59df11426ef70b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209678875
+        }
+    ],
+    "wof:id":1209678875,
+    "wof:lastmodified":1536279649,
+    "wof:name":"Fladstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78409,
+    56.37634,
+    10.78409,
+    56.37634
+],
+  "geometry": {"coordinates":[10.78409,56.37634],"type":"Point"}
+}

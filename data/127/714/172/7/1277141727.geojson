@@ -1,0 +1,68 @@
+{
+  "id": 1277141727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.62891,54.73722,11.62891,54.73722",
+    "geom:latitude":54.73722,
+    "geom:longitude":11.62891,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Ettehave",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622398,
+    "gn:latitude":54.73722,
+    "gn:longitude":11.62891,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ettehave",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622398
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"035f426da1e7ded0147e2a9d407fa19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1277141727,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1277141727,
+    "wof:lastmodified":1536682660,
+    "wof:name":"Ettehave",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.62891,
+    54.73721999999999,
+    11.62891,
+    54.73721999999999
+],
+  "geometry": {"coordinates":[11.62891,54.73721999999999],"type":"Point"}
+}

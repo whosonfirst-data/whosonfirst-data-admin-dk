@@ -1,0 +1,68 @@
+{
+  "id": 1293255879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42236,56.06012,12.42236,56.06012",
+    "geom:latitude":56.06012,
+    "geom:longitude":12.42236,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"217.0",
+    "gn:asciiname":"Havreholm",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620616,
+    "gn:latitude":56.06012,
+    "gn:longitude":12.42236,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Havreholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297819,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620616
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"95567deb3762e3e25504733186951783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297819,
+            "locality_id":1293255879,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1293255879,
+    "wof:lastmodified":1536621939,
+    "wof:name":"Havreholm",
+    "wof:parent_id":1159297819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42236,
+    56.06012,
+    12.42236,
+    56.06012
+],
+  "geometry": {"coordinates":[12.42236,56.06012],"type":"Point"}
+}

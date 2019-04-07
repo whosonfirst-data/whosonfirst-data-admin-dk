@@ -1,0 +1,114 @@
+{
+  "id": 1126021055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70539,57.373475,9.70539,57.373475",
+    "geom:latitude":57.373475,
+    "geom:longitude":9.70539,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":57.373475,
+    "lbl:longitude":9.70539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "L\u00f8kken-Vr\u00e5"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00f8kken-Vr\u00e5"
+    ],
+    "name:fao_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 kommuna"
+    ],
+    "name:ger_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00f8kken-Vr\u00e5"
+    ],
+    "name:nob_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina L\u00f8kken-Vr\u00e5"
+    ],
+    "name:por_x_preferred":[
+        "L\u00f8kken-Vr\u00e5"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna L\u00f8kken-Vr\u00e5"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 kommun"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"L\u00f8kken-Vr\u00e5",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1018877,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306313,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306313,
+        "qs_pg:id":1018877,
+        "wd:id":"Q1148590"
+    },
+    "wof:country":"DK",
+    "wof:created":1497300832,
+    "wof:geomhash":"c8f0480bdfe30bcdf4fa685c519d0bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":1126021055,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1126021055,
+    "wof:lastmodified":1513955785,
+    "wof:name":"L\u00f8kken-Vr\u00e5",
+    "wof:parent_id":85682593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70539,
+    57.373475,
+    9.70539,
+    57.373475
+],
+  "geometry": {"coordinates":[9.70539,57.373475],"type":"Point"}
+}

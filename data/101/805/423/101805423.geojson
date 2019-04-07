@@ -1,0 +1,99 @@
+{
+  "id": 101805423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000212,
+    "geom:area_square_m":1493221.141215,
+    "geom:bbox":"10.1669861721,55.3392058781,10.1922173516,55.3553909459",
+    "geom:latitude":55.346783,
+    "geom:longitude":10.181749,
+    "gn:population":2401,
+    "iso:country":"DK",
+    "lbl:latitude":55.346149,
+    "lbl:longitude":10.182801,
+    "mps:latitude":55.346149,
+    "mps:longitude":10.182801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tommerup Stationsby"
+    ],
+    "name:dan_x_preferred":[
+        "Tommerup Stationsby"
+    ],
+    "name:nld_x_preferred":[
+        "Tommerup Stationsby"
+    ],
+    "name:swe_x_preferred":[
+        "Tommerup Stationsby"
+    ],
+    "name:unk_x_variant":[
+        "Tommerup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Assens",
+    "qs:la_lc":"*DK1083420",
+    "qs:level":"locality",
+    "qs:loc":"Tommerup Stationsby",
+    "qs:loc_alt":"Tommerup Stationsby",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":186,
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611518,
+        "gp:id":558105,
+        "qs:id":23226,
+        "qs_pg:id":23226,
+        "wd:id":"Q4358920",
+        "wk:page":"Tommerup Stationsby"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6045176412e27055866b19e1a0cce22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":101805423,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805423,
+    "wof:lastmodified":1530296373,
+    "wof:name":"Tommerup Stationsby",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:population":2401,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1669861721025,
+    55.33920587809615,
+    10.19221735157271,
+    55.35539094591672
+],
+  "geometry": {"coordinates":[[[10.18437266079678,55.3553819065084],[10.1843644004577,55.35358456860627],[10.18751591520356,55.35357993123449],[10.1875033145883,55.35088392540047],[10.18907896581948,55.35088157741978],[10.18906626136703,55.34818557256079],[10.19221735157271,55.34818081801933],[10.19220443746502,55.34548481431779],[10.18905355896277,55.34548956849494],[10.18903239283969,55.3409962301443],[10.18745712971065,55.3409985774652],[10.18745293243933,55.3400999099984],[10.18430247621063,55.34010454559376],[10.18429834970243,55.33920587809615],[10.17957276990882,55.33921268399871],[10.17957679061118,55.34011135166998],[10.176426332723,55.3401157908429],[10.17643818449039,55.34281179472316],[10.1669861721025,55.34282464181257],[10.16698991145745,55.34372331027652],[10.17171602418568,55.34371697496681],[10.17171986957686,55.34461564335663],[10.1732952754532,55.34461349224341],[10.17331468192873,55.34910683523867],[10.1748902640669,55.34910466420342],[10.17489418127764,55.35000333301139],[10.17804541565351,55.3499989318866],[10.17806136895723,55.35359360755274],[10.17648561067233,55.35359581816505],[10.17648956423494,55.3544944873592],[10.17806535781926,55.35449227669039],[10.17806934689571,55.35539094591672],[10.18437266079678,55.3553819065084]]],"type":"Polygon"}
+}

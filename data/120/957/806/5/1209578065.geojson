@@ -1,0 +1,62 @@
+{
+  "id": 1209578065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.27686,56.77274,8.27686,56.77274",
+    "geom:latitude":56.77274,
+    "geom:longitude":8.27686,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Krik",
+    "gn:country_code":"DK",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618248,
+    "gn:latitude":56.77274,
+    "gn:longitude":8.27686,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Krik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618248
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"73fccd9f95cf30bd8d5362847c7f343a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209578065
+        }
+    ],
+    "wof:id":1209578065,
+    "wof:lastmodified":1536282874,
+    "wof:name":"Krik",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.276860000000001,
+    56.77274,
+    8.276860000000001,
+    56.77274
+],
+  "geometry": {"coordinates":[8.27686,56.77274],"type":"Point"}
+}

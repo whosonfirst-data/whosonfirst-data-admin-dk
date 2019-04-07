@@ -1,0 +1,68 @@
+{
+  "id": 1276416257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09343,56.2072,10.09343,56.2072",
+    "geom:latitude":56.2072,
+    "geom:longitude":10.09343,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"751.0",
+    "gn:asciiname":"Geding",
+    "gn:country_code":"DK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621553,
+    "gn:latitude":56.2072,
+    "gn:longitude":10.09343,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Geding",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621553
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b5ed22d4e4b2c12e9dcef8c35eae2939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1276416257,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276416257,
+    "wof:lastmodified":1536667635,
+    "wof:name":"Geding",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09343,
+    56.2072,
+    10.09343,
+    56.2072
+],
+  "geometry": {"coordinates":[10.09343,56.2072],"type":"Point"}
+}

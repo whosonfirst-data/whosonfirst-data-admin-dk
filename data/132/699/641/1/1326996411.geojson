@@ -1,0 +1,75 @@
+{
+  "id": 1326996411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59373,55.87453,8.59373,55.87453",
+    "geom:latitude":55.87453,
+    "geom:longitude":8.59373,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Adum",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2625019,
+    "gn:latitude":55.87453,
+    "gn:longitude":8.59373,
+    "gn:modification_date":"2017-11-14",
+    "gn:name":"\u00c5dum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oddum",
+        "Kirkeby",
+        "\u00c5dum Kirkeby",
+        "\u00c5dum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2625019
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d87cbee56510a96969a9cd5f596986d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1326996411,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1326996411,
+    "wof:lastmodified":1537619899,
+    "wof:name":"Adum",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59373,
+    55.87453000000001,
+    8.59373,
+    55.87453000000001
+],
+  "geometry": {"coordinates":[8.59373,55.87453000000001],"type":"Point"}
+}

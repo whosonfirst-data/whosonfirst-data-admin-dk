@@ -1,0 +1,93 @@
+{
+  "id": 1125976269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.04988,56.14341,9.04988,56.14341",
+    "geom:latitude":56.14341,
+    "geom:longitude":9.04988,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3627,
+    "gn:population":3627,
+    "iso:country":"DK",
+    "lbl:latitude":56.14341,
+    "lbl:longitude":9.04988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kirkeby"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2621434,
+    "qs_pg:gn_pop":3627,
+    "qs_pg:name":"Gjellerup Kirkeby",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1245906,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":553537,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621434,
+        "gp:id":553537,
+        "qs_pg:id":1245906
+    },
+    "wof:country":"DK",
+    "wof:created":1497298361,
+    "wof:geomhash":"c3ecd07baeedae03403a00f832cecf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1125976269,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125976269,
+    "wof:lastmodified":1530290397,
+    "wof:name":"Gjellerup Kirkeby",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:population":3627,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.04988,
+    56.14341,
+    9.04988,
+    56.14341
+],
+  "geometry": {"coordinates":[9.04988,56.14341],"type":"Point"}
+}

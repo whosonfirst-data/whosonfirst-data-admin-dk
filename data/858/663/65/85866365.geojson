@@ -1,0 +1,114 @@
+{
+  "id": 85866365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23193778.175822,
+    "geom:bbox":"8.447494,55.519038,8.447494,55.519038",
+    "geom:latitude":55.519038,
+    "geom:longitude":8.447494,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":55.519038,
+    "lbl:longitude":8.447494,
+    "mps:latitude":55.521874,
+    "mps:longitude":8.443832,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:dan_x_preferred":[
+        "Esbjerg N"
+    ],
+    "name:eng_x_preferred":[
+        "Esbjerg North"
+    ],
+    "name:eng_x_variant":[
+        "Esbjerg North"
+    ],
+    "name:unk_x_variant":[
+        "Esbjerg N"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2622447,
+    "qs:gn_nam_loc":"Esbjerg, Esbjerg, Syddanmark, DK",
+    "qs:gn_namadm1":"21",
+    "qs:local_max":1294,
+    "qs:local_sum":3455,
+    "qs:localhoods":4,
+    "qs:name":"Esbjerg N",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Syddanmark",
+    "qs:name_adm2":"Esbjerg",
+    "qs:name_en":"Esbjerg North",
+    "qs:name_local":"Esbjerg",
+    "qs:photo_max":497,
+    "qs:photo_sum":1273,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362581,
+    "qs:woe_adm2":12582748,
+    "qs:woe_lau":0,
+    "qs:woe_local":553065,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85682575,
+        102191581,
+        1159297923,
+        85633121,
+        101749155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24867060,
+        "qs:id":353480,
+        "qs_pg:id":353480
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f9f0757af9df0344c4cde9be13dafcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":101749155,
+            "neighbourhood_id":85866365,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":85866365,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531871179,
+    "wof:name":"Esbjerg N",
+    "wof:parent_id":101749155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.447494,
+    55.519038,
+    8.447494,
+    55.519038
+],
+  "geometry": {"coordinates":[8.447494,55.519038],"type":"Point"}
+}

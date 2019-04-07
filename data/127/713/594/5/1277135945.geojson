@@ -1,0 +1,68 @@
+{
+  "id": 1277135945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79182,55.49797,8.79182,55.49797",
+    "geom:latitude":55.49797,
+    "geom:longitude":8.79182,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"561.0",
+    "gn:asciiname":"Bjerndrup",
+    "gn:country_code":"DK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624047,
+    "gn:latitude":55.49797,
+    "gn:longitude":8.79182,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bjerndrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297923,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624047
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"725b48768aacdccb164fe097cc55d781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":1277135945,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277135945,
+    "wof:lastmodified":1536691243,
+    "wof:name":"Bjerndrup",
+    "wof:parent_id":1159297923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79182,
+    55.49797,
+    8.79182,
+    55.49797
+],
+  "geometry": {"coordinates":[8.79182,55.49797],"type":"Point"}
+}

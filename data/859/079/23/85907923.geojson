@@ -1,0 +1,118 @@
+{
+  "id": 85907923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":31288549.813564,
+    "geom:bbox":"10.138414,56.16617,10.138414,56.16617",
+    "geom:latitude":56.16617,
+    "geom:longitude":10.138414,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":56.16617,
+    "lbl:longitude":10.138414,
+    "mps:latitude":56.157783,
+    "mps:longitude":10.132684,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dan_x_colloquial":[
+        "Aarhus V",
+        "Arhus V"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c5rhus V",
+        "Aarhus V"
+    ],
+    "name:eng_x_preferred":[
+        "Aarhus West"
+    ],
+    "name:eng_x_variant":[
+        "Aarhus West"
+    ],
+    "name:unk_x_variant":[
+        "\u00c5rhus V"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":22782,
+    "qs:local_sum":27406,
+    "qs:localhoods":3,
+    "qs:name":"\u00c5rhus V",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Midtjylland",
+    "qs:name_adm2":"\u00c5rhus Kommune",
+    "qs:name_en":"Aarhus West",
+    "qs:name_local":"\u00c5rhus",
+    "qs:photo_max":714,
+    "qs:photo_sum":3025,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":135,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362580,
+    "qs:woe_adm2":28583790,
+    "qs:woe_lau":0,
+    "qs:woe_local":552015,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":926,
+    "wof:belongsto":[
+        85682597,
+        102191581,
+        1159297797,
+        85633121,
+        101749163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875616,
+        "qs:id":891801,
+        "qs_pg:id":891801,
+        "wd:id":"Q4661724"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"89b26d80850d15edf35e36c575699f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":85907923,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531936657,
+    "wof:name":"\u00c5rhus V",
+    "wof:parent_id":101749163,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.138414,
+    56.16617,
+    10.138414,
+    56.16617
+],
+  "geometry": {"coordinates":[10.138414,56.16617],"type":"Point"}
+}

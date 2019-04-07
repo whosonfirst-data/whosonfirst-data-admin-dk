@@ -1,0 +1,98 @@
+{
+  "id": 1125956181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86869,54.7905,11.86869,54.7905",
+    "geom:latitude":54.7905,
+    "geom:longitude":11.86869,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.7905,
+    "lbl:longitude":11.86869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Kraghave"
+    ],
+    "name:dut_x_preferred":[
+        "Kraghave"
+    ],
+    "name:eng_x_preferred":[
+        "Kraghave"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2618313,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kraghave",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":988402,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554993,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618313,
+        "gp:id":554993,
+        "qs_pg:id":988402,
+        "wd:id":"Q6435827"
+    },
+    "wof:country":"DK",
+    "wof:created":1497297626,
+    "wof:geomhash":"8f68ab64451faeef5fbbe2409c291608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1125956181,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125956181,
+    "wof:lastmodified":1530290556,
+    "wof:name":"Kraghave",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86869,
+    54.7905,
+    11.86869,
+    54.7905
+],
+  "geometry": {"coordinates":[11.86869,54.7905],"type":"Point"}
+}

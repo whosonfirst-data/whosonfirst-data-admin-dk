@@ -1,0 +1,72 @@
+{
+  "id": 1259749401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.74968,56.41778,10.74968,56.41778",
+    "geom:latitude":56.41778,
+    "geom:longitude":10.74968,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Godthab",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621328,
+    "gn:latitude":56.41778,
+    "gn:longitude":10.74968,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Godth\u00e5b",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Godthaab",
+        "Godth\u00e5b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621328
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e2a830e899814710585bfa780cd5ed3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1259749401,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259749401,
+    "wof:lastmodified":1537619871,
+    "wof:name":"Godthab",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.74968,
+    56.41778000000001,
+    10.74968,
+    56.41778000000001
+],
+  "geometry": {"coordinates":[10.74968,56.41778000000001],"type":"Point"}
+}

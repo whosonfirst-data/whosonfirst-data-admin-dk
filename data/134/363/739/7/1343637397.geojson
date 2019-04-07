@@ -1,0 +1,68 @@
+{
+  "id": 1343637397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.57283,56.58435,9.57283,56.58435",
+    "geom:latitude":56.58435,
+    "geom:longitude":9.57283,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Troestrup",
+    "gn:country_code":"DK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611226,
+    "gn:latitude":56.58435,
+    "gn:longitude":9.57283,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Troestrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611226
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a7bfc3825daf3c35ef39f7d270d5876b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1343637397,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1343637397,
+    "wof:lastmodified":1536987565,
+    "wof:name":"Troestrup",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.57283,
+    56.58435,
+    9.57283,
+    56.58435
+],
+  "geometry": {"coordinates":[9.57283,56.58435],"type":"Point"}
+}

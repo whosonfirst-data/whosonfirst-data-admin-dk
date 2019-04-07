@@ -1,0 +1,104 @@
+{
+  "id": 1125979405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79538,55.23976,14.79538,55.23976",
+    "geom:latitude":55.23976,
+    "geom:longitude":14.79538,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.23976,
+    "lbl:longitude":14.79538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Olsker"
+    ],
+    "name:dut_x_preferred":[
+        "Olsker"
+    ],
+    "name:eng_x_preferred":[
+        "Olsker"
+    ],
+    "name:hun_x_preferred":[
+        "Olsker"
+    ],
+    "name:unk_x_variant":[
+        "Sankt Ols"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2615830,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Olsker",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":993182,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":556091,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615830,
+        "gp:id":556091,
+        "qs_pg:id":993182,
+        "wd:id":"Q254604"
+    },
+    "wof:country":"DK",
+    "wof:created":1497298487,
+    "wof:geomhash":"cc1e54c3d6773fe581c1f3c257c16e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1125979405,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125979405,
+    "wof:lastmodified":1530291145,
+    "wof:name":"Olsker",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79538,
+    55.23976,
+    14.79538,
+    55.23976
+],
+  "geometry": {"coordinates":[14.79538,55.23976],"type":"Point"}
+}

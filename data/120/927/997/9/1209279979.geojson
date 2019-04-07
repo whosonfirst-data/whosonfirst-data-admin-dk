@@ -1,0 +1,66 @@
+{
+  "id": 1209279979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81277,57.03585,8.81277,57.03585",
+    "geom:latitude":57.03585,
+    "geom:longitude":8.81277,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Hunstrup",
+    "gn:country_code":"DK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619625,
+    "gn:latitude":57.03585,
+    "gn:longitude":8.81277,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hunstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hundstrup",
+        "Hunstrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619625
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3aae363ec6483888cdb5cc0fecf4b9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209279979
+        }
+    ],
+    "wof:id":1209279979,
+    "wof:lastmodified":1537619858,
+    "wof:name":"Hunstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81277,
+    57.03585,
+    8.81277,
+    57.03585
+],
+  "geometry": {"coordinates":[8.81277,57.03585],"type":"Point"}
+}

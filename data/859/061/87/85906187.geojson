@@ -1,0 +1,101 @@
+{
+  "id": 85906187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:area_square_m":150871.338546,
+    "geom:bbox":"12.6040649414,55.6682727381,12.6123046875,55.6729474837",
+    "geom:latitude":55.670325,
+    "geom:longitude":12.608761,
+    "iso:country":"DK",
+    "lbl:latitude":55.671375,
+    "lbl:longitude":12.606834,
+    "mps:latitude":55.669842,
+    "mps:longitude":12.609534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":20.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Sofiegade"
+    ],
+    "name:unk_x_variant":[
+        "Sofiegade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Sofiegade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Sofiegade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":29,
+    "qs:photo_sum":49,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229442
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"afc2551cb63b4f0f8af96fe7aa10e00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906187,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906187,
+    "wof:lastmodified":1530296584,
+    "wof:name":"Sofiegade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60406494140005,
+    55.66827273814754,
+    12.61230468750006,
+    55.67294748373193
+],
+  "geometry": {"coordinates":[[[[12.60681152341044,55.67138928063757],[12.60952665241285,55.67138928830006],[12.60955810550001,55.67140787925426],[12.61020532155595,55.67179042879464],[12.61133640987987,55.67138928830006],[12.61230468750006,55.67138928830006],[12.61230468750006,55.67104588862433],[12.61230468750006,55.66989609427297],[12.61230468750006,55.66829135900004],[12.60958961039142,55.66829135900004],[12.60955810547523,55.66827273814754],[12.6095266005579,55.66829135900004],[12.60681152340004,55.66829135900004],[12.60681152341044,55.67138928063757]]],[[[12.60681152341044,55.67138928063757],[12.60451744592166,55.67138928281385],[12.60406494140005,55.67138928830006],[12.60406494140005,55.67255093897499],[12.60406494140005,55.67293816100009],[12.60542246052614,55.67293816100009],[12.6054382324001,55.67294748373193],[12.60545400427395,55.67293816100009],[12.60681152340004,55.67293816100009],[12.60681152341334,55.67213573338988],[12.60681152341044,55.67138928063757]]]],"type":"MultiPolygon"}
+}

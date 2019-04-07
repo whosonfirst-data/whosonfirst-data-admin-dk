@@ -1,0 +1,68 @@
+{
+  "id": 1243328405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.59912,54.68917,11.59912,54.68917",
+    "geom:latitude":54.68917,
+    "geom:longitude":11.59912,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Ollebolle",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615746,
+    "gn:latitude":54.68917,
+    "gn:longitude":11.59912,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8lleb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615746
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5b162098ce1e82224ace38f9c5555e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1243328405,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1243328405,
+    "wof:lastmodified":1536975346,
+    "wof:name":"Ollebolle",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59912,
+    54.68917,
+    11.59912,
+    54.68917
+],
+  "geometry": {"coordinates":[11.59912,54.68917],"type":"Point"}
+}

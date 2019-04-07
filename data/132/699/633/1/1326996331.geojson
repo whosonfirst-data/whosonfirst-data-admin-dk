@@ -1,0 +1,73 @@
+{
+  "id": 1326996331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55,56.28333,9.55,56.28333",
+    "geom:latitude":56.28333,
+    "geom:longitude":9.55,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Dalsgard",
+    "gn:cc2":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623107,
+    "gn:latitude":56.28333,
+    "gn:longitude":9.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dalsg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalsgaard",
+        "Dalsg\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623107
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d49ae6b543071e089efdd2c062413d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1326996331,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1326996331,
+    "wof:lastmodified":1537619883,
+    "wof:name":"Dalsgard",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55,
+    56.28333000000001,
+    9.55,
+    56.28333000000001
+],
+  "geometry": {"coordinates":[9.55,56.28333000000001],"type":"Point"}
+}

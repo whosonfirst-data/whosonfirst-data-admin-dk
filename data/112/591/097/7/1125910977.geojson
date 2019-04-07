@@ -1,0 +1,104 @@
+{
+  "id": 1125910977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44229,55.90305,8.44229,55.90305",
+    "geom:latitude":55.90305,
+    "geom:longitude":8.44229,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.90305,
+    "lbl:longitude":8.44229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "L\u00f8nborg"
+    ],
+    "name:dut_x_preferred":[
+        "L\u00f8nborg"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00f8nborg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30dc\u30fc"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00f8nborg"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617442,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"L\u00f8nborg",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":34430,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555324,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617442,
+        "gp:id":555324,
+        "qs_pg:id":34430,
+        "wd:id":"Q2616989"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296137,
+    "wof:geomhash":"29844e67cfcd68e2dbd4450b1a26370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1125910977,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125910977,
+    "wof:lastmodified":1530291936,
+    "wof:name":"L\u00f8nborg",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44229,
+    55.90305,
+    8.44229,
+    55.90305
+],
+  "geometry": {"coordinates":[8.44229,55.90305],"type":"Point"}
+}

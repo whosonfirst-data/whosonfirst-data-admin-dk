@@ -1,0 +1,73 @@
+{
+  "id": 1276835315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.74746,56.81967,9.74746,56.81967",
+    "geom:latitude":56.81967,
+    "geom:longitude":9.74746,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"840.0",
+    "gn:asciiname":"Arestrup",
+    "gn:country_code":"DK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624655,
+    "gn:latitude":56.81967,
+    "gn:longitude":9.74746,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5restrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aarestrup",
+        "\u00c5rdestrup",
+        "\u00c5restrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297887,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624655
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b3a301238c73794102677e5814819bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297887,
+            "locality_id":1276835315,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1276835315,
+    "wof:lastmodified":1537619896,
+    "wof:name":"Arestrup",
+    "wof:parent_id":1159297887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.74746,
+    56.81967,
+    9.74746,
+    56.81967
+],
+  "geometry": {"coordinates":[9.74746,56.81967],"type":"Point"}
+}

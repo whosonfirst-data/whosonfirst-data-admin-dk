@@ -1,0 +1,72 @@
+{
+  "id": 1259955841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78001,56.08386,9.78001,56.08386",
+    "geom:latitude":56.08386,
+    "geom:longitude":9.78001,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"746.0",
+    "gn:asciiname":"Siim",
+    "gn:country_code":"DK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614034,
+    "gn:latitude":56.08386,
+    "gn:longitude":9.78001,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Siim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sim",
+        "Siim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297721,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614034
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cae7ee9ef8b4d116cf2000bc14320d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297721,
+            "locality_id":1259955841,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259955841,
+    "wof:lastmodified":1537619816,
+    "wof:name":"Siim",
+    "wof:parent_id":1159297721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78001,
+    56.08386,
+    9.78001,
+    56.08386
+],
+  "geometry": {"coordinates":[9.78001,56.08386],"type":"Point"}
+}

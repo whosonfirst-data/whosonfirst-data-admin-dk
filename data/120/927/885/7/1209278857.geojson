@@ -1,0 +1,62 @@
+{
+  "id": 1209278857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69545,55.71367,8.69545,55.71367",
+    "geom:latitude":55.71367,
+    "geom:longitude":8.69545,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Hoddeskov",
+    "gn:country_code":"DK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620161,
+    "gn:latitude":55.71367,
+    "gn:longitude":8.69545,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hoddeskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620161
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c295a8795677b33951e37121b2ad98e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209278857
+        }
+    ],
+    "wof:id":1209278857,
+    "wof:lastmodified":1536292095,
+    "wof:name":"Hoddeskov",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69545,
+    55.71366999999999,
+    8.69545,
+    55.71366999999999
+],
+  "geometry": {"coordinates":[8.69545,55.71366999999999],"type":"Point"}
+}

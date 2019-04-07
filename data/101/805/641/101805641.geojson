@@ -1,0 +1,95 @@
+{
+  "id": 101805641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":1303803.230097,
+    "geom:bbox":"9.77563646602,56.2954192664,9.80148534033,56.3071035766",
+    "geom:latitude":56.301024,
+    "geom:longitude":9.788971,
+    "iso:country":"DK",
+    "lbl:latitude":56.301706,
+    "lbl:longitude":9.78897,
+    "mps:latitude":56.301706,
+    "mps:longitude":9.78897,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Thors\u00f8"
+    ],
+    "name:dut_x_preferred":[
+        "Thors\u00f8"
+    ],
+    "name:eng_x_preferred":[
+        "Thors\u00f8"
+    ],
+    "name:nld_x_preferred":[
+        "Thors\u00f8"
+    ],
+    "name:unk_x_variant":[
+        "Tors\u00f8"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Favrskov",
+    "qs:la_lc":"*DK1082710",
+    "qs:level":"locality",
+    "qs:loc":"Thors\u00f8",
+    "qs:loc_alt":"Thorso",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        1159297745,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611747,
+        "gp:id":557978,
+        "qs:id":1237362,
+        "qs_pg:id":1237362,
+        "wd:id":"Q4993429",
+        "wk:page":"Thors\u00f8, Denmark"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"62597019598f921fd4b1d10fa2b19cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297745,
+            "locality_id":101805641,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805641,
+    "wof:lastmodified":1530296394,
+    "wof:name":"Thors\u00f8",
+    "wof:parent_id":1159297745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7756364660209,
+    56.29541926642827,
+    9.80148534032747,
+    56.30710357663088
+],
+  "geometry": {"coordinates":[[[9.79175351793867,56.30710357663088],[9.79176316636239,56.3053059888104],[9.79660585819698,56.30531371436484],[9.7966294137596,56.30081974639887],[9.80147154653844,56.30082728918251],[9.80148534032747,56.2981309095897],[9.79987140801541,56.29812841572038],[9.79987604281428,56.2972296228856],[9.7982621480736,56.29722710888944],[9.79827149165124,56.29542952379728],[9.79181621365393,56.29541926642827],[9.79181139250369,56.29631805862982],[9.78696982400788,56.29631015338413],[9.78696489046791,56.29720894552548],[9.78050931921541,56.2971981222243],[9.78049915229798,56.29899570638139],[9.77888518525941,56.29899294992941],[9.778880063999,56.2998917421578],[9.77726605979439,56.29988896543904],[9.77726090086884,56.30078775774274],[9.77564685949824,56.30078496075589],[9.7756364660209,56.30258254566155],[9.7804788150948,56.30259087647704],[9.78046355924488,56.30528725560947],[9.77884933049847,56.30528449864858],[9.77884420725866,56.30618329191753],[9.78852980728061,56.30619953115132],[9.78852490814103,56.30709832499741],[9.79175351793867,56.30710357663088]]],"type":"Polygon"}
+}

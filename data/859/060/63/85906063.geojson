@@ -1,0 +1,103 @@
+{
+  "id": 85906063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":24766.985172,
+    "geom:bbox":"12.565612793,55.6810546066,12.568359375,55.6830043388",
+    "geom:latitude":55.682035,
+    "geom:longitude":12.567242,
+    "iso:country":"DK",
+    "lbl:latitude":55.682164,
+    "lbl:longitude":12.567424,
+    "mps:latitude":55.68219,
+    "mps:longitude":12.567543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "N\u00f8rre Farimagsgade"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f8rre Farimagsgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"N\u00f8rre Farimagsgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"N\u00f8rre Farimagsgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":46,
+    "qs:photo_sum":110,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":641,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229344,
+        "wd:id":"Q7923412"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0ad079ad9312658fb3b5d3f50482b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906063,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906063,
+    "wof:lastmodified":1530296562,
+    "wof:name":"N\u00f8rre Farimagsgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56561279300013,
+    55.68105460659713,
+    12.568359375,
+    55.68300433880002
+],
+  "geometry": {"coordinates":[[[12.568359375,55.68223010940007],[12.568359375,55.68184298835017],[12.568359375,55.68145586470006],[12.568359375,55.68105460659713],[12.56768069160154,55.68145586470006],[12.56767272950009,55.68145586470006],[12.5676647673987,55.68145586470006],[12.56699802961282,55.68106166920329],[12.56698608400006,55.68106873177514],[12.56697413844671,55.68107579431192],[12.56675985855219,55.68145586309602],[12.56583901862911,55.68145586245431],[12.56561279300013,55.68145586470006],[12.56561279300013,55.68223010940007],[12.56583901755334,55.68223010685035],[12.56675986052534,55.68223010828451],[12.56698608400006,55.68263136987495],[12.56698608400006,55.68300433667515],[12.5681331538683,55.68300433720638],[12.568359375,55.68300433880002],[12.568359375,55.68261722125028],[12.568359375,55.68223010940007]]],"type":"Polygon"}
+}

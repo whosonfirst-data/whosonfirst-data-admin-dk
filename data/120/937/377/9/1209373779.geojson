@@ -1,0 +1,62 @@
+{
+  "id": 1209373779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.89494,55.24445,9.89494,55.24445",
+    "geom:latitude":55.24445,
+    "geom:longitude":9.89494,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Toro Huse",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611427,
+    "gn:latitude":55.24445,
+    "gn:longitude":9.89494,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Tor\u00f8 Huse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611427
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e29fba09ec0504164ead9ee0c9d0b26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209373779
+        }
+    ],
+    "wof:id":1209373779,
+    "wof:lastmodified":1536289019,
+    "wof:name":"Toro Huse",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89494,
+    55.24445,
+    9.89494,
+    55.24445
+],
+  "geometry": {"coordinates":[9.89494,55.24445],"type":"Point"}
+}

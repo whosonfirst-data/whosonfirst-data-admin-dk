@@ -1,0 +1,75 @@
+{
+  "id": 101913119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:bbox":"12.3061552869,55.8278401385,12.3229756471,55.8396322618",
+    "geom:latitude":55.834568,
+    "geom:longitude":12.314859,
+    "iso:country":"DK",
+    "lbl:latitude":55.834751,
+    "lbl:longitude":12.314159,
+    "mps:latitude":55.834751,
+    "mps:longitude":12.314159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"2",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Aller\u00f8d",
+    "qs:la_lc":"*DK1084201",
+    "qs:level":"locality",
+    "qs:loc":"Hestetangshuse",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297849,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306572,
+        "qs:id":32956,
+        "qs_pg:id":32956
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"859fc6c5b36cc3e2b3ad93ce7191c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297849,
+            "locality_id":101913119,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101913119,
+    "wof:lastmodified":1530291783,
+    "wof:name":"Hestetangshuse",
+    "wof:parent_id":1159297849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30615528693346,
+    55.82784013847197,
+    12.32297564708904,
+    55.83963226183721
+],
+  "geometry": {"coordinates":[[[12.31460074272081,55.82792178477445],[12.30615528693346,55.83616695307336],[12.30682144229456,55.83615491851543],[12.30687399428223,55.83705310846403],[12.30846829327515,55.83702428631295],[12.3085208843828,55.83792247560388],[12.31170954835937,55.83786477009136],[12.31176221485043,55.8387629579754],[12.31335657983254,55.83873407461249],[12.31340928545302,55.83963226183721],[12.32297564708904,55.8394585391448],[12.32292272390248,55.83856035642833],[12.32132837201999,55.83858935922171],[12.32111685311304,55.8349966262457],[12.31952264406613,55.8350256061259],[12.31941697438725,55.83322923867377],[12.31782283565605,55.83325819714798],[12.31766446144627,55.83056364438983],[12.31925849144244,55.83053468816945],[12.31910003438077,55.82784013847197],[12.31460074272081,55.82792178477445]]],"type":"Polygon"}
+}

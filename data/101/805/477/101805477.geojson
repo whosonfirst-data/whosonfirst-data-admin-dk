@@ -1,0 +1,123 @@
+{
+  "id": 101805477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":915771.973016,
+    "geom:bbox":"8.98911901942,55.6885252975,9.00514674409,55.7011685622",
+    "geom:latitude":55.694423,
+    "geom:longitude":8.996725,
+    "iso:country":"DK",
+    "lbl:latitude":55.694403,
+    "lbl:longitude":8.996572,
+    "mps:latitude":55.694403,
+    "mps:longitude":8.996572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:cos_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:dan_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:dut_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:eng_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:fre_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:ger_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:ind_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:ita_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:nds_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:por_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:rum_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:spa_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:swe_x_preferred":[
+        "Hejnsvig"
+    ],
+    "name:tah_x_preferred":[
+        "Hejnsvig"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Billund",
+    "qs:la_lc":"*DK1083530",
+    "qs:level":"locality",
+    "qs:loc":"Hejnsvig",
+    "qs:loc_alt":"Hejnsvig",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297863,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620549,
+        "gp:id":553959,
+        "qs:id":502558,
+        "qs_pg:id":502558,
+        "wd:id":"Q2616567"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c8e5cc291a9a20310d45081db396cf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297863,
+            "locality_id":101805477,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805477,
+    "wof:lastmodified":1530291868,
+    "wof:name":"Hejnsvig",
+    "wof:parent_id":1159297863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98911901941682,
+    55.6885252974738,
+    9.00514674409175,
+    55.70116856216498
+],
+  "geometry": {"coordinates":[[[8.99854092415393,55.70116856216498],[8.99858633757344,55.69937134330951],[9.00176503754619,55.69939630881078],[9.00183293230606,55.69670047938109],[9.00342217562718,55.69671293140431],[9.00346736062693,55.69491571166628],[9.00505653284495,55.69492814320705],[9.00514674409175,55.69133370370548],[9.00196868867204,55.69130882335651],[9.00199131043661,55.69041021438579],[8.99881333075467,55.69038525533426],[8.99883602329959,55.68948664711297],[8.9924802191764,55.68943649226986],[8.99250305449669,55.68853788544891],[8.99091414181476,55.6885252974738],[8.99089127049302,55.68942390396967],[8.98930232275131,55.68941129583402],[8.9892794141856,55.69030990210854],[8.99086839793051,55.69032251057001],[8.99079977279649,55.69301833099843],[8.98921068102987,55.69300572155959],[8.98911901941682,55.69660014896027],[8.99070825523995,55.69661275970225],[8.99066248901181,55.69840997468356],[8.99384110756364,55.69843513794842],[8.99381829463289,55.69933374624696],[8.99540764134207,55.69934629844249],[8.99538486319807,55.70024490717037],[8.99697424687059,55.70025743984837],[8.99695150351744,55.70115604900542],[8.99854092415393,55.70116856216498]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260353463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01814,55.74101,9.01814,55.74101",
+    "geom:latitude":55.74101,
+    "geom:longitude":9.01814,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"530.0",
+    "gn:asciiname":"Lovlund",
+    "gn:country_code":"DK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617410,
+    "gn:latitude":55.74101,
+    "gn:longitude":9.01814,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"L\u00f8vlund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297863,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617410
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c70411c52123d78fd2958eb6bfb1c2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297863,
+            "locality_id":1260353463,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1260353463,
+    "wof:lastmodified":1536615973,
+    "wof:name":"Lovlund",
+    "wof:parent_id":1159297863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01814,
+    55.74101,
+    9.01814,
+    55.74101
+],
+  "geometry": {"coordinates":[9.01814,55.74101],"type":"Point"}
+}

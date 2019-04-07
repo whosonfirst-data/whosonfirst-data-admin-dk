@@ -1,0 +1,100 @@
+{
+  "id": 101911241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:bbox":"8.2056740429,55.5477313807,8.22577385673,55.5623947728",
+    "geom:latitude":55.556021,
+    "geom:longitude":8.215315,
+    "iso:country":"DK",
+    "lbl:latitude":55.556407,
+    "lbl:longitude":8.214325,
+    "mps:latitude":55.556407,
+    "mps:longitude":8.214325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Thomasine Gyllembourg"
+    ],
+    "name:deu_x_preferred":[
+        "Thomasine Gyllembourg-Ehrensv\u00e4rd"
+    ],
+    "name:fra_x_preferred":[
+        "Thomasine Gyllembourg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d5\u05de\u05e1\u05d9\u05e0\u05d4 \u05db\u05e8\u05d9\u05e1\u05d8\u05d9\u05e0\u05d4 \u05d2\u05d9\u05dc\u05de\u05d1\u05d5\u05e8\u05d2-\u05d0\u05d4\u05e8\u05e0\u05e1\u05d5\u05d5\u05e8\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Thomasine Gyllembourg"
+    ],
+    "name:nor_x_preferred":[
+        "Thomasine Gyllembourg"
+    ],
+    "name:spa_x_preferred":[
+        "Thomasine Christine Gyllembourg-Ehrensv\u00e4rd"
+    ],
+    "name:swe_x_preferred":[
+        "Thomasine Gyllembourg"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"7",
+    "qs:adm0":"Danmark",
+    "qs:id":0,
+    "qs:la":"Varde",
+    "qs:la_lc":"*DK1083573",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rballe",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616410,
+        "gp:id":555787,
+        "qs:id":977242,
+        "qs_pg:id":977242
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5e79ea734f8845de5a43cad6d29a877c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":101911241,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101911241,
+    "wof:lastmodified":1530292527,
+    "wof:name":"N\u00f8rballe",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.20567404290301,
+    55.54773138071477,
+    8.22577385672599,
+    55.56239477275335
+],
+  "geometry": {"coordinates":[[[8.22419034019811,55.56057587029125],[8.22431052811675,55.55788074248716],[8.22272712029536,55.55785857541326],[8.22276721428875,55.55696020021804],[8.22118384379479,55.55693801396149],[8.22122397130357,55.55603963942139],[8.21805730661686,55.55599520879298],[8.21821808038413,55.55240171604623],[8.21663489321861,55.55237947339157],[8.21671533841362,55.55058272866739],[8.21354911171397,55.55053818639846],[8.21358940238736,55.54963981530773],[8.20884018173075,55.5495728555091],[8.20892097053468,55.5477761170219],[8.20575497436403,55.54773138071477],[8.20567404290301,55.54952811690197],[8.20725711148822,55.54955049607963],[8.20717624261772,55.55134723375272],[8.20875938419641,55.5513695943319],[8.20867857793002,55.55316633349059],[8.21026179250919,55.55318867546936],[8.20989837736215,55.56127401102316],[8.21148191474214,55.561296338418],[8.21152226724161,55.56039796688901],[8.21943980047774,55.56050930467478],[8.2193594502171,55.56230605354426],[8.22569379200542,55.56239477275335],[8.22577385672599,55.56059801932054],[8.22419034019811,55.56057587029125]]],"type":"Polygon"}
+}

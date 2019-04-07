@@ -1,0 +1,68 @@
+{
+  "id": 1310071091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70293,57.30456,9.70293,57.30456",
+    "geom:latitude":57.30456,
+    "geom:longitude":9.70293,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Brodslev",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623345,
+    "gn:latitude":57.30456,
+    "gn:longitude":9.70293,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Br\u00f8dslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623345
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ee1fbd5af129eff63308d5ec2d712249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1310071091,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1310071091,
+    "wof:lastmodified":1537044425,
+    "wof:name":"Brodslev",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70293,
+    57.30456,
+    9.70293,
+    57.30456
+],
+  "geometry": {"coordinates":[9.70293,57.30456],"type":"Point"}
+}

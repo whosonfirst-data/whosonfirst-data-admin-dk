@@ -1,0 +1,72 @@
+{
+  "id": 1259844321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9431,55.29818,11.9431,55.29818",
+    "geom:latitude":55.29818,
+    "geom:longitude":11.9431,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Braby",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623584,
+    "gn:latitude":55.29818,
+    "gn:longitude":11.9431,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Br\u00e5by",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d8ster Broby",
+        "Br\u00e5by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297811,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623584
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f3304b38c6e5e7a82c7c5b8dc889c78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297811,
+            "locality_id":1259844321,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259844321,
+    "wof:lastmodified":1537619886,
+    "wof:name":"Braby",
+    "wof:parent_id":1159297811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9431,
+    55.29818,
+    11.9431,
+    55.29818
+],
+  "geometry": {"coordinates":[11.9431,55.29818],"type":"Point"}
+}

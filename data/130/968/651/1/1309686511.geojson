@@ -1,0 +1,74 @@
+{
+  "id": 1309686511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25826,55.38055,12.25826,55.38055",
+    "geom:latitude":55.38055,
+    "geom:longitude":12.25826,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"336.0",
+    "gn:asciiname":"Store Tarnby",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612343,
+    "gn:latitude":55.38055,
+    "gn:longitude":12.25826,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Store T\u00e5rnby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Store Taarnby",
+        "Taarnby",
+        "Tornby",
+        "Store T\u00e5rnby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297719,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612343
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"add881fd521b5cf18519656d41ab8138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297719,
+            "locality_id":1309686511,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1309686511,
+    "wof:lastmodified":1537619802,
+    "wof:name":"Store Tarnby",
+    "wof:parent_id":1159297719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25826,
+    55.38055,
+    12.25826,
+    55.38055
+],
+  "geometry": {"coordinates":[12.25826,55.38055],"type":"Point"}
+}

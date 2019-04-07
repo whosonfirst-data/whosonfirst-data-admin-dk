@@ -1,0 +1,76 @@
+{
+  "id": 1259449255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.48333,55.85,9.48333,55.85",
+    "geom:latitude":55.85,
+    "geom:longitude":9.48333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Torring",
+    "gn:country_code":"DK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611486,
+    "gn:latitude":55.85,
+    "gn:longitude":9.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u00f8rring",
+    "gn:population":2370,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nye T\u00f6rring",
+        "T\u00f8rring Stationsby",
+        "T\u00f8rring"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611486
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bcb90cfe80edc790f5bf9b30575e780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":1259449255,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259449255,
+    "wof:lastmodified":1537619797,
+    "wof:name":"Torring",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:population":2370,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.48333,
+    55.85,
+    9.48333,
+    55.85
+],
+  "geometry": {"coordinates":[9.48333,55.85],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327005867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.78764,56.14934,9.78764,56.14934",
+    "geom:latitude":56.14934,
+    "geom:longitude":9.78764,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"746.0",
+    "gn:asciiname":"Flensted",
+    "gn:country_code":"DK",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622092,
+    "gn:latitude":56.14934,
+    "gn:longitude":9.78764,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Flensted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297721,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622092
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2b154f07de1b42649e4af0a0b7a35012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297721,
+            "locality_id":1327005867,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1327005867,
+    "wof:lastmodified":1536798928,
+    "wof:name":"Flensted",
+    "wof:parent_id":1159297721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.78764,
+    56.14934,
+    9.78764,
+    56.14934
+],
+  "geometry": {"coordinates":[9.78764,56.14934],"type":"Point"}
+}

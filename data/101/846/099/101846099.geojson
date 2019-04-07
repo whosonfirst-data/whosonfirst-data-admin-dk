@@ -1,0 +1,73 @@
+{
+  "id": 101846099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:bbox":"9.57296298151,55.7816878137,9.58419237291,55.7978855768",
+    "geom:latitude":55.791727,
+    "geom:longitude":9.577841,
+    "iso:country":"DK",
+    "lbl:latitude":55.793446,
+    "lbl:longitude":9.577948,
+    "mps:latitude":55.793446,
+    "mps:longitude":9.577948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Hedensted",
+    "qs:la_lc":"*DK1082766",
+    "qs:level":"locality",
+    "qs:loc":"Lindved",
+    "qs:loc_alt":"Lindved",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617554,
+        "gp:id":555286,
+        "qs:id":9
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0561d16691ba4ca098395c7dce5c76cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":101846099,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101846099,
+    "wof:lastmodified":1530291414,
+    "wof:name":"Lindved",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.57296298151431,
+    55.78168781369266,
+    9.58419237290548,
+    55.79788557682042
+],
+  "geometry": {"coordinates":[[[9.58092038081185,55.79788557682042],[9.5809299157234,55.7969868715424],[9.58411669217537,55.79699729968854],[9.58413561544683,55.79519988893941],[9.58254229952195,55.79519468508641],[9.58258028485756,55.79159986551605],[9.58417345581125,55.79160506882954],[9.58419237290548,55.78980765946795],[9.58100617633687,55.78979723348431],[9.58101570657959,55.78889852924709],[9.57942264511922,55.78889328654674],[9.57944177651081,55.78709587868968],[9.57784878790687,55.7870906163667],[9.57789678839879,55.78259709942114],[9.57630398131096,55.78259181788786],[9.57631361606047,55.78169311498056],[9.57472084558856,55.78168781369266],[9.57462411223264,55.79067484656895],[9.57303097989262,55.79066952401001],[9.57296298151431,55.79696045292133],[9.57455636755947,55.7969657764462],[9.57454668764217,55.79786448117727],[9.58092038081185,55.79788557682042]]],"type":"Polygon"}
+}

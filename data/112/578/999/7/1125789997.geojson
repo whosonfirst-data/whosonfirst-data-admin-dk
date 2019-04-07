@@ -1,0 +1,82 @@
+{
+  "id": 1125789997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.152198,55.9478295,8.152198,55.9478295",
+    "geom:latitude":55.947829,
+    "geom:longitude":8.152198,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":55.947829,
+    "lbl:longitude":8.152198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"N\u00f8rre Havrvig",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":470678,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555857,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":555857,
+        "qs_pg:id":470678
+    },
+    "wof:country":"DK",
+    "wof:created":1497290831,
+    "wof:geomhash":"b717e54b6923c2ec0af2e09a905c343c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1125789997,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125789997,
+    "wof:lastmodified":1530291954,
+    "wof:name":"N\u00f8rre Havrvig",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.152198,
+    55.9478295,
+    8.152198,
+    55.9478295
+],
+  "geometry": {"coordinates":[8.152198,55.9478295],"type":"Point"}
+}

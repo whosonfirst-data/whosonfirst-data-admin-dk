@@ -1,0 +1,68 @@
+{
+  "id": 1242742769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.17215,55.54456,11.17215,55.54456",
+    "geom:latitude":55.54456,
+    "geom:longitude":11.17215,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"326.0",
+    "gn:asciiname":"Ornum",
+    "gn:country_code":"DK",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615374,
+    "gn:latitude":55.54456,
+    "gn:longitude":11.17215,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ornum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615374
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"160e1664f7083934e78995af6a80a3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":1242742769,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1242742769,
+    "wof:lastmodified":1536825011,
+    "wof:name":"Ornum",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.17215,
+    55.54456,
+    11.17215,
+    55.54456
+],
+  "geometry": {"coordinates":[11.17215,55.54456],"type":"Point"}
+}

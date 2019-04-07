@@ -1,0 +1,72 @@
+{
+  "id": 1344218833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90632,55.48851,11.90632,55.48851",
+    "geom:latitude":55.48851,
+    "geom:longitude":11.90632,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"329.0",
+    "gn:asciiname":"Agerup",
+    "gn:country_code":"DK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624962,
+    "gn:latitude":55.48851,
+    "gn:longitude":11.90632,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00c5gerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aagerup",
+        "\u00c5gerup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297777,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624962
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ef0cbf0e2084a1d606686ed3f84197ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297777,
+            "locality_id":1344218833,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1344218833,
+    "wof:lastmodified":1537619899,
+    "wof:name":"Agerup",
+    "wof:parent_id":1159297777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90632,
+    55.48851,
+    11.90632,
+    55.48851
+],
+  "geometry": {"coordinates":[11.90632,55.48851],"type":"Point"}
+}

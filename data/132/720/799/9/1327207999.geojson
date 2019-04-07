@@ -1,0 +1,72 @@
+{
+  "id": 1327207999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68822,54.84512,10.68822,54.84512",
+    "geom:latitude":54.84512,
+    "geom:longitude":10.68822,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"482.0",
+    "gn:asciiname":"Kaedeby",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618988,
+    "gn:latitude":54.84512,
+    "gn:longitude":10.68822,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00e6deby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ki\u00e6deby",
+        "K\u00e6deby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618988
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"da4f0c8d478acdcfdb6db98c339e9f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":1327207999,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327207999,
+    "wof:lastmodified":1537619854,
+    "wof:name":"Kaedeby",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68822,
+    54.84512,
+    10.68822,
+    54.84512
+],
+  "geometry": {"coordinates":[10.68822,54.84512],"type":"Point"}
+}

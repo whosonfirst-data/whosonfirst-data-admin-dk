@@ -1,0 +1,72 @@
+{
+  "id": 1310677099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14214,55.80932,12.14214,55.80932",
+    "geom:latitude":55.80932,
+    "geom:longitude":12.14214,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"240.0",
+    "gn:asciiname":"Skenkelso",
+    "gn:country_code":"DK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613777,
+    "gn:latitude":55.80932,
+    "gn:longitude":12.14214,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skenkels\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sk\u00e6nkels\u00f6",
+        "Skenkels\u00f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297851,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613777
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"edc947b5eaaea3bf88910ba96f100ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297851,
+            "locality_id":1310677099,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1310677099,
+    "wof:lastmodified":1537619813,
+    "wof:name":"Skenkelso",
+    "wof:parent_id":1159297851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14214,
+    55.80931999999999,
+    12.14214,
+    55.80931999999999
+],
+  "geometry": {"coordinates":[12.14214,55.80931999999999],"type":"Point"}
+}

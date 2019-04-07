@@ -1,0 +1,68 @@
+{
+  "id": 1226108625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.87343,56.53569,8.87343,56.53569",
+    "geom:latitude":56.53569,
+    "geom:longitude":8.87343,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Gammel Ronbjerg",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621643,
+    "gn:latitude":56.53569,
+    "gn:longitude":8.87343,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Gammel R\u00f8nbjerg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297899,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621643
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9af05cd3e5a33bbbe3cd207283babe7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297899,
+            "locality_id":1226108625,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226108625,
+    "wof:lastmodified":1536633063,
+    "wof:name":"Gammel Ronbjerg",
+    "wof:parent_id":1159297899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.87343,
+    56.53569,
+    8.87343,
+    56.53569
+],
+  "geometry": {"coordinates":[8.87343,56.53569],"type":"Point"}
+}

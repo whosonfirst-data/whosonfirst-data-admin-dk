@@ -1,0 +1,72 @@
+{
+  "id": 1309881703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91935,56.40828,8.91935,56.40828",
+    "geom:latitude":56.40828,
+    "geom:longitude":8.91935,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Herrup",
+    "gn:country_code":"DK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620413,
+    "gn:latitude":56.40828,
+    "gn:longitude":8.91935,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Herrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Herup",
+        "Herrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620413
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0e66976c4dba8596268a72c8dd3b699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1309881703,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1309881703,
+    "wof:lastmodified":1537619864,
+    "wof:name":"Herrup",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91935,
+    56.40828000000001,
+    8.91935,
+    56.40828000000001
+],
+  "geometry": {"coordinates":[8.91935,56.40828000000001],"type":"Point"}
+}

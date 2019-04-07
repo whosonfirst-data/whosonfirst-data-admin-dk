@@ -1,0 +1,68 @@
+{
+  "id": 1293164095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.99002,55.89485,9.99002,55.89485",
+    "geom:latitude":55.89485,
+    "geom:longitude":9.99002,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"Toftum",
+    "gn:country_code":"DK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611559,
+    "gn:latitude":55.89485,
+    "gn:longitude":9.99002,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Toftum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297859,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611559
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"296d5c0293be58af2bad90ddf16b3b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297859,
+            "locality_id":1293164095,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293164095,
+    "wof:lastmodified":1536756546,
+    "wof:name":"Toftum",
+    "wof:parent_id":1159297859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.99002,
+    55.89485,
+    9.99002,
+    55.89485
+],
+  "geometry": {"coordinates":[9.99002,55.89485],"type":"Point"}
+}

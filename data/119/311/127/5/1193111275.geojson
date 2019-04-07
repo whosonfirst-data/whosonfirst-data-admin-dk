@@ -1,0 +1,68 @@
+{
+  "id": 1193111275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97987,55.38551,8.97987,55.38551",
+    "geom:latitude":55.38551,
+    "geom:longitude":8.97987,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Tornum",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611431,
+    "gn:latitude":55.38551,
+    "gn:longitude":8.97987,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Tornum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611431
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f361828490dba5cb213bfa9b69f64643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1193111275,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1193111275,
+    "wof:lastmodified":1536373003,
+    "wof:name":"Tornum",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97987,
+    55.38551,
+    8.97987,
+    55.38551
+],
+  "geometry": {"coordinates":[8.97987,55.38551],"type":"Point"}
+}

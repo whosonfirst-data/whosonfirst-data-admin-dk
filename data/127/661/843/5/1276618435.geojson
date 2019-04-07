@@ -1,0 +1,68 @@
+{
+  "id": 1276618435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91796,55.41518,9.91796,55.41518",
+    "geom:latitude":55.41518,
+    "geom:longitude":9.91796,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"410.0",
+    "gn:asciiname":"Elleso",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622592,
+    "gn:latitude":55.41518,
+    "gn:longitude":9.91796,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Elles\u00f8",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297791,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622592
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6e17290d0add9baba284d3bebd7591c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297791,
+            "locality_id":1276618435,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276618435,
+    "wof:lastmodified":1536893866,
+    "wof:name":"Elleso",
+    "wof:parent_id":1159297791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91796,
+    55.41518000000001,
+    9.91796,
+    55.41518000000001
+],
+  "geometry": {"coordinates":[9.91796,55.41518000000001],"type":"Point"}
+}

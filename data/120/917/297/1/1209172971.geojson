@@ -1,0 +1,62 @@
+{
+  "id": 1209172971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60651,55.4909,9.60651,55.4909",
+    "geom:latitude":55.4909,
+    "geom:longitude":9.60651,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"621.0",
+    "gn:asciiname":"Skarre",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613858,
+    "gn:latitude":55.4909,
+    "gn:longitude":9.60651,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skarre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613858
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"900bd69aef24ad74facef98dc267445b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209172971
+        }
+    ],
+    "wof:id":1209172971,
+    "wof:lastmodified":1536295518,
+    "wof:name":"Skarre",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60651,
+    55.4909,
+    9.60651,
+    55.4909
+],
+  "geometry": {"coordinates":[9.60651,55.4909],"type":"Point"}
+}

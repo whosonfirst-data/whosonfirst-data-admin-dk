@@ -1,0 +1,129 @@
+{
+  "id": 1125916709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08993,54.99654,12.08993,54.99654",
+    "geom:latitude":54.99654,
+    "geom:longitude":12.08993,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.99654,
+    "lbl:longitude":12.08993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:dut_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:eng_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:fao_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:fre_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:ger_x_preferred":[
+        "Langeb\u00e6k Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:nld_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:nob_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:nor_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Langeb\u00e6k"
+    ],
+    "name:por_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Langeb\u00e6k"
+    ],
+    "name:swe_x_preferred":[
+        "Langeb\u00e6k"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2617961,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Langeb\u00e6k",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982984,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":555115,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617961,
+        "gp:id":555115,
+        "qs_pg:id":982984,
+        "wd:id":"Q953731"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296343,
+    "wof:geomhash":"d8bbff74efe9bd64e20d28bbc4459efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1125916709,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125916709,
+    "wof:lastmodified":1530292346,
+    "wof:name":"Langeb\u00e6k",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08993,
+    54.99654,
+    12.08993,
+    54.99654
+],
+  "geometry": {"coordinates":[12.08993,54.99654],"type":"Point"}
+}

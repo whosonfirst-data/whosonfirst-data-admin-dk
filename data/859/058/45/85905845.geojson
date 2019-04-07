@@ -1,0 +1,109 @@
+{
+  "id": 85905845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":21020.499693,
+    "geom:bbox":"12.5927392845,55.6833879064,12.5951385498,55.685326933",
+    "geom:latitude":55.684444,
+    "geom:longitude":12.593845,
+    "iso:country":"DK",
+    "lbl:latitude":55.684096,
+    "lbl:longitude":12.59356,
+    "mps:latitude":55.684525,
+    "mps:longitude":12.593748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Bredgade"
+    ],
+    "name:eng_x_variant":[
+        "Bredgade"
+    ],
+    "name:nor_x_preferred":[
+        "Bredgade"
+    ],
+    "name:unk_x_variant":[
+        "Bredgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Bredgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Bredgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":276,
+    "qs:photo_sum":1048,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":426,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229105,
+        "wd:id":"Q3432537"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2904d94fe8dfe145f0defab07eb9684a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905845,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905845,
+    "wof:lastmodified":1530296521,
+    "wof:name":"Bredgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59273928445754,
+    55.68338790644212,
+    12.59513854980014,
+    55.68532693297506
+],
+  "geometry": {"coordinates":[[[12.59445190430029,55.6849540244652],[12.59513055201245,55.68455275170005],[12.59513854980014,55.68455275170005],[12.59513854980014,55.68454802274515],[12.59513854980014,55.68416565360631],[12.59445190430029,55.68416565360631],[12.59445190430023,55.6839791874349],[12.59445190430023,55.68377855290005],[12.59445190430023,55.68358500067505],[12.59410858151267,55.68358500068759],[12.59402774057634,55.68344160521876],[12.59388635556002,55.68339144779999],[12.5938763730897,55.68338790644212],[12.59387437660558,55.68339144779999],[12.59376525878554,55.68358500066883],[12.59342193601577,55.68358500065951],[12.59342193601577,55.68377855274393],[12.59307861330001,55.68377855241512],[12.59273928445754,55.68377855159854],[12.59280475436981,55.68397210377513],[12.59286353666511,55.68449345934415],[12.59285239522569,55.68455274785008],[12.59307861330001,55.6849540244652],[12.59307861330001,55.68532693297506],[12.59445190430012,55.68532693297506],[12.59445190430029,55.6849540244652]]],"type":"Polygon"}
+}

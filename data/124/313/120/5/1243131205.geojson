@@ -1,0 +1,68 @@
+{
+  "id": 1243131205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.94168,54.97397,9.94168,54.97397",
+    "geom:latitude":54.97397,
+    "geom:longitude":9.94168,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"540.0",
+    "gn:asciiname":"Almsted",
+    "gn:country_code":"DK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624802,
+    "gn:latitude":54.97397,
+    "gn:longitude":9.94168,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Almsted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624802
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5c2d7d1a0b11816df1d9ac131b3405d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":1243131205,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243131205,
+    "wof:lastmodified":1536763507,
+    "wof:name":"Almsted",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.94168,
+    54.97397,
+    9.94168,
+    54.97397
+],
+  "geometry": {"coordinates":[9.94168,54.97397],"type":"Point"}
+}

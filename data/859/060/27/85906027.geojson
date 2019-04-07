@@ -1,0 +1,109 @@
+{
+  "id": 85906027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16186.353304,
+    "geom:bbox":"12.571105957,55.6789324158,12.5732507301,55.6809242126",
+    "geom:latitude":55.679887,
+    "geom:longitude":12.57212,
+    "iso:country":"DK",
+    "lbl:latitude":55.679695,
+    "lbl:longitude":12.57215,
+    "mps:latitude":55.679812,
+    "mps:longitude":12.572192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:eng_x_variant":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:nor_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:unk_x_variant":[
+        "Larslejsstr\u00e6de"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Larslejsstr\u00e6de",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Larslejsstr\u00e6de",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":100,
+    "qs:photo_sum":557,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":350,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229302,
+        "wd:id":"Q11983371"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"763e7d59349f20bde0a4fe33932581da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906027,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906027,
+    "wof:lastmodified":1530296556,
+    "wof:name":"Larslejsstr\u00e6de",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57110595700016,
+    55.67893241579468,
+    12.57325073006268,
+    55.68092421262206
+],
+  "geometry": {"coordinates":[[[12.5722569996305,55.68087517085017],[12.57236613343935,55.68068160459994],[12.57247924800009,55.68068160459994],[12.57247924801482,55.68048097781686],[12.57247924801578,55.68029446820641],[12.57305277885371,55.68029446840431],[12.57316589360011,55.68029446880008],[12.57316589356935,55.67990732913789],[12.57325073006268,55.6797568604966],[12.57324262933423,55.67971375775018],[12.57316589360011,55.67971375784741],[12.57282257080021,55.67971375784386],[12.57282257080016,55.67952253534658],[12.57282257080004,55.67952018580006],[12.57281859661765,55.67952018580006],[12.57256408492344,55.6793697178591],[12.57255598360115,55.67932661237522],[12.57259236423363,55.67913303786698],[12.57247924802522,55.67893241579468],[12.57213989782599,55.67913303850007],[12.57213592530013,55.67913303850007],[12.57213195272328,55.67913303850007],[12.57179260250012,55.67893241583918],[12.57167948631673,55.67913303755033],[12.57171586694926,55.67932661237522],[12.57167948673123,55.67952018539397],[12.57110595700016,55.67952018519084],[12.57110595700016,55.67990732856678],[12.57110595700016,55.68029446827241],[12.57179260250012,55.68029446820641],[12.57179260250007,55.68067689529552],[12.57179260250007,55.68068160459994],[12.5718005678433,55.68068160459994],[12.57221091635898,55.68092421262206],[12.5722569996305,55.68087517085017]]],"type":"Polygon"}
+}

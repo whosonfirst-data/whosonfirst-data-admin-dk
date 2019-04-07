@@ -1,0 +1,112 @@
+{
+  "id": 85906067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":38447.789577,
+    "geom:bbox":"12.569732666,55.6802944682,12.5731658936,55.6826172213",
+    "geom:latitude":55.681407,
+    "geom:longitude":12.571265,
+    "iso:country":"DK",
+    "lbl:latitude":55.681344,
+    "lbl:longitude":12.571504,
+    "mps:latitude":55.681416,
+    "mps:longitude":12.571265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "N\u00f8rre Voldgade"
+    ],
+    "name:eng_x_variant":[
+        "N\u00f8rre Voldgade"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00f8rre Voldgade"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rre Voldgade"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f8rre Voldgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"N\u00f8rre Voldgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"N\u00f8rre Voldgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":77,
+    "qs:photo_sum":246,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":554,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229346,
+        "wd:id":"Q3380264"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d5731f7106d71d126c539b7223d7029d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906067,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906067,
+    "wof:lastmodified":1530296563,
+    "wof:name":"N\u00f8rre Voldgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56973266600011,
+    55.68029446820641,
+    12.57316589360011,
+    55.68261722125028
+],
+  "geometry": {"coordinates":[[[12.57112988711003,55.68261722125028],[12.5717846241904,55.68223010940007],[12.57179260250007,55.68223010940007],[12.57180058081008,55.68223010940007],[12.57230958020443,55.68253105416623],[12.57247924789027,55.68223010918733],[12.57264891620667,55.68192916209442],[12.57263272149657,55.6818429880252],[12.57264891747064,55.68175680636215],[12.57315792169572,55.68145586470006],[12.57316589360011,55.68145586470006],[12.57316589358561,55.6814511514374],[12.57316589358555,55.68126936398208],[12.57316589360011,55.6810687366001],[12.57282655391879,55.6810687366001],[12.57282257080021,55.68106638166553],[12.5728185876817,55.6810687366001],[12.57247924800009,55.6810687366001],[12.57247924800009,55.68068160459994],[12.57236613343935,55.68068160459994],[12.5718005678433,55.68068160459994],[12.57179260250007,55.68067689529552],[12.57179260250012,55.68029446820641],[12.57110595700016,55.68029446827241],[12.57041931150013,55.68029446820641],[12.57041931150013,55.68067689529552],[12.57041134615719,55.68068160459994],[12.56973266600011,55.68068160459994],[12.56973266600011,55.68106873177506],[12.56973266600011,55.68145586470006],[12.56973266600011,55.68223010940007],[12.56995889055332,55.68223010685035],[12.57087973352509,55.68223010828451],[12.57109399191575,55.68261014688572],[12.57110595700021,55.68261722125028],[12.57112988711003,55.68261722125028]]],"type":"Polygon"}
+}

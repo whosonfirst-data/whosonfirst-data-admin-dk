@@ -1,0 +1,209 @@
+{
+  "id": 1125767009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54601,55.74903,12.54601,55.74903",
+    "geom:latitude":55.74903,
+    "geom:longitude":12.54601,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.74903,
+    "lbl:longitude":12.54601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u043d\u0442\u043e\u0444\u0442\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Municipi de Gentofte"
+    ],
+    "name:chi_x_preferred":[
+        "\u6839\u63aa\u592b\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "Gentofte"
+    ],
+    "name:dan_x_preferred":[
+        "Gentofte"
+    ],
+    "name:deu_x_preferred":[
+        "Gentofte Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "Gentofte"
+    ],
+    "name:eng_x_preferred":[
+        "Gentofte Municipality"
+    ],
+    "name:est_x_preferred":[
+        "Gentofte vald"
+    ],
+    "name:fao_x_preferred":[
+        "Gentofte"
+    ],
+    "name:fin_x_preferred":[
+        "Gentoften kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Gentofte"
+    ],
+    "name:fre_x_preferred":[
+        "Gentofte"
+    ],
+    "name:frr_x_preferred":[
+        "Gentofte Komuun"
+    ],
+    "name:ger_x_preferred":[
+        "Gentofte"
+    ],
+    "name:hsb_x_preferred":[
+        "Gentofte"
+    ],
+    "name:hun_x_preferred":[
+        "Gentofte k\u00f6zs\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u0576\u057f\u0578\u0586\u057f\u0565"
+    ],
+    "name:ice_x_preferred":[
+        "Gentofte"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Gentofte"
+    ],
+    "name:ita_x_preferred":[
+        "Gentofte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30f3\u30c8\u30d5\u30c6"
+    ],
+    "name:kal_x_preferred":[
+        "Gentofte"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10dc\u10e2\u10dd\u10e4\u10e2\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Gentoft\u0117"
+    ],
+    "name:nan_x_preferred":[
+        "Gentofte Ch\u016b-t\u012b-chh\u012b"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Gentofte"
+    ],
+    "name:nld_x_preferred":[
+        "Gentofte"
+    ],
+    "name:nno_x_preferred":[
+        "Gentofte kommune"
+    ],
+    "name:nob_x_preferred":[
+        "Gentofte"
+    ],
+    "name:nor_x_preferred":[
+        "Gentofte kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Gentofte"
+    ],
+    "name:por_x_preferred":[
+        "Gentofte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0442\u043e\u0444\u0442\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Gentofte"
+    ],
+    "name:stq_x_preferred":[
+        "Gentofte Kommune"
+    ],
+    "name:swe_x_preferred":[
+        "Gentofte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0442\u043e\u0444\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Gjentofte"
+    ],
+    "name:zho_x_preferred":[
+        "\u6839\u63aa\u592b\u7279\u81ea\u6cbb\u5e02"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2621515,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gentofte",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":620,
+    "qs_pg:photos_1k":126,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":620,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":425850,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":553494,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297927,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621515,
+        "gp:id":553494,
+        "qs_pg:id":425850,
+        "wd:id":"Q3255441"
+    },
+    "wof:country":"DK",
+    "wof:created":1497289933,
+    "wof:geomhash":"a8e091753225dcb061c3857446e58803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297927,
+            "locality_id":1125767009,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125767009,
+    "wof:lastmodified":1530292547,
+    "wof:name":"Gentofte",
+    "wof:parent_id":1159297927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54601,
+    55.74903,
+    12.54601,
+    55.74903
+],
+  "geometry": {"coordinates":[12.54601,55.74903],"type":"Point"}
+}

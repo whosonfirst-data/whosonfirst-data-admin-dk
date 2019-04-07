@@ -1,0 +1,68 @@
+{
+  "id": 1309981921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6312,55.9169,9.6312,55.9169",
+    "geom:latitude":55.9169,
+    "geom:longitude":9.6312,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Kodallund",
+    "gn:country_code":"DK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618560,
+    "gn:latitude":55.9169,
+    "gn:longitude":9.6312,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Kodallund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297807,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618560
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e714e4a353b260823849ef5f37549979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297807,
+            "locality_id":1309981921,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1309981921,
+    "wof:lastmodified":1536677347,
+    "wof:name":"Kodallund",
+    "wof:parent_id":1159297807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6312,
+    55.9169,
+    9.6312,
+    55.9169
+],
+  "geometry": {"coordinates":[9.6312,55.9169],"type":"Point"}
+}

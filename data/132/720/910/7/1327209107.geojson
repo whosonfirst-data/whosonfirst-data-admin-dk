@@ -1,0 +1,68 @@
+{
+  "id": 1327209107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.11354,57.10557,10.11354,57.10557",
+    "geom:latitude":57.10557,
+    "geom:longitude":10.11354,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"851.0",
+    "gn:asciiname":"Tranholm",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2611297,
+    "gn:latitude":57.10557,
+    "gn:longitude":10.11354,
+    "gn:modification_date":"2017-11-14",
+    "gn:name":"Tranholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611297
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0414bf41d21b56adca849845384596c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":1327209107,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1327209107,
+    "wof:lastmodified":1537002551,
+    "wof:name":"Tranholm",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.11354,
+    57.10556999999999,
+    10.11354,
+    57.10556999999999
+],
+  "geometry": {"coordinates":[10.11354,57.10556999999999],"type":"Point"}
+}

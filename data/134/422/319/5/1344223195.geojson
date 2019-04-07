@@ -1,0 +1,68 @@
+{
+  "id": 1344223195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10727,56.59819,10.10727,56.59819",
+    "geom:latitude":56.59819,
+    "geom:longitude":10.10727,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"730.0",
+    "gn:asciiname":"Blenstrup",
+    "gn:country_code":"DK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623918,
+    "gn:latitude":56.59819,
+    "gn:longitude":10.10727,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Blenstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623918
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"783f33fc99ea47c11771f101f3df02b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":1344223195,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1344223195,
+    "wof:lastmodified":1536639933,
+    "wof:name":"Blenstrup",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10727,
+    56.59819,
+    10.10727,
+    56.59819
+],
+  "geometry": {"coordinates":[10.10727,56.59819],"type":"Point"}
+}

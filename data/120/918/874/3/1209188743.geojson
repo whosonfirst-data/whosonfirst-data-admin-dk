@@ -1,0 +1,62 @@
+{
+  "id": 1209188743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0388,54.85382,12.0388,54.85382",
+    "geom:latitude":54.85382,
+    "geom:longitude":12.0388,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Stangerup",
+    "gn:country_code":"DK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612744,
+    "gn:latitude":54.85382,
+    "gn:longitude":12.0388,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Stangerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612744
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7602eb8117d2473c4e9f7927fe1c933e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209188743
+        }
+    ],
+    "wof:id":1209188743,
+    "wof:lastmodified":1536295009,
+    "wof:name":"Stangerup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0388,
+    54.85381999999999,
+    12.0388,
+    54.85381999999999
+],
+  "geometry": {"coordinates":[12.0388,54.85381999999999],"type":"Point"}
+}

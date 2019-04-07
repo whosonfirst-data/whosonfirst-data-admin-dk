@@ -1,0 +1,104 @@
+{
+  "id": 1125945631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69424,56.30286,10.69424,56.30286",
+    "geom:latitude":56.30286,
+    "geom:longitude":10.69424,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.30286,
+    "lbl:longitude":10.69424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0440\u0441\u0442\u0440\u0443\u043f"
+    ],
+    "name:dan_x_preferred":[
+        "Tirstrup"
+    ],
+    "name:dut_x_preferred":[
+        "Tirstrup"
+    ],
+    "name:eng_x_preferred":[
+        "Tirstrup"
+    ],
+    "name:swe_x_preferred":[
+        "Tirstrup"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2611664,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tirstrup",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218580,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":558010,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611664,
+        "gp:id":558010,
+        "qs_pg:id":218580,
+        "wd:id":"Q2501952"
+    },
+    "wof:country":"DK",
+    "wof:created":1497297269,
+    "wof:geomhash":"b98d024fac15767d896078e5c5399add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":1125945631,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125945631,
+    "wof:lastmodified":1530291434,
+    "wof:name":"Tirstrup",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69424,
+    56.30286,
+    10.69424,
+    56.30286
+],
+  "geometry": {"coordinates":[10.69424,56.30286],"type":"Point"}
+}

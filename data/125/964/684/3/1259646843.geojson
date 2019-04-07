@@ -1,0 +1,68 @@
+{
+  "id": 1259646843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82562,56.02454,8.82562,56.02454",
+    "geom:latitude":56.02454,
+    "geom:longitude":8.82562,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"657.0",
+    "gn:asciiname":"Olling",
+    "gn:country_code":"DK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2615832,
+    "gn:latitude":56.02454,
+    "gn:longitude":8.82562,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Olling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615832
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d993348ecd5b53efae6a32a173f708d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1259646843,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1259646843,
+    "wof:lastmodified":1536621469,
+    "wof:name":"Olling",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82562,
+    56.02454,
+    8.82562,
+    56.02454
+],
+  "geometry": {"coordinates":[8.82562,56.02454],"type":"Point"}
+}

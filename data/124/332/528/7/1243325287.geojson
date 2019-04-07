@@ -1,0 +1,75 @@
+{
+  "id": 1243325287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.70864,55.55425,11.70864,55.55425",
+    "geom:latitude":55.55425,
+    "geom:longitude":11.70864,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Store Tastrup",
+    "gn:country_code":"DK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612342,
+    "gn:latitude":55.55425,
+    "gn:longitude":11.70864,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Store T\u00e5strup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Store Tostrup",
+        "Stor Taastrup",
+        "Taastrup",
+        "Store Taastrup",
+        "Store T\u00e5strup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612342
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c5bbf330fc16655995e1c7a4cd2b67b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1243325287,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1243325287,
+    "wof:lastmodified":1537619802,
+    "wof:name":"Store Tastrup",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.70864,
+    55.55425,
+    11.70864,
+    55.55425
+],
+  "geometry": {"coordinates":[11.70864,55.55425],"type":"Point"}
+}

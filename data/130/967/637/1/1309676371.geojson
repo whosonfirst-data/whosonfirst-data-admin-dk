@@ -1,0 +1,72 @@
+{
+  "id": 1309676371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19401,55.4798,10.19401,55.4798",
+    "geom:latitude":55.4798,
+    "geom:longitude":10.19401,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Veflinge Stormark",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2610648,
+    "gn:latitude":55.4798,
+    "gn:longitude":10.19401,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Veflinge Stormark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stormarken",
+        "Veflinge Stormark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297789,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610648
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b9e4b1bd5756a98becf8c5c2a7cf3b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297789,
+            "locality_id":1309676371,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1309676371,
+    "wof:lastmodified":1537619791,
+    "wof:name":"Veflinge Stormark",
+    "wof:parent_id":1159297789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19401,
+    55.4798,
+    10.19401,
+    55.4798
+],
+  "geometry": {"coordinates":[10.19401,55.4798],"type":"Point"}
+}

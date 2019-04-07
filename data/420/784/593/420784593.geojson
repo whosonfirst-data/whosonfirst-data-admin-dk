@@ -1,0 +1,91 @@
+{
+  "id": 420784593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5807219063,55.7064459191,12.5807219063,55.7064459191",
+    "geom:latitude":55.706446,
+    "geom:longitude":12.580722,
+    "iso:country":"DK",
+    "lbl:latitude":55.706446,
+    "lbl:longitude":12.580722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "name:dan_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:deu_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:eus_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:nor_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u7279\u5e03\u7f85"
+    ],
+    "src:geom":"unknown",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862986,
+        "wd:id":"Q308345"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"90c8f25398884efa4e242a4152add4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784593,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784593,
+    "wof:lastmodified":1530296499,
+    "wof:name":"\u00d8sterbro",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58072190629469,
+    55.70644591911825,
+    12.58072190629469,
+    55.70644591911825
+],
+  "geometry": {"coordinates":[12.58072190629469,55.70644591911825],"type":"Point"}
+}

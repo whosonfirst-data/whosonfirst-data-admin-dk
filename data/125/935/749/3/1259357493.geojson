@@ -1,0 +1,68 @@
+{
+  "id": 1259357493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.60981,55.4087,11.60981,55.4087",
+    "geom:latitude":55.4087,
+    "geom:longitude":11.60981,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Broby Overdrev",
+    "gn:country_code":"DK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623386,
+    "gn:latitude":55.4087,
+    "gn:longitude":11.60981,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Broby Overdrev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297921,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623386
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e73946fc91a9e6739a8f339920e86f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297921,
+            "locality_id":1259357493,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259357493,
+    "wof:lastmodified":1537038105,
+    "wof:name":"Broby Overdrev",
+    "wof:parent_id":1159297921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.60981,
+    55.4087,
+    11.60981,
+    55.4087
+],
+  "geometry": {"coordinates":[11.60981,55.4087],"type":"Point"}
+}

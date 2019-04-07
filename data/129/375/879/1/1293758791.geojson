@@ -1,0 +1,73 @@
+{
+  "id": 1293758791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.37741,56.68729,8.37741,56.68729",
+    "geom:latitude":56.68729,
+    "geom:longitude":8.37741,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Sindrup",
+    "gn:country_code":"DK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613998,
+    "gn:latitude":56.68729,
+    "gn:longitude":8.37741,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sindrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinnerup",
+        "Sinderup",
+        "Sindrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613998
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"421709e9ae9d9722cf95f8616bab2ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":1293758791,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1293758791,
+    "wof:lastmodified":1537619816,
+    "wof:name":"Sindrup",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.37741,
+    56.68729,
+    8.37741,
+    56.68729
+],
+  "geometry": {"coordinates":[8.37741,56.68729],"type":"Point"}
+}

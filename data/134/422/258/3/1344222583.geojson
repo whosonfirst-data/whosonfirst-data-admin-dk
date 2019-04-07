@@ -1,0 +1,68 @@
+{
+  "id": 1344222583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.73543,57.00308,9.73543,57.00308",
+    "geom:latitude":57.00308,
+    "geom:longitude":9.73543,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"851.0",
+    "gn:asciiname":"Sonderholm",
+    "gn:country_code":"DK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613033,
+    "gn:latitude":57.00308,
+    "gn:longitude":9.73543,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"S\u00f8nderholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613033
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"70bdcdfe1ba32e5f8984a6e814be10a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":1344222583,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1344222583,
+    "wof:lastmodified":1536640904,
+    "wof:name":"Sonderholm",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.73543,
+    57.00308,
+    9.73543,
+    57.00308
+],
+  "geometry": {"coordinates":[9.73543,57.00308],"type":"Point"}
+}

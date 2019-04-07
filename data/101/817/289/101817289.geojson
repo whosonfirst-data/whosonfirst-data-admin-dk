@@ -1,0 +1,104 @@
+{
+  "id": 101817289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":885784.869124,
+    "geom:bbox":"10.4476480835,56.3378912338,10.466986092,56.3523346095",
+    "geom:latitude":56.344175,
+    "geom:longitude":10.457626,
+    "iso:country":"DK",
+    "lbl:latitude":56.343296,
+    "lbl:longitude":10.459091,
+    "mps:latitude":56.343296,
+    "mps:longitude":10.459091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u043e\u0440\u0441\u0430\u0433\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Thorsager"
+    ],
+    "name:dan_x_preferred":[
+        "Thorsager"
+    ],
+    "name:dut_x_preferred":[
+        "Thorsager"
+    ],
+    "name:eng_x_preferred":[
+        "Thorsager"
+    ],
+    "name:nld_x_preferred":[
+        "Thorsager"
+    ],
+    "name:swe_x_preferred":[
+        "Thorsager"
+    ],
+    "name:unk_x_variant":[
+        "Torsager"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Syddjurs",
+    "qs:la_lc":"*DK1082706",
+    "qs:level":"locality",
+    "qs:loc":"Thorsager",
+    "qs:loc_alt":"Thorsager",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611751,
+        "gp:id":557977,
+        "qs:id":1156392,
+        "qs_pg:id":1156392,
+        "wd:id":"Q2187840",
+        "wk:page":"Thorsager"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d9a8cb6d79ebd922d21929a05067b3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":101817289,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101817289,
+    "wof:lastmodified":1530296423,
+    "wof:name":"Thorsager",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44764808354876,
+    56.33789123381064,
+    10.46698609196733,
+    56.35233460947234
+],
+  "geometry": {"coordinates":[[[10.46698609196733,56.3441768751178],[10.46697525925805,56.34327809268376],[10.46535947155689,56.34328392618454],[10.46531629660404,56.33968879733482],[10.4669319344066,56.33968296445022],[10.46692110469024,56.33878418276703],[10.46530550435727,56.33879001549758],[10.46529471270668,56.33789123381064],[10.45721689160456,56.33792009345279],[10.45723810081705,56.33971765850106],[10.45562246031602,56.33972337008282],[10.45565416610975,56.3424197192337],[10.45080690468251,56.3424367340242],[10.45081736201473,56.3433355178243],[10.45243315374358,56.34332986629704],[10.45246464165473,56.34602621815208],[10.45084873747925,56.34603187012715],[10.45085919712398,56.34693065452927],[10.44924325502262,56.3469362864322],[10.44926410106712,56.34873385598547],[10.44764808354876,56.34873946796341],[10.44768963257025,56.35233460947234],[10.45092196713483,56.3523233641061],[10.4508905795268,56.349627008639],[10.45250663365977,56.3496213560669],[10.45249613478796,56.34872257136215],[10.45896019691975,56.34869975944548],[10.45894954866662,56.34780097549407],[10.46056552559401,56.34779522211068],[10.46055484044132,56.34689643846178],[10.46217077943106,56.34689066500891],[10.46214933592773,56.3450930984676],[10.46376519949655,56.34508730509953],[10.4637544411521,56.3441885222075],[10.46698609196733,56.3441768751178]]],"type":"Polygon"}
+}

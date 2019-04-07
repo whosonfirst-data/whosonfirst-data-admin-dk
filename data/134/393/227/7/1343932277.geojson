@@ -1,0 +1,72 @@
+{
+  "id": 1343932277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.58601,54.78928,11.58601,54.78928",
+    "geom:latitude":54.78928,
+    "geom:longitude":11.58601,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Vabensted",
+    "gn:country_code":"DK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610836,
+    "gn:latitude":54.78928,
+    "gn:longitude":11.58601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"V\u00e5bensted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaabensted",
+        "V\u00e5bensted"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610836
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"95a06fad06f75fbbe1e66de7523d3ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1343932277,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343932277,
+    "wof:lastmodified":1537619792,
+    "wof:name":"Vabensted",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.58601,
+    54.78928000000001,
+    11.58601,
+    54.78928000000001
+],
+  "geometry": {"coordinates":[11.58601,54.78928000000001],"type":"Point"}
+}

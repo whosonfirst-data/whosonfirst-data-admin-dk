@@ -1,0 +1,72 @@
+{
+  "id": 1226318557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.42869,56.45634,10.42869,56.45634",
+    "geom:latitude":56.45634,
+    "geom:longitude":10.42869,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Gjesing",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621422,
+    "gn:latitude":56.45634,
+    "gn:longitude":10.42869,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gjesing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gesing",
+        "Gjesing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297787,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621422
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"23a8977ce121eb5c3bd68d3de10c1d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297787,
+            "locality_id":1226318557,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226318557,
+    "wof:lastmodified":1537619872,
+    "wof:name":"Gjesing",
+    "wof:parent_id":1159297787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.42869,
+    56.45634,
+    10.42869,
+    56.45634
+],
+  "geometry": {"coordinates":[10.42869,56.45634],"type":"Point"}
+}

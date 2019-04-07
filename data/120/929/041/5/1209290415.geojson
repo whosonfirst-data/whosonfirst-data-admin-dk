@@ -1,0 +1,62 @@
+{
+  "id": 1209290415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16926,56.51254,8.16926,56.51254",
+    "geom:latitude":56.51254,
+    "geom:longitude":8.16926,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"665.0",
+    "gn:asciiname":"Dybe",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622852,
+    "gn:latitude":56.51254,
+    "gn:longitude":8.16926,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Dybe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622852
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cab78c9b983d0a5900e7ba084164b046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209290415
+        }
+    ],
+    "wof:id":1209290415,
+    "wof:lastmodified":1536291713,
+    "wof:name":"Dybe",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.169260000000001,
+    56.51254,
+    8.169260000000001,
+    56.51254
+],
+  "geometry": {"coordinates":[8.16926,56.51254],"type":"Point"}
+}

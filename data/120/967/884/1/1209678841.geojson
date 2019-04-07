@@ -1,0 +1,62 @@
+{
+  "id": 1209678841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9073,55.70641,9.9073,55.70641",
+    "geom:latitude":55.70641,
+    "geom:longitude":9.9073,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Barritskov By",
+    "gn:country_code":"DK",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624285,
+    "gn:latitude":55.70641,
+    "gn:longitude":9.9073,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Barritskov By",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624285
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"16143b38979038c41b2b71ef016b9738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209678841
+        }
+    ],
+    "wof:id":1209678841,
+    "wof:lastmodified":1536279651,
+    "wof:name":"Barritskov By",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9073,
+    55.70641,
+    9.9073,
+    55.70641
+],
+  "geometry": {"coordinates":[9.9073,55.70641],"type":"Point"}
+}

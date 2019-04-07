@@ -1,0 +1,68 @@
+{
+  "id": 1243146211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63377,55.54213,9.63377,55.54213",
+    "geom:latitude":55.54213,
+    "geom:longitude":9.63377,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Borup",
+    "gn:country_code":"DK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623732,
+    "gn:latitude":55.54213,
+    "gn:longitude":9.63377,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"B\u00f8rup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297769,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623732
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b37c16edd72fefbf74a5ff31e3f2ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297769,
+            "locality_id":1243146211,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243146211,
+    "wof:lastmodified":1536741328,
+    "wof:name":"Borup",
+    "wof:parent_id":1159297769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63377,
+    55.54213000000001,
+    9.63377,
+    55.54213000000001
+],
+  "geometry": {"coordinates":[9.63377,55.54213000000001],"type":"Point"}
+}

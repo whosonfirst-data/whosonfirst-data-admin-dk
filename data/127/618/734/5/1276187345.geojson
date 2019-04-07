@@ -1,0 +1,68 @@
+{
+  "id": 1276187345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69446,56.83145,8.69446,56.83145",
+    "geom:latitude":56.83145,
+    "geom:longitude":8.69446,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"773.0",
+    "gn:asciiname":"Mellem Jolby",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616960,
+    "gn:latitude":56.83145,
+    "gn:longitude":8.69446,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Mellem J\u00f8lby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297845,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616960
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"13e56a68622e66a726f99eb2293746fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297845,
+            "locality_id":1276187345,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1276187345,
+    "wof:lastmodified":1536974169,
+    "wof:name":"Mellem Jolby",
+    "wof:parent_id":1159297845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69446,
+    56.83145,
+    8.69446,
+    56.83145
+],
+  "geometry": {"coordinates":[8.69446,56.83145],"type":"Point"}
+}

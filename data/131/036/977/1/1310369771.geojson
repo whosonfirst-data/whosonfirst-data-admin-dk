@@ -1,0 +1,68 @@
+{
+  "id": 1310369771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68333,55.8,8.68333,55.8",
+    "geom:latitude":55.8,
+    "geom:longitude":8.68333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Agersnap",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624970,
+    "gn:latitude":55.8,
+    "gn:longitude":8.68333,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Agersnap",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624970
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a96662e970c7824c163ee84fe03944de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1310369771,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310369771,
+    "wof:lastmodified":1536612979,
+    "wof:name":"Agersnap",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68333,
+    55.8,
+    8.68333,
+    55.8
+],
+  "geometry": {"coordinates":[8.68333,55.8],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310071831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52892,56.18964,9.52892,56.18964",
+    "geom:latitude":56.18964,
+    "geom:longitude":9.52892,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Balle By",
+    "gn:country_code":"DK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624355,
+    "gn:latitude":56.18964,
+    "gn:longitude":9.52892,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Balle By",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297773,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624355
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0565fef08690ae434ae9c82a591dc6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297773,
+            "locality_id":1310071831,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1310071831,
+    "wof:lastmodified":1537043389,
+    "wof:name":"Balle By",
+    "wof:parent_id":1159297773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52892,
+    56.18964,
+    9.52892,
+    56.18964
+],
+  "geometry": {"coordinates":[9.52892,56.18964],"type":"Point"}
+}

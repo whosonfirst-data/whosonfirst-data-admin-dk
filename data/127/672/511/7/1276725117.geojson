@@ -1,0 +1,74 @@
+{
+  "id": 1276725117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05076,55.93185,9.05076,55.93185",
+    "geom:latitude":55.93185,
+    "geom:longitude":9.05076,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Uhre",
+    "gn:country_code":"DK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610967,
+    "gn:latitude":55.93185,
+    "gn:longitude":9.05076,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uhre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Branduhre",
+        "Ure",
+        "Brande Ure",
+        "Uhre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610967
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"40c385e569c874cab9af483cfa729968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1276725117,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276725117,
+    "wof:lastmodified":1537619793,
+    "wof:name":"Uhre",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05076,
+    55.93185,
+    9.05076,
+    55.93185
+],
+  "geometry": {"coordinates":[9.05076,55.93185],"type":"Point"}
+}

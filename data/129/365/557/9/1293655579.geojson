@@ -1,0 +1,73 @@
+{
+  "id": 1293655579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.82265,55.83209,9.82265,55.83209",
+    "geom:latitude":55.83209,
+    "geom:longitude":9.82265,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"Torsted",
+    "gn:country_code":"DK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611378,
+    "gn:latitude":55.83209,
+    "gn:longitude":9.82265,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Torsted",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thorsted",
+        "Torsted"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297859,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611378,
+        "wk:page":"Torsted"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5e47798b6ab40cfc8d9c1559145ca312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297859,
+            "locality_id":1293655579,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1293655579,
+    "wof:lastmodified":1537619796,
+    "wof:name":"Torsted",
+    "wof:parent_id":1159297859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.82265,
+    55.83209,
+    9.82265,
+    55.83209
+],
+  "geometry": {"coordinates":[9.82265,55.83209],"type":"Point"}
+}

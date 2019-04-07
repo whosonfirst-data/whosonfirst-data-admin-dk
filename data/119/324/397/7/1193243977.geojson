@@ -1,0 +1,68 @@
+{
+  "id": 1193243977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35457,56.81999,8.35457,56.81999",
+    "geom:latitude":56.81999,
+    "geom:longitude":8.35457,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"787.0",
+    "gn:asciiname":"Morup Molle",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616749,
+    "gn:latitude":56.81999,
+    "gn:longitude":8.35457,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Morup M\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297829,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616749
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fde1ad485eecbf88a55d71f3d492ad69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297829,
+            "locality_id":1193243977,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1193243977,
+    "wof:lastmodified":1536375365,
+    "wof:name":"Morup Molle",
+    "wof:parent_id":1159297829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35457,
+    56.81999,
+    8.35457,
+    56.81999
+],
+  "geometry": {"coordinates":[8.35457,56.81999],"type":"Point"}
+}

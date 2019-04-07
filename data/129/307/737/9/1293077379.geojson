@@ -1,0 +1,68 @@
+{
+  "id": 1293077379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.47663,55.91225,12.47663,55.91225",
+    "geom:latitude":55.91225,
+    "geom:longitude":12.47663,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"210.0",
+    "gn:asciiname":"Bronsholm",
+    "gn:country_code":"DK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623323,
+    "gn:latitude":55.91225,
+    "gn:longitude":12.47663,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Br\u00f8nsholm",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297817,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623323
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"747d8ef06e97b3b30f9ce74392c8768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297817,
+            "locality_id":1293077379,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1293077379,
+    "wof:lastmodified":1536880674,
+    "wof:name":"Bronsholm",
+    "wof:parent_id":1159297817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47663,
+    55.91225,
+    12.47663,
+    55.91225
+],
+  "geometry": {"coordinates":[12.47663,55.91225],"type":"Point"}
+}

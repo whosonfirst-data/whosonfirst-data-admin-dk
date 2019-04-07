@@ -1,0 +1,93 @@
+{
+  "id": 1126014467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89896,56.13875,8.89896,56.13875",
+    "geom:latitude":56.13875,
+    "geom:longitude":8.89896,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3513,
+    "gn:population":3513,
+    "iso:country":"DK",
+    "lbl:latitude":56.13875,
+    "lbl:longitude":8.89896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Snejbj\u00e6rg"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2613322,
+    "qs_pg:gn_pop":3513,
+    "qs_pg:name":"Snejbjerg",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":140573,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":557246,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613322,
+        "gp:id":557246,
+        "qs_pg:id":140573
+    },
+    "wof:country":"DK",
+    "wof:created":1497300466,
+    "wof:geomhash":"25ebf514c024801891950406c46c0a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1126014467,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1126014467,
+    "wof:lastmodified":1530290396,
+    "wof:name":"Snejbjerg",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:population":3513,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89896,
+    56.13875,
+    8.89896,
+    56.13875
+],
+  "geometry": {"coordinates":[8.89896,56.13875],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309678343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89502,56.46473,8.89502,56.46473",
+    "geom:latitude":56.46473,
+    "geom:longitude":8.89502,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Sogard",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613163,
+    "gn:latitude":56.46473,
+    "gn:longitude":8.89502,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00f8g\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6gaarde",
+        "S\u00f8g\u00e5rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613163
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aa51b8a8024d31bb46027b8c353db4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1309678343,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1309678343,
+    "wof:lastmodified":1537619809,
+    "wof:name":"Sogard",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89502,
+    56.46473,
+    8.89502,
+    56.46473
+],
+  "geometry": {"coordinates":[8.89502,56.46473],"type":"Point"}
+}

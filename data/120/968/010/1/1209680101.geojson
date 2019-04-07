@@ -1,0 +1,62 @@
+{
+  "id": 1209680101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3199,55.56766,10.3199,55.56766",
+    "geom:latitude":55.56766,
+    "geom:longitude":10.3199,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"480.0",
+    "gn:asciiname":"Rorslev",
+    "gn:country_code":"DK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614504,
+    "gn:latitude":55.56766,
+    "gn:longitude":10.3199,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Rorslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614504
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ff9e566872d9a5b822a6fb969e8f275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209680101
+        }
+    ],
+    "wof:id":1209680101,
+    "wof:lastmodified":1536279607,
+    "wof:name":"Rorslev",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3199,
+    55.56766,
+    10.3199,
+    55.56766
+],
+  "geometry": {"coordinates":[10.3199,55.56766],"type":"Point"}
+}

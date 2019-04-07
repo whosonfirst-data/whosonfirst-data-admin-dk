@@ -1,0 +1,68 @@
+{
+  "id": 1326991863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.97417,54.8911,11.97417,54.8911",
+    "geom:latitude":54.8911,
+    "geom:longitude":11.97417,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Barup",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624274,
+    "gn:latitude":54.8911,
+    "gn:longitude":11.97417,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Barup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624274
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"53c5b6f78dd28054fce105a869070029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1326991863,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1326991863,
+    "wof:lastmodified":1536818200,
+    "wof:name":"Barup",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.97417,
+    54.8911,
+    11.97417,
+    54.8911
+],
+  "geometry": {"coordinates":[11.97417,54.8911],"type":"Point"}
+}

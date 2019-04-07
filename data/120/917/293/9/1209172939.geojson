@@ -1,0 +1,62 @@
+{
+  "id": 1209172939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30176,54.94948,9.30176,54.94948",
+    "geom:latitude":54.94948,
+    "geom:longitude":9.30176,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Almstrup",
+    "gn:country_code":"DK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624800,
+    "gn:latitude":54.94948,
+    "gn:longitude":9.30176,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Almstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624800
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c9138470148f51cf93f3d87860694615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209172939
+        }
+    ],
+    "wof:id":1209172939,
+    "wof:lastmodified":1536295519,
+    "wof:name":"Almstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30176,
+    54.94948,
+    9.30176,
+    54.94948
+],
+  "geometry": {"coordinates":[9.30176,54.94948],"type":"Point"}
+}

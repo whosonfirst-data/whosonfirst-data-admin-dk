@@ -1,0 +1,62 @@
+{
+  "id": 1360044251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55,55.11667,9.55,55.11667",
+    "geom:latitude":55.11667,
+    "geom:longitude":9.55,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Barso By",
+    "gn:country_code":"DK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624276,
+    "gn:latitude":55.11667,
+    "gn:longitude":9.55,
+    "gn:modification_date":"2017-06-23",
+    "gn:name":"Bars\u00f8 By",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624276
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"922bf5ae89944b895c19e2b5975dd94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360044251,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360044251,
+    "wof:lastmodified":1537003963,
+    "wof:name":"Barso By",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55,
+    55.11666999999999,
+    9.55,
+    55.11666999999999
+],
+  "geometry": {"coordinates":[9.55,55.11666999999999],"type":"Point"}
+}

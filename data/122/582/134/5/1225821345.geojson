@@ -1,0 +1,73 @@
+{
+  "id": 1225821345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2151,56.19538,10.2151,56.19538",
+    "geom:latitude":56.19538,
+    "geom:longitude":10.2151,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"751.0",
+    "gn:asciiname":"Vejlby",
+    "gn:country_code":"DK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610620,
+    "gn:latitude":56.19538,
+    "gn:longitude":10.2151,
+    "gn:modification_date":"2017-11-15",
+    "gn:name":"Vejlby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gammel Vejlby",
+        "Vejlby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610620,
+        "wk:page":"Vejlby"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9c74be65f043225e13f52b778e580f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1225821345,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1225821345,
+    "wof:lastmodified":1537619791,
+    "wof:name":"Vejlby",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2151,
+    56.19538000000001,
+    10.2151,
+    56.19538000000001
+],
+  "geometry": {"coordinates":[10.2151,56.19538000000001],"type":"Point"}
+}

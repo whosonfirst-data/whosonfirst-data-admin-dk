@@ -1,0 +1,101 @@
+{
+  "id": 85906101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":400594.813625,
+    "geom:bbox":"12.5354003906,55.6543476264,12.5472919174,55.6605546598",
+    "geom:latitude":55.657727,
+    "geom:longitude":12.541877,
+    "iso:country":"DK",
+    "lbl:latitude":55.658132,
+    "lbl:longitude":12.540249,
+    "mps:latitude":55.658126,
+    "mps:longitude":12.541877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Palnatokesgade"
+    ],
+    "name:unk_x_variant":[
+        "Palnatokesgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Palnatokesgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Palnatokesgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":49,
+    "qs:photo_sum":194,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229373
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5cc3f2900d755a9562b0a95c76b34325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906101,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906101,
+    "wof:lastmodified":1530296569,
+    "wof:name":"Palnatokesgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53540039061363,
+    55.65434762640011,
+    12.54729191741603,
+    55.66055465984697
+],
+  "geometry": {"coordinates":[[[12.53952026370007,55.66055465984697],[12.53953582804218,55.66054546270011],[12.54089355470012,55.66054546270011],[12.54134611986217,55.66054545878704],[12.54364013671426,55.6605454545135],[12.54407713923149,55.65977075040011],[12.54638671832186,55.65977075040011],[12.54685486301571,55.65977075040011],[12.54729184824453,55.65899609940006],[12.54729188282414,55.65899603810011],[12.54700052187854,55.65744665955039],[12.54729188965274,55.65589718491155],[12.54729191741603,55.65589712765016],[12.54700051034121,55.65434762640011],[12.54364013671221,55.65434763286008],[12.54089355470012,55.65434763587153],[12.54089355470012,55.65589718068561],[12.53814697268103,55.65589718315262],[12.53814697268655,55.65744666594607],[12.53540039061915,55.65744666905256],[12.53540039061392,55.65899609175024],[12.53540039061363,55.66054545374594],[12.53769440768843,55.66054545747851],[12.53814697270013,55.66054546270011],[12.53950469935802,55.66054546270011],[12.53952026370007,55.66055465984697]]],"type":"Polygon"}
+}

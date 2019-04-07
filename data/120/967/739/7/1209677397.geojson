@@ -1,0 +1,62 @@
+{
+  "id": 1209677397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86667,55.06667,11.86667,55.06667",
+    "geom:latitude":55.06667,
+    "geom:longitude":11.86667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Hellevad",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620505,
+    "gn:latitude":55.06667,
+    "gn:longitude":11.86667,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hellevad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620505
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"00576ea422aaf2e35ef2b3bea8af843a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209677397
+        }
+    ],
+    "wof:id":1209677397,
+    "wof:lastmodified":1536279702,
+    "wof:name":"Hellevad",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86667,
+    55.06667,
+    11.86667,
+    55.06667
+],
+  "geometry": {"coordinates":[11.86667,55.06667],"type":"Point"}
+}

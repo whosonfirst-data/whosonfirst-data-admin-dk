@@ -1,0 +1,68 @@
+{
+  "id": 1327195835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90144,55.5823,11.90144,55.5823",
+    "geom:latitude":55.5823,
+    "geom:longitude":11.90144,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"350.0",
+    "gn:asciiname":"Skov Hastrup",
+    "gn:country_code":"DK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613600,
+    "gn:latitude":55.5823,
+    "gn:longitude":11.90144,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Skov Hastrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297805,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613600
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b0d0401a84b731f86453d3f40f86a67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297805,
+            "locality_id":1327195835,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327195835,
+    "wof:lastmodified":1537021574,
+    "wof:name":"Skov Hastrup",
+    "wof:parent_id":1159297805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90144,
+    55.5823,
+    11.90144,
+    55.5823
+],
+  "geometry": {"coordinates":[11.90144,55.5823],"type":"Point"}
+}

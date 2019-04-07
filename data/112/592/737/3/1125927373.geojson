@@ -1,0 +1,116 @@
+{
+  "id": 1125927373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10571,56.15306,10.10571,56.15306",
+    "geom:latitude":56.15306,
+    "geom:longitude":10.10571,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.15306,
+    "lbl:longitude":10.10571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5df4\u62c9\u5e03\u862d"
+    ],
+    "name:dan_x_preferred":[
+        "Brabrand"
+    ],
+    "name:dut_x_preferred":[
+        "Brabrand"
+    ],
+    "name:eng_x_preferred":[
+        "Brabrand"
+    ],
+    "name:fre_x_preferred":[
+        "Brabrand"
+    ],
+    "name:ger_x_preferred":[
+        "Brabrand"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d0\u05d1\u05e8\u05d0\u05e0\u05d3"
+    ],
+    "name:nob_x_preferred":[
+        "Brabrand"
+    ],
+    "name:swe_x_preferred":[
+        "Brabrand"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2623586,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brabrand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1333935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297797,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623586,
+        "gp:id":552539,
+        "qs_pg:id":1333935,
+        "wd:id":"Q896515"
+    },
+    "wof:country":"DK",
+    "wof:created":1497296686,
+    "wof:geomhash":"ae62d34d3d8851cbb282dc67efad90d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":1125927373,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125927373,
+    "wof:lastmodified":1530291313,
+    "wof:name":"Brabrand",
+    "wof:parent_id":1159297797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10571,
+    56.15306,
+    10.10571,
+    56.15306
+],
+  "geometry": {"coordinates":[10.10571,56.15306],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209277613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44224,56.15376,9.44224,56.15376",
+    "geom:latitude":56.15376,
+    "geom:longitude":9.44224,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"740.0",
+    "gn:asciiname":"Funder Kirkeby",
+    "gn:country_code":"DK",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621769,
+    "gn:latitude":56.15376,
+    "gn:longitude":9.44224,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Funder Kirkeby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirkeby",
+        "Funder Kirkeby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621769
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"30f86b6d6779e332e62099c71c275aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209277613
+        }
+    ],
+    "wof:id":1209277613,
+    "wof:lastmodified":1537619875,
+    "wof:name":"Funder Kirkeby",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44224,
+    56.15376,
+    9.44224,
+    56.15376
+],
+  "geometry": {"coordinates":[9.44224,56.15376],"type":"Point"}
+}

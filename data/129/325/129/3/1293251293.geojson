@@ -1,0 +1,68 @@
+{
+  "id": 1293251293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17411,55.8017,9.17411,55.8017",
+    "geom:latitude":55.8017,
+    "geom:longitude":9.17411,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Ringive",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614781,
+    "gn:latitude":55.8017,
+    "gn:longitude":9.17411,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ringive",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614781
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"af3a67caf6d750df8ece15640c6eeb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1293251293,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1293251293,
+    "wof:lastmodified":1536628885,
+    "wof:name":"Ringive",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17411,
+    55.8017,
+    9.17411,
+    55.8017
+],
+  "geometry": {"coordinates":[9.17411,55.8017],"type":"Point"}
+}

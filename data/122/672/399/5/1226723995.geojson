@@ -1,0 +1,72 @@
+{
+  "id": 1226723995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69333,55.25601,10.69333,55.25601",
+    "geom:latitude":55.25601,
+    "geom:longitude":10.69333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"450.0",
+    "gn:asciiname":"Langemose",
+    "gn:country_code":"DK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2617948,
+    "gn:latitude":55.25601,
+    "gn:longitude":10.69333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Langemose",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langemoseg\u00e5rd",
+        "Langemose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297759,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617948
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e3c4c6581c3437494941d3653d0f15c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297759,
+            "locality_id":1226723995,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1226723995,
+    "wof:lastmodified":1537619846,
+    "wof:name":"Langemose",
+    "wof:parent_id":1159297759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69333,
+    55.25601,
+    10.69333,
+    55.25601
+],
+  "geometry": {"coordinates":[10.69333,55.25601],"type":"Point"}
+}

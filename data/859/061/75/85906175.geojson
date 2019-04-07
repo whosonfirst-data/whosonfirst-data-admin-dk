@@ -1,0 +1,106 @@
+{
+  "id": 85906175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":89892.768326,
+    "geom:bbox":"12.5518798828,55.6661405285,12.557712447,55.6694600807",
+    "geom:latitude":55.667875,
+    "geom:longitude":12.554958,
+    "iso:country":"DK",
+    "lbl:latitude":55.668093,
+    "lbl:longitude":12.554764,
+    "mps:latitude":55.667944,
+    "mps:longitude":12.554958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:eng_x_variant":[
+        "Skydebanegade"
+    ],
+    "name:unk_x_variant":[
+        "Skydebanegade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Skydebanegade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Skydebanegade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":133,
+    "qs:photo_sum":553,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229434,
+        "wd:id":"Q16324474"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7df6e45d56f0e5d4fc14c6659ee145d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906175,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906175,
+    "wof:lastmodified":1530296582,
+    "wof:name":"Skydebanegade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.55187988279999,
+    55.6661405285479,
+    12.55771244702447,
+    55.66946008069111
+],
+  "geometry": {"coordinates":[[[12.55601155561311,55.66946008069111],[12.55667853329857,55.66906586430001],[12.5566864014001,55.66906586430001],[12.5566864014001,55.66906121386769],[12.55668640140016,55.66867861299077],[12.55737304690012,55.66867861289778],[12.55752650812508,55.66867861262519],[12.55759930907391,55.66829135900004],[12.55771243994667,55.66768957644958],[12.55767996718771,55.6675168345504],[12.55771244702447,55.66734406599802],[12.55737304785492,55.66674230186156],[12.55703364530689,55.6661405285479],[12.55601542402962,55.66674230240007],[12.55599975590007,55.66674230240007],[12.55598408771982,55.66674230240007],[12.55496586639657,55.66614052856495],[12.5546264648097,55.66674230091262],[12.55347944156659,55.66674229985027],[12.5532531738001,55.66674230240007],[12.5532531738001,55.66714348061952],[12.5532531738001,55.66751683599402],[12.55187988279999,55.66751683626138],[12.55187988279999,55.66829135645033],[12.55187988279999,55.66906586217515],[12.5532531738001,55.66906586175013],[12.55462646481675,55.66906586175013],[12.55577349566641,55.66906586318454],[12.55598795607995,55.66944613214584],[12.55599975590007,55.66945310645009],[12.55601155561311,55.66946008069111]]],"type":"Polygon"}
+}

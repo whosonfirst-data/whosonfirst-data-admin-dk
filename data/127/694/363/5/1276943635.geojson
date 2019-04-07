@@ -1,0 +1,72 @@
+{
+  "id": 1276943635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69775,55.89166,9.69775,55.89166",
+    "geom:latitude":55.89166,
+    "geom:longitude":9.69775,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"Molger",
+    "gn:country_code":"DK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616859,
+    "gn:latitude":55.89166,
+    "gn:longitude":9.69775,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Molger",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molg\u00e6r",
+        "Molger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297859,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616859
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"593ed0d66bbd71ed6ae4eb7101a8866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297859,
+            "locality_id":1276943635,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1276943635,
+    "wof:lastmodified":1537619839,
+    "wof:name":"Molger",
+    "wof:parent_id":1159297859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69775,
+    55.89166,
+    9.69775,
+    55.89166
+],
+  "geometry": {"coordinates":[9.69775,55.89166],"type":"Point"}
+}

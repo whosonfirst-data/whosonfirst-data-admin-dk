@@ -1,0 +1,76 @@
+{
+  "id": 101805549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:bbox":"9.2920446585,55.1926924128,9.31718955934,55.2035106163",
+    "geom:latitude":55.197567,
+    "geom:longitude":9.302102,
+    "iso:country":"DK",
+    "lbl:latitude":55.198097,
+    "lbl:longitude":9.299149,
+    "mps:latitude":55.198097,
+    "mps:longitude":9.299149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Haderslev",
+    "qs:la_lc":"*DK1083510",
+    "qs:level":"locality",
+    "qs:loc":"Over Jerstal",
+    "qs:loc_alt":"Over Jerstal",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615299,
+        "gp:id":556358,
+        "qs:id":182719,
+        "qs_pg:id":182719
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ecb7ba024a08abaa3418834ed065571a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":101805549,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805549,
+    "wof:lastmodified":1530290803,
+    "wof:name":"Over Jerstal",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2920446585016,
+    55.1926924128378,
+    9.31718955933815,
+    55.20351061625371
+],
+  "geometry": {"coordinates":[[[9.30295456689555,55.20351061625371],[9.30303222120358,55.19901757018715],[9.30774118612294,55.19904354148588],[9.30775660959182,55.19814493184157],[9.31717434648243,55.19819634495195],[9.31718955933815,55.19729773407715],[9.31248079299132,55.19727211620119],[9.31252674132196,55.19457628598792],[9.30781829521362,55.194550494027],[9.30783371455584,55.19365188476371],[9.29998649168436,55.19360850806999],[9.30000208497671,55.19270989998518],[9.29686327015406,55.1926924128378],[9.2968476069521,55.19359102047838],[9.29527816553832,55.19358224734378],[9.29521536450977,55.19717667777388],[9.29207620391804,55.19715907103739],[9.2920446585016,55.19895628581401],[9.29518395895337,55.19897389344561],[9.29512113775411,55.20256832570465],[9.2982607205189,55.20258585687014],[9.29824508306808,55.20348446557176],[9.30295456689555,55.20351061625371]]],"type":"Polygon"}
+}

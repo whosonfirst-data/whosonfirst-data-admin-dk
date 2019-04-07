@@ -1,0 +1,101 @@
+{
+  "id": 85906073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16557.328701,
+    "geom:bbox":"12.5855255127,55.6800938431,12.5875854492,55.681857121",
+    "geom:latitude":55.680907,
+    "geom:longitude":12.586671,
+    "iso:country":"DK",
+    "lbl:latitude":55.68071,
+    "lbl:longitude":12.586751,
+    "mps:latitude":55.680895,
+    "mps:longitude":12.586691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Ny Adelgade"
+    ],
+    "name:unk_x_variant":[
+        "Ny Adelgade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Ny Adelgade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Ny Adelgade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":1051,
+    "qs:photo_sum":2619,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229349
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8d1c0967afad5c4c24d80261bdd1e6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85906073,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85906073,
+    "wof:lastmodified":1530296564,
+    "wof:name":"Ny Adelgade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58552551268349,
+    55.68009384307284,
+    12.58758544921676,
+    55.68185712104493
+],
+  "geometry": {"coordinates":[[[12.58758544920369,55.68145586470006],[12.58758544920636,55.68126936395065],[12.58758544921278,55.6810687366001],[12.58758544921676,55.68087517093339],[12.58758544921676,55.68068160445038],[12.58758544921568,55.6804880370439],[12.58724212648445,55.6804880370439],[12.58724212648553,55.68029682031151],[12.58724212650009,55.68029446880008],[12.58723814904681,55.68029446880008],[12.58689880370713,55.68009384307284],[12.58655945840331,55.68029446880008],[12.586555481,55.68029446880008],[12.58655150354645,55.68029446880008],[12.58629699426416,55.68014399934923],[12.58621215820023,55.68029446866898],[12.58586883541398,55.6802944686752],[12.58586883541585,55.6804880370439],[12.58552551268457,55.6804880370439],[12.58552551268349,55.68068160445038],[12.58552551268349,55.68087517093339],[12.58552551268758,55.68106873647513],[12.58586883541585,55.68106873644395],[12.58586883541585,55.68126230095957],[12.58621215820011,55.68126230096276],[12.58621215820011,55.68145586470006],[12.58632527138127,55.68145586470006],[12.58638182784227,55.68175680668891],[12.58689083185732,55.68145586470006],[12.58689880370014,55.68145586470006],[12.58690677555478,55.68145586470006],[12.58758544920033,55.68185712104493],[12.58758544920369,55.68145586470006]]],"type":"Polygon"}
+}

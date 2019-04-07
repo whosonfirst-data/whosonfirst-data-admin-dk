@@ -1,0 +1,82 @@
+{
+  "id": 1125834479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.158705,57.592792,10.158705,57.592792",
+    "geom:latitude":57.592792,
+    "geom:longitude":10.158705,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":57.592792,
+    "lbl:longitude":10.158705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vester Tversted",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Nordjylland",
+    "qs_pg:photos":95,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091772,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":55864754,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Nordjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55864754,
+        "qs_pg:id":1091772
+    },
+    "wof:country":"DK",
+    "wof:created":1497292651,
+    "wof:geomhash":"01c6351c8c76cde71634b76a60840ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":1125834479,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1125834479,
+    "wof:lastmodified":1530291073,
+    "wof:name":"Vester Tversted",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.158705,
+    57.592792,
+    10.158705,
+    57.592792
+],
+  "geometry": {"coordinates":[10.158705,57.592792],"type":"Point"}
+}

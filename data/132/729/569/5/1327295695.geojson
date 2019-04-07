@@ -1,0 +1,68 @@
+{
+  "id": 1327295695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.57517,55.71059,11.57517,55.71059",
+    "geom:latitude":55.71059,
+    "geom:longitude":11.57517,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Tronninge",
+    "gn:country_code":"DK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611190,
+    "gn:latitude":55.71059,
+    "gn:longitude":11.57517,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Tr\u00f8nninge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611190
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f399df9ed5358dd22ff50ea4c0ac5f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1327295695,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1327295695,
+    "wof:lastmodified":1536877545,
+    "wof:name":"Tronninge",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.57517,
+    55.71059,
+    11.57517,
+    55.71059
+],
+  "geometry": {"coordinates":[11.57517,55.71059],"type":"Point"}
+}

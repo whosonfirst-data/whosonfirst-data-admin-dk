@@ -1,0 +1,68 @@
+{
+  "id": 1309686211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28131,55.776,9.28131,55.776",
+    "geom:latitude":55.776,
+    "geom:longitude":9.28131,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Smidstrup",
+    "gn:country_code":"DK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613358,
+    "gn:latitude":55.776,
+    "gn:longitude":9.28131,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Smidstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613358
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b981eaf0a3d5591bc1ad0480ccba7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1309686211,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1309686211,
+    "wof:lastmodified":1536603548,
+    "wof:name":"Smidstrup",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28131,
+    55.776,
+    9.28131,
+    55.776
+],
+  "geometry": {"coordinates":[9.28131,55.776],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276629035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58854,55.62361,9.58854,55.62361",
+    "geom:latitude":55.62361,
+    "geom:longitude":9.58854,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Store Velling",
+    "gn:country_code":"DK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612324,
+    "gn:latitude":55.62361,
+    "gn:longitude":9.58854,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Store Velling",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612324
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"08c7b458b754d1faf1050b29b7c8ac0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1276629035,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276629035,
+    "wof:lastmodified":1536879115,
+    "wof:name":"Store Velling",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58854,
+    55.62361,
+    9.58854,
+    55.62361
+],
+  "geometry": {"coordinates":[9.58854,55.62361],"type":"Point"}
+}

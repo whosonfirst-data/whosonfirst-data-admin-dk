@@ -1,0 +1,68 @@
+{
+  "id": 1327198317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50033,55.68438,9.50033,55.68438",
+    "geom:latitude":55.68438,
+    "geom:longitude":9.50033,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Hojenskov",
+    "gn:country_code":"DK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2619952,
+    "gn:latitude":55.68438,
+    "gn:longitude":9.50033,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"H\u00f8jenskov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619952
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c02b2d30edc4174e67cf160ffaab7cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1327198317,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327198317,
+    "wof:lastmodified":1537018165,
+    "wof:name":"Hojenskov",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50033,
+    55.68438,
+    9.50033,
+    55.68438
+],
+  "geometry": {"coordinates":[9.50033,55.68438],"type":"Point"}
+}

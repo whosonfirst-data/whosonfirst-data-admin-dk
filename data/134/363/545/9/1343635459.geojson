@@ -1,0 +1,68 @@
+{
+  "id": 1343635459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56902,55.76718,8.56902,55.76718",
+    "geom:latitude":55.76718,
+    "geom:longitude":8.56902,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Bjalderup",
+    "gn:country_code":"DK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624079,
+    "gn:latitude":55.76718,
+    "gn:longitude":8.56902,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bjalderup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624079
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5a28e04ba148e0634a761e2a78424062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1343635459,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1343635459,
+    "wof:lastmodified":1536990372,
+    "wof:name":"Bjalderup",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56902,
+    55.76718,
+    8.56902,
+    55.76718
+],
+  "geometry": {"coordinates":[8.56902,55.76718],"type":"Point"}
+}

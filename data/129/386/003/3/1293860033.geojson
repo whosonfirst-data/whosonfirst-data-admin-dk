@@ -1,0 +1,68 @@
+{
+  "id": 1293860033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.52862,56.07711,12.52862,56.07711",
+    "geom:latitude":56.07711,
+    "geom:longitude":12.52862,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"217.0",
+    "gn:asciiname":"Apperup",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624666,
+    "gn:latitude":56.07711,
+    "gn:longitude":12.52862,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Apperup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297819,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624666
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7c630ad0a30f889ef949853e6d33b502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297819,
+            "locality_id":1293860033,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1293860033,
+    "wof:lastmodified":1536746962,
+    "wof:name":"Apperup",
+    "wof:parent_id":1159297819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.52862,
+    56.07711,
+    12.52862,
+    56.07711
+],
+  "geometry": {"coordinates":[12.52862,56.07711],"type":"Point"}
+}

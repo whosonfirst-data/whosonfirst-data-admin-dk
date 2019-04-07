@@ -1,0 +1,97 @@
+{
+  "id": 101818391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000272,
+    "geom:area_square_m":1911292.878276,
+    "geom:bbox":"11.5544087219,55.4060628728,11.5781790018,55.4240119898",
+    "geom:latitude":55.414141,
+    "geom:longitude":11.566658,
+    "gn:population":3142,
+    "iso:country":"DK",
+    "lbl:latitude":55.414104,
+    "lbl:longitude":11.566885,
+    "mps:latitude":55.414104,
+    "mps:longitude":11.566885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Frederiksberg"
+    ],
+    "name:dut_x_preferred":[
+        "Frederiksberg"
+    ],
+    "name:eng_x_preferred":[
+        "Frederiksberg"
+    ],
+    "name:swe_x_preferred":[
+        "Frederiksberg"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Sor\u00f8",
+    "qs:la_lc":"*DK1085340",
+    "qs:level":"locality",
+    "qs:loc":"Frederiksberg",
+    "qs:loc_alt":"Frederiksberg",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":55.6775,
+    "wd:longitude":12.536389,
+    "wd:wordcount":1139,
+    "wof:belongsto":[
+        102191581,
+        1159297921,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621945,
+        "gp:id":553306,
+        "qs:id":1176060,
+        "qs_pg:id":470670,
+        "wd:id":"Q5509820"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1a30cd6e6dff46387ba0d90ce301a9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297921,
+            "locality_id":101818391,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818391,
+    "wof:lastmodified":1553815522,
+    "wof:name":"Frederiksberg",
+    "wof:parent_id":1159297921,
+    "wof:placetype":"locality",
+    "wof:population":3142,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55440872194606,
+    55.40606287279803,
+    11.5781790017835,
+    55.42401198978024
+],
+  "geometry": {"coordinates":[[[11.5707841162847,55.42395330390917],[11.57071357681713,55.42215644252201],[11.57229170489455,55.42213684220792],[11.57222110221477,55.42033998214362],[11.57537721242886,55.42030072448784],[11.57512966737414,55.41401172380409],[11.57670747255025,55.41399206898086],[11.57660130420862,55.4112967856725],[11.5781790017835,55.41127711268518],[11.5781081616517,55.40948025854857],[11.57653053483779,55.40949993052908],[11.57649515300932,55.40860150307577],[11.57491756012968,55.40862115488108],[11.5748822155814,55.40772272700394],[11.57014953442172,55.40778156288445],[11.57011429789924,55.40688313358055],[11.56380417772493,55.4069613040233],[11.56376908459032,55.40606287279803],[11.55903658553638,55.40612129259131],[11.55914155223002,55.40881659098892],[11.55440872194606,55.40887483821945],[11.55458317335723,55.41336701125385],[11.55773874880549,55.41332819447229],[11.55780868407726,55.41512506225553],[11.5593865404407,55.41510562335793],[11.55949156365108,55.41780092413711],[11.56106952476858,55.41778146406978],[11.56113962046459,55.41957833065845],[11.56271765094937,55.41955884991683],[11.56282291485809,55.42225414890243],[11.56124477816206,55.42227363114029],[11.56127983450284,55.42317206479419],[11.56601434651304,55.42311355754447],[11.56604951096961,55.42401198978024],[11.5707841162847,55.42395330390917]]],"type":"Polygon"}
+}

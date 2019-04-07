@@ -1,0 +1,118 @@
+{
+  "id": 85907921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":42296197.003136,
+    "geom:bbox":"10.202497,56.187548,10.202497,56.187548",
+    "geom:latitude":56.187548,
+    "geom:longitude":10.202497,
+    "gn:id":"",
+    "iso:country":"DK",
+    "lbl:latitude":56.187548,
+    "lbl:longitude":10.202497,
+    "mps:latitude":56.198611,
+    "mps:longitude":10.228729,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dan_x_colloquial":[
+        "Aarhus N",
+        "Arhus N"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c5rhus N",
+        "Aarhus N"
+    ],
+    "name:eng_x_preferred":[
+        "Aarhus North"
+    ],
+    "name:eng_x_variant":[
+        "Aarhus North"
+    ],
+    "name:unk_x_variant":[
+        "\u00c5rhus N"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":22782,
+    "qs:local_sum":27406,
+    "qs:localhoods":3,
+    "qs:name":"\u00c5rhus N",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Midtjylland",
+    "qs:name_adm2":"\u00c5rhus Kommune",
+    "qs:name_en":"Aarhus North",
+    "qs:name_local":"\u00c5rhus",
+    "qs:photo_max":137,
+    "qs:photo_sum":1599,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":153,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362580,
+    "qs:woe_adm2":28583790,
+    "qs:woe_lau":0,
+    "qs:woe_local":552015,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1178,
+    "wof:belongsto":[
+        85682597,
+        102191581,
+        1159297797,
+        85633121,
+        101749163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875615,
+        "qs:id":891800,
+        "qs_pg:id":891800,
+        "wd:id":"Q4661715"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e26db61fd36e8f80ca54787b20a6026b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297797,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":85907921,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1531936656,
+    "wof:name":"\u00c5rhus N",
+    "wof:parent_id":101749163,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.202497,
+    56.187548,
+    10.202497,
+    56.187548
+],
+  "geometry": {"coordinates":[10.202497,56.187548],"type":"Point"}
+}

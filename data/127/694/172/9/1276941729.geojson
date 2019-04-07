@@ -1,0 +1,68 @@
+{
+  "id": 1276941729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1802,55.21837,10.1802,55.21837",
+    "geom:latitude":55.21837,
+    "geom:longitude":10.1802,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Trunderup",
+    "gn:country_code":"DK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611175,
+    "gn:latitude":55.21837,
+    "gn:longitude":10.1802,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Trunderup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611175
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3b2868e2fa889e1b786c3453bfe4df6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1276941729,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1276941729,
+    "wof:lastmodified":1536958471,
+    "wof:name":"Trunderup",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1802,
+    55.21836999999999,
+    10.1802,
+    55.21836999999999
+],
+  "geometry": {"coordinates":[10.1802,55.21836999999999],"type":"Point"}
+}

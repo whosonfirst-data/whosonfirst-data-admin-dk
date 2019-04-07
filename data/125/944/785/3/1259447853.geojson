@@ -1,0 +1,68 @@
+{
+  "id": 1259447853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.76723,55.57461,11.76723,55.57461",
+    "geom:latitude":55.57461,
+    "geom:longitude":11.76723,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"316.0",
+    "gn:asciiname":"Kirke Eskilstrup",
+    "gn:country_code":"DK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2618887,
+    "gn:latitude":55.57461,
+    "gn:longitude":11.76723,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kirke Eskilstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297717,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618887
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f893ec5bd4e3a0ab05e823ad8fa4adf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297717,
+            "locality_id":1259447853,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1259447853,
+    "wof:lastmodified":1536910451,
+    "wof:name":"Kirke Eskilstrup",
+    "wof:parent_id":1159297717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.76723,
+    55.57461,
+    11.76723,
+    55.57461
+],
+  "geometry": {"coordinates":[11.76723,55.57461],"type":"Point"}
+}

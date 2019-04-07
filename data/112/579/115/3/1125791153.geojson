@@ -1,0 +1,107 @@
+{
+  "id": 1125791153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05838,54.82304,12.05838,54.82304",
+    "geom:latitude":54.82304,
+    "geom:longitude":12.05838,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":54.82304,
+    "lbl:longitude":12.05838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u0431\u0435\u043b\u0435\u0432"
+    ],
+    "name:dan_x_preferred":[
+        "Horbelev"
+    ],
+    "name:dut_x_preferred":[
+        "Horbelev"
+    ],
+    "name:eng_x_preferred":[
+        "Horbelev"
+    ],
+    "name:swe_x_preferred":[
+        "Horbelev"
+    ],
+    "name:unk_x_variant":[
+        "Horbel\u00f6v"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2619809,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Horbelev",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080444,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554279,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619809,
+        "gp:id":554279,
+        "qs_pg:id":1080444,
+        "wd:id":"Q2210037"
+    },
+    "wof:country":"DK",
+    "wof:created":1497290868,
+    "wof:geomhash":"c852c9aedf8ecc6871e7ab49d65f2601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1125791153,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125791153,
+    "wof:lastmodified":1530290540,
+    "wof:name":"Horbelev",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05838,
+    54.82304,
+    12.05838,
+    54.82304
+],
+  "geometry": {"coordinates":[12.05838,54.82304],"type":"Point"}
+}

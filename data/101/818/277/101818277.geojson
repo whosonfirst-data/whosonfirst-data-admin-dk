@@ -1,0 +1,129 @@
+{
+  "id": 101818277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000358,
+    "geom:area_square_m":2508518.370001,
+    "geom:bbox":"11.2765538821,55.4945013043,11.3036453018,55.5169481273",
+    "geom:latitude":55.506794,
+    "geom:longitude":11.29108,
+    "gn:population":3789,
+    "iso:country":"DK",
+    "lbl:latitude":55.508406,
+    "lbl:longitude":11.291338,
+    "mps:latitude":55.508406,
+    "mps:longitude":11.291338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00f8ng Kommune"
+    ],
+    "name:dan_x_variant":[
+        "H\u00f8ng"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00f8ng Kommune"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "name:fao_x_preferred":[
+        "H\u00f8ng kommuna"
+    ],
+    "name:fao_x_variant":[
+        "H\u00f8ng"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "name:nor_x_preferred":[
+        "H\u00f8ng kommune"
+    ],
+    "name:nor_x_variant":[
+        "H\u00f8ng"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina H\u00f8ng"
+    ],
+    "name:por_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna H\u00f8ng"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f8ng"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Kalundborg",
+    "qs:la_lc":"*DK1085326",
+    "qs:level":"locality",
+    "qs:loc":"H\u00f8ng",
+    "qs:loc_alt":"Hong",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619882,
+        "gp:id":554268,
+        "qs:id":140597,
+        "qs_pg:id":140597,
+        "wd:id":"Q185485",
+        "wk:page":"H\u00f8ng"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d194db6f43f94436a75771cde6f787bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":101818277,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101818277,
+    "wof:lastmodified":1530296443,
+    "wof:name":"H\u00f8ng",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:population":3789,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.27655388213662,
+    55.49450130431512,
+    11.30364530177087,
+    55.51694812729147
+],
+  "geometry": {"coordinates":[[[11.2974935924035,55.51693194869011],[11.29737668336338,55.513337871158],[11.30054035993408,55.51330545807917],[11.30048177243901,55.51150842151662],[11.30364530177087,55.51147593117287],[11.30343979691986,55.50518631186338],[11.30185828206442,55.50520256397999],[11.30182896615986,55.50430404687575],[11.30024748569792,55.50432027884688],[11.30018892981775,55.50252324407222],[11.2986075193391,55.50253945548275],[11.29857827935712,55.50164093781285],[11.29699690326959,55.5016571290804],[11.29679251663543,55.49536750497191],[11.29363025900597,55.49539982251912],[11.29360113836339,55.49450130431512],[11.28885784970407,55.49454963147036],[11.28894489616994,55.4972451900702],[11.28578248433837,55.49727731203251],[11.28598514937687,55.50356695765123],[11.28440369258664,55.50358299192646],[11.28443261539229,55.50448151349775],[11.28285112182544,55.50449752845617],[11.28288001059735,55.50539605052785],[11.27655388213662,55.5054599147154],[11.27666888321869,55.50905401045696],[11.27825055950325,55.50903807236682],[11.27833693343149,55.51173364388785],[11.27991871535738,55.51171768483721],[11.27997637697064,55.51351473214783],[11.28314007972517,55.5134827532064],[11.28316898409508,55.51438127617547],[11.28633275334329,55.51434921747614],[11.28636173050546,55.51524773971192],[11.2879436489664,55.51523168034868],[11.2879726633106,55.5161302022621],[11.29588241584975,55.51604960735801],[11.29591160985751,55.51694812729147],[11.2974935924035,55.51693194869011]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309871993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.74907,56.3814,8.74907,56.3814",
+    "geom:latitude":56.3814,
+    "geom:longitude":8.74907,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"661.0",
+    "gn:asciiname":"Risum",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2614711,
+    "gn:latitude":56.3814,
+    "gn:longitude":8.74907,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Risum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297801,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614711
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c295365ab39633be6184bf3eae185d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297801,
+            "locality_id":1309871993,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1309871993,
+    "wof:lastmodified":1536834789,
+    "wof:name":"Risum",
+    "wof:parent_id":1159297801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.74907,
+    56.3814,
+    8.74907,
+    56.3814
+],
+  "geometry": {"coordinates":[8.74907,56.3814],"type":"Point"}
+}

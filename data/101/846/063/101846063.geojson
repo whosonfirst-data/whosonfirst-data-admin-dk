@@ -1,0 +1,116 @@
+{
+  "id": 101846063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1075032.027784,
+    "geom:bbox":"9.37193507058,55.6973455818,9.3927698926,55.712553437",
+    "geom:latitude":55.703695,
+    "geom:longitude":9.381069,
+    "iso:country":"DK",
+    "lbl:latitude":55.703145,
+    "lbl:longitude":9.379332,
+    "mps:latitude":55.703145,
+    "mps:longitude":9.379332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Bredsten"
+    ],
+    "name:dut_x_preferred":[
+        "Bredsten"
+    ],
+    "name:eng_x_preferred":[
+        "Bredsten"
+    ],
+    "name:fao_x_preferred":[
+        "Bredsten"
+    ],
+    "name:fre_x_preferred":[
+        "Bredsten"
+    ],
+    "name:ger_x_preferred":[
+        "Bredsten"
+    ],
+    "name:ice_x_preferred":[
+        "Bredsten"
+    ],
+    "name:kal_x_preferred":[
+        "Bredsten"
+    ],
+    "name:nld_x_preferred":[
+        "Bredsten"
+    ],
+    "name:nno_x_preferred":[
+        "Bredsten"
+    ],
+    "name:nob_x_preferred":[
+        "Bredsten"
+    ],
+    "name:swe_x_preferred":[
+        "Bredsten"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Vejle",
+    "qs:la_lc":"*DK1083630",
+    "qs:level":"locality",
+    "qs:loc":"Bredsten",
+    "qs:loc_alt":"Bredsten",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623486,
+        "gp:id":552607,
+        "qs:id":338778,
+        "qs_pg:id":338778,
+        "wd:id":"Q1984534",
+        "wk:page":"Bredsten"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fef4c68e3d2b7a35a5e81b9f813ec020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":101846063,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101846063,
+    "wof:lastmodified":1530296471,
+    "wof:name":"Bredsten",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3719350705764,
+    55.69734558177868,
+    9.3927698926019,
+    55.71255343699312
+],
+  "geometry": {"coordinates":[[[9.37352503135276,55.71255343699312],[9.37353924209731,55.71165476444429],[9.37830901974928,55.71167814045657],[9.3783795210652,55.70718477632954],[9.38155901518297,55.70720025908258],[9.38157304104999,55.70630158618434],[9.38316275292647,55.7063092975892],[9.38317674198385,55.70541062460057],[9.39112512974089,55.70544888292096],[9.39115274512517,55.70365153529275],[9.39274235229851,55.70365912702266],[9.3927698926019,55.70186177943737],[9.38959082299004,55.70184657691709],[9.38966002101762,55.69735321182071],[9.38807066723962,55.69734558177868],[9.38805679310542,55.69824425438367],[9.38328862711398,55.69822124460768],[9.38327464412907,55.69911991672666],[9.37691695341471,55.69908895842264],[9.37690282553399,55.69998762984989],[9.37372391159408,55.69997203123359],[9.37369550938337,55.70176937360753],[9.37210598121635,55.70176154412883],[9.37204902337254,55.70535622937126],[9.37522836863587,55.70537187010103],[9.37518585843554,55.70806788638856],[9.37359607736164,55.70806007534168],[9.37355345207061,55.71075609200489],[9.37196356341542,55.71074826050199],[9.3719350705764,55.71254560508521],[9.37352503135276,55.71255343699312]]],"type":"Polygon"}
+}

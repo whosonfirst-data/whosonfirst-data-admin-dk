@@ -1,0 +1,64 @@
+{
+  "id": 420784575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6073008229,55.6357928399,12.6073008229,55.6357928399",
+    "geom:latitude":55.635793,
+    "geom:longitude":12.607301,
+    "iso:country":"DK",
+    "lbl:latitude":55.635793,
+    "lbl:longitude":12.607301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297727,
+        85633121,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24865782
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"97fa3bf4be96648ff6333c273c7ad52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784575,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784575,
+    "wof:lastmodified":1530291683,
+    "wof:name":"Korsvejen",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60730082286611,
+    55.63579283991636,
+    12.60730082286611,
+    55.63579283991636
+],
+  "geometry": {"coordinates":[12.60730082286611,55.63579283991636],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192993555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80824,56.71072,9.80824,56.71072",
+    "geom:latitude":56.71072,
+    "geom:longitude":9.80824,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"846.0",
+    "gn:asciiname":"Vester Doense",
+    "gn:country_code":"DK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2610465,
+    "gn:latitude":56.71072,
+    "gn:longitude":9.80824,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vester Doense",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doense",
+        "Vester Doens",
+        "Vester Doense"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297835,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610465
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f4e0fc052a1c11a6f4568679eeafac51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297835,
+            "locality_id":1192993555,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1192993555,
+    "wof:lastmodified":1537619790,
+    "wof:name":"Vester Doense",
+    "wof:parent_id":1159297835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80824,
+    56.71072,
+    9.80824,
+    56.71072
+],
+  "geometry": {"coordinates":[9.80824,56.71072],"type":"Point"}
+}

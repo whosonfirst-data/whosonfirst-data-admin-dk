@@ -1,0 +1,68 @@
+{
+  "id": 1310069939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3731,55.69458,8.3731,55.69458",
+    "geom:latitude":55.69458,
+    "geom:longitude":8.3731,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Vittarp",
+    "gn:country_code":"DK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610126,
+    "gn:latitude":55.69458,
+    "gn:longitude":8.3731,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vittarp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610126
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f26d72870b28441a1a74c8593074afa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1310069939,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310069939,
+    "wof:lastmodified":1537046030,
+    "wof:name":"Vittarp",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3731,
+    55.69458,
+    8.3731,
+    55.69458
+],
+  "geometry": {"coordinates":[8.3731,55.69458],"type":"Point"}
+}

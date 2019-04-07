@@ -1,0 +1,118 @@
+{
+  "id": 85905937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":35300.798989,
+    "geom:bbox":"12.566986084,55.6740974379,12.5712190791,55.6758421319",
+    "geom:latitude":55.674908,
+    "geom:longitude":12.569217,
+    "iso:country":"DK",
+    "lbl:latitude":55.675267,
+    "lbl:longitude":12.569491,
+    "mps:latitude":55.674971,
+    "mps:longitude":12.569469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:eng_x_variant":[
+        "H.C.Andersens Boulevard"
+    ],
+    "name:fra_x_preferred":[
+        "Boulevard H.C. Andersens"
+    ],
+    "name:nld_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:nor_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:spa_x_preferred":[
+        "Bulevar H. C. Andersens"
+    ],
+    "name:unk_x_variant":[
+        "H.C.Andersens Boulevard"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"H.C.Andersens Boulevard",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"H.C.Andersens Boulevard",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":339,
+    "qs:photo_sum":2777,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":384,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229207,
+        "wd:id":"Q2136395"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"63c355854bfcc3a199b5e6db5c03f306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905937,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905937,
+    "wof:lastmodified":1530296539,
+    "wof:name":"H.C.Andersens Boulevard",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56698608400006,
+    55.67409743794822,
+    12.57121907914609,
+    55.67584213186122
+],
+  "geometry": {"coordinates":[[[12.56904602051407,55.67584213186122],[12.56938934328338,55.67584213183342],[12.56973266601665,55.67584213183342],[12.57007598878454,55.67584213184391],[12.57007598878454,55.67564854045956],[12.57041931151275,55.67564854048761],[12.57041931151582,55.67545494814395],[12.57076263428445,55.67545494814395],[12.57076263428445,55.6752613548597],[12.57110595700004,55.67526135462903],[12.57121907867378,55.67526135441277],[12.57118269059703,55.67506776055005],[12.57121907914609,55.67487416495023],[12.57110595700016,55.67467355422595],[12.57110595700016,55.67448697170637],[12.57041931150013,55.67448697170637],[12.57041931150013,55.67430038407055],[12.57041931150013,55.67409977520005],[12.57007994268992,55.67409977520005],[12.57007598878346,55.67409743794822],[12.57007203485961,55.67409977520005],[12.56973266600011,55.67409977520005],[12.56939329719052,55.67409977520005],[12.56938934327519,55.67409743794822],[12.56938538935935,55.67409977520005],[12.56904602050002,55.67409977520005],[12.56870665168964,55.67409977520005],[12.568702697775,55.67409743794822],[12.56869874385916,55.67409977520005],[12.568359375,55.67409977520005],[12.568359375,55.67429337302509],[12.56835344476013,55.67429687853787],[12.5682462517965,55.6744869723001],[12.56778585261929,55.6744869723001],[12.56767272950009,55.6744869723001],[12.56698608400006,55.6744869723001],[12.56698608400006,55.67526135463073],[12.56766481924433,55.67526135500005],[12.56767272950015,55.67526603104155],[12.56768063975608,55.67526135500005],[12.56824625360082,55.67526135500005],[12.56828264124891,55.67545494805016],[12.568359375,55.67545494812005],[12.56870269778443,55.67545494814395],[12.56870269778443,55.67564854045956],[12.56904602051571,55.67564854045956],[12.56904602051407,55.67584213186122]]],"type":"Polygon"}
+}

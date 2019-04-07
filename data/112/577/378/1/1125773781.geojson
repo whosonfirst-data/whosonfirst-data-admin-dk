@@ -1,0 +1,82 @@
+{
+  "id": 1125773781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.138484,55.519958,11.138484,55.519958",
+    "geom:latitude":55.519958,
+    "geom:longitude":11.138484,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":55.519958,
+    "lbl:longitude":11.138484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dalby Strand",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":493368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20098603,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098603,
+        "qs_pg:id":493368
+    },
+    "wof:country":"DK",
+    "wof:created":1497290167,
+    "wof:geomhash":"129c971ae4e943c5b50d918e19407bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":1125773781,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125773781,
+    "wof:lastmodified":1530290963,
+    "wof:name":"Dalby Strand",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.138484,
+    55.519958,
+    11.138484,
+    55.519958
+],
+  "geometry": {"coordinates":[11.138484,55.519958],"type":"Point"}
+}

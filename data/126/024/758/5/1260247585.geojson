@@ -1,0 +1,68 @@
+{
+  "id": 1260247585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39206,57.04074,9.39206,57.04074",
+    "geom:latitude":57.04074,
+    "geom:longitude":9.39206,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"849.0",
+    "gn:asciiname":"Haverslev",
+    "gn:country_code":"DK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620656,
+    "gn:latitude":57.04074,
+    "gn:longitude":9.39206,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Haverslev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297909,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620656
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8eec6173c2f2232a08610aff914082a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297909,
+            "locality_id":1260247585,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1260247585,
+    "wof:lastmodified":1536760815,
+    "wof:name":"Haverslev",
+    "wof:parent_id":1159297909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39206,
+    57.04074,
+    9.39206,
+    57.04074
+],
+  "geometry": {"coordinates":[9.39206,57.04074],"type":"Point"}
+}

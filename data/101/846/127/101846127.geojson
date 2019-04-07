@@ -1,0 +1,91 @@
+{
+  "id": 101846127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1184061.244904,
+    "geom:bbox":"10.188466684,57.535040511,10.2084554878,57.5485387311",
+    "geom:latitude":57.541336,
+    "geom:longitude":10.198139,
+    "iso:country":"DK",
+    "lbl:latitude":57.541219,
+    "lbl:longitude":10.19733,
+    "mps:latitude":57.541219,
+    "mps:longitude":10.19733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Bindslev"
+    ],
+    "name:dut_x_preferred":[
+        "Bindslev"
+    ],
+    "name:eng_x_preferred":[
+        "Bindslev"
+    ],
+    "name:nld_x_preferred":[
+        "Bindslev"
+    ],
+    "name:unk_x_variant":[
+        "N\u00f8rre Bindslev"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Hj\u00f8rring",
+    "qs:la_lc":"*DK1081860",
+    "qs:level":"locality",
+    "qs:loc":"Bindslev",
+    "qs:loc_alt":"Bindslev",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616357,
+        "gp:id":555835,
+        "qs:id":1184468,
+        "wd:id":"Q2577410"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ec578740304df1ed000a6dc613004c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":101846127,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101846127,
+    "wof:lastmodified":1530296478,
+    "wof:name":"Bindslev",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18846668400221,
+    57.53504051103675,
+    10.208455487827,
+    57.54853873108726
+],
+  "geometry": {"coordinates":[[[10.20181917102883,57.54672820030771],[10.20181428107799,57.54582914592032],[10.20515003664718,57.54582403106588],[10.20514506615683,57.54492497704723],[10.20681290320647,57.54492238824764],[10.20680789259359,57.54402333452799],[10.20514009595126,57.54402592325636],[10.20512518704197,57.54132876325082],[10.20679286247582,57.54132617473613],[10.20678785301027,57.54042712192762],[10.208455487827,57.54042451252531],[10.20844538896654,57.53862640773474],[10.20677783493892,57.5386290169933],[10.20676781801455,57.53683091296904],[10.20176539696575,57.53683861457517],[10.20175562350073,57.53504051103675],[10.19175126031109,57.53505534760461],[10.19177448440183,57.53955061019701],[10.19010688787091,57.53955300994443],[10.19013452314493,57.54494733296292],[10.18846668400221,57.54494971214461],[10.18847125039412,57.5458487668439],[10.19347488844625,57.54584156621536],[10.19348895292171,57.54853873108726],[10.19849295285951,57.54853134118719],[10.19848333378081,57.54673323145124],[10.20181917102883,57.54672820030771]]],"type":"Polygon"}
+}

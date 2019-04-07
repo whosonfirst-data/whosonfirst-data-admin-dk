@@ -1,0 +1,76 @@
+{
+  "id": 101805753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:bbox":"10.1216662258,56.4941533852,10.1378915692,56.5049443716",
+    "geom:latitude":56.498944,
+    "geom:longitude":10.129818,
+    "iso:country":"DK",
+    "lbl:latitude":56.499118,
+    "lbl:longitude":10.129663,
+    "mps:latitude":56.499118,
+    "mps:longitude":10.129663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Harreslev"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Randers",
+    "qs:la_lc":"*DK1082730",
+    "qs:level":"locality",
+    "qs:loc":"Harridslev",
+    "qs:loc_alt":"Harridslev",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297903,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620731,
+        "gp:id":553871,
+        "qs:id":927449
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7317b41354c24104d1a3402cf1d4d9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297903,
+            "locality_id":101805753,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805753,
+    "wof:lastmodified":1530292290,
+    "wof:name":"Harridslev",
+    "wof:parent_id":1159297903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.12166622579781,
+    56.49415338523454,
+    10.13789156920689,
+    56.50494437157369
+],
+  "geometry": {"coordinates":[[[10.13467534172912,56.50494103965372],[10.13467219963098,56.50404220888868],[10.13304964661637,56.50404388496236],[10.1330403349254,56.50134739350347],[10.13628521370958,56.50134402130868],[10.13626931923397,56.4968498725533],[10.13789156920689,56.49684815621208],[10.13788835300375,56.4959493269904],[10.13626614086832,56.49595104328591],[10.13625978466615,56.49415338523454],[10.12814910034876,56.49416166160597],[10.12815208919562,56.49506049077081],[10.12490773890727,56.4950636592331],[10.12491065224918,56.4959624886431],[10.12166622579781,56.49596557594509],[10.1216690636266,56.49686440559827],[10.12329131475042,56.49686287206214],[10.12331432583005,56.50405351476917],[10.12493687960779,56.50405196059126],[10.12493396480943,56.50315312972907],[10.12980151183444,56.5031483454265],[10.12980454019527,56.50404717616186],[10.13142709347085,56.50404554072003],[10.13143015985622,56.50494437157369],[10.13467534172912,56.50494103965372]]],"type":"Polygon"}
+}

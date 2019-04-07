@@ -1,0 +1,68 @@
+{
+  "id": 1310164607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32316,54.87665,9.32316,54.87665",
+    "geom:latitude":54.87665,
+    "geom:longitude":9.32316,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Vejbaek",
+    "gn:country_code":"DK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610641,
+    "gn:latitude":54.87665,
+    "gn:longitude":9.32316,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vejb\u00e6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297783,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610641
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8a93248c01d96dbbc14fd046626ce868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297783,
+            "locality_id":1310164607,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310164607,
+    "wof:lastmodified":1536911826,
+    "wof:name":"Vejbaek",
+    "wof:parent_id":1159297783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32316,
+    54.87665,
+    9.32316,
+    54.87665
+],
+  "geometry": {"coordinates":[9.32316,54.87665],"type":"Point"}
+}

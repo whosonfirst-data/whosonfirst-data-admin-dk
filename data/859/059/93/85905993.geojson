@@ -1,0 +1,106 @@
+{
+  "id": 85905993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":30307.331351,
+    "geom:bbox":"12.5862121582,55.6841585633,12.589184954,55.6865023842",
+    "geom:latitude":55.685423,
+    "geom:longitude":12.587551,
+    "iso:country":"DK",
+    "lbl:latitude":55.685388,
+    "lbl:longitude":12.587696,
+    "mps:latitude":55.685327,
+    "mps:longitude":12.587431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":20.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Klerkegade"
+    ],
+    "name:eng_x_variant":[
+        "Klerkegade"
+    ],
+    "name:unk_x_variant":[
+        "Klerkegade"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Klerkegade",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Klerkegade",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":23,
+    "qs:photo_sum":97,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":393,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229272,
+        "wd:id":"Q18343461"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"59ebe26148d7cab94da327b2221a403c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905993,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905993,
+    "wof:lastmodified":1530296549,
+    "wof:name":"Klerkegade",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58621215820011,
+    55.68415856329317,
+    12.58918495395733,
+    55.68650238422738
+],
+  "geometry": {"coordinates":[[[12.5889587402001,55.68650238422738],[12.58918495395733,55.68610110065028],[12.58912027903875,55.68575692204662],[12.58906384675953,55.68571402012522],[12.5889587402001,55.68552757376544],[12.5889587402001,55.68532693510004],[12.5888456326565,55.68532693482301],[12.58827209470013,55.68532693450645],[12.58827209470007,55.68493984466663],[12.58827209470013,55.68455747482516],[12.58827209470007,55.68455275170005],[12.58826410669286,55.68455275170005],[12.58759743371354,55.68415856329317],[12.58758544920005,55.68416564942528],[12.58757346474619,55.68417273552224],[12.58735923238731,55.68455275009585],[12.58621215820011,55.6845527492939],[12.58621215820011,55.68532693297506],[12.58621215820011,55.68610110107527],[12.58735923652108,55.68610110208449],[12.58758544920005,55.68650238422738],[12.58826408400336,55.68610110320004],[12.58827209470007,55.68610110320004],[12.58828010539708,55.68610110320004],[12.5889587402001,55.68650238422738]]],"type":"Polygon"}
+}

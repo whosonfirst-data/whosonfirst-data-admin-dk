@@ -1,0 +1,121 @@
+{
+  "id": 101805623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000213,
+    "geom:area_square_m":1473111.74897,
+    "geom:bbox":"9.37904521068,55.9562138244,9.40638665229,55.9705626759",
+    "geom:latitude":55.964131,
+    "geom:longitude":9.393228,
+    "iso:country":"DK",
+    "lbl:latitude":55.965639,
+    "lbl:longitude":9.391156,
+    "mps:latitude":55.965639,
+    "mps:longitude":9.391156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "N\u00f8rre-Snede Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "N\u00f8rre-Snede Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "N\u00f8rre-Snede"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rre-Snede Municipality"
+    ],
+    "name:fao_x_preferred":[
+        "N\u00f8rre-Snede kommuna"
+    ],
+    "name:ger_x_preferred":[
+        "N\u00f8rre-Snede Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f8rre Snede"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rre-Snede"
+    ],
+    "name:nob_x_preferred":[
+        "N\u00f8rre-Snede"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rre-Snede"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina N\u00f8rre-Snede"
+    ],
+    "name:por_x_preferred":[
+        "N\u00f8rre-Snede"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna N\u00f8rre-Snede"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna N\u00f8rre-Snede"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f8rre-Snede kommun"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Ikast-Brande",
+    "qs:la_lc":"*DK1082756",
+    "qs:level":"locality",
+    "qs:loc":"N\u00f8rre Snede",
+    "qs:loc_alt":"Norre Snede",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616248,
+        "gp:id":555891,
+        "qs:id":931510,
+        "wd:id":"Q1812841",
+        "wk:page":"N\u00f8rre-Snede Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0f78435155c4435dc72dc17e1dd6814c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":101805623,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805623,
+    "wof:lastmodified":1530292556,
+    "wof:name":"N\u00f8rre Snede",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37904521067884,
+    55.95621382441612,
+    9.40638665229216,
+    55.97056267587374
+],
+  "geometry": {"coordinates":[[[9.38701876802975,55.97056267587374],[9.38703279982218,55.96966396738759],[9.39663498301439,55.96970956916738],[9.39666260476764,55.96791215019425],[9.4014634843648,55.96793467991813],[9.40149088335454,55.96613726027266],[9.40469132610554,55.9661521793189],[9.40477306571051,55.96075992106103],[9.40637306824044,55.96076734942619],[9.40638665229216,55.95986863996166],[9.39838682835875,55.95983129916806],[9.39844188921541,55.95623646645475],[9.39364244094747,55.95621382441612],[9.39362856706038,55.9571125318169],[9.39202871552055,55.95710494428982],[9.39195915167397,55.96159848217917],[9.38235895643186,55.96155253119679],[9.38227413648519,55.9669447736083],[9.37907363667944,55.96692929423637],[9.37904521067884,55.96872670856965],[9.38384618102066,55.96874989884054],[9.383832076739,55.96964860680015],[9.38543243798819,55.96965629709354],[9.38541836956568,55.97055500537959],[9.38701876802975,55.97056267587374]]],"type":"Polygon"}
+}

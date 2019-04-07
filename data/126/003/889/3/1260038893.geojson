@@ -1,0 +1,68 @@
+{
+  "id": 1260038893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.38333,55.86667,9.38333,55.86667",
+    "geom:latitude":55.86667,
+    "geom:longitude":9.38333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Norre Kollemorten",
+    "gn:country_code":"DK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616301,
+    "gn:latitude":55.86667,
+    "gn:longitude":9.38333,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"N\u00f8rre Kollemorten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616301
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"684fcf3d0347344a2db85fd7bc309264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1260038893,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1260038893,
+    "wof:lastmodified":1537050295,
+    "wof:name":"Norre Kollemorten",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.38333,
+    55.86666999999999,
+    9.38333,
+    55.86666999999999
+],
+  "geometry": {"coordinates":[9.38333,55.86666999999999],"type":"Point"}
+}

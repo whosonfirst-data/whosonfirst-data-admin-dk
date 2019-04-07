@@ -1,0 +1,72 @@
+{
+  "id": 1310564769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16983,55.8315,12.16983,55.8315",
+    "geom:latitude":55.8315,
+    "geom:longitude":12.16983,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"250.0",
+    "gn:asciiname":"Jorlunde",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619269,
+    "gn:latitude":55.8315,
+    "gn:longitude":12.16983,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"J\u00f8rlunde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00f8rlunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297729,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619269,
+        "wk:page":"J%C3%B8rlunde"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"112ce1d6f101c84aee23ed1ea02925f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297729,
+            "locality_id":1310564769,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1310564769,
+    "wof:lastmodified":1537619856,
+    "wof:name":"Jorlunde",
+    "wof:parent_id":1159297729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16983,
+    55.8315,
+    12.16983,
+    55.8315
+],
+  "geometry": {"coordinates":[12.16983,55.8315],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243032457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92601,55.24566,9.92601,55.24566",
+    "geom:latitude":55.24566,
+    "geom:longitude":9.92601,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"420.0",
+    "gn:asciiname":"Saltofte",
+    "gn:country_code":"DK",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614294,
+    "gn:latitude":55.24566,
+    "gn:longitude":9.92601,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Saltofte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297891,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614294
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ea22133e284462c024a1abfe33aedbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297891,
+            "locality_id":1243032457,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243032457,
+    "wof:lastmodified":1536905629,
+    "wof:name":"Saltofte",
+    "wof:parent_id":1159297891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92601,
+    55.24566,
+    9.92601,
+    55.24566
+],
+  "geometry": {"coordinates":[9.92601,55.24566],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327407923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55,55.78333,8.55,55.78333",
+    "geom:latitude":55.78333,
+    "geom:longitude":8.55,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"573.0",
+    "gn:asciiname":"Katrevel",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619011,
+    "gn:latitude":55.78333,
+    "gn:longitude":8.55,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Katrevel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297925,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619011
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d283192ee5f01d0fd438b7dd2bc06716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297925,
+            "locality_id":1327407923,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1327407923,
+    "wof:lastmodified":1536716505,
+    "wof:name":"Katrevel",
+    "wof:parent_id":1159297925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55,
+    55.78333000000001,
+    8.55,
+    55.78333000000001
+],
+  "geometry": {"coordinates":[8.55,55.78333000000001],"type":"Point"}
+}

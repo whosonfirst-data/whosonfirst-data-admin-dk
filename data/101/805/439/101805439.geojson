@@ -1,0 +1,103 @@
+{
+  "id": 101805439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:bbox":"10.2482145708,55.2258354456,10.2670780665,55.2375340546",
+    "geom:latitude":55.231567,
+    "geom:longitude":10.257658,
+    "iso:country":"DK",
+    "lbl:latitude":55.231776,
+    "lbl:longitude":10.257838,
+    "mps:latitude":55.231776,
+    "mps:longitude":10.257838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u062a\u0634\u0627\u0631\u062f \u0645\u0648\u0644\u0631 \u0646\u064a\u0644\u0633\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:dan_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:deu_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:est_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:fin_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:fra_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05e6'\u05e8\u05d3 \u05de\u05d5\u05dc\u05e8 \u05e0\u05d9\u05dc\u05e1\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "name:spa_x_preferred":[
+        "Richard M\u00f8ller Nielsen"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Faaborg-Midtfyn",
+    "qs:la_lc":"*DK1083430",
+    "qs:level":"locality",
+    "qs:loc":"Brobyv\u00e6rk",
+    "qs:loc_alt":"Brobyvark",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623385,
+        "gp:id":552645,
+        "qs:id":931056
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b8f24a38ddc4872ac03ca5fd26467d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":101805439,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805439,
+    "wof:lastmodified":1530292052,
+    "wof:name":"Brobyv\u00e6rk",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.24821457075643,
+    55.22583544557011,
+    10.26707806647084,
+    55.23753405457575
+],
+  "geometry": {"coordinates":[[[10.26238252336378,55.23572063708292],[10.2623766699831,55.23482198290571],[10.26394777441789,55.23481870262196],[10.26394188630354,55.23392004860921],[10.26551295545227,55.23391674882583],[10.26550703260784,55.23301809497781],[10.26707806647084,55.23301477569589],[10.26705423810313,55.22942016144765],[10.2623415562818,55.2294300595384],[10.26231815341708,55.22583544557011],[10.25760588985548,55.22584516644667],[10.25761163501079,55.22674382006556],[10.25447005474035,55.22675020291962],[10.25447573013867,55.22764885678117],[10.25133407888217,55.22765516147928],[10.25135089668464,55.23035112402795],[10.24977996560591,55.23035424724605],[10.24978553710082,55.23125290166928],[10.24821457075643,55.23125600538555],[10.24823671954249,55.23485062420144],[10.25452114427065,55.23483809057223],[10.25453817958942,55.23753405457575],[10.25610939035181,55.2375308719665],[10.25610367655509,55.23663221729868],[10.26081720228569,55.23662255220705],[10.26081138364202,55.23572389786602],[10.26238252336378,55.23572063708292]]],"type":"Polygon"}
+}

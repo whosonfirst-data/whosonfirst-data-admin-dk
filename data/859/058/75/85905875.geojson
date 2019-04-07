@@ -1,0 +1,101 @@
+{
+  "id": 85905875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":273090.653005,
+    "geom:bbox":"12.6008658954,55.6744776107,12.6095581055,55.6812834792",
+    "geom:latitude":55.677831,
+    "geom:longitude":12.605161,
+    "iso:country":"DK",
+    "lbl:latitude":55.67797,
+    "lbl:longitude":12.604939,
+    "mps:latitude":55.678262,
+    "mps:longitude":12.604808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Danneskiold-Sams\u00f8es All\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Danneskiold-Sams\u00f8es All\u00e9"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Danneskiold-Sams\u00f8es All\u00e9",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Danneskiold-Sams\u00f8es All\u00e9",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":87,
+    "qs:photo_sum":527,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229137
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fc9985fc02e3ffec03c8d4c3172eedbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905875,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905875,
+    "wof:lastmodified":1530296527,
+    "wof:name":"Danneskiold-Sams\u00f8es All\u00e9",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6008658954475,
+    55.67447761069717,
+    12.6095581054866,
+    55.68128347915193
+],
+  "geometry": {"coordinates":[[[12.60440428318327,55.68128347915193],[12.60542229196045,55.68068160459994],[12.6054382324001,55.68068160459994],[12.6054382324001,55.68067218017735],[12.60576165786915,55.68048096221973],[12.60632727443272,55.68068160460003],[12.60681152341459,55.68085338328517],[12.60697295415252,55.68068158927532],[12.60726398474799,55.6791330328811],[12.6095581054866,55.67913302956062],[12.60955810548342,55.67758440343765],[12.60955810548347,55.67603571557784],[12.60726400212769,55.67603571848714],[12.60682735367118,55.67526133585021],[12.60681152340004,55.67526133585021],[12.60681152340004,55.6744869723001],[12.60545406909472,55.6744869723001],[12.6054382324001,55.67447761069717],[12.60542239570555,55.6744869723001],[12.60406494140005,55.6744869723001],[12.60406494140005,55.67564853102523],[12.60362828468499,55.6760357224001],[12.60358082217766,55.67603572240002],[12.60301517311433,55.67583509232507],[12.60269165040012,55.6760263450597],[12.60267578771146,55.67603572240002],[12.60131835940001,55.67603572095636],[12.60131835890911,55.67758440891096],[12.60097900463768,55.67818626102338],[12.60101141891721,55.67835872865031],[12.6008658954475,55.67913303291483],[12.60101141603684,55.67990732537528],[12.60131835940001,55.67990732644456],[12.60269165040012,55.67990732680961],[12.60269165040012,55.6806816022095],[12.60406494140005,55.68068160236884],[12.60440428318327,55.68128347915193]]],"type":"Polygon"}
+}

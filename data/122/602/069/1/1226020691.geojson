@@ -1,0 +1,68 @@
+{
+  "id": 1226020691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4241,56.11414,8.4241,56.11414",
+    "geom:latitude":56.11414,
+    "geom:longitude":8.4241,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Olstrup",
+    "gn:country_code":"DK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615731,
+    "gn:latitude":56.11414,
+    "gn:longitude":8.4241,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"\u00d8lstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615731
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"25f90e9b45d3e526902bc405fc2b3559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1226020691,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226020691,
+    "wof:lastmodified":1536761627,
+    "wof:name":"Olstrup",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4241,
+    56.11414,
+    8.4241,
+    56.11414
+],
+  "geometry": {"coordinates":[8.4241,56.11414],"type":"Point"}
+}

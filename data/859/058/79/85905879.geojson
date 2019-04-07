@@ -1,0 +1,101 @@
+{
+  "id": 85905879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":59405.155129,
+    "geom:bbox":"12.6035282836,55.6814275832,12.6074901841,55.684982367",
+    "geom:latitude":55.683068,
+    "geom:longitude":12.605664,
+    "iso:country":"DK",
+    "lbl:latitude":55.683053,
+    "lbl:longitude":12.605119,
+    "mps:latitude":55.683084,
+    "mps:longitude":12.605664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":19.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:eng_x_variant":[
+        "Dok\u00f8vej"
+    ],
+    "name:unk_x_variant":[
+        "Dok\u00f8vej"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:id":0,
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Dok\u00f8vej",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_en":"Dok\u00f8vej",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":96,
+    "qs:photo_sum":293,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.3.1",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20229140
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4f756b6374081bd4bed226d007553fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85905879,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85905879,
+    "wof:lastmodified":1530296528,
+    "wof:name":"Dok\u00f8vej",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60352828355656,
+    55.68142758315746,
+    12.607490184124,
+    55.68498236704123
+],
+  "geometry": {"coordinates":[[[12.60681152342499,55.68498236704123],[12.607490184124,55.68377853757507],[12.60735924513483,55.6833914468253],[12.60724167209332,55.68234874552694],[12.60726396728489,55.68223010475425],[12.60681152341675,55.68142758315746],[12.60569074133315,55.68209023321874],[12.60440541759459,55.68163427537421],[12.6043274188338,55.68186485606476],[12.60352828355656,55.68271532921834],[12.60358937881688,55.68325719251463],[12.60390725192258,55.6834988387469],[12.60406494188118,55.68377855199135],[12.6044042702236,55.68438045211958],[12.60518573212164,55.6839183939516],[12.60612487790002,55.68425157114312],[12.60681152342499,55.68498236704123]]],"type":"Polygon"}
+}

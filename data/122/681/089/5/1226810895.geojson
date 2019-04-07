@@ -1,0 +1,68 @@
+{
+  "id": 1226810895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46477,55.2993,11.46477,55.2993",
+    "geom:latitude":55.2993,
+    "geom:longitude":11.46477,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Ting Jellinge",
+    "gn:country_code":"DK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2611686,
+    "gn:latitude":55.2993,
+    "gn:longitude":11.46477,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Ting Jellinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611686
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"564a4a4d049453797394bcbdcecd9783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1226810895,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1226810895,
+    "wof:lastmodified":1536619751,
+    "wof:name":"Ting Jellinge",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46477,
+    55.2993,
+    11.46477,
+    55.2993
+],
+  "geometry": {"coordinates":[11.46477,55.2993],"type":"Point"}
+}

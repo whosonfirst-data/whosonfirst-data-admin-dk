@@ -1,0 +1,68 @@
+{
+  "id": 1276940897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92192,55.74967,11.92192,55.74967",
+    "geom:latitude":55.74967,
+    "geom:longitude":11.92192,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"250.0",
+    "gn:asciiname":"Rogerup",
+    "gn:country_code":"DK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614589,
+    "gn:latitude":55.74967,
+    "gn:longitude":11.92192,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"R\u00f8gerup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297729,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614589
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7ec00d84a7942c5a04349bbcc0dc3f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297729,
+            "locality_id":1276940897,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1276940897,
+    "wof:lastmodified":1536959587,
+    "wof:name":"Rogerup",
+    "wof:parent_id":1159297729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92192,
+    55.74967,
+    11.92192,
+    55.74967
+],
+  "geometry": {"coordinates":[11.92192,55.74967],"type":"Point"}
+}

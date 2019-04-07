@@ -1,0 +1,68 @@
+{
+  "id": 1260246755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65353,55.41826,11.65353,55.41826",
+    "geom:latitude":55.41826,
+    "geom:longitude":11.65353,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Hylstrup",
+    "gn:country_code":"DK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619455,
+    "gn:latitude":55.41826,
+    "gn:longitude":11.65353,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Hylstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297921,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619455
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a7b76831320baf3b92378db55c3665ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297921,
+            "locality_id":1260246755,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1260246755,
+    "wof:lastmodified":1536762013,
+    "wof:name":"Hylstrup",
+    "wof:parent_id":1159297921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65353,
+    55.41826,
+    11.65353,
+    55.41826
+],
+  "geometry": {"coordinates":[11.65353,55.41826],"type":"Point"}
+}

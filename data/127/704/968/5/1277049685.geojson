@@ -1,0 +1,68 @@
+{
+  "id": 1277049685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76177,54.90305,10.76177,54.90305",
+    "geom:latitude":54.90305,
+    "geom:longitude":10.76177,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"482.0",
+    "gn:asciiname":"Fuglsbolle",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621782,
+    "gn:latitude":54.90305,
+    "gn:longitude":10.76177,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Fuglsb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297841,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621782
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c7d494b70465d9fed0eb50a697ec714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297841,
+            "locality_id":1277049685,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1277049685,
+    "wof:lastmodified":1536812920,
+    "wof:name":"Fuglsbolle",
+    "wof:parent_id":1159297841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76177,
+    54.90305,
+    10.76177,
+    54.90305
+],
+  "geometry": {"coordinates":[10.76177,54.90305],"type":"Point"}
+}

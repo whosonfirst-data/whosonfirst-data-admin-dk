@@ -1,0 +1,62 @@
+{
+  "id": 1209068153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.62453,55.5558,11.62453,55.5558",
+    "geom:latitude":55.5558,
+    "geom:longitude":11.62453,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"340.0",
+    "gn:asciiname":"Stenmagle",
+    "gn:country_code":"DK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612627,
+    "gn:latitude":55.5558,
+    "gn:longitude":11.62453,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Stenmagle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612627
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"11b0a46be152779f1cf8ebff2aac479c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209068153
+        }
+    ],
+    "wof:id":1209068153,
+    "wof:lastmodified":1536298735,
+    "wof:name":"Stenmagle",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.62453,
+    55.5558,
+    11.62453,
+    55.5558
+],
+  "geometry": {"coordinates":[11.62453,55.5558],"type":"Point"}
+}

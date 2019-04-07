@@ -1,0 +1,68 @@
+{
+  "id": 1276615725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36227,55.49466,11.36227,55.49466",
+    "geom:latitude":55.49466,
+    "geom:longitude":11.36227,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"326.0",
+    "gn:asciiname":"Nyrup",
+    "gn:country_code":"DK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615928,
+    "gn:latitude":55.49466,
+    "gn:longitude":11.36227,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Nyrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297757,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615928
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f287daa263da07835a7687f23d42c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297757,
+            "locality_id":1276615725,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1276615725,
+    "wof:lastmodified":1536897736,
+    "wof:name":"Nyrup",
+    "wof:parent_id":1159297757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36227,
+    55.49466,
+    11.36227,
+    55.49466
+],
+  "geometry": {"coordinates":[11.36227,55.49466],"type":"Point"}
+}

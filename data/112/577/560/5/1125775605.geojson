@@ -1,0 +1,82 @@
+{
+  "id": 1125775605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.734423,55.255642,9.734423,55.255642",
+    "geom:latitude":55.255642,
+    "geom:longitude":9.734423,
+    "gn:gn_country":"DK",
+    "iso:country":"DK",
+    "lbl:latitude":55.255642,
+    "lbl:longitude":9.734423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:name":"\u00c5r\u00f8 By",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077507,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":552028,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297747,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":552028,
+        "qs_pg:id":1077507
+    },
+    "wof:country":"DK",
+    "wof:created":1497290242,
+    "wof:geomhash":"00e35a1c9d0948d868ecdc1ca04296c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297747,
+            "locality_id":1125775605,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1125775605,
+    "wof:lastmodified":1530290805,
+    "wof:name":"\u00c5r\u00f8 By",
+    "wof:parent_id":1159297747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.734423,
+    55.255642,
+    9.734423,
+    55.255642
+],
+  "geometry": {"coordinates":[9.734423,55.255642],"type":"Point"}
+}

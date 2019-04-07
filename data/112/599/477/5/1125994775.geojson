@@ -1,0 +1,91 @@
+{
+  "id": 1125994775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.22576,55.57258,12.22576,55.57258",
+    "geom:latitude":55.57258,
+    "geom:longitude":12.22576,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":55.57258,
+    "lbl:longitude":12.22576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kalfslunde"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2619087,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Karlslunde",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":746,
+    "qs_pg:photos_1k":151,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":746,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239531,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":554661,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297765,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619087,
+        "gp:id":554661,
+        "qs_pg:id":239531
+    },
+    "wof:country":"DK",
+    "wof:created":1497299252,
+    "wof:geomhash":"456f68371e5d3bc1a3bdf3cb22cd62bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297765,
+            "locality_id":1125994775,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125994775,
+    "wof:lastmodified":1530291020,
+    "wof:name":"Karlslunde",
+    "wof:parent_id":1159297765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.22576,
+    55.57258,
+    12.22576,
+    55.57258
+],
+  "geometry": {"coordinates":[12.22576,55.57258],"type":"Point"}
+}

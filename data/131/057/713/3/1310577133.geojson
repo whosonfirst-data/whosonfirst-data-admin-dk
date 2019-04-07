@@ -1,0 +1,61 @@
+{
+  "id": 1310577133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8,56.63333,10.8,56.63333",
+    "geom:latitude":56.63333,
+    "geom:longitude":10.8,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Emmelev",
+    "gn:country_code":"DK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622549,
+    "gn:latitude":56.63333,
+    "gn:longitude":10.8,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Emmelev",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622549
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9062b5e19671fcdb6342518c9cdefa35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310577133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310577133,
+    "wof:lastmodified":1536813049,
+    "wof:name":"Emmelev",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8,
+    56.63333000000001,
+    10.8,
+    56.63333000000001
+],
+  "geometry": {"coordinates":[10.8,56.63333000000001],"type":"Point"}
+}

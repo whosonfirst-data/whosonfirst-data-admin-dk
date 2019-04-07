@@ -1,0 +1,68 @@
+{
+  "id": 1259557675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97708,55.42285,9.97708,55.42285",
+    "geom:latitude":55.42285,
+    "geom:longitude":9.97708,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"410.0",
+    "gn:asciiname":"Honnerup Hovgard",
+    "gn:country_code":"DK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2619879,
+    "gn:latitude":55.42285,
+    "gn:longitude":9.97708,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"H\u00f8nnerup Hovg\u00e5rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297791,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2619879
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d70367f7561879a9eab1d80cd3593738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297791,
+            "locality_id":1259557675,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1259557675,
+    "wof:lastmodified":1536752058,
+    "wof:name":"Honnerup Hovgard",
+    "wof:parent_id":1159297791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97708,
+    55.42285,
+    9.97708,
+    55.42285
+],
+  "geometry": {"coordinates":[9.97708,55.42285],"type":"Point"}
+}

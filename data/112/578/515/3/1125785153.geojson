@@ -1,0 +1,96 @@
+{
+  "id": 1125785153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99544,56.01462,8.99544,56.01462",
+    "geom:latitude":56.01462,
+    "geom:longitude":8.99544,
+    "gn:gn_country":"DK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"DK",
+    "lbl:latitude":56.01462,
+    "lbl:longitude":8.99544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Arnborg"
+    ],
+    "name:dut_x_preferred":[
+        "Arnborg"
+    ],
+    "name:eng_x_preferred":[
+        "Arnborg"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2624622,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"F\u00e5rborg",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":335801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":20098674,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297725,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624622,
+        "gp:id":20098674,
+        "qs_pg:id":335801,
+        "wd:id":"Q2783410"
+    },
+    "wof:country":"DK",
+    "wof:created":1497290645,
+    "wof:geomhash":"ca727893696090e76392b6434b5c5f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297725,
+            "locality_id":1125785153,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125785153,
+    "wof:lastmodified":1530290396,
+    "wof:name":"F\u00e5rborg",
+    "wof:parent_id":1159297725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99544,
+    56.01462,
+    8.99544,
+    56.01462
+],
+  "geometry": {"coordinates":[8.99544,56.01462],"type":"Point"}
+}

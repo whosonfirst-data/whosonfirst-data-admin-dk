@@ -1,0 +1,129 @@
+{
+  "id": 101847779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1134667.20484,
+    "geom:bbox":"12.1336381293,55.9017882384,12.1656832741,55.9119905252",
+    "geom:latitude":55.908306,
+    "geom:longitude":12.151759,
+    "gn:population":2555,
+    "iso:country":"DK",
+    "lbl:latitude":55.907662,
+    "lbl:longitude":12.150667,
+    "mps:latitude":55.907662,
+    "mps:longitude":12.150667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:dan_x_preferred":[
+        "Sk\u00e6vinge Kommune"
+    ],
+    "name:dan_x_variant":[
+        "Sk\u00e6vinge"
+    ],
+    "name:deu_x_preferred":[
+        "Sk\u00e6vinge Kommune"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:fao_x_preferred":[
+        "Sk\u00e6vinge kommuna"
+    ],
+    "name:fao_x_variant":[
+        "Sk\u00e6vinge"
+    ],
+    "name:fra_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:ita_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:nld_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:nor_x_preferred":[
+        "Sk\u00e6vinge kommune"
+    ],
+    "name:nor_x_variant":[
+        "Sk\u00e6vinge"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sk\u00e6vinge"
+    ],
+    "name:por_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00e6vinge"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Hovedstaden",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Hiller\u00f8d",
+    "qs:la_lc":"*DK1084219",
+    "qs:level":"locality",
+    "qs:loc":"Sk\u00e6vinge",
+    "qs:loc_alt":"Skavinge",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":435,
+    "wof:belongsto":[
+        102191581,
+        1159297779,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613471,
+        "gp:id":556972,
+        "qs:id":1034193,
+        "qs_pg:id":1034193,
+        "wd:id":"Q1364206",
+        "wk:page":"Sk\u00e6vinge"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c062c9b9680c4beb35508bc6ca4bf2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297779,
+            "locality_id":101847779,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":101847779,
+    "wof:lastmodified":1530296482,
+    "wof:name":"Sk\u00e6vinge",
+    "wof:parent_id":1159297779,
+    "wof:placetype":"locality",
+    "wof:population":2555,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1336381292553,
+    55.90178823836629,
+    12.16568327407992,
+    55.91199052515782
+],
+  "geometry": {"coordinates":[[[12.13693040253827,55.91103889328906],[12.14172259355473,55.91095871214839],[12.14177151428743,55.91185698619802],[12.16413534045029,55.91148042375971],[12.16408590967438,55.91058215950653],[12.16568327407992,55.91055511327016],[12.16553488865526,55.90786032321131],[12.16234037635456,55.90791439151548],[12.16229099278939,55.90701612695284],[12.16069376999076,55.90704313048116],[12.16054574471764,55.9043483352753],[12.15415727011856,55.90445614150519],[12.15410807940606,55.90355787382913],[12.15251099207165,55.90358477482295],[12.15241269152352,55.90178823836629],[12.15081567497805,55.9018151180166],[12.15091390270032,55.90361165587143],[12.14452552487626,55.90371898061306],[12.14462347197934,55.9055155244443],[12.14622064231844,55.90548872178266],[12.14641671428757,55.90908180784015],[12.1336381292553,55.90929569288443],[12.13378433697483,55.91199052515782],[12.13697921397176,55.9119371694245],[12.13693040253827,55.91103889328906]]],"type":"Polygon"}
+}

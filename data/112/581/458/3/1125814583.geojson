@@ -1,0 +1,82 @@
+{
+  "id": 1125814583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.133167,56.138663,8.133167,56.138663",
+    "geom:latitude":56.138663,
+    "geom:longitude":8.133167,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":56.138663,
+    "lbl:longitude":8.133167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lodbjerg Hede",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Midtjylland",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239421,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306640,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Midtjylland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306640,
+        "qs_pg:id":239421
+    },
+    "wof:country":"DK",
+    "wof:created":1497291788,
+    "wof:geomhash":"0dea8b84c699a65069c079cc9245d6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1125814583,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1125814583,
+    "wof:lastmodified":1530291948,
+    "wof:name":"Lodbjerg Hede",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.133167,
+    56.138663,
+    8.133167,
+    56.138663
+],
+  "geometry": {"coordinates":[8.133167,56.138663],"type":"Point"}
+}

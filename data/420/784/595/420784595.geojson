@@ -1,0 +1,97 @@
+{
+  "id": 420784595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.54947952,55.6952893154,12.54947952,55.6952893154",
+    "geom:latitude":55.695289,
+    "geom:longitude":12.54948,
+    "iso:country":"DK",
+    "lbl:latitude":55.695289,
+    "lbl:longitude":12.54948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0628\u0631\u0648"
+    ],
+    "name:dan_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:deu_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:eus_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:nor_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0451\u0440\u0440\u0435\u0431\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "src:geom":"unknown",
+    "wd:wordcount":745,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862993,
+        "wd:id":"Q2006997"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"26f12c188a7a7241df0b1bfc2a0ec738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784595,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784595,
+    "wof:lastmodified":1530296499,
+    "wof:name":"N\u00f8rrebro",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54947951996959,
+    55.69528931543174,
+    12.54947951996959,
+    55.69528931543174
+],
+  "geometry": {"coordinates":[12.54947951996959,55.69528931543174],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209373787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44959,55.43878,10.44959,55.43878",
+    "geom:latitude":55.43878,
+    "geom:longitude":10.44959,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"461.0",
+    "gn:asciiname":"Seden Strand",
+    "gn:country_code":"DK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614133,
+    "gn:latitude":55.43878,
+    "gn:longitude":10.44959,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Seden Strand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614133
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"07aefca68c464fc7a96abac2d45d5cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209373787
+        }
+    ],
+    "wof:id":1209373787,
+    "wof:lastmodified":1536289019,
+    "wof:name":"Seden Strand",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44959,
+    55.43878,
+    10.44959,
+    55.43878
+],
+  "geometry": {"coordinates":[10.44959,55.43878],"type":"Point"}
+}

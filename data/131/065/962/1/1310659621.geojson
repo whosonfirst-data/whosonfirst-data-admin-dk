@@ -1,0 +1,72 @@
+{
+  "id": 1310659621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37862,55.2088,10.37862,55.2088",
+    "geom:latitude":55.2088,
+    "geom:longitude":10.37862,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Nybolle",
+    "gn:country_code":"DK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616021,
+    "gn:latitude":55.2088,
+    "gn:longitude":10.37862,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nyb\u00f8lle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyb\u00f6lle Gaard",
+        "Nyb\u00f8lle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616021
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a0861909740fd31e0466e42141a4c2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1310659621,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1310659621,
+    "wof:lastmodified":1537619833,
+    "wof:name":"Nybolle",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37862,
+    55.2088,
+    10.37862,
+    55.2088
+],
+  "geometry": {"coordinates":[10.37862,55.2088],"type":"Point"}
+}

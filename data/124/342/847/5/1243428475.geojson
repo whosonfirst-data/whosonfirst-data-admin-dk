@@ -1,0 +1,72 @@
+{
+  "id": 1243428475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08275,55.82812,9.08275,55.82812",
+    "geom:latitude":55.82812,
+    "geom:longitude":9.08275,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Klink",
+    "gn:country_code":"DK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2618749,
+    "gn:latitude":55.82812,
+    "gn:longitude":9.08275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Klink",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klinken",
+        "Klink"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2618749
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"31ed16614da4bb21d06b6d0ffad6a84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1243428475,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1243428475,
+    "wof:lastmodified":1537619852,
+    "wof:name":"Klink",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08275,
+    55.82812,
+    9.08275,
+    55.82812
+],
+  "geometry": {"coordinates":[9.08275,55.82812],"type":"Point"}
+}

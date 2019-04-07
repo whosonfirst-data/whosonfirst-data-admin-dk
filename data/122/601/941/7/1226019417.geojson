@@ -1,0 +1,68 @@
+{
+  "id": 1226019417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68465,54.72292,11.68465,54.72292",
+    "geom:latitude":54.72292,
+    "geom:longitude":11.68465,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Musse Mader",
+    "gn:country_code":"DK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2616657,
+    "gn:latitude":54.72292,
+    "gn:longitude":11.68465,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Musse Mader",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616657
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0dd12862178678afdbfe8ca8b455594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1226019417,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1226019417,
+    "wof:lastmodified":1536763540,
+    "wof:name":"Musse Mader",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68465,
+    54.72292,
+    11.68465,
+    54.72292
+],
+  "geometry": {"coordinates":[11.68465,54.72292],"type":"Point"}
+}

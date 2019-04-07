@@ -1,0 +1,68 @@
+{
+  "id": 1293745445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04999,54.80649,12.04999,54.80649",
+    "geom:latitude":54.80649,
+    "geom:longitude":12.04999,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Meelse",
+    "gn:country_code":"DK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617002,
+    "gn:latitude":54.80649,
+    "gn:longitude":12.04999,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Meelse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297737,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617002
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"21efd3406386e4bd73f991d057c3996d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297737,
+            "locality_id":1293745445,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1293745445,
+    "wof:lastmodified":1536912870,
+    "wof:name":"Meelse",
+    "wof:parent_id":1159297737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04999,
+    54.80649,
+    12.04999,
+    54.80649
+],
+  "geometry": {"coordinates":[12.04999,54.80649],"type":"Point"}
+}

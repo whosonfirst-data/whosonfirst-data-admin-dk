@@ -1,0 +1,126 @@
+{
+  "id": 101805481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":1622449.032805,
+    "geom:bbox":"8.88009023221,55.829739284,8.90895076042,55.8458448649",
+    "geom:latitude":55.838724,
+    "geom:longitude":8.893416,
+    "iso:country":"DK",
+    "lbl:latitude":55.838259,
+    "lbl:longitude":8.896805,
+    "mps:latitude":55.838259,
+    "mps:longitude":8.896805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:cos_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:nds_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:por_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "name:tah_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Billund",
+    "qs:la_lc":"*DK1083530",
+    "qs:level":"locality",
+    "qs:loc":"S\u00f8nder Omme",
+    "qs:loc_alt":"Sonder Omme",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297863,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2612996,
+        "gp:id":557382,
+        "qs:id":1343760,
+        "qs_pg:id":1343760,
+        "wd:id":"Q2296478"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"69e8f1f781426cde1f3c8d838942a747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297863,
+            "locality_id":101805481,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101805481,
+    "wof:lastmodified":1530291869,
+    "wof:name":"S\u00f8nder Omme",
+    "wof:parent_id":1159297863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88009023220781,
+    55.82973928400895,
+    8.90895076042182,
+    55.84584486487773
+],
+  "geometry": {"coordinates":[[[8.8863689942699,55.84584486487773],[8.88639437385649,55.84494626096875],[8.887989553522,55.84496016137973],[8.8880148953877,55.84406155722274],[8.90077607962769,55.84417204037589],[8.90085122490683,55.84147621997766],[8.9040413133518,55.84150363939392],[8.90411622837405,55.83880781787769],[8.90890104182228,55.83884879439444],[8.90895076042182,55.83705157848732],[8.90257130181726,55.83699690612929],[8.90262130556346,55.83519969351221],[8.90102651613512,55.83518597633599],[8.90112665254344,55.83159155387744],[8.8979373673086,55.83156406262412],[8.89798757256472,55.82976685349661],[8.89479843671563,55.82973928400895],[8.89477326215723,55.83063788780089],[8.89317865948652,55.83062407282557],[8.89310301864998,55.83331988379985],[8.89150830808956,55.83330604783123],[8.89140728913941,55.83690046260131],[8.88502787627795,55.83684491378705],[8.88505327836123,55.83594631136771],[8.88026883870452,55.8359044416913],[8.88024332766076,55.83680304302368],[8.88183817614657,55.83681701986416],[8.88176174364781,55.83951282562532],[8.88016678618999,55.83949884769629],[8.88009023220781,55.84219465338305],[8.88168529865561,55.84220863240085],[8.88163432838547,55.84400583748214],[8.8832294685576,55.84401979730245],[8.88320401767743,55.84491840037492],[8.88479919524116,55.84493234063382],[8.8847737793144,55.84583094418133],[8.8863689942699,55.84584486487773]]],"type":"Polygon"}
+}

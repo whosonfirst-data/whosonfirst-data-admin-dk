@@ -1,0 +1,68 @@
+{
+  "id": 1309676799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.87969,55.00516,11.87969,55.00516",
+    "geom:latitude":55.00516,
+    "geom:longitude":11.87969,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Masnedsund",
+    "gn:country_code":"DK",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2617012,
+    "gn:latitude":55.00516,
+    "gn:longitude":11.87969,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Masnedsund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2617012
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"eb1c36ed2adc0699ee0ed02face8a4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1309676799,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1309676799,
+    "wof:lastmodified":1536618084,
+    "wof:name":"Masnedsund",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.87969,
+    55.00516,
+    11.87969,
+    55.00516
+],
+  "geometry": {"coordinates":[11.87969,55.00516],"type":"Point"}
+}

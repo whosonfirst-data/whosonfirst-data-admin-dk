@@ -1,0 +1,130 @@
+{
+  "id": 85898787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":19020.717434,
+    "geom:bbox":"12.5956555275,55.6814558627,12.5975378219,55.683391443",
+    "geom:latitude":55.682336,
+    "geom:longitude":12.596615,
+    "iso:country":"DK",
+    "lbl:latitude":55.682309,
+    "lbl:longitude":12.596453,
+    "mps:latitude":55.682262,
+    "mps:longitude":12.596616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Holmen"
+    ],
+    "name:deu_x_preferred":[
+        "Holmen"
+    ],
+    "name:est_x_preferred":[
+        "Holmen"
+    ],
+    "name:fra_x_preferred":[
+        "Holmen"
+    ],
+    "name:nld_x_preferred":[
+        "Holmen"
+    ],
+    "name:nor_x_preferred":[
+        "Holmen"
+    ],
+    "name:swe_x_preferred":[
+        "Holmen"
+    ],
+    "name:unk_x_variant":[
+        "Holmen"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2618425,
+    "qs:gn_nam_loc":"K\u00f8benhavn, K\u00f8benhavns Kommune, Hovedstaden, DK",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Holmen",
+    "qs:local_max":6764,
+    "qs:local_sum":248020,
+    "qs:localhoods":223,
+    "qs:name":"Holmen",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Hovedstaden",
+    "qs:name_adm2":"K\u00f8benhavns Kommune",
+    "qs:name_local":"K\u00f8benhavn",
+    "qs:photo_max":173,
+    "qs:photo_sum":473,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362583,
+    "qs:woe_adm2":28583793,
+    "qs:woe_lau":0,
+    "qs:woe_local":554890,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620086,
+        "gp:id":554234,
+        "qs:id":1082928,
+        "qs_pg:id":1082928,
+        "wd:id":"Q761716",
+        "wk:page":"Holmen, Copenhagen"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"06074a6400d58238958e4ebb654e1ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":85898787,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":85898787,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1534379286,
+    "wof:name":"Holmen",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        420784559
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59565552747654,
+    55.6814558627339,
+    12.59753782192547,
+    55.68339144297532
+],
+  "geometry": {"coordinates":[[[12.59720646947278,55.68339144297532],[12.59742470869202,55.68300433497528],[12.59741356213402,55.68294502157583],[12.59747234651877,55.68242366795006],[12.59753782192547,55.68223010697666],[12.5971984863001,55.6816282187424],[12.5971984863001,55.68145586277519],[12.59605142092914,55.6814558627339],[12.59582519530005,55.68145586470006],[12.59582519522553,55.6822301090415],[12.59565552747654,55.68253105414955],[12.59566366422354,55.68257435207825],[12.5957200625374,55.68261722505027],[12.59582519530005,55.68280370586142],[12.59582519530005,55.68300433880002],[12.59593830664375,55.68300433880002],[12.59604742749912,55.68319789355031],[12.59609352349554,55.68324695177374],[12.59650385600736,55.68300433880002],[12.59651184080008,55.68300433880002],[12.59651982559319,55.68300433880002],[12.59717453678218,55.68339144297532],[12.5971984863001,55.68339144297532],[12.59720646947278,55.68339144297532]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243148051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.20684,56.24309,9.20684,56.24309",
+    "geom:latitude":56.24309,
+    "geom:longitude":9.20684,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"791.0",
+    "gn:asciiname":"Bogelund",
+    "gn:country_code":"DK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2623780,
+    "gn:latitude":56.24309,
+    "gn:longitude":9.20684,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00f8gelund",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f8vllund",
+        "B\u00f8gelund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623780
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"209091466dd430fbe5733f6788e7c4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":1243148051,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1243148051,
+    "wof:lastmodified":1537619887,
+    "wof:name":"Bogelund",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.20684,
+    56.24309,
+    9.20684,
+    56.24309
+],
+  "geometry": {"coordinates":[9.20684,56.24309],"type":"Point"}
+}

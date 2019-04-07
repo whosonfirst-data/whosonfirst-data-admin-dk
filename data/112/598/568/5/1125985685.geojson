@@ -1,0 +1,82 @@
+{
+  "id": 1125985685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.153689,54.881971,12.153689,54.881971",
+    "geom:latitude":54.881971,
+    "geom:longitude":12.153689,
+    "gn:gn_country":"DK",
+    "iso:country":"DK",
+    "lbl:latitude":54.881971,
+    "lbl:longitude":12.153689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":"DK",
+    "qs_pg:name":"H\u00e5rb\u00f8lle Hestehave",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Sj\u00e6lland",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238251,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":29306229,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Sj\u00e6lland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306229,
+        "qs_pg:id":238251
+    },
+    "wof:country":"DK",
+    "wof:created":1497298793,
+    "wof:geomhash":"347cf7fe5f2cdfabff478b4733d2acec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1125985685,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1125985685,
+    "wof:lastmodified":1530292344,
+    "wof:name":"H\u00e5rb\u00f8lle Hestehave",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.153689,
+    54.881971,
+    12.153689,
+    54.881971
+],
+  "geometry": {"coordinates":[12.153689,54.881971],"type":"Point"}
+}

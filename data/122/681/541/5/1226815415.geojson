@@ -1,0 +1,72 @@
+{
+  "id": 1226815415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48983,55.98002,8.48983,55.98002",
+    "geom:latitude":55.98002,
+    "geom:longitude":8.48983,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"760.0",
+    "gn:asciiname":"Alkaersig",
+    "gn:country_code":"DK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624848,
+    "gn:latitude":55.98002,
+    "gn:longitude":8.48983,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alk\u00e6rsig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alkj\u00e6rsig",
+        "Alk\u00e6rsig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297869,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624848
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a1ac8f22b1ca44dabb89d1c32555196e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297869,
+            "locality_id":1226815415,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1226815415,
+    "wof:lastmodified":1537619897,
+    "wof:name":"Alkaersig",
+    "wof:parent_id":1159297869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48983,
+    55.98002,
+    8.48983,
+    55.98002
+],
+  "geometry": {"coordinates":[8.48983,55.98002],"type":"Point"}
+}

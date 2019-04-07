@@ -1,0 +1,68 @@
+{
+  "id": 1326494553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.26414,55.87943,9.26414,55.87943",
+    "geom:latitude":55.87943,
+    "geom:longitude":9.26414,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"630.0",
+    "gn:asciiname":"Dorken",
+    "gn:country_code":"DK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622967,
+    "gn:latitude":55.87943,
+    "gn:longitude":9.26414,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"D\u00f8rken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297913,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622967
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"866778337748e9a747ab62e6957fa54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297913,
+            "locality_id":1326494553,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1326494553,
+    "wof:lastmodified":1537036838,
+    "wof:name":"Dorken",
+    "wof:parent_id":1159297913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26414,
+    55.87943000000001,
+    9.26414,
+    55.87943000000001
+],
+  "geometry": {"coordinates":[9.26414,55.87943000000001],"type":"Point"}
+}

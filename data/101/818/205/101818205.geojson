@@ -1,0 +1,76 @@
+{
+  "id": 101818205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:bbox":"10.4350413891,55.0689117421,10.4632293747,55.0761289737",
+    "geom:latitude":55.073425,
+    "geom:longitude":10.451384,
+    "iso:country":"DK",
+    "lbl:latitude":55.074324,
+    "lbl:longitude":10.451384,
+    "mps:latitude":55.074324,
+    "mps:longitude":10.451384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "West Skjerninge"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Syddanmark",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Svendborg",
+    "qs:la_lc":"*DK1083479",
+    "qs:level":"locality",
+    "qs:loc":"Vester Skerninge",
+    "qs:loc_alt":"Vester Skerninge",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297853,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610380,
+        "gp:id":558672,
+        "qs:id":182790
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f7ed1c486e5a2743658205e620d3367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297853,
+            "locality_id":101818205,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":101818205,
+    "wof:lastmodified":1530291809,
+    "wof:name":"Vester Skerninge",
+    "wof:parent_id":1159297853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43504138906451,
+    55.06891174209306,
+    10.46322937466226,
+    55.07612897373758
+],
+  "geometry": {"coordinates":[[[10.45383982844919,55.07611209975039],[10.45382975993766,55.07521347286178],[10.45539465061603,55.07520780935175],[10.45538454792739,55.07430918267642],[10.46007911336545,55.07429207561029],[10.46009952757055,55.0760893281647],[10.46322937466226,55.07607782539918],[10.46321909785638,55.07517919937834],[10.46165420923307,55.07518496036289],[10.46161324633442,55.07159045639446],[10.46004849614116,55.07159619730265],[10.46003829148839,55.07069757133968],[10.45690885928008,55.07070899438833],[10.45688859042241,55.06891174209306],[10.45375929539131,55.06892308659741],[10.45379955762468,55.07251759261544],[10.43971646061362,55.07256768312726],[10.43973597014804,55.07436493909086],[10.43504138906451,55.07438128587239],[10.43505104046955,55.07527991437308],[10.4491350854675,55.07523034642173],[10.44914504983177,55.07612897373758],[10.45383982844919,55.07611209975039]]],"type":"Polygon"}
+}

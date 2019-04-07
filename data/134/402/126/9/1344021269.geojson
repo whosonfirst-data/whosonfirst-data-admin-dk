@@ -1,0 +1,73 @@
+{
+  "id": 1344021269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.2765,56.14414,9.2765,56.14414",
+    "geom:latitude":56.14414,
+    "geom:longitude":9.2765,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"756.0",
+    "gn:asciiname":"Bording Stationsby",
+    "gn:country_code":"DK",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2623692,
+    "gn:latitude":56.14414,
+    "gn:longitude":9.2765,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Bording Stationsby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borring Stationsby",
+        "Bording",
+        "Bording Stationsby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297931,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2623692
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"529b3158fec17fe18dc72682ef2e25c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297931,
+            "locality_id":1344021269,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":1344021269,
+    "wof:lastmodified":1537619887,
+    "wof:name":"Bording Stationsby",
+    "wof:parent_id":1159297931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2765,
+    56.14414,
+    9.2765,
+    56.14414
+],
+  "geometry": {"coordinates":[9.2765,56.14414],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 101847797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:bbox":"10.392257385,56.3030351711,10.4197375717,56.3138306953",
+    "geom:latitude":56.308455,
+    "geom:longitude":10.406332,
+    "iso:country":"DK",
+    "lbl:latitude":56.309325,
+    "lbl:longitude":10.407444,
+    "mps:latitude":56.309325,
+    "mps:longitude":10.407444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Kal\u00f8 Vig"
+    ],
+    "name:deu_x_preferred":[
+        "Kal\u00f8 Vig"
+    ],
+    "name:nor_x_preferred":[
+        "Kal\u00f8 vig"
+    ],
+    "name:unk_x_variant":[
+        "Uggelb\u00f8lle"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Syddjurs",
+    "qs:la_lc":"*DK1082706",
+    "qs:level":"locality",
+    "qs:loc":"Ugelb\u00f8lle",
+    "qs:loc_alt":"Ugelbolle",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297809,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610990,
+        "gp:id":558363,
+        "qs:id":1123825
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d65507b0fdd8acf9f89acfe0e372849a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":101847797,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101847797,
+    "wof:lastmodified":1530291431,
+    "wof:name":"Ugelb\u00f8lle",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39225738499005,
+    56.30303517111548,
+    10.4197375716725,
+    56.31383069530506
+],
+  "geometry": {"coordinates":[[[10.41172310192616,56.31380518951613],[10.41171356148732,56.31290640723142],[10.41655714645367,56.31289086174513],[10.41651854110154,56.30929573573275],[10.41813291899331,56.30929051405224],[10.41812323158723,56.30839173305793],[10.4197375716725,56.30838649131647],[10.41971812367092,56.30658893004932],[10.41810385838005,56.3065941715144],[10.41808448731172,56.30479661056364],[10.40678514247736,56.3048327333791],[10.40676629699288,56.30303517111548],[10.4003098188893,56.30305536733385],[10.40032836526046,56.30485293066278],[10.39225738499005,56.304877722843],[10.39228464747066,56.3075740709096],[10.3938989564777,56.3075691524777],[10.3939080823738,56.30846793533351],[10.39713677403341,56.30845803761406],[10.39717358188619,56.31205316947791],[10.39878807675217,56.31204818979438],[10.39879731739455,56.31294697300046],[10.4036409118836,56.31293191234766],[10.40365026526888,56.31383069530506],[10.41172310192616,56.31380518951613]]],"type":"Polygon"}
+}

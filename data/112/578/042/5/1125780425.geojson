@@ -1,0 +1,116 @@
+{
+  "id": 1125780425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3569505,55.660029,12.3569505,55.660029",
+    "geom:latitude":55.660029,
+    "geom:longitude":12.35695,
+    "gn:gn_country":null,
+    "iso:country":"DK",
+    "lbl:latitude":55.660029,
+    "lbl:longitude":12.35695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Albertslund"
+    ],
+    "name:dut_x_preferred":[
+        "Albertslund"
+    ],
+    "name:eng_x_preferred":[
+        "Albertslund"
+    ],
+    "name:fre_x_preferred":[
+        "Albertslund"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10d1\u10d4\u10e0\u10e2\u10e1\u10da\u10e3\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Albertslund"
+    ],
+    "name:hun_x_preferred":[
+        "Albertslund"
+    ],
+    "name:may_x_preferred":[
+        "Albertslund"
+    ],
+    "name:pol_x_preferred":[
+        "Albertslund"
+    ],
+    "name:spa_x_preferred":[
+        "Albertslund"
+    ],
+    "name:swe_x_preferred":[
+        "Albertslund"
+    ],
+    "qs_pg:aaroncc":"DK",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Albertslund",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":222,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":222,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079036,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":551887,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297733,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":551887,
+        "qs_pg:id":1079036,
+        "wd:id":"Q3196726"
+    },
+    "wof:country":"DK",
+    "wof:created":1497290447,
+    "wof:geomhash":"be0a956f087b71c86839836b6e1a1b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297733,
+            "locality_id":1125780425,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1125780425,
+    "wof:lastmodified":1553816529,
+    "wof:name":"Albertslund",
+    "wof:parent_id":1159297733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3569505,
+    55.660029,
+    12.3569505,
+    55.660029
+],
+  "geometry": {"coordinates":[12.3569505,55.660029],"type":"Point"}
+}

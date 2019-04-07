@@ -1,0 +1,92 @@
+{
+  "id": 420784573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6070719409,55.6256498966,12.6070719409,55.6256498966",
+    "geom:latitude":55.62565,
+    "geom:longitude":12.607072,
+    "iso:country":"DK",
+    "lbl:latitude":55.62565,
+    "lbl:longitude":12.607072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:csb_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:dan_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:frr_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10e0\u10dc\u10d1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:nor_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "src:geom":"unknown",
+    "wd:latitude":55.6278,
+    "wd:longitude":12.6025,
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191581,
+        1159297727,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q28173"
+    },
+    "wof:country":"DK",
+    "wof:created":1458871931,
+    "wof:geomhash":"b4accdbf87e76e7706456e1960c1a016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":420784573,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":420784573,
+    "wof:lastmodified":1530296497,
+    "wof:name":"T\u00e5rnby",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.60707194091501,
+    55.62564989657191,
+    12.60707194091501,
+    55.62564989657191
+],
+  "geometry": {"coordinates":[12.60707194091501,55.62564989657191],"type":"Point"}
+}

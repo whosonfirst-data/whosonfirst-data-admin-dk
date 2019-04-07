@@ -1,0 +1,127 @@
+{
+  "id": 101805635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:area_square_m":935478.781131,
+    "geom:bbox":"9.49062540707,56.6101077461,9.51015354776,56.6209309827",
+    "geom:latitude":56.616617,
+    "geom:longitude":9.500601,
+    "iso:country":"DK",
+    "lbl:latitude":56.616623,
+    "lbl:longitude":9.500415,
+    "mps:latitude":56.616623,
+    "mps:longitude":9.500415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "M\u00f8ldrup Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00f8ldrup Kommune"
+    ],
+    "name:dut_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00f8ldrup Municipality"
+    ],
+    "name:fao_x_preferred":[
+        "M\u00f8ldrup kommuna"
+    ],
+    "name:ger_x_preferred":[
+        "M\u00f8ldrup Kommune"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:nor_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina M\u00f8ldrup"
+    ],
+    "name:por_x_preferred":[
+        "M\u00f8ldrup"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna M\u00f8ldrup"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna M\u00f8ldrup"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00f8ldrups kommun"
+    ],
+    "name:unk_x_variant":[
+        "M\u00f6ldrup Stationsby"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Midtjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Viborg",
+    "qs:la_lc":"*DK1082791",
+    "qs:level":"locality",
+    "qs:loc":"M\u00f8ldrup",
+    "qs:loc_alt":"Moldrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        1159297825,
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2616821,
+        "gp:id":555597,
+        "qs:id":235813,
+        "qs_pg:id":235813,
+        "wd:id":"Q953997",
+        "wk:page":"M\u00f8ldrup Municipality"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a896ef764e521b1b9e523658561ae1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297825,
+            "locality_id":101805635,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":101805635,
+    "wof:lastmodified":1530291530,
+    "wof:name":"M\u00f8ldrup",
+    "wof:parent_id":1159297825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.49062540707382,
+    56.61010774613766,
+    9.51015354776143,
+    56.62093098271237
+],
+  "geometry": {"coordinates":[[[9.50849165666455,56.62093098271237],[9.50850317174763,56.62003215335722],[9.51013059576434,56.62003829972809],[9.51015354776143,56.61824064119355],[9.50852619998864,56.6182344951502],[9.50858375936815,56.61374035256591],[9.50532944643521,56.61372800097399],[9.50534103260367,56.61282917328867],[9.50208679785248,56.61281674050355],[9.50212178110985,56.61012025944484],[9.49886777695963,56.61010774613766],[9.49883256507945,56.61280422619592],[9.49395121965722,56.61278530188025],[9.49393936673232,56.61368412839659],[9.49231221448684,56.61367777936101],[9.49226464373135,56.61727308642247],[9.49063733953773,56.61726671632675],[9.49062540707382,56.61816554334098],[9.49225274938613,56.61817191360637],[9.49224085437828,56.61907074095774],[9.49386823531552,56.61907709100871],[9.49384451955939,56.62087474655317],[9.50849165666455,56.62093098271237]]],"type":"Polygon"}
+}

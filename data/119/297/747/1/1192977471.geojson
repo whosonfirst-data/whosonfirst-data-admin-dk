@@ -1,0 +1,68 @@
+{
+  "id": 1192977471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39485,55.234,10.39485,55.234",
+    "geom:latitude":55.234,
+    "geom:longitude":10.39485,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Vantinge",
+    "gn:country_code":"DK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2610731,
+    "gn:latitude":55.234,
+    "gn:longitude":10.39485,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Vantinge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297885,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610731
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"41f59bc14bb2c51c79fc187970585b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297885,
+            "locality_id":1192977471,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1192977471,
+    "wof:lastmodified":1536371713,
+    "wof:name":"Vantinge",
+    "wof:parent_id":1159297885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39485,
+    55.234,
+    10.39485,
+    55.234
+],
+  "geometry": {"coordinates":[10.39485,55.234],"type":"Point"}
+}

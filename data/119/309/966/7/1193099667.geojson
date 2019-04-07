@@ -1,0 +1,72 @@
+{
+  "id": 1193099667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8723,56.60298,9.8723,56.60298",
+    "geom:latitude":56.60298,
+    "geom:longitude":9.8723,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"846.0",
+    "gn:asciiname":"Gettrup",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621480,
+    "gn:latitude":56.60298,
+    "gn:longitude":9.8723,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gettrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gjettrup",
+        "Gettrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297835,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621480
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c9d9bcc9d5ad445ca16ffc39bea564fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297835,
+            "locality_id":1193099667,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":1193099667,
+    "wof:lastmodified":1537619872,
+    "wof:name":"Gettrup",
+    "wof:parent_id":1159297835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8723,
+    56.60298,
+    9.8723,
+    56.60298
+],
+  "geometry": {"coordinates":[9.8723,56.60298],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226620603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85411,55.34452,11.85411,55.34452",
+    "geom:latitude":55.34452,
+    "geom:longitude":11.85411,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Aversi",
+    "gn:country_code":"DK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2624421,
+    "gn:latitude":55.34452,
+    "gn:longitude":11.85411,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Aversi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624421
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"19a66188565fc832248e414fe8a2d947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1226620603,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1226620603,
+    "wof:lastmodified":1536895587,
+    "wof:name":"Aversi",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85411,
+    55.34452,
+    11.85411,
+    55.34452
+],
+  "geometry": {"coordinates":[11.85411,55.34452],"type":"Point"}
+}

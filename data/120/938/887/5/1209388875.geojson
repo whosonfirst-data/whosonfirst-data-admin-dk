@@ -1,0 +1,67 @@
+{
+  "id": 1209388875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.32573,54.85971,9.32573,54.85971",
+    "geom:latitude":54.85971,
+    "geom:longitude":9.32573,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"580.0",
+    "gn:asciiname":"Farhus",
+    "gn:country_code":"DK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622324,
+    "gn:latitude":54.85971,
+    "gn:longitude":9.32573,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u00e5rhus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faarehus",
+        "Faarhus",
+        "F\u00e5rhus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622324
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d6f7a202bc010e596e023693c9d3f442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209388875
+        }
+    ],
+    "wof:id":1209388875,
+    "wof:lastmodified":1537619879,
+    "wof:name":"Farhus",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.32573,
+    54.85971,
+    9.32573,
+    54.85971
+],
+  "geometry": {"coordinates":[9.32573,54.85971],"type":"Point"}
+}

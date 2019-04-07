@@ -1,0 +1,98 @@
+{
+  "id": 101873035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.12598,55.622521,12.12598,55.622521",
+    "geom:latitude":55.622521,
+    "geom:longitude":12.12598,
+    "gn:population":2045,
+    "iso:country":"DK",
+    "lbl:latitude":55.622521,
+    "lbl:longitude":12.12598,
+    "mps:latitude":55.622521,
+    "mps:longitude":12.12598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0438\u043d\u0433\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Vindinge"
+    ],
+    "name:dut_x_preferred":[
+        "Vindinge"
+    ],
+    "name:eng_x_preferred":[
+        "Vindinge"
+    ],
+    "name:swe_x_preferred":[
+        "Vindinge"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Sj\u00e6lland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vindinge",
+    "qs:loc_alt":"Vindinge",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297881,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610189,
+        "gp:id":558771,
+        "qs:id":246148,
+        "qs_pg:id":246148,
+        "wd:id":"Q16325016"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a95103224ffca1309efd368962f9b340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297881,
+            "locality_id":101873035,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":101873035,
+    "wof:lastmodified":1553815561,
+    "wof:name":"Vindinge",
+    "wof:parent_id":1159297881,
+    "wof:placetype":"locality",
+    "wof:population":2045,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.12598,
+    55.622521,
+    12.12598,
+    55.622521
+],
+  "geometry": {"coordinates":[12.12598,55.622521],"type":"Point"}
+}

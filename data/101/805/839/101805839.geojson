@@ -1,0 +1,92 @@
+{
+  "id": 101805839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":935372.24752,
+    "geom:bbox":"9.9339015219,57.1863703693,9.96035418404,57.2007484342",
+    "geom:latitude":57.195281,
+    "geom:longitude":9.950061,
+    "iso:country":"DK",
+    "lbl:latitude":57.196256,
+    "lbl:longitude":9.948058,
+    "mps:latitude":57.196256,
+    "mps:longitude":9.948058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Tylstrup"
+    ],
+    "name:dan_x_preferred":[
+        "Tylstrup"
+    ],
+    "name:dut_x_preferred":[
+        "Tylstrup"
+    ],
+    "name:eng_x_preferred":[
+        "Tylstrup"
+    ],
+    "name:nld_x_preferred":[
+        "Tylstrup"
+    ],
+    "qs:a0":"Danmark",
+    "qs:a1":"*Nordjylland",
+    "qs:a1r":"0",
+    "qs:adm0":"Danmark",
+    "qs:la":"Aalborg",
+    "qs:la_lc":"*DK1081851",
+    "qs:level":"locality",
+    "qs:loc":"Tylstrup",
+    "qs:loc_alt":"Tylstrup",
+    "qs:pop":0,
+    "qs:source":"KCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191581,
+        1159297743,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2611041,
+        "gp:id":558331,
+        "qs:id":2,
+        "wd:id":"Q2533586",
+        "wk:page":"Tylstrup"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b2ea7f88d5fee865fcc8adfdd346f59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101805839,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":101805839,
+    "wof:lastmodified":1530296418,
+    "wof:name":"Tylstrup",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93390152189863,
+    57.18637036925082,
+    9.96035418403528,
+    57.20074843418894
+],
+  "geometry": {"coordinates":[[[9.94381360090472,57.20074843418894],[9.94381494514823,57.19984945952285],[9.94711994717176,57.1998508285609],[9.94712121227036,57.19895185406369],[9.9520785971086,57.1989537519969],[9.95208088990478,57.19715580351721],[9.96034280362773,57.1971585517411],[9.96035418403528,57.18637087724727],[9.95870227538524,57.18637036925082],[9.95869832475023,57.18996625740499],[9.95539419152914,57.18996517909119],[9.9553931247068,57.19086415161394],[9.95374101865286,57.19086358133643],[9.95373880579592,57.19266152696736],[9.94878225083568,57.1926596916108],[9.94878102575734,57.1935586646847],[9.94382435271768,57.19355664262685],[9.94382300900764,57.19445561585155],[9.94217074525409,57.19445490033485],[9.94216797855699,57.19625284736276],[9.93555860796431,57.19624977773231],[9.93555552472452,57.19804772541676],[9.93390310318148,57.19804690611284],[9.93390152189863,57.19894588024175],[9.94216382792393,57.19894976944857],[9.94216106044274,57.20074771853581],[9.94381360090472,57.20074843418894]]],"type":"Polygon"}
+}

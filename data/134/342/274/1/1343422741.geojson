@@ -1,0 +1,68 @@
+{
+  "id": 1343422741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72149,55.27573,11.72149,55.27573",
+    "geom:latitude":55.27573,
+    "geom:longitude":11.72149,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"370.0",
+    "gn:asciiname":"Gerdrup",
+    "gn:country_code":"DK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2621505,
+    "gn:latitude":55.27573,
+    "gn:longitude":11.72149,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Gerdrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297917,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2621505
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3852227821763c6242733749886a5cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297917,
+            "locality_id":1343422741,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1343422741,
+    "wof:lastmodified":1536800876,
+    "wof:name":"Gerdrup",
+    "wof:parent_id":1159297917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72149,
+    55.27573,
+    11.72149,
+    55.27573
+],
+  "geometry": {"coordinates":[11.72149,55.27573],"type":"Point"}
+}

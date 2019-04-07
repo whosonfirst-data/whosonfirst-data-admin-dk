@@ -1,0 +1,73 @@
+{
+  "id": 1242837955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93176,55.09291,14.93176,55.09291",
+    "geom:latitude":55.09291,
+    "geom:longitude":14.93176,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"400.0",
+    "gn:asciiname":"Sletteenge",
+    "gn:country_code":"DK",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2613439,
+    "gn:latitude":55.09291,
+    "gn:longitude":14.93176,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sletteenge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sletenge",
+        "Sletenge Huse",
+        "Sletteenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297781,
+        85633121,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613439
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c3e4df4a4dda835e523595634edb3452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297781,
+            "locality_id":1242837955,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1242837955,
+    "wof:lastmodified":1537619811,
+    "wof:name":"Sletteenge",
+    "wof:parent_id":1159297781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93176,
+    55.09291,
+    14.93176,
+    55.09291
+],
+  "geometry": {"coordinates":[14.93176,55.09291],"type":"Point"}
+}

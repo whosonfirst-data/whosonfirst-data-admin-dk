@@ -1,0 +1,62 @@
+{
+  "id": 1209691985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61667,55.88333,10.61667,55.88333",
+    "geom:latitude":55.88333,
+    "geom:longitude":10.61667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"741.0",
+    "gn:asciiname":"Rask Mark",
+    "gn:country_code":"DK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2614971,
+    "gn:latitude":55.88333,
+    "gn:longitude":10.61667,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Rask Mark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2614971
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e911c24d4a9a43c360eb4703f82441a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209691985
+        }
+    ],
+    "wof:id":1209691985,
+    "wof:lastmodified":1536279207,
+    "wof:name":"Rask Mark",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61667,
+    55.88333000000001,
+    10.61667,
+    55.88333000000001
+],
+  "geometry": {"coordinates":[10.61667,55.88333000000001],"type":"Point"}
+}

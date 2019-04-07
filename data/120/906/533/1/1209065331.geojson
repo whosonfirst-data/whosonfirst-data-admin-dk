@@ -1,0 +1,62 @@
+{
+  "id": 1209065331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.20383,55.08317,10.20383,55.08317",
+    "geom:latitude":55.08317,
+    "geom:longitude":10.20383,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Bjerne Mark",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2624040,
+    "gn:latitude":55.08317,
+    "gn:longitude":10.20383,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Bjerne Mark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2624040
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"89f9a7bb3a40f57e2411f74c57c6db16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209065331
+        }
+    ],
+    "wof:id":1209065331,
+    "wof:lastmodified":1536298823,
+    "wof:name":"Bjerne Mark",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20383,
+    55.08317,
+    10.20383,
+    55.08317
+],
+  "geometry": {"coordinates":[10.20383,55.08317],"type":"Point"}
+}

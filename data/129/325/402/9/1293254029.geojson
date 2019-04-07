@@ -1,0 +1,68 @@
+{
+  "id": 1293254029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01879,55.04007,12.01879,55.04007",
+    "geom:latitude":55.04007,
+    "geom:longitude":12.01879,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"390.0",
+    "gn:asciiname":"Oster Egesborg",
+    "gn:country_code":"DK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2615576,
+    "gn:latitude":55.04007,
+    "gn:longitude":12.01879,
+    "gn:modification_date":"2011-01-27",
+    "gn:name":"\u00d8ster Egesborg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297907,
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2615576
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0754e9cea4a569c4b1d3056934b06e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297907,
+            "locality_id":1293254029,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":1293254029,
+    "wof:lastmodified":1536624704,
+    "wof:name":"Oster Egesborg",
+    "wof:parent_id":1159297907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01879,
+    55.04006999999999,
+    12.01879,
+    55.04006999999999
+],
+  "geometry": {"coordinates":[12.01879,55.04006999999999],"type":"Point"}
+}

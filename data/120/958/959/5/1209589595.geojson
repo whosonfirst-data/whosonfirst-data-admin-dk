@@ -1,0 +1,66 @@
+{
+  "id": 1209589595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66779,55.3834,10.66779,55.3834",
+    "geom:latitude":55.3834,
+    "geom:longitude":10.66779,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"450.0",
+    "gn:asciiname":"Flodstrup",
+    "gn:country_code":"DK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622066,
+    "gn:latitude":55.3834,
+    "gn:longitude":10.66779,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fl\u00f8dstrup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fl\u00f8strup",
+        "Fl\u00f8dstrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2622066
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e86d1ccfcd3e2dbe6962e8b58d2816c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "locality_id":1209589595
+        }
+    ],
+    "wof:id":1209589595,
+    "wof:lastmodified":1537619877,
+    "wof:name":"Flodstrup",
+    "wof:parent_id":85633121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66779,
+    55.3834,
+    10.66779,
+    55.3834
+],
+  "geometry": {"coordinates":[10.66779,55.3834],"type":"Point"}
+}

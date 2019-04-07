@@ -1,0 +1,68 @@
+{
+  "id": 1344031863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93264,55.33145,8.93264,55.33145",
+    "geom:latitude":55.33145,
+    "geom:longitude":8.93264,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"575.0",
+    "gn:asciiname":"Harreby",
+    "gn:country_code":"DK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2620744,
+    "gn:latitude":55.33145,
+    "gn:longitude":8.93264,
+    "gn:modification_date":"2011-12-20",
+    "gn:name":"Harreby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1159297751,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2620744
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3867a1238b425a75aa78fb3b385cdf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297751,
+            "locality_id":1344031863,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1344031863,
+    "wof:lastmodified":1536917494,
+    "wof:name":"Harreby",
+    "wof:parent_id":1159297751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93264,
+    55.33145,
+    8.93264,
+    55.33145
+],
+  "geometry": {"coordinates":[8.93264,55.33145],"type":"Point"}
+}
