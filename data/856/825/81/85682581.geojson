@@ -10,8 +10,14 @@
     "geom:latitude":55.690155,
     "geom:longitude":12.895162,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Region Hovedstaden"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
     "label:eng_x_preferred_longname":[
-        "Hovedstaden Region"
+        "Capital Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -64,20 +70,20 @@
         "Hovedstaden"
     ],
     "name:dan_x_preferred":[
-        "Region Hovedstaden"
+        "Hovedstaden"
     ],
     "name:dan_x_variant":[
-        "Hovedstaden"
+        "Region Hovedstaden"
     ],
     "name:dut_x_preferred":[
         "Hoofdstad"
     ],
     "name:eng_x_preferred":[
-        "Hovedstaden"
+        "Capital"
     ],
     "name:eng_x_variant":[
         "Capital Region",
-        "Capital",
+        "Hovedstaden",
         "Capital Region of Denmark"
     ],
     "name:epo_x_preferred":[
@@ -362,11 +368,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1553550705,
-    "wof:name":"Hovedstaden",
+    "wof:lastmodified":1560375925,
+    "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1631635,
     "wof:population_rank":12,

@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.03807,
-    "geom:area_square_m":7310445234.539655,
+    "geom:area_square_m":7310445234.539603,
     "geom:bbox":"10.867564,54.5591085,12.554903,56.0105865",
     "geom:latitude":55.281858,
     "geom:longitude":11.702611,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Region Sj\u00e6lland"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
     "label:eng_x_preferred_longname":[
-        "Sj\u00e6lland Region"
+        "Region Zealand"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -61,19 +67,20 @@
         "Sj\u00e6lland"
     ],
     "name:dan_x_preferred":[
-        "Region Sj\u00e6lland"
+        "Sj\u00e6lland"
     ],
     "name:dan_x_variant":[
-        "Sj\u00e6lland"
+        "Region Sj\u00e6lland"
     ],
     "name:dut_x_preferred":[
         "Seeland"
     ],
     "name:eng_x_preferred":[
-        "Region Zealand"
+        "Zealand"
     ],
     "name:eng_x_variant":[
-        "Zealand"
+        "Region Zealand",
+        "Zealand Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Sj\u00e6lland"
@@ -352,11 +359,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1553814872,
-    "wof:name":"Sj\u00e6lland",
+    "wof:lastmodified":1560375933,
+    "wof:name":"Zealand",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":805954,
     "wof:population_rank":11,

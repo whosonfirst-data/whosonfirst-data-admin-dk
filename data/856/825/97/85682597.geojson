@@ -10,8 +10,14 @@
     "geom:latitude":56.248759,
     "geom:longitude":9.392629,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Region Midtjylland"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
     "label:eng_x_preferred_longname":[
-        "Midtjylland Region"
+        "Central Jutland Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -64,19 +70,19 @@
         "Midtjylland"
     ],
     "name:dan_x_preferred":[
-        "Region Midtjylland"
+        "Midtjylland"
     ],
     "name:dan_x_variant":[
-        "Midtjylland"
+        "Region Midtjylland"
     ],
     "name:dut_x_preferred":[
         "Midden-Jutland"
     ],
     "name:eng_x_preferred":[
-        "Midtjylland"
+        "Central Jutland"
     ],
     "name:eng_x_variant":[
-        "Central Jutland",
+        "Midtjylland",
         "Region Central Jutland",
         "Central Denmark Region"
     ],
@@ -396,11 +402,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1553550706,
-    "wof:name":"Midtjylland",
+    "wof:lastmodified":1560375954,
+    "wof:name":"Central Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1212787,
     "wof:population_rank":12,

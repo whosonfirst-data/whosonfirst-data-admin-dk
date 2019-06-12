@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.178758,
-    "geom:area_square_m":7926977195.710023,
+    "geom:area_square_m":7926977195.71002,
     "geom:bbox":"8.2174735,56.5504345,11.2001535,57.752065",
     "geom:latitude":57.053106,
     "geom:longitude":9.671563,
     "iso:country":"DK",
-    "label:eng_x_preferred_longname":[
+    "label:dan_x_preferred_longname":[
         "Nordjylland Region"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
+    "label:eng_x_preferred_longname":[
+        "North Jutland Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -61,21 +67,21 @@
         "Nordjylland"
     ],
     "name:dan_x_preferred":[
-        "Region Nordjylland"
+        "Nordjylland"
     ],
     "name:dan_x_variant":[
-        "Nordjylland"
+        "Region Nordjylland"
     ],
     "name:dut_x_preferred":[
         "Noord-Jutland"
     ],
     "name:eng_x_preferred":[
-        "Nordjylland"
+        "North Jutland"
     ],
     "name:eng_x_variant":[
         "North Denmark Region",
         "North Denmark",
-        "North Jutland"
+        "Nordjylland"
     ],
     "name:epo_x_preferred":[
         "Regiono Norda Jutlando"
@@ -354,11 +360,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1553814872,
-    "wof:name":"Nordjylland",
+    "wof:lastmodified":1560375943,
+    "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":577278,
     "wof:population_rank":11,
