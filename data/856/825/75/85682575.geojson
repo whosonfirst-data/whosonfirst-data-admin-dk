@@ -10,8 +10,14 @@
     "geom:latitude":55.356916,
     "geom:longitude":9.44873,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Region Syddanmark"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "region"
+    ],
     "label:eng_x_preferred_longname":[
-        "Syddanmark Region"
+        "Region of Southern Denmark"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -64,6 +70,9 @@
         "Syddanmark"
     ],
     "name:dan_x_preferred":[
+        "Syddanmark"
+    ],
+    "name:dan_x_variant":[
         "Region Syddanmark"
     ],
     "name:dut_x_preferred":[
@@ -73,11 +82,12 @@
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03cc\u03c4\u03b9\u03b1\u03c2 \u0394\u03b1\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Syddanmark"
+        "Southern"
     ],
     "name:eng_x_variant":[
         "Region South Denmark",
         "South Denmark",
+        "Syddanmark",
         "Region of Southern Denmark"
     ],
     "name:epo_x_preferred":[
@@ -387,11 +397,10 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1553550703,
-    "wof:name":"Syddanmark",
+    "wof:lastmodified":1560375915,
+    "wof:name":"Southern",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1183751,
     "wof:population_rank":12,
