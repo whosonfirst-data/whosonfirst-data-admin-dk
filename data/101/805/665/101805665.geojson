@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1323741.582558,
+    "geom:area_square_m":1323741.582559,
     "geom:bbox":"10.0177136101,56.2057004544,10.0483076089,56.2191852193",
     "geom:latitude":56.212114,
     "geom:longitude":10.033533,
@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Sabro"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sabro"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sabro"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101805665,
-    "wof:lastmodified":1530296398,
+    "wof:lastmodified":1561778002,
     "wof:name":"Sabro",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

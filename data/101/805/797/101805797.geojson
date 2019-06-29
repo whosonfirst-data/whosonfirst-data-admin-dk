@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":2637069.871256,
+    "geom:area_square_m":2637069.871258,
     "geom:bbox":"10.0312325587,56.999390521,10.0707077082,57.0200618414",
     "geom:latitude":57.011015,
     "geom:longitude":10.051937,
@@ -24,9 +24,6 @@
         "Klarup"
     ],
     "name:dan_x_preferred":[
-        "Klarup"
-    ],
-    "name:dut_x_preferred":[
         "Klarup"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101805797,
-    "wof:lastmodified":1530296413,
+    "wof:lastmodified":1561777998,
     "wof:name":"Klarup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

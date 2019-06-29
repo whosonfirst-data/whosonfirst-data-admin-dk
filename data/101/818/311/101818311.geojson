@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002401,
-    "geom:area_square_m":16853210.033384,
+    "geom:area_square_m":16853210.033382,
     "geom:bbox":"11.3171604479,55.3826441888,11.4127985654,55.4287542972",
     "geom:latitude":55.406382,
     "geom:longitude":11.359191,
@@ -29,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Slagelse"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u62c9\u5384\u723e\u745f"
-    ],
     "name:dan_x_preferred":[
         "Slagelse"
     ],
     "name:deu_x_preferred":[
-        "Slagelse"
-    ],
-    "name:dut_x_preferred":[
         "Slagelse"
     ],
     "name:eng_x_preferred":[
@@ -50,25 +44,16 @@
     "name:fra_x_preferred":[
         "Slagelse"
     ],
-    "name:fre_x_preferred":[
-        "Slagelse"
-    ],
     "name:frr_x_preferred":[
         "Slagelse"
     ],
     "name:fry_x_preferred":[
         "Slagelse"
     ],
-    "name:ger_x_preferred":[
-        "Slagelse"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d2\u05dc\u05e1\u05d4"
     ],
     "name:hun_x_preferred":[
-        "Slagelse"
-    ],
-    "name:ice_x_preferred":[
         "Slagelse"
     ],
     "name:isl_x_preferred":[
@@ -88,12 +73,6 @@
     ],
     "name:lit_x_preferred":[
         "Slagels\u0117"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u043b\u0430\u0433\u0435\u043b\u0441\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Slagelse"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0433\u0435\u043b\u0441\u0435"
@@ -122,9 +101,6 @@
     "name:ron_x_preferred":[
         "Slagelse"
     ],
-    "name:rum_x_preferred":[
-        "Slagelse"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u0430\u0433\u0435\u043b\u044c\u0441\u0435"
     ],
@@ -151,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u62c9\u5384\u723e\u745f\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u62c9\u5384\u723e\u745f"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
@@ -204,7 +183,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296447,
+    "wof:lastmodified":1561777995,
     "wof:name":"Slagelse",
     "wof:parent_id":1159297897,
     "wof:placetype":"locality",

@@ -26,16 +26,10 @@
     "name:ces_x_preferred":[
         "Odder"
     ],
-    "name:cze_x_preferred":[
-        "Odder"
-    ],
     "name:dan_x_preferred":[
         "Odder"
     ],
     "name:deu_x_preferred":[
-        "Odder"
-    ],
-    "name:dut_x_preferred":[
         "Odder"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,7 @@
     "name:fao_x_preferred":[
         "Odder"
     ],
-    "name:fre_x_preferred":[
-        "Odder"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Odder"
     ],
     "name:hun_x_preferred":[
@@ -72,9 +63,6 @@
         "Odder"
     ],
     "name:ron_x_preferred":[
-        "Odder"
-    ],
-    "name:rum_x_preferred":[
         "Odder"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +126,7 @@
         }
     ],
     "wof:id":101805713,
-    "wof:lastmodified":1530296404,
+    "wof:lastmodified":1561778000,
     "wof:name":"Odder",
     "wof:parent_id":1159297815,
     "wof:placetype":"locality",

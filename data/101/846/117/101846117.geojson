@@ -29,9 +29,6 @@
     "name:dan_x_preferred":[
         "Gistrup"
     ],
-    "name:dut_x_preferred":[
-        "Gistrup"
-    ],
     "name:eng_x_preferred":[
         "Gistrup"
     ],
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":101846117,
-    "wof:lastmodified":1530296476,
+    "wof:lastmodified":1561778004,
     "wof:name":"Gistrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

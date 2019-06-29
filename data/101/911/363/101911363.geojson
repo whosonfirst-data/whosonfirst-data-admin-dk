@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":368356.676597,
+    "geom:area_square_m":368356.676598,
     "geom:bbox":"10.8402855533,54.9950044937,10.8560733208,55.0030281186",
     "geom:latitude":54.998271,
     "geom:longitude":10.848691,
@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Tranek\u00e6r"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Tranek\u00e6r"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Tranek\u00e6r"
     ],
     "name:nno_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101911363,
-    "wof:lastmodified":1530291732,
+    "wof:lastmodified":1561778006,
     "wof:name":"Tranek\u00e6r Slot",
     "wof:parent_id":1159297841,
     "wof:placetype":"locality",

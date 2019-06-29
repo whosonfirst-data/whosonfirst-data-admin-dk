@@ -21,13 +21,13 @@
     "name:dan_x_preferred":[
         "H\u00f8ve"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "H\u00f8ve"
     ],
     "name:eng_x_preferred":[
         "H\u00f8ve"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "H\u00f8ve"
     ],
     "qs_pg:aaroncc":"DK",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125988861,
-    "wof:lastmodified":1553816681,
+    "wof:lastmodified":1561778020,
     "wof:name":"H\u00f8ve",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

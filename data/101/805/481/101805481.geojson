@@ -25,16 +25,13 @@
     "name:dan_x_preferred":[
         "S\u00f8nder Omme"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00f8nder Omme"
     ],
     "name:eng_x_preferred":[
         "S\u00f8nder Omme"
     ],
-    "name:fre_x_preferred":[
-        "S\u00f8nder Omme"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00f8nder Omme"
     ],
     "name:ind_x_preferred":[
@@ -46,13 +43,16 @@
     "name:nds_x_preferred":[
         "S\u00f8nder Omme"
     ],
+    "name:nld_x_preferred":[
+        "S\u00f8nder Omme"
+    ],
     "name:nob_x_preferred":[
         "S\u00f8nder Omme"
     ],
     "name:por_x_preferred":[
         "S\u00f8nder Omme"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "S\u00f8nder Omme"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":101805481,
-    "wof:lastmodified":1530291869,
+    "wof:lastmodified":1561778001,
     "wof:name":"S\u00f8nder Omme",
     "wof:parent_id":1159297863,
     "wof:placetype":"locality",

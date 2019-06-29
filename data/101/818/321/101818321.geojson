@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001504,
-    "geom:area_square_m":10551823.779886,
+    "geom:area_square_m":10551823.779887,
     "geom:bbox":"11.765604942,55.4184340549,11.8370964625,55.4711910532",
     "geom:latitude":55.444711,
     "geom:longitude":11.796408,
@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Ringsted"
     ],
-    "name:chi_x_preferred":[
-        "\u7075\u65af\u6cf0\u5179"
-    ],
-    "name:cze_x_preferred":[
-        "Ringsted"
-    ],
     "name:dan_x_preferred":[
         "Ringsted"
     ],
     "name:deu_x_preferred":[
-        "Ringsted"
-    ],
-    "name:dut_x_preferred":[
         "Ringsted"
     ],
     "name:eng_x_preferred":[
@@ -47,19 +38,10 @@
     "name:fao_x_preferred":[
         "Ringsted"
     ],
-    "name:fre_x_preferred":[
-        "Ringsted"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dc\u10d2\u10e1\u10e2\u10d4\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ringsted"
     ],
     "name:hun_x_preferred":[
-        "Ringsted"
-    ],
-    "name:ice_x_preferred":[
         "Ringsted"
     ],
     "name:isl_x_preferred":[
@@ -79,12 +61,6 @@
     ],
     "name:lit_x_preferred":[
         "Ringstedas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0420\u0438\u043d\u0433\u0441\u0442\u0435\u0434"
-    ],
-    "name:may_x_preferred":[
-        "Ringsted"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0438\u043d\u0433\u0441\u0442\u0435\u0434"
@@ -108,9 +84,6 @@
         "Ringsted"
     ],
     "name:ron_x_preferred":[
-        "Ringsted"
-    ],
-    "name:rum_x_preferred":[
         "Ringsted"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +160,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296449,
+    "wof:lastmodified":1561777996,
     "wof:name":"Ringsted",
     "wof:parent_id":1159297777,
     "wof:placetype":"locality",

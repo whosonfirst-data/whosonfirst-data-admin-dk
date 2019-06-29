@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1493324.360453,
+    "geom:area_square_m":1493324.360454,
     "geom:bbox":"10.472545522,55.0642516243,10.5132611475,55.0759707914",
     "geom:latitude":55.069533,
     "geom:longitude":10.493625,
@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Ollerup"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ollerup"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ollerup"
     ],
     "name:swe_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":101847741,
-    "wof:lastmodified":1530291810,
+    "wof:lastmodified":1561778005,
     "wof:name":"Ollerup",
     "wof:parent_id":1159297853,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004359,
-    "geom:area_square_m":29776893.822621,
+    "geom:area_square_m":29776893.82262,
     "geom:bbox":"9.98053974046,56.414227139,10.0908039153,56.4978186473",
     "geom:latitude":56.461343,
     "geom:longitude":10.036575,
@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0646\u062f\u0631\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0576\u0564\u0565\u0580\u057d"
-    ],
     "name:ast_x_preferred":[
-        "Randers"
-    ],
-    "name:baq_x_preferred":[
         "Randers"
     ],
     "name:bel_x_preferred":[
@@ -50,22 +44,13 @@
     "name:ces_x_preferred":[
         "Randers"
     ],
-    "name:chi_x_preferred":[
-        "\u862d\u8a25\u65af"
-    ],
     "name:csb_x_preferred":[
-        "Randers"
-    ],
-    "name:cze_x_preferred":[
         "Randers"
     ],
     "name:dan_x_preferred":[
         "Randers"
     ],
     "name:deu_x_preferred":[
-        "Randers"
-    ],
-    "name:dut_x_preferred":[
         "Randers"
     ],
     "name:ell_x_preferred":[
@@ -95,20 +80,8 @@
     "name:fra_x_preferred":[
         "Randers"
     ],
-    "name:fre_x_preferred":[
-        "Randers"
-    ],
     "name:frr_x_preferred":[
         "Randers"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10dc\u10d4\u10e0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Randers"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03bd\u03c4\u03b5\u03c1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0aa8\u0acd\u0aa1\u0ab0\u0acd\u0ab8"
@@ -122,8 +95,8 @@
     "name:hun_x_preferred":[
         "Randers"
     ],
-    "name:ice_x_preferred":[
-        "Randers"
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0576\u0564\u0565\u0580\u057d"
     ],
     "name:ile_x_preferred":[
         "Randers"
@@ -155,19 +128,16 @@
     "name:lit_x_preferred":[
         "Randersas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u043d\u0435\u0440\u0441"
-    ],
-    "name:mao_x_preferred":[
-        "Randers"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u0945\u0928\u094d\u0921\u0930\u094d\u0938"
     ],
-    "name:may_x_preferred":[
-        "Randers"
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043d\u0435\u0440\u0441"
     ],
     "name:mri_x_preferred":[
+        "Randers"
+    ],
+    "name:msa_x_preferred":[
         "Randers"
     ],
     "name:nld_x_preferred":[
@@ -185,9 +155,6 @@
     "name:oci_x_preferred":[
         "Randers"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0646\u062f\u0631\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u0646\u0688\u0631\u0632"
     ],
@@ -198,9 +165,6 @@
         "Randers"
     ],
     "name:ron_x_preferred":[
-        "Randers"
-    ],
-    "name:rum_x_preferred":[
         "Randers"
     ],
     "name:rus_x_preferred":[
@@ -313,7 +277,7 @@
         }
     ],
     "wof:id":101749161,
-    "wof:lastmodified":1530296363,
+    "wof:lastmodified":1561778003,
     "wof:name":"Randers",
     "wof:parent_id":1159297903,
     "wof:placetype":"locality",

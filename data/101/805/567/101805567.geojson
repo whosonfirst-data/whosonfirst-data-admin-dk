@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":2657478.749828,
+    "geom:area_square_m":2657478.749829,
     "geom:bbox":"9.52275258648,56.1222778362,9.57421116174,56.1429326202",
     "geom:latitude":56.1315,
     "geom:longitude":9.553374,
@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Virklund"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Virklund"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Virklund"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101805567,
-    "wof:lastmodified":1530291062,
+    "wof:lastmodified":1561777998,
     "wof:name":"Virklund",
     "wof:parent_id":1159297773,
     "wof:placetype":"locality",

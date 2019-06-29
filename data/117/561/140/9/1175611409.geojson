@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":497675.737218,
+    "geom:area_square_m":3085565.135609,
     "geom:bbox":"12.4808216355,55.9277216703,12.5305407499,55.9470711094",
     "geom:latitude":55.937567,
     "geom:longitude":12.502789,
@@ -26,13 +26,10 @@
     "name:dan_x_preferred":[
         "Niv\u00e5"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Niv\u00e5"
     ],
     "name:eng_x_preferred":[
-        "Niv\u00e5"
-    ],
-    "name:ger_x_preferred":[
         "Niv\u00e5"
     ],
     "name:nld_x_preferred":[
@@ -45,9 +42,6 @@
         "Niv\u00e5"
     ],
     "name:ron_x_preferred":[
-        "Niv\u00e5"
-    ],
-    "name:rum_x_preferred":[
         "Niv\u00e5"
     ],
     "name:swe_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":1175611409,
-    "wof:lastmodified":1534985888,
+    "wof:lastmodified":1561777985,
     "wof:name":"Niv\u00e5",
     "wof:parent_id":85682581,
     "wof:placetype":"locality",

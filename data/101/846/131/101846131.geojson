@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Sulsted"
     ],
-    "name:dut_x_preferred":[
-        "Sulsted"
-    ],
     "name:eng_x_preferred":[
         "Sulsted"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":101846131,
-    "wof:lastmodified":1530296479,
+    "wof:lastmodified":1561778005,
     "wof:name":"Sulsted",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

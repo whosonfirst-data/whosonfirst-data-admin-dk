@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Ringk\u00f8bing"
     ],
-    "name:dut_x_preferred":[
-        "Ringk\u00f8bing"
-    ],
     "name:eng_x_preferred":[
         "Ringk\u00f8bing"
     ],
@@ -39,12 +36,6 @@
         "Ringk\u00f8bing"
     ],
     "name:fra_x_preferred":[
-        "Ringk\u00f8bing"
-    ],
-    "name:fre_x_preferred":[
-        "Ringk\u00f8bing"
-    ],
-    "name:ger_x_preferred":[
         "Ringk\u00f8bing"
     ],
     "name:hun_x_preferred":[
@@ -78,9 +69,6 @@
         "Ringk\u00f8bing"
     ],
     "name:ron_x_preferred":[
-        "Ringk\u00f8bing"
-    ],
-    "name:rum_x_preferred":[
         "Ringk\u00f8bing"
     ],
     "name:rus_x_preferred":[
@@ -143,7 +131,7 @@
         }
     ],
     "wof:id":101805593,
-    "wof:lastmodified":1530296392,
+    "wof:lastmodified":1561777998,
     "wof:name":"Ringk\u00f8bing",
     "wof:parent_id":1159297869,
     "wof:placetype":"locality",

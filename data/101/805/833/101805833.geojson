@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":2845875.714662,
+    "geom:area_square_m":2845875.714663,
     "geom:bbox":"10.1221914935,57.1566251163,10.1684179197,57.1781905895",
     "geom:latitude":57.167197,
     "geom:longitude":10.148874,
@@ -26,19 +26,10 @@
     "name:dan_x_preferred":[
         "Hjallerup"
     ],
-    "name:dut_x_preferred":[
-        "Hjallerup"
-    ],
     "name:eng_x_preferred":[
         "Hjallerup"
     ],
     "name:fra_x_preferred":[
-        "Hjallerup"
-    ],
-    "name:fre_x_preferred":[
-        "Hjallerup"
-    ],
-    "name:ice_x_preferred":[
         "Hjallerup"
     ],
     "name:isl_x_preferred":[
@@ -97,7 +88,7 @@
         }
     ],
     "wof:id":101805833,
-    "wof:lastmodified":1530296417,
+    "wof:lastmodified":1561778000,
     "wof:name":"Hjallerup",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

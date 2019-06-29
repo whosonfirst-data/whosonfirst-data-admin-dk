@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":2547676.871608,
+    "geom:area_square_m":2547676.871607,
     "geom:bbox":"8.19947161509,56.6798376013,8.23428795491,56.7067716863",
     "geom:latitude":56.694765,
     "geom:longitude":8.216372,
@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "Thybor\u00f8n"
     ],
-    "name:dut_x_preferred":[
-        "Thybor\u00f8n"
-    ],
     "name:eng_x_preferred":[
         "Thybor\u00f8n"
     ],
-    "name:fre_x_preferred":[
-        "Thybor\u00f8n"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Thybor\u00f8n"
     ],
     "name:nds_x_preferred":[
@@ -51,9 +45,6 @@
         "Thybor\u00f8n"
     ],
     "name:ron_x_preferred":[
-        "Thybor\u00f8n"
-    ],
-    "name:rum_x_preferred":[
         "Thybor\u00f8n"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":101805575,
-    "wof:lastmodified":1530296390,
+    "wof:lastmodified":1561778000,
     "wof:name":"Thybor\u00f8n",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",

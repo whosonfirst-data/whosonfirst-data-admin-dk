@@ -26,17 +26,14 @@
     "name:deu_x_preferred":[
         "Aalestrup"
     ],
-    "name:dut_x_preferred":[
-        "Aalestrup"
+    "name:deu_x_variant":[
+        "Aalestrup Kommune"
     ],
     "name:eng_x_preferred":[
         "Aalestrup Municipality"
     ],
     "name:fao_x_preferred":[
         "Aalestrup kommuna"
-    ],
-    "name:ger_x_preferred":[
-        "Aalestrup Kommune"
     ],
     "name:hun_x_preferred":[
         "Aalestrup k\u00f6zs\u00e9g"
@@ -56,7 +53,7 @@
     "name:por_x_preferred":[
         "Aalestrup"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Aalestrup"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +108,7 @@
         }
     ],
     "wof:id":101805761,
-    "wof:lastmodified":1530296408,
+    "wof:lastmodified":1561778001,
     "wof:name":"Aalestrup",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

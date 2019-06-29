@@ -21,14 +21,14 @@
     "name:dan_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
-    "name:dut_x_preferred":[
-        "B\u00f8nnerup Strand"
+    "name:deu_x_preferred":[
+        "B\u00f6nnerup Strand"
     ],
     "name:eng_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
-    "name:ger_x_preferred":[
-        "B\u00f6nnerup Strand"
+    "name:nld_x_preferred":[
+        "B\u00f8nnerup Strand"
     ],
     "name:unk_x_variant":[
         "Strandhuse"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1126040555,
-    "wof:lastmodified":1530291203,
+    "wof:lastmodified":1561778014,
     "wof:name":"B\u00f8nnerup Strand",
     "wof:parent_id":1159297787,
     "wof:placetype":"locality",

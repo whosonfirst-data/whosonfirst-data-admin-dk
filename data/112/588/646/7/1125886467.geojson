@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Adslev"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Adslev"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Adslev"
     ],
     "qs_pg:aaroncc":"DK",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1125886467,
-    "wof:lastmodified":1530290363,
+    "wof:lastmodified":1561778016,
     "wof:name":"Adslev",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:dan_x_preferred":[
         "N\u00f8rre Nissum"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rre Nissum"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8rre Nissum"
     ],
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":101805755,
-    "wof:lastmodified":1530296407,
+    "wof:lastmodified":1561777998,
     "wof:name":"N\u00f8rre Nissum",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",

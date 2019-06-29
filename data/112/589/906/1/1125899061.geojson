@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "L\u00f8vel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "L\u00f8vel"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "L\u00f8vel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00f8vel"
     ],
-    "name:ger_x_preferred":[
-        "L\u00f8vel"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "L\u00f8vel"
     ],
     "name:kal_x_preferred":[
+        "L\u00f8vel"
+    ],
+    "name:nld_x_preferred":[
         "L\u00f8vel"
     ],
     "name:nno_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125899061,
-    "wof:lastmodified":1530291538,
+    "wof:lastmodified":1561778016,
     "wof:name":"L\u00f8vel",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

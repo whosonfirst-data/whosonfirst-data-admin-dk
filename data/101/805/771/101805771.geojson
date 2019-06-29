@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1074797.937955,
+    "geom:area_square_m":1074797.937954,
     "geom:bbox":"9.62157244938,56.699580509,9.65098195351,56.7121375311",
     "geom:latitude":56.705829,
     "geom:longitude":9.633331,
@@ -25,20 +25,14 @@
     "name:deu_x_preferred":[
         "N\u00f8rager Kommune"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rager"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8rager Municipality"
     ],
     "name:fao_x_preferred":[
         "N\u00f8rager kommuna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "N\u00f8rager"
-    ],
-    "name:ger_x_preferred":[
-        "N\u00f8rager Kommune"
     ],
     "name:ita_x_preferred":[
         "N\u00f8rager"
@@ -59,9 +53,6 @@
         "N\u00f8rager"
     ],
     "name:ron_x_preferred":[
-        "Comuna N\u00f8rager"
-    ],
-    "name:rum_x_preferred":[
         "Comuna N\u00f8rager"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101805771,
-    "wof:lastmodified":1530296410,
+    "wof:lastmodified":1561778000,
     "wof:name":"N\u00f8rager",
     "wof:parent_id":1159297887,
     "wof:placetype":"locality",

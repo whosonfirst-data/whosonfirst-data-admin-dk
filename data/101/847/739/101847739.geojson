@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Nordbyen"
     ],
-    "name:dut_x_preferred":[
-        "Nordbyen"
-    ],
     "name:eng_x_preferred":[
         "Nordbyen"
     ],
@@ -68,7 +65,7 @@
         }
     ],
     "wof:id":101847739,
-    "wof:lastmodified":1530296479,
+    "wof:lastmodified":1561778005,
     "wof:name":"Nordbyen",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

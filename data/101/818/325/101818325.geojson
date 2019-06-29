@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001963,
-    "geom:area_square_m":13676817.990898,
+    "geom:area_square_m":13676817.990897,
     "geom:bbox":"11.655140292,55.6871586476,11.7791098749,55.7236465199",
     "geom:latitude":55.70938,
     "geom:longitude":11.716632,
@@ -29,7 +29,7 @@
     "name:ceb_x_preferred":[
         "Holb\u00e6k"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Holb\u00e6k"
     ],
     "name:dan_x_colloquial":[
@@ -44,31 +44,19 @@
     "name:deu_x_preferred":[
         "Holb\u00e6k"
     ],
-    "name:dut_x_preferred":[
-        "Holb\u00e6k"
-    ],
     "name:eng_x_preferred":[
         "Holbaek"
     ],
     "name:fao_x_preferred":[
         "Holb\u00e6k"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Holb\u00e6k"
     ],
     "name:frr_x_preferred":[
         "Holb\u00e6k"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10da\u10d1\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Holb\u00e6k"
-    ],
     "name:hun_x_preferred":[
-        "Holb\u00e6k"
-    ],
-    "name:ice_x_preferred":[
         "Holb\u00e6k"
     ],
     "name:isl_x_preferred":[
@@ -89,16 +77,13 @@
     "name:lit_x_preferred":[
         "Holbekas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043b\u0431\u0435\u043a"
-    ],
-    "name:may_x_preferred":[
-        "Holb\u00e6k"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043b\u0431\u0435\u043a"
     ],
     "name:msa_x_preferred":[
+        "Holb\u00e6k"
+    ],
+    "name:nld_x_preferred":[
         "Holb\u00e6k"
     ],
     "name:nno_x_preferred":[
@@ -116,7 +101,7 @@
     "name:por_x_preferred":[
         "Holb\u00e6k"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Holb\u00e6k"
     ],
     "name:rus_x_preferred":[
@@ -193,7 +178,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296449,
+    "wof:lastmodified":1561777994,
     "wof:name":"Holb\u00e6k",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":647108.783539,
+    "geom:area_square_m":647108.783538,
     "geom:bbox":"9.49569208144,54.9725800997,9.51448111161,54.9834251197",
     "geom:latitude":54.979241,
     "geom:longitude":9.505221,
@@ -22,13 +22,10 @@
     "name:dan_x_preferred":[
         "Felsted"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Felsted"
     ],
     "name:eng_x_preferred":[
-        "Felsted"
-    ],
-    "name:ger_x_preferred":[
         "Felsted"
     ],
     "name:nds_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101846059,
-    "wof:lastmodified":1530296471,
+    "wof:lastmodified":1561778005,
     "wof:name":"Felsted",
     "wof:parent_id":1159297783,
     "wof:placetype":"locality",

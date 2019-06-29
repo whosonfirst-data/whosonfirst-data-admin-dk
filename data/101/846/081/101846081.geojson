@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "Malling"
     ],
-    "name:dut_x_preferred":[
-        "Malling"
-    ],
     "name:eng_x_preferred":[
         "Malling"
     ],
-    "name:fre_x_preferred":[
-        "Malling"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malling"
     ],
     "name:hun_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101846081,
-    "wof:lastmodified":1530296473,
+    "wof:lastmodified":1561778005,
     "wof:name":"Malling",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

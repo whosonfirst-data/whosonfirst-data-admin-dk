@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002156,
-    "geom:area_square_m":15030631.329996,
+    "geom:area_square_m":15030631.329994,
     "geom:bbox":"11.0236876673,55.6438126608,11.1357838662,55.7081548083",
     "geom:latitude":55.679442,
     "geom:longitude":11.08452,
@@ -17,9 +17,6 @@
     "mps:longitude":11.083663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kalundborg"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043d\u0434\u0431\u043e\u0440\u0433"
     ],
@@ -29,10 +26,7 @@
     "name:ceb_x_preferred":[
         "Kalundborg"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u9686\u5821\u81ea\u6cbb\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kalundborg"
     ],
     "name:dan_x_preferred":[
@@ -44,8 +38,8 @@
     "name:deu_x_preferred":[
         "Kalundborg"
     ],
-    "name:dut_x_preferred":[
-        "Kalundborg"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bb\u03bf\u03c5\u03bd\u03c4\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kalundborg"
@@ -65,28 +59,13 @@
     "name:fra_x_preferred":[
         "Kalundborg"
     ],
-    "name:fre_x_preferred":[
-        "Kalundborg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10e3\u10dc\u10d1\u10dd\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kalundborg"
-    ],
     "name:gla_x_preferred":[
         "Kalundborg"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bb\u03bf\u03c5\u03bd\u03c4\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05dc\u05e0\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hun_x_preferred":[
-        "Kalundborg"
-    ],
-    "name:ice_x_preferred":[
         "Kalundborg"
     ],
     "name:ind_x_preferred":[
@@ -101,14 +80,14 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30ed\u30f3\u30dc\u30fc"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10e3\u10dc\u10d1\u10dd\u10e0\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce7c\ub8ec\ubcf4\ub974"
     ],
     "name:lit_x_preferred":[
         "Kalundborgas"
-    ],
-    "name:may_x_preferred":[
-        "Kalundborg"
     ],
     "name:msa_x_preferred":[
         "Kalundborg"
@@ -131,9 +110,6 @@
     "name:ron_x_preferred":[
         "Kalundborg"
     ],
-    "name:rum_x_preferred":[
-        "Kalundborg"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043d\u043d\u0431\u043e\u0440\u0433"
     ],
@@ -154,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Kalundborg"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u9686\u5821\u81ea\u6cbb\u5e02"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
@@ -204,7 +183,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296448,
+    "wof:lastmodified":1561777996,
     "wof:name":"Kalundborg",
     "wof:parent_id":1159297757,
     "wof:placetype":"locality",

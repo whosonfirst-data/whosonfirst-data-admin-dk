@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "S\u00e6dballe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00e6dballe"
     ],
     "name:eng_x_preferred":[
@@ -30,13 +30,13 @@
     "name:fao_x_preferred":[
         "S\u00e6dballe"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e6dballe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00e6dballe"
     ],
     "name:kal_x_preferred":[
+        "S\u00e6dballe"
+    ],
+    "name:nld_x_preferred":[
         "S\u00e6dballe"
     ],
     "name:nno_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125933863,
-    "wof:lastmodified":1530291732,
+    "wof:lastmodified":1561778010,
     "wof:name":"S\u00e6dballe",
     "wof:parent_id":1159297841,
     "wof:placetype":"locality",

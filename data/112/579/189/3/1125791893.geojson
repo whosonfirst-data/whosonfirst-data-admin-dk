@@ -24,13 +24,13 @@
     "name:dan_x_preferred":[
         "Arnager"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Arnager"
     ],
     "name:eng_x_preferred":[
         "Arnager"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Arnager"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125791893,
-    "wof:lastmodified":1530291112,
+    "wof:lastmodified":1561778023,
     "wof:name":"Arnager",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

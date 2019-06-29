@@ -25,19 +25,19 @@
     "name:dan_x_preferred":[
         "Niv\u00e5"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Niv\u00e5"
     ],
     "name:eng_x_preferred":[
         "Niv\u00e5"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Niv\u00e5"
     ],
     "name:nob_x_preferred":[
         "Niv\u00e5"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Niv\u00e5"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101847787,
-    "wof:lastmodified":1534985888,
+    "wof:lastmodified":1561778006,
     "wof:name":"Niv\u00e5",
     "wof:parent_id":85682581,
     "wof:placetype":"locality",

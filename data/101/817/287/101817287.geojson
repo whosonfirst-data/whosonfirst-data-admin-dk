@@ -19,14 +19,14 @@
     "name:dan_x_preferred":[
         "Kolind"
     ],
-    "name:dut_x_preferred":[
-        "Kolind"
-    ],
     "name:eng_x_preferred":[
         "Kolind"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ea\u30f3\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Kolind"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":101817287,
-    "wof:lastmodified":1530291429,
+    "wof:lastmodified":1561777997,
     "wof:name":"Kolind",
     "wof:parent_id":1159297809,
     "wof:placetype":"locality",

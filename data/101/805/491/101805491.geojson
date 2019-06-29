@@ -26,25 +26,16 @@
     "name:deu_x_preferred":[
         "Krus\u00e5"
     ],
-    "name:dut_x_preferred":[
-        "Krus\u00e5"
-    ],
     "name:eng_x_preferred":[
         "Krus\u00e5"
     ],
     "name:fra_x_preferred":[
         "Krusa"
     ],
-    "name:fre_x_preferred":[
-        "Krusa"
-    ],
-    "name:ger_x_preferred":[
-        "Krus\u00e5"
-    ],
     "name:hun_x_preferred":[
         "Krus\u00e5"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Krus\u00e5"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":101805491,
-    "wof:lastmodified":1530296381,
+    "wof:lastmodified":1561778000,
     "wof:name":"Krus\u00e5",
     "wof:parent_id":1159297783,
     "wof:placetype":"locality",

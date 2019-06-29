@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "Tune"
     ],
-    "name:dut_x_preferred":[
-        "Tune"
-    ],
     "name:eng_x_preferred":[
         "Tune"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101840803,
-    "wof:lastmodified":1530296465,
+    "wof:lastmodified":1561778006,
     "wof:name":"Tune",
     "wof:parent_id":1159297827,
     "wof:placetype":"locality",

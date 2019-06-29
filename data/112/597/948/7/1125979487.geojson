@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "R\u00f8"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00f8"
     ],
     "name:eng_x_preferred":[
         "R\u00f8"
     ],
-    "name:ger_x_preferred":[
+    "name:hun_x_preferred":[
         "R\u00f8"
     ],
-    "name:hun_x_preferred":[
+    "name:nld_x_preferred":[
         "R\u00f8"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125979487,
-    "wof:lastmodified":1530291144,
+    "wof:lastmodified":1561778018,
     "wof:name":"R\u00f8",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001232,
-    "geom:area_square_m":8309345.750247,
+    "geom:area_square_m":8309345.750246,
     "geom:bbox":"8.64065775441,56.9412695643,8.74039353049,56.972274116",
     "geom:latitude":56.95788,
     "geom:longitude":8.694719,
@@ -29,9 +29,6 @@
     "name:ceb_x_preferred":[
         "Thisted"
     ],
-    "name:chi_x_preferred":[
-        "\u9f4a\u65af\u6cf0\u8332\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Thisted"
     ],
@@ -39,9 +36,6 @@
         "Thystad"
     ],
     "name:deu_x_preferred":[
-        "Thisted"
-    ],
-    "name:dut_x_preferred":[
         "Thisted"
     ],
     "name:eng_x_preferred":[
@@ -57,10 +51,7 @@
     "name:fin_x_preferred":[
         "Thisted"
     ],
-    "name:fre_x_preferred":[
-        "Thisted"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Thisted"
     ],
     "name:heb_x_preferred":[
@@ -70,9 +61,6 @@
         "Thisted"
     ],
     "name:hun_x_preferred":[
-        "Thisted"
-    ],
-    "name:ice_x_preferred":[
         "Thisted"
     ],
     "name:isl_x_preferred":[
@@ -89,9 +77,6 @@
     ],
     "name:lit_x_preferred":[
         "Tistedas"
-    ],
-    "name:may_x_preferred":[
-        "Thisted"
     ],
     "name:msa_x_preferred":[
         "Thisted"
@@ -117,9 +102,6 @@
     "name:ron_x_preferred":[
         "Thisted"
     ],
-    "name:rum_x_preferred":[
-        "Thisted"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u0442\u0435\u0434"
     ],
@@ -137,6 +119,9 @@
     ],
     "name:vie_x_preferred":[
         "Thisted"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f4a\u65af\u6cf0\u8332\u81ea\u6cbb\u5e02"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
@@ -190,7 +175,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296416,
+    "wof:lastmodified":1561778001,
     "wof:name":"Thisted",
     "wof:parent_id":1159297829,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":1436048.451818,
+    "geom:area_square_m":1436048.451817,
     "geom:bbox":"9.08174793101,55.4620643407,9.11693183115,55.4764566417",
     "geom:latitude":55.470464,
     "geom:longitude":9.10017,
@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Askov"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Askov"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Askov"
     ],
     "name:swe_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":101838603,
-    "wof:lastmodified":1530290831,
+    "wof:lastmodified":1561778006,
     "wof:name":"Askov",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

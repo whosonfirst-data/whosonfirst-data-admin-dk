@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002419,
-    "geom:area_square_m":16480760.263341,
+    "geom:area_square_m":16480760.263338,
     "geom:bbox":"8.97783133041,56.5301503291,9.060897925,56.6037373711",
     "geom:latitude":56.566451,
     "geom:longitude":9.027904,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Skive"
     ],
-    "name:dut_x_preferred":[
-        "Skive"
-    ],
     "name:eng_x_preferred":[
         "Skive"
     ],
@@ -44,16 +41,7 @@
     "name:fra_x_preferred":[
         "Skive"
     ],
-    "name:fre_x_preferred":[
-        "Skive"
-    ],
-    "name:ger_x_preferred":[
-        "Skive"
-    ],
     "name:hun_x_preferred":[
-        "Skive"
-    ],
-    "name:ice_x_preferred":[
         "Skive"
     ],
     "name:isl_x_preferred":[
@@ -70,9 +58,6 @@
     ],
     "name:lit_x_preferred":[
         "Skiv\u0117"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u043a\u0438\u0432\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043a\u0438\u0432\u0435"
@@ -96,9 +81,6 @@
         "Skive"
     ],
     "name:ron_x_preferred":[
-        "Skive"
-    ],
-    "name:rum_x_preferred":[
         "Skive"
     ],
     "name:rus_x_preferred":[
@@ -164,7 +146,7 @@
         }
     ],
     "wof:id":101805709,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561777998,
     "wof:name":"Skive",
     "wof:parent_id":1159297899,
     "wof:placetype":"locality",

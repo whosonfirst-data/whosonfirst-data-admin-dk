@@ -20,13 +20,13 @@
     "name:dan_x_preferred":[
         "H\u00f8ruphav"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "H\u00f8ruphav"
     ],
     "name:eng_x_preferred":[
         "H\u00f8ruphav"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "H\u00f8ruphav"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101805393,
-    "wof:lastmodified":1530291988,
+    "wof:lastmodified":1561778001,
     "wof:name":"H\u00f8ruphav",
     "wof:parent_id":1159297877,
     "wof:placetype":"locality",

@@ -25,16 +25,10 @@
     "name:deu_x_preferred":[
         "Elling"
     ],
-    "name:dut_x_preferred":[
-        "Elling"
-    ],
     "name:eng_x_preferred":[
         "Elling"
     ],
-    "name:fre_x_preferred":[
-        "Elling"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Elling"
     ],
     "name:glg_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101875299,
-    "wof:lastmodified":1544751925,
+    "wof:lastmodified":1561777998,
     "wof:name":"Elling",
     "wof:parent_id":1159297889,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":1731825.279312,
+    "geom:area_square_m":1731825.279313,
     "geom:bbox":"9.98392306394,56.1365023932,10.011255411,56.1535790704",
     "geom:latitude":56.145888,
     "geom:longitude":9.996942,
@@ -22,13 +22,10 @@
     "name:deu_x_preferred":[
         "Harlev"
     ],
-    "name:dut_x_preferred":[
-        "Harlev"
-    ],
     "name:eng_x_preferred":[
         "Harlev"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Harlev"
     ],
     "name:unk_x_variant":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101805601,
-    "wof:lastmodified":1530296393,
+    "wof:lastmodified":1561778002,
     "wof:name":"Harlev",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

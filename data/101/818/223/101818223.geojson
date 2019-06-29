@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001685,
-    "geom:area_square_m":11856239.561033,
+    "geom:area_square_m":11856239.561035,
     "geom:bbox":"10.7462364379,55.293490409,10.8419430412,55.3521220483",
     "geom:latitude":55.315486,
     "geom:longitude":10.79521,
@@ -23,19 +23,13 @@
     "name:ceb_x_preferred":[
         "Nyborg"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u5821"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nyborg"
     ],
     "name:dan_x_preferred":[
         "Nyborg"
     ],
     "name:deu_x_preferred":[
-        "Nyborg"
-    ],
-    "name:dut_x_preferred":[
         "Nyborg"
     ],
     "name:eng_x_preferred":[
@@ -53,16 +47,10 @@
     "name:fra_x_preferred":[
         "Nyborg"
     ],
-    "name:fre_x_preferred":[
-        "Nyborg"
-    ],
-    "name:ger_x_preferred":[
-        "Nyborg"
-    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d1\u05d5\u05e8\u05d2"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Nyborg"
     ],
     "name:ita_x_preferred":[
@@ -72,9 +60,6 @@
         "\u30cb\u30e5\u30dc\u30fc"
     ],
     "name:kal_x_preferred":[
-        "Nyborg"
-    ],
-    "name:may_x_preferred":[
         "Nyborg"
     ],
     "name:msa_x_preferred":[
@@ -101,9 +86,6 @@
     "name:ron_x_preferred":[
         "Nyborg"
     ],
-    "name:rum_x_preferred":[
-        "Nyborg"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u044e\u0431\u043e\u0440\u0433"
     ],
@@ -121,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u5821\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u5821"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -174,7 +159,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296437,
+    "wof:lastmodified":1561777995,
     "wof:name":"Nyborg",
     "wof:parent_id":1159297759,
     "wof:placetype":"locality",

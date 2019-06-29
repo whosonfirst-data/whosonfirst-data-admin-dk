@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1044992.07751,
+    "geom:area_square_m":1044992.077509,
     "geom:bbox":"9.61565444711,56.4748080495,9.63677020793,56.4883088637",
     "geom:latitude":56.481064,
     "geom:longitude":9.626361,
@@ -22,7 +22,7 @@
     "name:dan_x_preferred":[
         "\u00d8rum"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00d8rum"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +31,10 @@
     "name:fao_x_preferred":[
         "\u00d8rum"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d8rum"
     ],
-    "name:ger_x_preferred":[
-        "\u00d8rum"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "\u00d8rum"
     ],
     "name:kal_x_preferred":[
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":101805639,
-    "wof:lastmodified":1530291530,
+    "wof:lastmodified":1561778002,
     "wof:name":"\u00d8rum",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

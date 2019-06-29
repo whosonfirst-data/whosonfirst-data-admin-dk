@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "Viby"
     ],
-    "name:dut_x_preferred":[
-        "Viby"
-    ],
     "name:eng_x_preferred":[
         "Viby"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101818333,
-    "wof:lastmodified":1530296451,
+    "wof:lastmodified":1561777994,
     "wof:name":"Viby",
     "wof:parent_id":1159297881,
     "wof:placetype":"locality",

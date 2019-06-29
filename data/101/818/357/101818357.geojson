@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":1503182.870966,
+    "geom:area_square_m":1503182.870967,
     "geom:bbox":"12.0433127884,55.3062960741,12.0766323319,55.319846791",
     "geom:latitude":55.311972,
     "geom:longitude":12.060148,
@@ -19,16 +19,16 @@
     "name:dan_x_preferred":[
         "Dalby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dalby"
     ],
     "name:eng_x_preferred":[
         "Dalby"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dalby"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Dalby"
     ],
     "qs:a0":"Danmark",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":101818357,
-    "wof:lastmodified":1530296453,
+    "wof:lastmodified":1561777994,
     "wof:name":"Dalby",
     "wof:parent_id":1159297811,
     "wof:placetype":"locality",

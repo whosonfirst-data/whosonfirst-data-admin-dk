@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Tisvilde"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tisvilde"
     ],
     "name:eng_x_preferred":[
         "Tisvilde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tisvilde"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Tisvilde"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125850789,
-    "wof:lastmodified":1530291826,
+    "wof:lastmodified":1561778022,
     "wof:name":"Tisvildeleje",
     "wof:parent_id":1159297855,
     "wof:placetype":"locality",

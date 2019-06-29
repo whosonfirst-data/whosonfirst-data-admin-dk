@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002583,
-    "geom:area_square_m":17184121.85027,
+    "geom:area_square_m":17184121.850273,
     "geom:bbox":"10.4661449392,57.4046900836,10.5606017783,57.4794843281",
     "geom:latitude":57.445005,
     "geom:longitude":10.518517,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0631\u064a\u0643\u0634\u0647\u0627\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Frederikshavn"
-    ],
     "name:bre_x_preferred":[
         "Frederikshavn"
     ],
@@ -36,22 +33,13 @@
     "name:ces_x_preferred":[
         "Frederikshavn"
     ],
-    "name:chi_x_preferred":[
-        "\u8153\u7279\u70c8\u6e2f"
-    ],
     "name:cym_x_preferred":[
-        "Frederikshavn"
-    ],
-    "name:cze_x_preferred":[
         "Frederikshavn"
     ],
     "name:dan_x_preferred":[
         "Frederikshavn"
     ],
     "name:deu_x_preferred":[
-        "Frederikshavn"
-    ],
-    "name:dut_x_preferred":[
         "Frederikshavn"
     ],
     "name:eng_x_preferred":[
@@ -75,25 +63,13 @@
     "name:fra_x_preferred":[
         "Frederikshavn"
     ],
-    "name:fre_x_preferred":[
-        "Frederikshavn"
-    ],
     "name:frr_x_preferred":[
-        "Frederikshavn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e0\u10d4\u10d3\u10d4\u10e0\u10d8\u10e5\u10e1\u10f0\u10d0\u10d5\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Frederikshavn"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d3\u05e8\u05d9\u05e7\u05e1\u05d4\u05d0\u05d1\u05df"
     ],
     "name:hun_x_preferred":[
-        "Frederikshavn"
-    ],
-    "name:ice_x_preferred":[
         "Frederikshavn"
     ],
     "name:isl_x_preferred":[
@@ -116,12 +92,6 @@
     ],
     "name:lit_x_preferred":[
         "Frederikshaunas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Frederikshavn"
     ],
     "name:mkd_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
@@ -153,9 +123,6 @@
     "name:ron_x_preferred":[
         "Frederikshavn"
     ],
-    "name:rum_x_preferred":[
-        "Frederikshavn"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
     ],
@@ -175,9 +142,6 @@
         "Fladstrand"
     ],
     "name:vol_x_preferred":[
-        "Frederikshavn"
-    ],
-    "name:wel_x_preferred":[
         "Frederikshavn"
     ],
     "name:zho_x_preferred":[
@@ -327,7 +291,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296425,
+    "wof:lastmodified":1561777998,
     "wof:name":"Frederikshavn",
     "wof:parent_id":1159297889,
     "wof:placetype":"locality",

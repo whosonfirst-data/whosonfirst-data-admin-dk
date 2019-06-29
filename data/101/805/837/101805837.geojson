@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":915482.317302,
+    "geom:area_square_m":915482.317303,
     "geom:bbox":"9.79698073871,57.1430918802,9.81684427777,57.1565715139",
     "geom:latitude":57.150451,
     "geom:longitude":9.80578,
@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Biersted"
     ],
     "name:eng_x_preferred":[
@@ -28,14 +28,14 @@
     "name:fra_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
     ],
-    "name:fre_x_preferred":[
-        "Biersted"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Biersted"
     ],
     "name:ita_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
+    ],
+    "name:nld_x_preferred":[
+        "Biersted"
     ],
     "name:por_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101805837,
-    "wof:lastmodified":1530292380,
+    "wof:lastmodified":1561778002,
     "wof:name":"Biersted",
     "wof:parent_id":1159297909,
     "wof:placetype":"locality",

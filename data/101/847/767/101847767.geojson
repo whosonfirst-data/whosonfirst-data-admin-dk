@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Forlev"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Forlev"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Forlev"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101847767,
-    "wof:lastmodified":1530292237,
+    "wof:lastmodified":1561778005,
     "wof:name":"Forlev",
     "wof:parent_id":1159297897,
     "wof:placetype":"locality",

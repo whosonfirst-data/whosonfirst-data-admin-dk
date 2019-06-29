@@ -22,10 +22,10 @@
     "name:dan_x_preferred":[
         "Seden"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Seden"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Seden"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1125933965,
-    "wof:lastmodified":1553816641,
+    "wof:lastmodified":1561778009,
     "wof:name":"Seden",
     "wof:parent_id":1159297847,
     "wof:placetype":"locality",

@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Lunderskov"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Lunderskov"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Lunderskov"
     ],
     "name:spa_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101846027,
-    "wof:lastmodified":1530291508,
+    "wof:lastmodified":1561778005,
     "wof:name":"Lunderskov",
     "wof:parent_id":1159297823,
     "wof:placetype":"locality",

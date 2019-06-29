@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Sunds\u00f8re"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sunds\u00f8re"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sunds\u00f8re"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125790061,
-    "wof:lastmodified":1530292259,
+    "wof:lastmodified":1561778023,
     "wof:name":"Sunds\u00f8re",
     "wof:parent_id":1159297899,
     "wof:placetype":"locality",

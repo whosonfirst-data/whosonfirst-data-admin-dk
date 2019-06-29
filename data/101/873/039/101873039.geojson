@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Vejby"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Vejby"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Vejby"
     ],
     "qs:a0":"Danmark",
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":101873039,
-    "wof:lastmodified":1544751447,
+    "wof:lastmodified":1561777997,
     "wof:name":"Vejby",
     "wof:parent_id":1159297855,
     "wof:placetype":"locality",

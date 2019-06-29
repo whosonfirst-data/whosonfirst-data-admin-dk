@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007385,
-    "geom:area_square_m":49694680.349714,
+    "geom:area_square_m":49694680.349713,
     "geom:bbox":"9.8532085,56.9885888617,10.0385855,57.0704101402",
     "geom:latitude":57.030471,
     "geom:longitude":9.934853,
@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
-    "name:alb_x_preferred":[
-        "Aalborg"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0644\u0628\u0648\u0631\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0555\u056c\u0562\u0578\u0580\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Aalborg"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u043b\u044c\u0431\u0430\u0440\u0433"
@@ -48,13 +39,13 @@
     "name:cat_x_preferred":[
         "Aalborg"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5c14\u5821"
+    "name:ces_x_preferred":[
+        "Aalborg"
     ],
     "name:csb_x_preferred":[
         "Aalborg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Aalborg"
     ],
     "name:dan_x_preferred":[
@@ -64,9 +55,6 @@
         "\u00c5lborg"
     ],
     "name:deu_x_preferred":[
-        "Aalborg"
-    ],
-    "name:dut_x_preferred":[
         "Aalborg"
     ],
     "name:ell_x_preferred":[
@@ -79,6 +67,9 @@
         "Aalborg"
     ],
     "name:est_x_preferred":[
+        "Aalborg"
+    ],
+    "name:eus_x_preferred":[
         "Aalborg"
     ],
     "name:fao_x_preferred":[
@@ -96,16 +87,7 @@
     "name:fra_x_variant":[
         "Aalborg"
     ],
-    "name:fre_x_preferred":[
-        "Aalborg"
-    ],
     "name:frr_x_preferred":[
-        "Aalborg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10da\u10d1\u10dd\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Aalborg"
     ],
     "name:gle_x_preferred":[
@@ -113,9 +95,6 @@
     ],
     "name:glg_x_preferred":[
         "Aalborg"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bb\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab2\u0acd\u0aac\u0acb\u0ab0\u0acd\u0a97"
@@ -137,9 +116,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u056c\u0562\u0578\u0580\u0563"
-    ],
-    "name:ice_x_preferred":[
-        "\u00c1laborg"
     ],
     "name:ile_x_preferred":[
         "Aalborg"
@@ -198,20 +174,17 @@
     "name:lmo_x_preferred":[
         "\u00c5lborg"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043b\u0431\u043e\u0440\u0433"
-    ],
-    "name:mao_x_preferred":[
-        "Aalborg"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u092c\u094b\u0930\u094d\u0917"
     ],
-    "name:may_x_preferred":[
-        "Aalborg"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u043b\u0431\u043e\u0440\u0433"
+    ],
+    "name:mri_x_preferred":[
+        "Aalborg"
+    ],
+    "name:msa_x_preferred":[
+        "Aalborg"
     ],
     "name:nld_x_preferred":[
         "Aalborg"
@@ -234,9 +207,6 @@
     "name:oss_x_preferred":[
         "\u041e\u043b\u044c\u0431\u043e\u0440\u0433"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0628\u0648\u0631\u06af"
-    ],
     "name:pms_x_preferred":[
         "Aalborg"
     ],
@@ -252,9 +222,6 @@
     "name:ron_x_preferred":[
         "Aalborg"
     ],
-    "name:rum_x_preferred":[
-        "Aalborg"
-    ],
     "name:rup_x_preferred":[
         "Aalborg"
     ],
@@ -267,7 +234,7 @@
     "name:sin_x_preferred":[
         "\u0d86\u0dbd\u0dca\u0db6\u0ddd\u0dbb\u0dca\u0d9c\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Aalborg"
     ],
     "name:slv_x_preferred":[
@@ -277,6 +244,9 @@
         "Aalborg"
     ],
     "name:spa_x_preferred":[
+        "Aalborg"
+    ],
+    "name:sqi_x_preferred":[
         "Aalborg"
     ],
     "name:srp_x_preferred":[
@@ -328,9 +298,6 @@
         "Aalborg"
     ],
     "name:war_x_preferred":[
-        "Aalborg"
-    ],
-    "name:wel_x_preferred":[
         "Aalborg"
     ],
     "name:yue_x_preferred":[
@@ -485,7 +452,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296364,
+    "wof:lastmodified":1561778004,
     "wof:name":"Aalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

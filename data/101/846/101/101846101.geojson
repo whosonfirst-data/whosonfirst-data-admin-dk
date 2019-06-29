@@ -29,9 +29,6 @@
     "name:dan_x_preferred":[
         "Tarm"
     ],
-    "name:dut_x_preferred":[
-        "Tarm"
-    ],
     "name:eng_x_preferred":[
         "Tarm"
     ],
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":101846101,
-    "wof:lastmodified":1530296475,
+    "wof:lastmodified":1561778005,
     "wof:name":"Tarm",
     "wof:parent_id":1159297869,
     "wof:placetype":"locality",

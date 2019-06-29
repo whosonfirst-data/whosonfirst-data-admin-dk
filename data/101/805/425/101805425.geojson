@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":2767304.643032,
+    "geom:area_square_m":2767304.643031,
     "geom:bbox":"9.75776240816,55.5260524915,9.79264051509,55.5449636209",
     "geom:latitude":55.536399,
     "geom:longitude":9.777351,
@@ -21,9 +21,6 @@
         "Strib"
     ],
     "name:dan_x_preferred":[
-        "Strib"
-    ],
-    "name:dut_x_preferred":[
         "Strib"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101805425,
-    "wof:lastmodified":1530296373,
+    "wof:lastmodified":1561777999,
     "wof:name":"Strib",
     "wof:parent_id":1159297791,
     "wof:placetype":"locality",

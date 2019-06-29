@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "Hvidbjerg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hvidbjerg"
     ],
     "name:eng_x_preferred":[
@@ -28,16 +28,16 @@
     "name:fao_x_preferred":[
         "Hvidbjerg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hvidbjerg"
     ],
-    "name:ger_x_preferred":[
-        "Hvidbjerg"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Hvidbjerg"
     ],
     "name:kal_x_preferred":[
+        "Hvidbjerg"
+    ],
+    "name:nld_x_preferred":[
         "Hvidbjerg"
     ],
     "name:nno_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101873047,
-    "wof:lastmodified":1544751450,
+    "wof:lastmodified":1561777996,
     "wof:name":"Hvidbjerg",
     "wof:parent_id":1159297861,
     "wof:placetype":"locality",

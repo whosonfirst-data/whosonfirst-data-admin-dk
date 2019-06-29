@@ -24,10 +24,7 @@
     "name:cat_x_preferred":[
         "Municipi de Gentofte"
     ],
-    "name:chi_x_preferred":[
-        "\u6839\u63aa\u592b\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gentofte"
     ],
     "name:dan_x_preferred":[
@@ -36,7 +33,7 @@
     "name:deu_x_preferred":[
         "Gentofte Kommune"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Gentofte"
     ],
     "name:eng_x_preferred":[
@@ -54,14 +51,8 @@
     "name:fra_x_preferred":[
         "Gentofte"
     ],
-    "name:fre_x_preferred":[
-        "Gentofte"
-    ],
     "name:frr_x_preferred":[
         "Gentofte Komuun"
-    ],
-    "name:ger_x_preferred":[
-        "Gentofte"
     ],
     "name:hsb_x_preferred":[
         "Gentofte"
@@ -72,11 +63,11 @@
     "name:hye_x_preferred":[
         "\u0533\u0565\u0576\u057f\u0578\u0586\u057f\u0565"
     ],
-    "name:ice_x_preferred":[
-        "Gentofte"
-    ],
     "name:ind_x_preferred":[
         "Munisipalitas Gentofte"
+    ],
+    "name:isl_x_preferred":[
+        "Gentofte"
     ],
     "name:ita_x_preferred":[
         "Gentofte"
@@ -120,7 +111,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0435\u043d\u0442\u043e\u0444\u0442\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gentofte"
     ],
     "name:stq_x_preferred":[
@@ -137,6 +128,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6839\u63aa\u592b\u7279\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6839\u63aa\u592b\u7279"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -190,7 +184,7 @@
         }
     ],
     "wof:id":1125767009,
-    "wof:lastmodified":1530292547,
+    "wof:lastmodified":1561778022,
     "wof:name":"Gentofte",
     "wof:parent_id":1159297927,
     "wof:placetype":"locality",

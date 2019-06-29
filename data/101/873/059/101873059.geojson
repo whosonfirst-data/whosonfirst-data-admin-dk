@@ -22,22 +22,16 @@
     "name:deu_x_preferred":[
         "Thorning"
     ],
-    "name:dut_x_preferred":[
-        "Thorning"
-    ],
     "name:eng_x_preferred":[
         "Thorning"
     ],
     "name:fao_x_preferred":[
         "Thorning"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thorning"
     ],
-    "name:ger_x_preferred":[
-        "Thorning"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Thorning"
     ],
     "name:kal_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101873059,
-    "wof:lastmodified":1544751458,
+    "wof:lastmodified":1561777997,
     "wof:name":"Thorning",
     "wof:parent_id":1159297773,
     "wof:placetype":"locality",

@@ -26,9 +26,6 @@
     "name:dan_x_preferred":[
         "Auning"
     ],
-    "name:dut_x_preferred":[
-        "Auning"
-    ],
     "name:eng_x_preferred":[
         "Auning"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101817275,
-    "wof:lastmodified":1530296422,
+    "wof:lastmodified":1561777997,
     "wof:name":"Auning",
     "wof:parent_id":1159297787,
     "wof:placetype":"locality",

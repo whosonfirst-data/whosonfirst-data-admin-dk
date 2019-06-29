@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Assens"
     ],
-    "name:dut_x_preferred":[
-        "Assens"
-    ],
     "name:eng_x_preferred":[
         "Assens"
     ],
@@ -41,10 +38,7 @@
     "name:fin_x_preferred":[
         "Assens"
     ],
-    "name:fre_x_preferred":[
-        "Assens"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Assens"
     ],
     "name:hrv_x_preferred":[
@@ -55,9 +49,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\u30bb\u30f3\u30ba"
-    ],
-    "name:may_x_preferred":[
-        "Assens"
     ],
     "name:msa_x_preferred":[
         "Assens"
@@ -75,9 +66,6 @@
         "Assens"
     ],
     "name:ron_x_preferred":[
-        "Assens"
-    ],
-    "name:rum_x_preferred":[
         "Assens"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +129,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561777999,
     "wof:name":"Assens",
     "wof:parent_id":1159297891,
     "wof:placetype":"locality",

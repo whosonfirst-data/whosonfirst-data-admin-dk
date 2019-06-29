@@ -24,10 +24,10 @@
     "name:dan_x_preferred":[
         "Birkende"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Birkende"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Birkende"
     ],
     "name:nno_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125932645,
-    "wof:lastmodified":1530290925,
+    "wof:lastmodified":1561778010,
     "wof:name":"Birkende",
     "wof:parent_id":1159297755,
     "wof:placetype":"locality",

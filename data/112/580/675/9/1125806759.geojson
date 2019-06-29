@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Eg\u00e5"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Eg\u00e5"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Eg\u00e5"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125806759,
-    "wof:lastmodified":1530291313,
+    "wof:lastmodified":1561778016,
     "wof:name":"Eg\u00e5",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

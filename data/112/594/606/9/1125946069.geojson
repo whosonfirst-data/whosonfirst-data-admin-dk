@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Snogeb\u00e6k"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Snogeb\u00e6k"
     ],
     "name:eng_x_preferred":[
         "Snogeb\u00e6k"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Snogeb\u00e6k"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Snogeb\u00e6k"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125946069,
-    "wof:lastmodified":1530291127,
+    "wof:lastmodified":1561778009,
     "wof:name":"Snogeb\u00e6k",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

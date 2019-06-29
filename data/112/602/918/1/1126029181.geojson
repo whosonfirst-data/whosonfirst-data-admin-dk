@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Kikhavn"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Kikhavn"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Kikhavn"
     ],
     "name:nob_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1126029181,
-    "wof:lastmodified":1530290601,
+    "wof:lastmodified":1561778013,
     "wof:name":"Kikhavn",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

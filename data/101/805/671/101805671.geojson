@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":816163.838515,
+    "geom:area_square_m":816163.838516,
     "geom:bbox":"9.69195593542,56.0642354697,9.70631438649,56.0813343915",
     "geom:latitude":56.072513,
     "geom:longitude":9.698879,
@@ -22,9 +22,6 @@
     "name:dan_x_preferred":[
         "Gammel Rye"
     ],
-    "name:dut_x_preferred":[
-        "Gammel Rye"
-    ],
     "name:eng_x_preferred":[
         "Old Rye"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30e5\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Gammel Rye"
     ],
     "name:swe_x_preferred":[
         "Gammel Rye"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101805671,
-    "wof:lastmodified":1530290362,
+    "wof:lastmodified":1561778001,
     "wof:name":"Gammel Rye",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

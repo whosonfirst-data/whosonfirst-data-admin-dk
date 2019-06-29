@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001644,
-    "geom:area_square_m":11587622.421193,
+    "geom:area_square_m":11587622.421192,
     "geom:bbox":"9.44041576258,55.2277830539,9.53624503118,55.270961448",
     "geom:latitude":55.2514,
     "geom:longitude":9.489722,
@@ -35,8 +35,8 @@
     "name:deu_x_variant":[
         "Hadersleben"
     ],
-    "name:dut_x_preferred":[
-        "Haderslev"
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bd\u03c4\u03b5\u03c1\u03c3\u03bb\u03b5\u03c6"
     ],
     "name:eng_x_preferred":[
         "Haderslev"
@@ -53,28 +53,13 @@
     "name:fra_x_preferred":[
         "Haderslev"
     ],
-    "name:fre_x_preferred":[
-        "Haderslev"
-    ],
     "name:frr_x_preferred":[
         "Haderslev"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10d3\u10d4\u10e0\u10e1\u10da\u10d4\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Haderslev"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03bd\u03c4\u03b5\u03c1\u03c3\u03bb\u03b5\u03c6"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d3\u05e8\u05e1\u05dc\u05d1"
     ],
     "name:hun_x_preferred":[
-        "Haderslev"
-    ],
-    "name:ice_x_preferred":[
         "Haderslev"
     ],
     "name:isl_x_preferred":[
@@ -94,12 +79,6 @@
     ],
     "name:lit_x_preferred":[
         "Haderslevas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
-    ],
-    "name:may_x_preferred":[
-        "Haderslev"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
@@ -126,9 +105,6 @@
         "Haderslev"
     ],
     "name:ron_x_preferred":[
-        "Haderslev"
-    ],
-    "name:rum_x_preferred":[
         "Haderslev"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +183,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296385,
+    "wof:lastmodified":1561778003,
     "wof:name":"Haderslev",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

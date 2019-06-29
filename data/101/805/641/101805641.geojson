@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Thors\u00f8"
     ],
-    "name:dut_x_preferred":[
-        "Thors\u00f8"
-    ],
     "name:eng_x_preferred":[
         "Thors\u00f8"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":101805641,
-    "wof:lastmodified":1530296394,
+    "wof:lastmodified":1561778002,
     "wof:name":"Thors\u00f8",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

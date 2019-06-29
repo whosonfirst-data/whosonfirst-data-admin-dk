@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001268,
-    "geom:area_square_m":8477975.65652,
+    "geom:area_square_m":8477975.656521,
     "geom:bbox":"9.91058517956,57.2573886925,9.97351941223,57.2951347242",
     "geom:latitude":57.273477,
     "geom:longitude":9.942652,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Br\u00f8nderslev"
     ],
-    "name:dut_x_preferred":[
-        "Br\u00f8nderslev"
-    ],
     "name:eng_x_preferred":[
         "Br\u00f8nderslev"
     ],
@@ -41,13 +38,7 @@
     "name:fin_x_preferred":[
         "Br\u00f8nderslev"
     ],
-    "name:fre_x_preferred":[
-        "Br\u00f8nderslev"
-    ],
-    "name:ger_x_preferred":[
-        "Br\u00f8nderslev"
-    ],
-    "name:ice_x_preferred":[
+    "name:fra_x_preferred":[
         "Br\u00f8nderslev"
     ],
     "name:isl_x_preferred":[
@@ -58,9 +49,6 @@
     ],
     "name:lit_x_preferred":[
         "Brionderslevas"
-    ],
-    "name:may_x_preferred":[
-        "Br\u00f8nderslev"
     ],
     "name:msa_x_preferred":[
         "Br\u00f8nderslev"
@@ -81,9 +69,6 @@
         "Br\u00f8nderslev"
     ],
     "name:ron_x_preferred":[
-        "Br\u00f8nderslev"
-    ],
-    "name:rum_x_preferred":[
         "Br\u00f8nderslev"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +134,7 @@
         }
     ],
     "wof:id":101805827,
-    "wof:lastmodified":1530296417,
+    "wof:lastmodified":1561777999,
     "wof:name":"Br\u00f8nderslev",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

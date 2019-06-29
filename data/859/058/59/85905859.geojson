@@ -27,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:baq_x_preferred":[
-        "Christianshavn"
-    ],
     "name:bul_x_preferred":[
         "\u0427\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0448\u0430\u0432\u043d"
     ],
@@ -37,9 +34,6 @@
         "Christianshavn"
     ],
     "name:ces_x_preferred":[
-        "Christianshavn"
-    ],
-    "name:cze_x_preferred":[
         "Christianshavn"
     ],
     "name:dan_x_preferred":[
@@ -51,9 +45,6 @@
     "name:deu_x_preferred":[
         "Christianshavn"
     ],
-    "name:dut_x_preferred":[
-        "Christianshavn"
-    ],
     "name:eng_x_preferred":[
         "Christianshavn"
     ],
@@ -61,12 +52,6 @@
         "Christianshavn"
     ],
     "name:fra_x_preferred":[
-        "Christianshavn"
-    ],
-    "name:fre_x_preferred":[
-        "Christianshavn"
-    ],
-    "name:ger_x_preferred":[
         "Christianshavn"
     ],
     "name:heb_x_preferred":[
@@ -100,9 +85,6 @@
         "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0445\u0430\u0432\u043d"
     ],
     "name:slk_x_preferred":[
-        "Christianshavn"
-    ],
-    "name:slo_x_preferred":[
         "Christianshavn"
     ],
     "name:swe_x_preferred":[
@@ -178,7 +160,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1536864515,
+    "wof:lastmodified":1561777959,
     "wof:name":"Chistianshavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -20,9 +20,6 @@
     "name:dan_x_preferred":[
         "Stensved"
     ],
-    "name:dut_x_preferred":[
-        "Stensved"
-    ],
     "name:eng_x_preferred":[
         "Stensved"
     ],
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":101818347,
-    "wof:lastmodified":1530296452,
+    "wof:lastmodified":1561777994,
     "wof:name":"Stensved",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

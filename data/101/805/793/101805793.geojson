@@ -23,7 +23,7 @@
     "name:dan_x_preferred":[
         "Svenstrup"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Svenstrup"
     ],
     "name:eng_x_preferred":[
@@ -32,16 +32,16 @@
     "name:fao_x_preferred":[
         "Svenstrup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Svenstrup"
     ],
-    "name:ger_x_preferred":[
-        "Svenstrup"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Svenstrup"
     ],
     "name:kal_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:nld_x_preferred":[
         "Svenstrup"
     ],
     "name:nno_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101805793,
-    "wof:lastmodified":1530296413,
+    "wof:lastmodified":1561778001,
     "wof:name":"Svenstrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

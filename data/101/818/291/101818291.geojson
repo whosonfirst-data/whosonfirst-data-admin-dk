@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001087,
-    "geom:area_square_m":7595110.702206,
+    "geom:area_square_m":7595110.702204,
     "geom:bbox":"12.081865486,55.5648618964,12.150926143,55.6117057376",
     "geom:latitude":55.586359,
     "geom:longitude":12.123221,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:dan_x_preferred":[
-        "Gadstrup"
-    ],
-    "name:dut_x_preferred":[
         "Gadstrup"
     ],
     "name:eng_x_preferred":[
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":101818291,
-    "wof:lastmodified":1530296445,
+    "wof:lastmodified":1561777995,
     "wof:name":"Gadstrup",
     "wof:parent_id":1159297881,
     "wof:placetype":"locality",

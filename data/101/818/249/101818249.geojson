@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":826180.702617,
+    "geom:area_square_m":826180.702618,
     "geom:bbox":"12.1400396786,55.7328619468,12.1609084239,55.742689042",
     "geom:latitude":55.736961,
     "geom:longitude":12.149644,
@@ -21,9 +21,6 @@
         "Gunds\u00f8magle"
     ],
     "name:dan_x_preferred":[
-        "Gunds\u00f8magle"
-    ],
-    "name:dut_x_preferred":[
         "Gunds\u00f8magle"
     ],
     "name:eng_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101818249,
-    "wof:lastmodified":1530296440,
+    "wof:lastmodified":1561777995,
     "wof:name":"Gunds\u00f8magle",
     "wof:parent_id":1159297881,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1184061.244904,
+    "geom:area_square_m":1184061.244905,
     "geom:bbox":"10.188466684,57.535040511,10.2084554878,57.5485387311",
     "geom:latitude":57.541336,
     "geom:longitude":10.198139,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:dan_x_preferred":[
-        "Bindslev"
-    ],
-    "name:dut_x_preferred":[
         "Bindslev"
     ],
     "name:eng_x_preferred":[
@@ -72,7 +69,7 @@
         }
     ],
     "wof:id":101846127,
-    "wof:lastmodified":1530296478,
+    "wof:lastmodified":1561778004,
     "wof:name":"Bindslev",
     "wof:parent_id":1159297775,
     "wof:placetype":"locality",

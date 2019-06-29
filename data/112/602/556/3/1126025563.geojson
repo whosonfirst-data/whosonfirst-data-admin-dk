@@ -24,7 +24,7 @@
     "name:dan_x_preferred":[
         "Tversted"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tversted"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +33,16 @@
     "name:fao_x_preferred":[
         "Tversted"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tversted"
     ],
-    "name:ger_x_preferred":[
-        "Tversted"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Tversted"
     ],
     "name:kal_x_preferred":[
+        "Tversted"
+    ],
+    "name:nld_x_preferred":[
         "Tversted"
     ],
     "name:nno_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1126025563,
-    "wof:lastmodified":1530291074,
+    "wof:lastmodified":1561778012,
     "wof:name":"Tversted",
     "wof:parent_id":1159297775,
     "wof:placetype":"locality",

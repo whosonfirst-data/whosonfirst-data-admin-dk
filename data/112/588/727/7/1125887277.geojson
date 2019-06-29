@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "S\u00f8nder Vedby Skovhuse"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "S\u00f8nder Vedby Skovhuse"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "S\u00f8nder Vedby Skovhuse"
     ],
     "qs_pg:aaroncc":"DK",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1125887277,
-    "wof:lastmodified":1530290560,
+    "wof:lastmodified":1561778016,
     "wof:name":"S\u00f8nder Vedby Skovhuse",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

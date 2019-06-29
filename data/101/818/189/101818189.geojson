@@ -29,19 +29,13 @@
     "name:deu_x_preferred":[
         "Nex\u00f8"
     ],
-    "name:dut_x_preferred":[
-        "Nex\u00f8"
-    ],
     "name:eng_x_preferred":[
         "Nex\u00f8"
     ],
     "name:est_x_preferred":[
         "Nex\u00f8"
     ],
-    "name:fre_x_preferred":[
-        "Nex\u00f8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nex\u00f8"
     ],
     "name:hun_x_preferred":[
@@ -63,9 +57,6 @@
         "Nex\u00f8"
     ],
     "name:ron_x_preferred":[
-        "Nex\u00f8"
-    ],
-    "name:rum_x_preferred":[
         "Nex\u00f8"
     ],
     "name:swe_x_preferred":[
@@ -131,7 +122,7 @@
         }
     ],
     "wof:id":101818189,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561777993,
     "wof:name":"Nex\u00f8",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

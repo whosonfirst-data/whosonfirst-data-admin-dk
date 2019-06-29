@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Koller\u00f8d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Koller\u00f8d"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "Koller\u00f8d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koller\u00f8d"
     ],
-    "name:ger_x_preferred":[
-        "Koller\u00f8d"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Koller\u00f8d"
     ],
     "name:kal_x_preferred":[
+        "Koller\u00f8d"
+    ],
+    "name:nld_x_preferred":[
         "Koller\u00f8d"
     ],
     "name:nno_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125916359,
-    "wof:lastmodified":1530291783,
+    "wof:lastmodified":1561778019,
     "wof:name":"Koller\u00f8d",
     "wof:parent_id":1159297849,
     "wof:placetype":"locality",

@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Hundige"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Hundige"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Hundige"
     ],
     "name:nob_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1126051817,
-    "wof:lastmodified":1530291020,
+    "wof:lastmodified":1561778013,
     "wof:name":"Hundige",
     "wof:parent_id":1159297765,
     "wof:placetype":"locality",

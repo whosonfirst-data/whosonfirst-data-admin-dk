@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Uggerby"
     ],
-    "name:baq_x_preferred":[
-        "Uggerby"
-    ],
     "name:bar_x_preferred":[
         "Uggerby"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Uggerby"
     ],
+    "name:ces_x_preferred":[
+        "Uggerby"
+    ],
     "name:cos_x_preferred":[
         "Uggerby"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Uggerby"
     ],
     "name:dan_x_preferred":[
         "Uggerby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Uggerby"
     ],
     "name:eng_x_preferred":[
@@ -60,19 +60,19 @@
     "name:est_x_preferred":[
         "Uggerby"
     ],
+    "name:eus_x_preferred":[
+        "Uggerby"
+    ],
     "name:fin_x_preferred":[
         "Uggerby"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Uggerby"
     ],
     "name:frp_x_preferred":[
         "Uggerby"
     ],
     "name:fur_x_preferred":[
-        "Uggerby"
-    ],
-    "name:ger_x_preferred":[
         "Uggerby"
     ],
     "name:gla_x_preferred":[
@@ -90,9 +90,6 @@
     "name:hrv_x_preferred":[
         "Uggerby"
     ],
-    "name:ice_x_preferred":[
-        "Uggerby"
-    ],
     "name:ido_x_preferred":[
         "Uggerby"
     ],
@@ -103,6 +100,9 @@
         "Uggerby"
     ],
     "name:ind_x_preferred":[
+        "Uggerby"
+    ],
+    "name:isl_x_preferred":[
         "Uggerby"
     ],
     "name:ita_x_preferred":[
@@ -120,19 +120,22 @@
     "name:ltz_x_preferred":[
         "Uggerby"
     ],
-    "name:may_x_preferred":[
-        "Uggerby"
-    ],
     "name:min_x_preferred":[
         "Uggerby"
     ],
     "name:mlg_x_preferred":[
         "Uggerby"
     ],
+    "name:msa_x_preferred":[
+        "Uggerby"
+    ],
     "name:nap_x_preferred":[
         "Uggerby"
     ],
     "name:nds_x_preferred":[
+        "Uggerby"
+    ],
+    "name:nld_x_preferred":[
         "Uggerby"
     ],
     "name:nno_x_preferred":[
@@ -162,7 +165,7 @@
     "name:roh_x_preferred":[
         "Uggerby"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Uggerby"
     ],
     "name:scn_x_preferred":[
@@ -171,7 +174,7 @@
     "name:sco_x_preferred":[
         "Uggerby"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Uggerby"
     ],
     "name:slv_x_preferred":[
@@ -202,9 +205,6 @@
         "Uggerby"
     ],
     "name:vol_x_preferred":[
-        "Uggerby"
-    ],
-    "name:wel_x_preferred":[
         "Uggerby"
     ],
     "name:wln_x_preferred":[
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1125807863,
-    "wof:lastmodified":1530291075,
+    "wof:lastmodified":1561778017,
     "wof:name":"Uggerby",
     "wof:parent_id":1159297775,
     "wof:placetype":"locality",

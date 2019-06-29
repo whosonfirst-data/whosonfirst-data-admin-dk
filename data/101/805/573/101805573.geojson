@@ -29,10 +29,10 @@
     "name:deu_x_preferred":[
         "Stilling"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Stilling"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Stilling"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101805573,
-    "wof:lastmodified":1530296389,
+    "wof:lastmodified":1561778000,
     "wof:name":"Stilling",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

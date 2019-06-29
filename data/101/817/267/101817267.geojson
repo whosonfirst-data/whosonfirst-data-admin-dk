@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Gilleleje"
     ],
-    "name:dut_x_preferred":[
-        "Gilleleje"
-    ],
     "name:eng_x_preferred":[
         "Gilleleje"
     ],
     "name:fra_x_preferred":[
-        "Gilleleje"
-    ],
-    "name:fre_x_preferred":[
-        "Gilleleje"
-    ],
-    "name:ger_x_preferred":[
         "Gilleleje"
     ],
     "name:hun_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":101817267,
-    "wof:lastmodified":1530296421,
+    "wof:lastmodified":1561777997,
     "wof:name":"Gilleleje",
     "wof:parent_id":1159297855,
     "wof:placetype":"locality",

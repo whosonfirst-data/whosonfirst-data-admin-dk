@@ -26,7 +26,7 @@
     "name:dan_x_preferred":[
         "Jyllinge"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jyllinge"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +35,10 @@
     "name:fao_x_preferred":[
         "Jyllinge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jyllinge"
     ],
-    "name:ger_x_preferred":[
-        "Jyllinge"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Jyllinge"
     ],
     "name:kal_x_preferred":[
@@ -69,9 +66,6 @@
         "Jyllinge"
     ],
     "name:ron_x_preferred":[
-        "Jyllinge"
-    ],
-    "name:rum_x_preferred":[
         "Jyllinge"
     ],
     "name:spa_x_preferred":[
@@ -147,7 +141,7 @@
         }
     ],
     "wof:id":101847785,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561778005,
     "wof:name":"Jyllinge",
     "wof:parent_id":1159297851,
     "wof:placetype":"locality",

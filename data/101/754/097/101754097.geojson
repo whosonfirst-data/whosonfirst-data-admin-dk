@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003071,
-    "geom:area_square_m":21463079.538247,
+    "geom:area_square_m":21463079.538246,
     "geom:bbox":"12.2151248129,55.553853235,12.351864883,55.6183926955",
     "geom:latitude":55.585123,
     "geom:longitude":12.287879,
@@ -16,16 +16,13 @@
     "mps:longitude":12.279534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0587\u0565 \u054d\u057f\u0580\u0561\u0576"
-    ],
     "name:ceb_x_preferred":[
         "Greve Strand"
     ],
     "name:dan_x_preferred":[
         "Greve Strand"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Greve Strand"
     ],
     "name:eng_x_preferred":[
@@ -34,26 +31,14 @@
     "name:fra_x_preferred":[
         "Greve Strand"
     ],
-    "name:fre_x_preferred":[
-        "Greve Strand"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10d5\u10d4-\u10e1\u10e2\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Greve Strand"
-    ],
-    "name:ice_x_preferred":[
-        "Greve Strand"
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0587\u0565 \u054d\u057f\u0580\u0561\u0576"
     ],
     "name:isl_x_preferred":[
         "Greve Strand"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e0\u10d0\u10d5\u10d4-\u10e1\u10e2\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Greve Strand"
     ],
     "name:msa_x_preferred":[
         "Greve Strand"
@@ -65,9 +50,6 @@
         "Greve Strand"
     ],
     "name:ron_x_preferred":[
-        "Greve Strand"
-    ],
-    "name:rum_x_preferred":[
         "Greve Strand"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +109,7 @@
         }
     ],
     "wof:id":101754097,
-    "wof:lastmodified":1530296366,
+    "wof:lastmodified":1561777991,
     "wof:name":"Greve Strand",
     "wof:parent_id":1159297765,
     "wof:placetype":"locality",

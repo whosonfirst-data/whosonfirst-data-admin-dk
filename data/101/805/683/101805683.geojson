@@ -29,9 +29,6 @@
     "name:dan_x_preferred":[
         "Hedensted"
     ],
-    "name:dut_x_preferred":[
-        "Hedensted"
-    ],
     "name:eng_x_preferred":[
         "Hedensted"
     ],
@@ -48,9 +45,6 @@
         "Hedensted"
     ],
     "name:ron_x_preferred":[
-        "Hedensted"
-    ],
-    "name:rum_x_preferred":[
         "Hedensted"
     ],
     "name:spa_x_preferred":[
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":101805683,
-    "wof:lastmodified":1530296399,
+    "wof:lastmodified":1561778002,
     "wof:name":"Hedensted",
     "wof:parent_id":1159297807,
     "wof:placetype":"locality",

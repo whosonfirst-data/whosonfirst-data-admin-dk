@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Varde"
     ],
-    "name:baq_x_preferred":[
-        "Varde"
-    ],
     "name:bar_x_preferred":[
         "Varde"
     ],
@@ -41,10 +38,13 @@
     "name:ceb_x_preferred":[
         "Varde"
     ],
+    "name:ces_x_preferred":[
+        "Varde"
+    ],
     "name:cos_x_preferred":[
         "Varde"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Varde"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +53,8 @@
     "name:deu_x_preferred":[
         "Varde"
     ],
-    "name:dut_x_preferred":[
-        "Varde"
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03c1\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Varde"
@@ -65,22 +65,19 @@
     "name:est_x_preferred":[
         "Varde"
     ],
+    "name:eus_x_preferred":[
+        "Varde"
+    ],
     "name:fin_x_preferred":[
         "Varde"
     ],
     "name:fra_x_preferred":[
         "Varde"
     ],
-    "name:fre_x_preferred":[
-        "Varde"
-    ],
     "name:frp_x_preferred":[
         "Varde"
     ],
     "name:fur_x_preferred":[
-        "Varde"
-    ],
-    "name:ger_x_preferred":[
         "Varde"
     ],
     "name:gla_x_preferred":[
@@ -92,9 +89,6 @@
     "name:glg_x_preferred":[
         "Varde"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ac\u03c1\u03bd\u03c4\u03b5"
-    ],
     "name:gsw_x_preferred":[
         "Varde"
     ],
@@ -102,9 +96,6 @@
         "Varde"
     ],
     "name:hun_x_preferred":[
-        "Varde"
-    ],
-    "name:ice_x_preferred":[
         "Varde"
     ],
     "name:ido_x_preferred":[
@@ -117,6 +108,9 @@
         "Varde"
     ],
     "name:ind_x_preferred":[
+        "Varde"
+    ],
+    "name:isl_x_preferred":[
         "Varde"
     ],
     "name:ita_x_preferred":[
@@ -138,9 +132,6 @@
         "Vard\u0117"
     ],
     "name:ltz_x_preferred":[
-        "Varde"
-    ],
-    "name:may_x_preferred":[
         "Varde"
     ],
     "name:min_x_preferred":[
@@ -194,9 +185,6 @@
     "name:ron_x_preferred":[
         "Varde"
     ],
-    "name:rum_x_preferred":[
-        "Varde"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0435"
     ],
@@ -206,7 +194,7 @@
     "name:sco_x_preferred":[
         "Varde"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Varde"
     ],
     "name:slv_x_preferred":[
@@ -237,9 +225,6 @@
         "Varde"
     ],
     "name:vol_x_preferred":[
-        "Varde"
-    ],
-    "name:wel_x_preferred":[
         "Varde"
     ],
     "name:wln_x_preferred":[
@@ -303,7 +288,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296384,
+    "wof:lastmodified":1561778000,
     "wof:name":"Varde",
     "wof:parent_id":1159297925,
     "wof:placetype":"locality",

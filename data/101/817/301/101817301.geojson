@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Skagen"
     ],
-    "name:alb_x_preferred":[
-        "Skagen"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0643\u0627\u062c\u0646"
     ],
@@ -30,9 +27,6 @@
         "Skagen"
     ],
     "name:ast_x_preferred":[
-        "Skagen"
-    ],
-    "name:baq_x_preferred":[
         "Skagen"
     ],
     "name:bar_x_preferred":[
@@ -56,22 +50,19 @@
     "name:ceb_x_preferred":[
         "Skagen"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5361\u6069"
+    "name:ces_x_preferred":[
+        "Skagen"
     ],
     "name:cos_x_preferred":[
         "Skagen"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Skagen"
     ],
     "name:dan_x_preferred":[
         "Skagen"
     ],
     "name:deu_x_preferred":[
-        "Skagen"
-    ],
-    "name:dut_x_preferred":[
         "Skagen"
     ],
     "name:eng_x_preferred":[
@@ -98,9 +89,6 @@
     "name:fra_x_preferred":[
         "Skagen"
     ],
-    "name:fre_x_preferred":[
-        "Skagen"
-    ],
     "name:frp_x_preferred":[
         "Skagen"
     ],
@@ -108,9 +96,6 @@
         "Skagen"
     ],
     "name:fur_x_preferred":[
-        "Skagen"
-    ],
-    "name:ger_x_preferred":[
         "Skagen"
     ],
     "name:gla_x_preferred":[
@@ -132,9 +117,6 @@
         "Skagen"
     ],
     "name:hun_x_preferred":[
-        "Skagen"
-    ],
-    "name:ice_x_preferred":[
         "Skagen"
     ],
     "name:ido_x_preferred":[
@@ -176,16 +158,16 @@
     "name:ltz_x_preferred":[
         "Skagen"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043a\u0430\u0433\u0435\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Skagen"
-    ],
     "name:min_x_preferred":[
         "Skagen"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u0430\u0433\u0435\u043d"
+    ],
     "name:mlg_x_preferred":[
+        "Skagen"
+    ],
+    "name:msa_x_preferred":[
         "Skagen"
     ],
     "name:nap_x_preferred":[
@@ -218,9 +200,6 @@
     "name:pcd_x_preferred":[
         "Skagen"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u06a9\u0627\u06af\u0646"
-    ],
     "name:pms_x_preferred":[
         "Skagen"
     ],
@@ -236,9 +215,6 @@
     "name:ron_x_preferred":[
         "Skagen"
     ],
-    "name:rum_x_preferred":[
-        "Skagen"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u0433\u0435\u043d"
     ],
@@ -248,13 +224,16 @@
     "name:sco_x_preferred":[
         "Skagen"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skagen"
     ],
     "name:slv_x_preferred":[
         "Skagen"
     ],
     "name:spa_x_preferred":[
+        "Skagen"
+    ],
+    "name:sqi_x_preferred":[
         "Skagen"
     ],
     "name:srd_x_preferred":[
@@ -279,9 +258,6 @@
         "Skagen"
     ],
     "name:vol_x_preferred":[
-        "Skagen"
-    ],
-    "name:wel_x_preferred":[
         "Skagen"
     ],
     "name:wln_x_preferred":[
@@ -344,7 +320,7 @@
         }
     ],
     "wof:id":101817301,
-    "wof:lastmodified":1530296425,
+    "wof:lastmodified":1561777997,
     "wof:name":"Skagen",
     "wof:parent_id":1159297889,
     "wof:placetype":"locality",

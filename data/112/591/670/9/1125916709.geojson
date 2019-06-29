@@ -21,8 +21,8 @@
     "name:dan_x_preferred":[
         "Langeb\u00e6k"
     ],
-    "name:dut_x_preferred":[
-        "Langeb\u00e6k"
+    "name:deu_x_preferred":[
+        "Langeb\u00e6k Kommune"
     ],
     "name:eng_x_preferred":[
         "Langeb\u00e6k"
@@ -30,11 +30,8 @@
     "name:fao_x_preferred":[
         "Langeb\u00e6k"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Langeb\u00e6k"
-    ],
-    "name:ger_x_preferred":[
-        "Langeb\u00e6k Kommune"
     ],
     "name:ita_x_preferred":[
         "Langeb\u00e6k"
@@ -54,7 +51,7 @@
     "name:por_x_preferred":[
         "Langeb\u00e6k"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Langeb\u00e6k"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +107,7 @@
         }
     ],
     "wof:id":1125916709,
-    "wof:lastmodified":1530292346,
+    "wof:lastmodified":1561778019,
     "wof:name":"Langeb\u00e6k",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

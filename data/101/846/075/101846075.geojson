@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":2050374.755091,
+    "geom:area_square_m":2050374.75509,
     "geom:bbox":"10.0657323023,56.032201041,10.1074013664,56.0484005411",
     "geom:latitude":56.040445,
     "geom:longitude":10.086321,
@@ -23,16 +23,10 @@
     "name:dan_x_preferred":[
         "Solbjerg"
     ],
-    "name:dut_x_preferred":[
-        "Solbjerg"
-    ],
     "name:eng_x_preferred":[
         "Solbjerg"
     ],
     "name:fra_x_preferred":[
-        "Solbjerg"
-    ],
-    "name:fre_x_preferred":[
         "Solbjerg"
     ],
     "name:heb_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101846075,
-    "wof:lastmodified":1530296473,
+    "wof:lastmodified":1561778005,
     "wof:name":"Solbjerg",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

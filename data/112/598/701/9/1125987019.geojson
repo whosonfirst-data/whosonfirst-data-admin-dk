@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Aggersund"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aggersund"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "Aggersund"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aggersund"
     ],
-    "name:ger_x_preferred":[
-        "Aggersund"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Aggersund"
     ],
     "name:kal_x_preferred":[
+        "Aggersund"
+    ],
+    "name:nld_x_preferred":[
         "Aggersund"
     ],
     "name:nno_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125987019,
-    "wof:lastmodified":1513955717,
+    "wof:lastmodified":1561778019,
     "wof:name":"Aggersund",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

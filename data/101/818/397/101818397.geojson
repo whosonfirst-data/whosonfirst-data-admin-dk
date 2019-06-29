@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001928,
-    "geom:area_square_m":13317513.506175,
+    "geom:area_square_m":13317513.506177,
     "geom:bbox":"12.5593150835,55.9983959554,12.6236877187,56.0548787155",
     "geom:latitude":56.029975,
     "geom:longitude":12.58584,
@@ -17,17 +17,8 @@
     "mps:longitude":12.585352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Helsing\u00f8r"
-    ],
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u064a\u0633\u064a\u0646\u0643\u0648\u0631"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c\u057d\u056b\u0576\u0565\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Helsing\u00f8r"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0435\u043b\u044c\u0441\u0456\u043d\u0433\u0451\u0440"
@@ -47,13 +38,7 @@
     "name:ces_x_preferred":[
         "Helsing\u00f8r"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u723e\u8f9b\u683c"
-    ],
     "name:csb_x_preferred":[
-        "Helsing\u00f8r"
-    ],
-    "name:cze_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:dan_x_colloquial":[
@@ -65,8 +50,8 @@
     "name:deu_x_preferred":[
         "Helsing\u00f8r"
     ],
-    "name:dut_x_preferred":[
-        "Helsing\u00f8r"
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03bb\u03c3\u03b9\u03bd\u03b3\u03ba\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Helsingor"
@@ -81,16 +66,19 @@
     "name:est_x_preferred":[
         "Helsing\u00f8r"
     ],
+    "name:eus_x_preferred":[
+        "Helsing\u00f8r"
+    ],
     "name:fao_x_preferred":[
         "Helsing\u00f8r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0633\u06cc\u0646\u06af\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:fra_x_preferred":[
-        "Elseneur"
-    ],
-    "name:fre_x_preferred":[
         "Elseneur"
     ],
     "name:frr_x_preferred":[
@@ -99,20 +87,11 @@
     "name:fry_x_preferred":[
         "Helsing\u00f8r"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10da\u10e1\u10d8\u10dc\u10d2\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Helsing\u00f8r"
-    ],
     "name:gla_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:gle_x_preferred":[
         "Helsing\u00f8r"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ad\u03bb\u03c3\u03b9\u03bd\u03b3\u03ba\u03bf\u03c1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05e1\u05d9\u05e0\u05d5\u05e8"
@@ -123,8 +102,8 @@
     "name:hun_x_preferred":[
         "Helsing\u00f8r"
     ],
-    "name:ice_x_preferred":[
-        "Helsingjaeyri"
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u057d\u056b\u0576\u0565\u0580"
     ],
     "name:ina_x_preferred":[
         "Elsinor"
@@ -165,14 +144,11 @@
     "name:lmo_x_preferred":[
         "Elsin\u00f6r"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0435\u043b\u0441\u0438\u043d\u0433\u0435\u0440"
-    ],
-    "name:may_x_preferred":[
-        "Helsing\u00f8r"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u043b\u0441\u0438\u043d\u0433\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Helsing\u00f8r"
     ],
     "name:nld_x_preferred":[
         "Helsing\u00f8r"
@@ -189,9 +165,6 @@
     "name:oci_x_preferred":[
         "Helsing\u00f8r"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0644\u0633\u06cc\u0646\u06af\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Helsing\u00f8r"
     ],
@@ -199,9 +172,6 @@
         "Helsingor"
     ],
     "name:ron_x_preferred":[
-        "Helsing\u00f8r"
-    ],
-    "name:rum_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:rus_x_preferred":[
@@ -215,6 +185,9 @@
     ],
     "name:spa_x_preferred":[
         "Elsinor"
+    ],
+    "name:sqi_x_preferred":[
+        "Helsing\u00f8r"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0435\u043b\u0441\u0438\u043d\u0433\u0435\u0440"
@@ -299,7 +272,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296456,
+    "wof:lastmodified":1561777992,
     "wof:name":"Helsing\u00f8r",
     "wof:parent_id":1159297819,
     "wof:placetype":"locality",

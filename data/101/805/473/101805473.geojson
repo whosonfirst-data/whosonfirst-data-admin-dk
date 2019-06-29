@@ -17,25 +17,16 @@
     "mps:longitude":9.356399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Padborg"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0431\u043e\u0440\u0433"
     ],
     "name:ceb_x_preferred":[
         "Padborg"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8332\u5821"
-    ],
     "name:dan_x_preferred":[
         "Padborg"
     ],
     "name:deu_x_preferred":[
-        "Padborg"
-    ],
-    "name:dut_x_preferred":[
         "Padborg"
     ],
     "name:eng_x_preferred":[
@@ -45,15 +36,6 @@
         "Padborg"
     ],
     "name:fra_x_preferred":[
-        "Padborg"
-    ],
-    "name:fre_x_preferred":[
-        "Padborg"
-    ],
-    "name:ger_x_preferred":[
-        "Padborg"
-    ],
-    "name:ice_x_preferred":[
         "Padborg"
     ],
     "name:isl_x_preferred":[
@@ -77,9 +59,6 @@
     "name:ron_x_preferred":[
         "Padborg"
     ],
-    "name:rum_x_preferred":[
-        "Padborg"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0434\u0431\u043e\u0440\u0433"
     ],
@@ -91,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Padborg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u8332\u5821"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -140,7 +122,7 @@
         }
     ],
     "wof:id":101805473,
-    "wof:lastmodified":1530296379,
+    "wof:lastmodified":1561778002,
     "wof:name":"Padborg",
     "wof:parent_id":1159297783,
     "wof:placetype":"locality",

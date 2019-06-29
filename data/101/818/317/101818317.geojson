@@ -25,9 +25,6 @@
     "name:dan_x_preferred":[
         "Mern"
     ],
-    "name:dut_x_preferred":[
-        "Mern"
-    ],
     "name:eng_x_preferred":[
         "Mern"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101818317,
-    "wof:lastmodified":1530296448,
+    "wof:lastmodified":1561777996,
     "wof:name":"Mern",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

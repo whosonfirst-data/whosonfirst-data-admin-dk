@@ -24,14 +24,14 @@
     "name:dan_x_preferred":[
         "Sorthat-Muleby"
     ],
-    "name:dut_x_preferred":[
-        "Sorthat-Muleby"
+    "name:deu_x_preferred":[
+        "Muleby"
     ],
     "name:eng_x_preferred":[
         "Sorthat-Muleby"
     ],
-    "name:ger_x_preferred":[
-        "Muleby"
+    "name:nld_x_preferred":[
+        "Sorthat-Muleby"
     ],
     "name:swe_x_preferred":[
         "Muleby"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125999323,
-    "wof:lastmodified":1530291143,
+    "wof:lastmodified":1561778017,
     "wof:name":"Muleby",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

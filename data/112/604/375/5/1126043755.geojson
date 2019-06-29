@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Veddinge Bakker"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Veddinge Bakker"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Veddinge Bakker"
     ],
     "qs_pg:aaroncc":"DK",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1126043755,
-    "wof:lastmodified":1530292576,
+    "wof:lastmodified":1561778014,
     "wof:name":"Veddinge Bakker",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Egense"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Egense"
     ],
     "name:eng_x_preferred":[
@@ -30,13 +30,13 @@
     "name:fao_x_preferred":[
         "Egense"
     ],
-    "name:fre_x_preferred":[
-        "Egense"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Egense"
     ],
     "name:kal_x_preferred":[
+        "Egense"
+    ],
+    "name:nld_x_preferred":[
         "Egense"
     ],
     "name:nno_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125790579,
-    "wof:lastmodified":1530290662,
+    "wof:lastmodified":1561778023,
     "wof:name":"Egense",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

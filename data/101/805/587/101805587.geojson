@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "S\u00f8ften"
     ],
-    "name:dut_x_preferred":[
-        "S\u00f8ften"
-    ],
     "name:eng_x_preferred":[
         "S\u00f8ften"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101805587,
-    "wof:lastmodified":1530296391,
+    "wof:lastmodified":1561778000,
     "wof:name":"S\u00f8ften",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

@@ -26,13 +26,7 @@
     "name:dan_x_preferred":[
         "Vestbjerg"
     ],
-    "name:dut_x_preferred":[
-        "Vestbjerg"
-    ],
     "name:eng_x_preferred":[
-        "Vestbjerg"
-    ],
-    "name:ice_x_preferred":[
         "Vestbjerg"
     ],
     "name:isl_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101805847,
-    "wof:lastmodified":1530296419,
+    "wof:lastmodified":1561778002,
     "wof:name":"Vestbjerg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

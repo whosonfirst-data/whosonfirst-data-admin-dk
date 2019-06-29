@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014868,
-    "geom:area_square_m":102385403.347968,
+    "geom:area_square_m":102385403.347962,
     "geom:bbox":"10.059656,56.082971,10.3530015178,56.2610009462",
     "geom:latitude":56.157289,
     "geom:longitude":10.180925,
@@ -18,23 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Aarhus"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0631\u0647\u0648\u0633"
-    ],
-    "name:arm_x_preferred":[
-        "\u0555\u0580\u0570\u0578\u0582\u057d"
     ],
     "name:ast_x_preferred":[
         "Aarhus"
     ],
     "name:aze_x_preferred":[
         "Orhus"
-    ],
-    "name:baq_x_preferred":[
-        "Aarhus"
     ],
     "name:bel_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
@@ -57,13 +48,13 @@
     "name:ces_x_preferred":[
         "\u00c5rhus"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u80e1\u65af"
+    "name:ces_x_variant":[
+        "Aarhus"
     ],
     "name:csb_x_preferred":[
         "Aarhus"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Aarhus"
     ],
     "name:dan_x_preferred":[
@@ -72,7 +63,7 @@
     "name:deu_x_preferred":[
         "\u00c5rhus"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Aarhus"
     ],
     "name:ell_x_preferred":[
@@ -92,8 +83,14 @@
     "name:est_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:eus_x_preferred":[
+        "Aarhus"
+    ],
     "name:fao_x_preferred":[
         "Aarhus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0647\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "\u00c5rhus"
@@ -101,19 +98,13 @@
     "name:fra_x_preferred":[
         "\u00c5rhus"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Aarhus"
     ],
     "name:frr_x_preferred":[
         "Aarhus"
     ],
     "name:fry_x_preferred":[
-        "Aarhus"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10f0\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Aarhus"
     ],
     "name:gla_x_preferred":[
@@ -124,9 +115,6 @@
     ],
     "name:glg_x_preferred":[
         "\u00c5rhus"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c1\u03c7\u03bf\u03c5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0ab9\u0ab8"
@@ -146,8 +134,8 @@
     "name:hun_x_preferred":[
         "Aarhus"
     ],
-    "name:ice_x_preferred":[
-        "\u00c1r\u00f3sar"
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0570\u0578\u0582\u057d"
     ],
     "name:ido_x_preferred":[
         "Aarhus"
@@ -176,6 +164,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0ccd\u0cb9\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10f0\u10e3\u10e1\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
     ],
@@ -194,23 +185,26 @@
     "name:lmo_x_preferred":[
         "Aarhus"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0445\u0443\u0441"
-    ],
-    "name:mao_x_preferred":[
-        "Aarhus"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u0939\u0941\u0938"
     ],
-    "name:may_x_preferred":[
-        "Aarhus"
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0445\u0443\u0441"
     ],
     "name:mon_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
     ],
+    "name:mri_x_preferred":[
+        "Aarhus"
+    ],
+    "name:msa_x_preferred":[
+        "Aarhus"
+    ],
     "name:nld_x_preferred":[
         "\u00c5rhus"
+    ],
+    "name:nld_x_variant":[
+        "Aarhus"
     ],
     "name:nno_x_preferred":[
         "Aarhus"
@@ -227,9 +221,6 @@
     "name:oss_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0647\u0648\u0633"
-    ],
     "name:pms_x_preferred":[
         "\u00c5rhus"
     ],
@@ -245,7 +236,7 @@
     "name:ron_x_preferred":[
         "\u00c5rhus"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Aarhus"
     ],
     "name:rup_x_preferred":[
@@ -260,7 +251,7 @@
     "name:sin_x_preferred":[
         "\u0d87\u0dbb\u0dca\u0dc4\u0dd4\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Aarhus"
     ],
     "name:slv_x_preferred":[
@@ -271,6 +262,9 @@
     ],
     "name:spa_x_preferred":[
         "\u00c5rhus"
+    ],
+    "name:sqi_x_preferred":[
+        "Aarhus"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
@@ -320,14 +314,14 @@
     "name:war_x_preferred":[
         "Aarhus"
     ],
-    "name:wel_x_preferred":[
-        "Aarhus"
-    ],
     "name:yor_x_preferred":[
         "Aarhus"
     ],
     "name:yue_x_preferred":[
         "\u963f\u66c9\u65af"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u80e1\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Denmark",
@@ -469,7 +463,7 @@
         }
     ],
     "wof:id":101749163,
-    "wof:lastmodified":1530296364,
+    "wof:lastmodified":1561778004,
     "wof:megacity":0,
     "wof:name":"\u00c5rhus",
     "wof:parent_id":1159297797,

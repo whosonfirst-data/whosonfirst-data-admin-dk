@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Velling"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Velling"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Velling"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125869725,
-    "wof:lastmodified":1530291954,
+    "wof:lastmodified":1561778015,
     "wof:name":"Velling",
     "wof:parent_id":1159297869,
     "wof:placetype":"locality",

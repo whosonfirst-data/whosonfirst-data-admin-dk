@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Hedehusene"
     ],
-    "name:dut_x_preferred":[
-        "Hedehusene"
-    ],
     "name:eng_x_preferred":[
         "Hedehusene"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101840817,
-    "wof:lastmodified":1530296467,
+    "wof:lastmodified":1561778006,
     "wof:name":"Hedehusene",
     "wof:parent_id":1159297827,
     "wof:placetype":"locality",

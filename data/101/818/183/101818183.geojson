@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2678045.708307,
+    "geom:area_square_m":2678045.708308,
     "geom:bbox":"12.2639000676,54.971876144,12.2959692035,54.9996329287",
     "geom:latitude":54.986287,
     "geom:longitude":12.281002,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Stege"
     ],
-    "name:dut_x_preferred":[
-        "Stege"
-    ],
     "name:eng_x_preferred":[
         "Stege"
     ],
@@ -38,13 +35,7 @@
     "name:fra_x_preferred":[
         "Stege"
     ],
-    "name:fre_x_preferred":[
-        "Stege"
-    ],
-    "name:ger_x_preferred":[
-        "Stege"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Stege"
     ],
     "name:kal_x_preferred":[
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":101818183,
-    "wof:lastmodified":1530296433,
+    "wof:lastmodified":1561777996,
     "wof:name":"Stege",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

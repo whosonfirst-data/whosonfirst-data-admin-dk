@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003082,
-    "geom:area_square_m":21059250.180048,
+    "geom:area_square_m":21059250.180047,
     "geom:bbox":"9.35508088086,56.4120106725,9.46517654559,56.478431528",
     "geom:latitude":56.45263,
     "geom:longitude":9.407658,
@@ -18,12 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0562\u0578\u0580\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Viborg"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u0431\u0430\u0440\u0433"
     ],
@@ -39,22 +33,16 @@
     "name:cat_x_preferred":[
         "Viborg"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5821"
-    ],
-    "name:csb_x_preferred":[
+    "name:ces_x_preferred":[
         "Viborg"
     ],
-    "name:cze_x_preferred":[
+    "name:csb_x_preferred":[
         "Viborg"
     ],
     "name:dan_x_preferred":[
         "Viborg"
     ],
     "name:deu_x_preferred":[
-        "Viborg"
-    ],
-    "name:dut_x_preferred":[
         "Viborg"
     ],
     "name:ell_x_preferred":[
@@ -69,8 +57,14 @@
     "name:est_x_preferred":[
         "Viborg"
     ],
+    "name:eus_x_preferred":[
+        "Viborg"
+    ],
     "name:fao_x_preferred":[
         "Viborg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0628\u0648\u0631\u06af\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
     ],
     "name:fin_x_preferred":[
         "Viborg"
@@ -78,20 +72,8 @@
     "name:fra_x_preferred":[
         "Viborg"
     ],
-    "name:fre_x_preferred":[
-        "Viborg"
-    ],
     "name:frr_x_preferred":[
         "Viborg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10d1\u10dd\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Viborg"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:hrv_x_preferred":[
         "Viborg"
@@ -99,7 +81,10 @@
     "name:hun_x_preferred":[
         "Viborg"
     ],
-    "name:ice_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0562\u0578\u0580\u0563"
+    ],
+    "name:isl_x_preferred":[
         "Viborg"
     ],
     "name:ita_x_preferred":[
@@ -126,9 +111,6 @@
     "name:lit_x_preferred":[
         "Viborgas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0431\u043e\u0440\u0433"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u0431\u043e\u0440\u0433"
     ],
@@ -147,16 +129,13 @@
     "name:oci_x_preferred":[
         "Viborg"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0628\u0648\u0631\u06af\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Viborg"
     ],
     "name:por_x_preferred":[
         "Viburgo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Viborg"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +147,7 @@
     "name:sco_x_preferred":[
         "Viborg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Viborg"
     ],
     "name:sme_x_preferred":[
@@ -345,7 +324,7 @@
         }
     ],
     "wof:id":101805649,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561778001,
     "wof:name":"Viborg",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

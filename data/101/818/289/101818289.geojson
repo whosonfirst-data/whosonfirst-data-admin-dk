@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":617155.139006,
+    "geom:area_square_m":617155.139007,
     "geom:bbox":"12.1489765389,55.6902946947,12.1681375823,55.6986481321",
     "geom:latitude":55.694664,
     "geom:longitude":12.156795,
@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "Martin \u00c5gerup"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00c5gerup"
     ],
     "name:eng_x_preferred":[
@@ -28,16 +28,16 @@
     "name:fao_x_preferred":[
         "\u00c5gerup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c5gerup"
     ],
-    "name:ger_x_preferred":[
-        "\u00c5gerup"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "\u00c5gerup"
     ],
     "name:kal_x_preferred":[
+        "\u00c5gerup"
+    ],
+    "name:nld_x_preferred":[
         "\u00c5gerup"
     ],
     "name:nno_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101818289,
-    "wof:lastmodified":1530292021,
+    "wof:lastmodified":1561777992,
     "wof:name":"\u00c5gerup",
     "wof:parent_id":1159297881,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Klintebjerg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Klintebjerg"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "Klintebjerg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Klintebjerg"
     ],
-    "name:ger_x_preferred":[
-        "Klintebjerg"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Klintebjerg"
     ],
     "name:kal_x_preferred":[
+        "Klintebjerg"
+    ],
+    "name:nld_x_preferred":[
         "Klintebjerg"
     ],
     "name:nno_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125837237,
-    "wof:lastmodified":1530291224,
+    "wof:lastmodified":1561778023,
     "wof:name":"Klintebjerg",
     "wof:parent_id":1159297789,
     "wof:placetype":"locality",

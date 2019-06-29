@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Nyk\u00f8bing Strandhuse"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Nyk\u00f8bing Strandhuse"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Nyk\u00f8bing Strandhuse"
     ],
     "qs_pg:aaroncc":"DK",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1125897479,
-    "wof:lastmodified":1530290561,
+    "wof:lastmodified":1561778016,
     "wof:name":"Nyk\u00f8bing Strandhuse",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Ravnkilde"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ravnkilde"
     ],
     "name:eng_x_preferred":[
         "Ravnkilde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ravnkilde"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Ravnkilde"
     ],
     "qs_pg:aaroncc":"DK",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1125949133,
-    "wof:lastmodified":1530292108,
+    "wof:lastmodified":1561778008,
     "wof:name":"Ravnkilde",
     "wof:parent_id":1159297887,
     "wof:placetype":"locality",

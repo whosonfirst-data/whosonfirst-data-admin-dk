@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1726401.498886,
+    "geom:area_square_m":1726401.498887,
     "geom:bbox":"12.3104621842,55.778085569,12.3428413686,55.7935062101",
     "geom:latitude":55.786771,
     "geom:longitude":12.328368,
@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Kirke V\u00e6rl\u00f8se"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kirke V\u00e6rl\u00f8se"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kirke V\u00e6rl\u00f8se"
     ],
     "qs:a0":"Danmark",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":101754105,
-    "wof:lastmodified":1530291581,
+    "wof:lastmodified":1561777990,
     "wof:name":"Kirke V\u00e6rl\u00f8se",
     "wof:parent_id":1159297831,
     "wof:placetype":"locality",

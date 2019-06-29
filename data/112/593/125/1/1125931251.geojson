@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Erteb\u00f8lle"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Erteb\u00f8lle"
     ],
     "name:eng_x_preferred":[
         "Erteb\u00f8lle"
     ],
-    "name:ger_x_preferred":[
+    "name:nds_x_preferred":[
         "Erteb\u00f8lle"
     ],
-    "name:nds_x_preferred":[
+    "name:nld_x_preferred":[
         "Erteb\u00f8lle"
     ],
     "name:tur_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125931251,
-    "wof:lastmodified":1530290608,
+    "wof:lastmodified":1561778010,
     "wof:name":"Erteb\u00f8lle",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

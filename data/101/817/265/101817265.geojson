@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1612426.66728,
+    "geom:area_square_m":1612426.667281,
     "geom:bbox":"12.2751533278,56.0556625758,12.3022002292,56.0748975976",
     "geom:latitude":56.064833,
     "geom:longitude":12.286484,
@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "Gr\u00e6sted"
     ],
-    "name:dut_x_preferred":[
-        "Gr\u00e6sted"
-    ],
     "name:eng_x_preferred":[
         "Gr\u00e6sted"
     ],
-    "name:fre_x_preferred":[
-        "Gr\u00e6sted"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gr\u00e6sted"
     ],
     "name:nld_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":101817265,
-    "wof:lastmodified":1530296420,
+    "wof:lastmodified":1561777998,
     "wof:name":"Gr\u00e6sted",
     "wof:parent_id":1159297855,
     "wof:placetype":"locality",

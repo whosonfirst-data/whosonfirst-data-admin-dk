@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":1274233.958678,
+    "geom:area_square_m":1274233.95868,
     "geom:bbox":"10.2090289388,55.2456924742,10.2483918941,55.2600221935",
     "geom:latitude":55.252721,
     "geom:longitude":10.228467,
@@ -19,13 +19,10 @@
     "name:dan_x_preferred":[
         "N\u00f8rre Broby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "N\u00f8rre Broby"
     ],
     "name:eng_x_preferred":[
-        "N\u00f8rre Broby"
-    ],
-    "name:ger_x_preferred":[
         "N\u00f8rre Broby"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101846019,
-    "wof:lastmodified":1530296467,
+    "wof:lastmodified":1561778005,
     "wof:name":"N\u00f8rre Broby",
     "wof:parent_id":1159297885,
     "wof:placetype":"locality",

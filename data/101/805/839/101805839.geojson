@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":935372.24752,
+    "geom:area_square_m":935372.247521,
     "geom:bbox":"9.9339015219,57.1863703693,9.96035418404,57.2007484342",
     "geom:latitude":57.195281,
     "geom:longitude":9.950061,
@@ -20,9 +20,6 @@
         "Tylstrup"
     ],
     "name:dan_x_preferred":[
-        "Tylstrup"
-    ],
-    "name:dut_x_preferred":[
         "Tylstrup"
     ],
     "name:eng_x_preferred":[
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":101805839,
-    "wof:lastmodified":1530296418,
+    "wof:lastmodified":1561778002,
     "wof:name":"Tylstrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

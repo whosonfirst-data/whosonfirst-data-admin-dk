@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Fraugde"
     ],
-    "name:dut_x_preferred":[
-        "Fraugde"
-    ],
     "name:eng_x_preferred":[
         "Fraugde"
     ],
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":101875291,
-    "wof:lastmodified":1544751921,
+    "wof:lastmodified":1561777998,
     "wof:name":"Fraugde",
     "wof:parent_id":1159297847,
     "wof:placetype":"locality",

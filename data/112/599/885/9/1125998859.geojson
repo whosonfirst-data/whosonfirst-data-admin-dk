@@ -21,22 +21,19 @@
     "name:afr_x_preferred":[
         "N\u00f8rre Vorup\u00f8r"
     ],
-    "name:baq_x_preferred":[
-        "Vorup\u00f8r"
-    ],
     "name:dan_x_preferred":[
         "N\u00f8rre Vorup\u00f8r"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rre Vorup\u00f8r"
+    "name:deu_x_preferred":[
+        "Vorup\u00f8r"
     ],
     "name:eng_x_preferred":[
         "Vorup\u00f8r"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Vorup\u00f8r"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vorup\u00f8r"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30a2\u30a2\u30fb\u30f4\u30a9\u30fc\u30ed\u30d7\u30a6\u30fc\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rre Vorup\u00f8r"
     ],
     "name:spa_x_preferred":[
         "Vorupor"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125998859,
-    "wof:lastmodified":1530291571,
+    "wof:lastmodified":1561778017,
     "wof:name":"N\u00f8rre Vorup\u00f8r",
     "wof:parent_id":1159297829,
     "wof:placetype":"locality",

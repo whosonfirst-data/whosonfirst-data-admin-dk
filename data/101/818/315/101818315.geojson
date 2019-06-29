@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Undl\u00f8se"
     ],
-    "name:dut_x_preferred":[
-        "Undl\u00f8se"
-    ],
     "name:eng_x_preferred":[
         "Undl\u00f8se"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":101818315,
-    "wof:lastmodified":1530296447,
+    "wof:lastmodified":1561777993,
     "wof:name":"Undl\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

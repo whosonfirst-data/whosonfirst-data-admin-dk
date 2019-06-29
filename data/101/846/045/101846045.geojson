@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "S\u00f8nder Bjert"
     ],
-    "name:dut_x_preferred":[
-        "S\u00f8nder Bjert"
-    ],
     "name:eng_x_preferred":[
         "S\u00f8nder Bjert"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101846045,
-    "wof:lastmodified":1530296470,
+    "wof:lastmodified":1561778005,
     "wof:name":"S\u00f8nder Bjert",
     "wof:parent_id":1159297823,
     "wof:placetype":"locality",

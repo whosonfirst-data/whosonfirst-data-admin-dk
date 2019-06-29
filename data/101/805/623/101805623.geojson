@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1473111.74897,
+    "geom:area_square_m":1473111.748971,
     "geom:bbox":"9.37904521068,55.9562138244,9.40638665229,55.9705626759",
     "geom:latitude":55.964131,
     "geom:longitude":9.393228,
@@ -22,17 +22,11 @@
     "name:deu_x_preferred":[
         "N\u00f8rre-Snede Kommune"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rre-Snede"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8rre-Snede Municipality"
     ],
     "name:fao_x_preferred":[
         "N\u00f8rre-Snede kommuna"
-    ],
-    "name:ger_x_preferred":[
-        "N\u00f8rre-Snede Kommune"
     ],
     "name:ita_x_preferred":[
         "N\u00f8rre Snede"
@@ -53,9 +47,6 @@
         "N\u00f8rre-Snede"
     ],
     "name:ron_x_preferred":[
-        "Comuna N\u00f8rre-Snede"
-    ],
-    "name:rum_x_preferred":[
         "Comuna N\u00f8rre-Snede"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":101805623,
-    "wof:lastmodified":1530292556,
+    "wof:lastmodified":1561778001,
     "wof:name":"N\u00f8rre Snede",
     "wof:parent_id":1159297931,
     "wof:placetype":"locality",

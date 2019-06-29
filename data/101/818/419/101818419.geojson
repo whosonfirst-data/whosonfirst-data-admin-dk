@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000988,
-    "geom:area_square_m":6837999.853158,
+    "geom:area_square_m":6837999.853159,
     "geom:bbox":"12.3706710806,55.9600410331,12.4285334734,55.9954001873",
     "geom:latitude":55.976845,
     "geom:longitude":12.400247,
@@ -29,20 +29,14 @@
     "name:dan_x_preferred":[
         "Fredensborg"
     ],
-    "name:dut_x_preferred":[
-        "Fredensborg"
-    ],
     "name:ell_x_preferred":[
         "\u03a6\u03c1\u03ad\u03bd\u03c4\u03b5\u03bd\u03c3\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Fredensborg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fredensborg"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03c1\u03ad\u03bd\u03c4\u03b5\u03bd\u03c3\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
     "name:hun_x_preferred":[
         "Fredensborg"
@@ -66,9 +60,6 @@
         "Fredensborg"
     ],
     "name:ron_x_preferred":[
-        "Fredensborg"
-    ],
-    "name:rum_x_preferred":[
         "Fredensborg"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +120,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530291482,
+    "wof:lastmodified":1561777994,
     "wof:name":"Fredensborg",
     "wof:parent_id":1159297817,
     "wof:placetype":"locality",

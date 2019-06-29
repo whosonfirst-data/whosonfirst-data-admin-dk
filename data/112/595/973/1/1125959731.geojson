@@ -24,16 +24,16 @@
     "name:dan_x_preferred":[
         "Klemensker"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Klemensker"
     ],
     "name:eng_x_preferred":[
         "Klemensker"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Klemensker"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Klemensker"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125959731,
-    "wof:lastmodified":1530291142,
+    "wof:lastmodified":1561778012,
     "wof:name":"Klemensker",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":2279579.665588,
+    "geom:area_square_m":2279579.665589,
     "geom:bbox":"11.9653073706,55.4821946907,11.9960523295,55.510816925",
     "geom:latitude":55.496526,
     "geom:longitude":11.980319,
@@ -23,13 +23,10 @@
     "name:dan_x_preferred":[
         "Borup"
     ],
-    "name:dut_x_preferred":[
-        "Borup"
-    ],
     "name:eng_x_preferred":[
         "Borup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Borup"
     ],
     "name:nld_x_preferred":[
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101818381,
-    "wof:lastmodified":1530292564,
+    "wof:lastmodified":1561777996,
     "wof:name":"Borup",
     "wof:parent_id":1159297933,
     "wof:placetype":"locality",

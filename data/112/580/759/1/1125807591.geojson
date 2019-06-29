@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Damsholte"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Damsholte"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "Damsholte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Damsholte"
     ],
-    "name:ger_x_preferred":[
-        "Damsholte"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Damsholte"
     ],
     "name:kal_x_preferred":[
+        "Damsholte"
+    ],
+    "name:nld_x_preferred":[
         "Damsholte"
     ],
     "name:nno_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125807591,
-    "wof:lastmodified":1530292350,
+    "wof:lastmodified":1561778017,
     "wof:name":"Damsholte",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

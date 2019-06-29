@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
-    "geom:area_square_m":8659727.035841,
+    "geom:area_square_m":8659727.035842,
     "geom:bbox":"12.0423309887,55.8159212192,12.1037098627,55.85857843",
     "geom:latitude":55.836879,
     "geom:longitude":12.06978,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Frederikssund"
     ],
-    "name:dut_x_preferred":[
-        "Frederikssund"
-    ],
     "name:eng_x_preferred":[
         "Frederikssund"
     ],
@@ -44,16 +41,10 @@
     "name:fra_x_preferred":[
         "Frederikssund"
     ],
-    "name:fre_x_preferred":[
-        "Frederikssund"
-    ],
-    "name:ger_x_preferred":[
-        "Frederikssund"
-    ],
     "name:hun_x_preferred":[
         "Frederikssund"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Frederikssund"
     ],
     "name:ita_x_preferred":[
@@ -64,9 +55,6 @@
     ],
     "name:lit_x_preferred":[
         "Frederiksundas"
-    ],
-    "name:may_x_preferred":[
-        "Frederikssund"
     ],
     "name:msa_x_preferred":[
         "Frederikssund"
@@ -90,9 +78,6 @@
         "Frederikssund"
     ],
     "name:ron_x_preferred":[
-        "Frederikssund"
-    ],
-    "name:rum_x_preferred":[
         "Frederikssund"
     ],
     "name:rus_x_preferred":[
@@ -165,7 +150,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296459,
+    "wof:lastmodified":1561777992,
     "wof:name":"Frederikssund",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

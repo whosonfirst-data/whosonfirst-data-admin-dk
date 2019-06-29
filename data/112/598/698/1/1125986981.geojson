@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Jersie Strand"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Jersie"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Jersie"
     ],
     "qs_pg:aaroncc":"DK",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125986981,
-    "wof:lastmodified":1530291009,
+    "wof:lastmodified":1561778020,
     "wof:name":"Jersie Strand",
     "wof:parent_id":1159297761,
     "wof:placetype":"locality",

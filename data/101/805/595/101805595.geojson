@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":1721902.673466,
+    "geom:area_square_m":1721902.673467,
     "geom:bbox":"10.1492300833,56.0591002935,10.1748919317,56.0770971917",
     "geom:latitude":56.069039,
     "geom:longitude":10.160731,
@@ -23,13 +23,10 @@
     "name:dan_x_preferred":[
         "M\u00e5rslet"
     ],
-    "name:dut_x_preferred":[
-        "M\u00e5rslet"
-    ],
     "name:eng_x_preferred":[
         "M\u00e5rslet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u00e5rslet"
     ],
     "name:nld_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101805595,
-    "wof:lastmodified":1530296393,
+    "wof:lastmodified":1561777998,
     "wof:name":"M\u00e5rslet",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

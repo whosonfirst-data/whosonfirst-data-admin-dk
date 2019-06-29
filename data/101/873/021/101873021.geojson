@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "Tj\u00e6reborg"
     ],
-    "name:dut_x_preferred":[
-        "Tj\u00e6reborg"
-    ],
     "name:eng_x_preferred":[
         "Tj\u00e6reborg"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101873021,
-    "wof:lastmodified":1544751437,
+    "wof:lastmodified":1561777997,
     "wof:name":"Tj\u00e6reborg",
     "wof:parent_id":1159297923,
     "wof:placetype":"locality",

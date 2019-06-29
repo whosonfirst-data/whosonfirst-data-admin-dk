@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001599,
-    "geom:area_square_m":11329278.800005,
+    "geom:area_square_m":11329278.800006,
     "geom:bbox":"9.36467418783,55.0163600756,9.44679108432,55.0735593736",
     "geom:latitude":55.046025,
     "geom:longitude":9.41012,
@@ -17,9 +17,6 @@
     "mps:longitude":9.414164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Aabenraa"
-    ],
     "name:cat_x_preferred":[
         "Aabenraa"
     ],
@@ -27,12 +24,6 @@
         "Aabenraa"
     ],
     "name:ces_x_preferred":[
-        "Aabenraa"
-    ],
-    "name:chi_x_preferred":[
-        "\u5965\u672c\u7f57"
-    ],
-    "name:cze_x_preferred":[
         "Aabenraa"
     ],
     "name:dan_x_preferred":[
@@ -49,9 +40,6 @@
     "name:deu_x_variant":[
         "Apenrade",
         "\u00c5benr\u00e5"
-    ],
-    "name:dut_x_preferred":[
-        "Aabenraa"
     ],
     "name:eng_x_preferred":[
         "Abenra"
@@ -83,12 +71,6 @@
     "name:fra_x_variant":[
         "Abenra"
     ],
-    "name:fre_x_preferred":[
-        "\u00c5benr\u00e5"
-    ],
-    "name:ger_x_preferred":[
-        "Aabenraa"
-    ],
     "name:glg_x_preferred":[
         "Aabenraa"
     ],
@@ -96,9 +78,6 @@
         "Aabenraa"
     ],
     "name:hun_x_preferred":[
-        "Aabenraa"
-    ],
-    "name:ice_x_preferred":[
         "Aabenraa"
     ],
     "name:ind_x_preferred":[
@@ -123,9 +102,6 @@
         "Obenro"
     ],
     "name:lmo_x_preferred":[
-        "Aabenraa"
-    ],
-    "name:may_x_preferred":[
         "Aabenraa"
     ],
     "name:msa_x_preferred":[
@@ -158,9 +134,6 @@
     "name:ron_x_preferred":[
         "Aabenraa"
     ],
-    "name:rum_x_preferred":[
-        "Aabenraa"
-    ],
     "name:rup_x_preferred":[
         "Aabenraa"
     ],
@@ -171,9 +144,6 @@
         "Aabenraa"
     ],
     "name:slk_x_preferred":[
-        "\u00c5benr\u00e5"
-    ],
-    "name:slo_x_preferred":[
         "\u00c5benr\u00e5"
     ],
     "name:spa_x_preferred":[
@@ -250,7 +220,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296378,
+    "wof:lastmodified":1561778002,
     "wof:name":"Aabenraa",
     "wof:parent_id":1159297783,
     "wof:placetype":"locality",

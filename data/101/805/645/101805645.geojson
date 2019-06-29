@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:baq_x_preferred":[
-        "F\u00e5rvang"
-    ],
     "name:bar_x_preferred":[
         "F\u00e5rvang"
     ],
@@ -40,16 +37,19 @@
     "name:cat_x_preferred":[
         "F\u00e5rvang"
     ],
+    "name:ces_x_preferred":[
+        "F\u00e5rvang"
+    ],
     "name:cos_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:dan_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +61,22 @@
     "name:est_x_preferred":[
         "F\u00e5rvang"
     ],
+    "name:eus_x_preferred":[
+        "F\u00e5rvang"
+    ],
     "name:fin_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:frp_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:fur_x_preferred":[
-        "F\u00e5rvang"
-    ],
-    "name:ger_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:gla_x_preferred":[
@@ -139,19 +139,22 @@
     "name:ltz_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:may_x_preferred":[
-        "F\u00e5rvang"
-    ],
     "name:min_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:mlg_x_preferred":[
         "F\u00e5rvang"
     ],
+    "name:msa_x_preferred":[
+        "F\u00e5rvang"
+    ],
     "name:nap_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:nds_x_preferred":[
+        "F\u00e5rvang"
+    ],
+    "name:nld_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:nno_x_preferred":[
@@ -190,7 +193,7 @@
     "name:roh_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:scn_x_preferred":[
@@ -199,7 +202,7 @@
     "name:sco_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +236,6 @@
         "F\u00e5rvang"
     ],
     "name:vol_x_preferred":[
-        "F\u00e5rvang"
-    ],
-    "name:wel_x_preferred":[
         "F\u00e5rvang"
     ],
     "name:wln_x_preferred":[
@@ -290,7 +290,7 @@
         }
     ],
     "wof:id":101805645,
-    "wof:lastmodified":1530291063,
+    "wof:lastmodified":1561777999,
     "wof:name":"F\u00e5rvang",
     "wof:parent_id":1159297773,
     "wof:placetype":"locality",

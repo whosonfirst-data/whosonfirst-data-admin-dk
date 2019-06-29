@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1035199.660069,
+    "geom:area_square_m":1035199.660068,
     "geom:bbox":"8.27641045297,55.7718241357,8.30060548949,55.7844234383",
     "geom:latitude":55.778529,
     "geom:longitude":8.289992,
@@ -19,13 +19,10 @@
     "name:dan_x_preferred":[
         "N\u00f8rre Nebel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "N\u00f8rre Nebel"
     ],
     "name:eng_x_preferred":[
-        "N\u00f8rre Nebel"
-    ],
-    "name:ger_x_preferred":[
         "N\u00f8rre Nebel"
     ],
     "name:nld_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101805479,
-    "wof:lastmodified":1530296380,
+    "wof:lastmodified":1561777999,
     "wof:name":"N\u00f8rre Nebel",
     "wof:parent_id":1159297925,
     "wof:placetype":"locality",

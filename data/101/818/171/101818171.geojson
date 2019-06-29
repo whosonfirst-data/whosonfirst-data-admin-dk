@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "V\u00e6ggerl\u00f8se"
     ],
-    "name:dut_x_preferred":[
-        "V\u00e6ggerl\u00f8se"
-    ],
     "name:eng_x_preferred":[
         "V\u00e6ggerl\u00f8se"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101818171,
-    "wof:lastmodified":1530296432,
+    "wof:lastmodified":1561777996,
     "wof:name":"V\u00e6ggerl\u00f8se",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00087,
-    "geom:area_square_m":5981669.654303,
+    "geom:area_square_m":5981669.654304,
     "geom:bbox":"10.2111035266,56.2243621223,10.280441827,56.2557591293",
     "geom:latitude":56.238655,
     "geom:longitude":10.241028,
@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Lystrup"
     ],
-    "name:chi_x_preferred":[
-        "\u5442\u65af\u695a\u666e"
-    ],
     "name:dan_x_preferred":[
-        "Lystrup"
-    ],
-    "name:dut_x_preferred":[
         "Lystrup"
     ],
     "name:eng_x_preferred":[
@@ -45,9 +39,6 @@
         "Lystrup"
     ],
     "name:ron_x_preferred":[
-        "Lystrup"
-    ],
-    "name:rum_x_preferred":[
         "Lystrup"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":101805657,
-    "wof:lastmodified":1530296397,
+    "wof:lastmodified":1561778000,
     "wof:name":"Lystrup",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",
