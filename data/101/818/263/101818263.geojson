@@ -20,10 +20,10 @@
     "name:dan_x_preferred":[
         "Nyr\u00e5d"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Nyr\u00e5d"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Nyr\u00e5d"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101818263,
-    "wof:lastmodified":1530292333,
+    "wof:lastmodified":1561777995,
     "wof:name":"Nyr\u00e5d",
     "wof:parent_id":1159297907,
     "wof:placetype":"locality",

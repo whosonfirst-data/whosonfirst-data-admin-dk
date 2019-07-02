@@ -23,25 +23,19 @@
     "name:dan_x_preferred":[
         "Nordby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nordby"
     ],
     "name:eng_x_preferred":[
         "Nordby"
     ],
-    "name:fre_x_preferred":[
-        "Nordby"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nordby"
     ],
     "name:ita_x_preferred":[
         "Nordby"
     ],
     "name:jav_x_preferred":[
-        "Nordby"
-    ],
-    "name:may_x_preferred":[
         "Nordby"
     ],
     "name:msa_x_preferred":[
@@ -57,9 +51,6 @@
         "Nordby"
     ],
     "name:ron_x_preferred":[
-        "Nordby"
-    ],
-    "name:rum_x_preferred":[
         "Nordby"
     ],
     "name:spa_x_preferred":[
@@ -119,7 +110,7 @@
         }
     ],
     "wof:id":101805403,
-    "wof:lastmodified":1530296370,
+    "wof:lastmodified":1561778003,
     "wof:name":"Nordby",
     "wof:parent_id":1159297867,
     "wof:placetype":"locality",

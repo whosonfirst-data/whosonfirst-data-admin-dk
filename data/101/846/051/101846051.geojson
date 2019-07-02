@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1483369.20517,
+    "geom:area_square_m":1483369.205169,
     "geom:bbox":"9.29815254986,55.0201784872,9.32328118595,55.0345560078",
     "geom:latitude":55.027376,
     "geom:longitude":9.309325,
@@ -23,13 +23,7 @@
     "name:deu_x_preferred":[
         "Hjordk\u00e6r"
     ],
-    "name:dut_x_preferred":[
-        "Hjordk\u00e6r"
-    ],
     "name:eng_x_preferred":[
-        "Hjordk\u00e6r"
-    ],
-    "name:ger_x_preferred":[
         "Hjordk\u00e6r"
     ],
     "name:nld_x_preferred":[
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":101846051,
-    "wof:lastmodified":1530296471,
+    "wof:lastmodified":1561778005,
     "wof:name":"Hjordk\u00e6r",
     "wof:parent_id":1159297783,
     "wof:placetype":"locality",

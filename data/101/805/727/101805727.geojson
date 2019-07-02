@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1562587.369336,
+    "geom:area_square_m":1562587.369335,
     "geom:bbox":"8.30613166959,56.260346398,8.32725085719,56.2801555706",
     "geom:latitude":56.271705,
     "geom:longitude":8.318569,
@@ -23,13 +23,13 @@
     "name:dan_x_preferred":[
         "Ulfborg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ulfborg"
     ],
     "name:eng_x_preferred":[
         "Ulfborg"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Ulfborg"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101805727,
-    "wof:lastmodified":1530291356,
+    "wof:lastmodified":1561778003,
     "wof:name":"Ulfborg",
     "wof:parent_id":1159297801,
     "wof:placetype":"locality",

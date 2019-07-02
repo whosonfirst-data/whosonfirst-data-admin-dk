@@ -24,16 +24,16 @@
     "name:dan_x_preferred":[
         "Listed"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Listed"
     ],
     "name:eng_x_preferred":[
         "Listed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Listed"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Listed"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1126022955,
-    "wof:lastmodified":1530291122,
+    "wof:lastmodified":1561778013,
     "wof:name":"Listed",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

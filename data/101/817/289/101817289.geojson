@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":885784.869124,
+    "geom:area_square_m":885784.869125,
     "geom:bbox":"10.4476480835,56.3378912338,10.466986092,56.3523346095",
     "geom:latitude":56.344175,
     "geom:longitude":10.457626,
@@ -23,9 +23,6 @@
         "Thorsager"
     ],
     "name:dan_x_preferred":[
-        "Thorsager"
-    ],
-    "name:dut_x_preferred":[
         "Thorsager"
     ],
     "name:eng_x_preferred":[
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":101817289,
-    "wof:lastmodified":1530296423,
+    "wof:lastmodified":1561777997,
     "wof:name":"Thorsager",
     "wof:parent_id":1159297809,
     "wof:placetype":"locality",

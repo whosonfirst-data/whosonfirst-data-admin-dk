@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
-    "geom:area_square_m":2278775.772581,
+    "geom:area_square_m":2278775.772582,
     "geom:bbox":"10.0082426012,57.099175514,10.0494614974,57.1180532524",
     "geom:latitude":57.109611,
     "geom:longitude":10.028029,
@@ -23,13 +23,13 @@
     "name:dan_x_preferred":[
         "Vodskov"
     ],
-    "name:dut_x_preferred":[
-        "Vodskov"
-    ],
     "name:eng_x_preferred":[
         "Vodskov"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
+        "Vodskov"
+    ],
+    "name:nld_x_preferred":[
         "Vodskov"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101805841,
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561778001,
     "wof:name":"Vodskov",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

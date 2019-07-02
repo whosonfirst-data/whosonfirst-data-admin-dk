@@ -26,9 +26,6 @@
     "name:dan_x_preferred":[
         "Aulum"
     ],
-    "name:dut_x_preferred":[
-        "Aulum"
-    ],
     "name:eng_x_preferred":[
         "Aulum"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101805743,
-    "wof:lastmodified":1530296406,
+    "wof:lastmodified":1561778003,
     "wof:name":"Aulum",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

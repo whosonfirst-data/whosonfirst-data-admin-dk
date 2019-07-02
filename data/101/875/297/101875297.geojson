@@ -23,7 +23,7 @@
     "name:dan_x_preferred":[
         "Hjortsh\u00f8j"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hjortsh\u00f8j"
     ],
     "name:eng_x_preferred":[
@@ -32,13 +32,10 @@
     "name:fao_x_preferred":[
         "Hjortsh\u00f8j"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hjortsh\u00f8j"
     ],
-    "name:ger_x_preferred":[
-        "Hjortsh\u00f8j"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Hjortsh\u00f8j"
     ],
     "name:kal_x_preferred":[
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":101875297,
-    "wof:lastmodified":1544751923,
+    "wof:lastmodified":1561777998,
     "wof:name":"Hjortsh\u00f8j",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

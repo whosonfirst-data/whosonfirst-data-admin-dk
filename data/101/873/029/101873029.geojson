@@ -25,9 +25,6 @@
     "name:aka_x_preferred":[
         "Outrup"
     ],
-    "name:alb_x_preferred":[
-        "Outrup"
-    ],
     "name:aln_x_preferred":[
         "Outrup"
     ],
@@ -50,9 +47,6 @@
         "Outrup"
     ],
     "name:bam_x_preferred":[
-        "Outrup"
-    ],
-    "name:baq_x_preferred":[
         "Outrup"
     ],
     "name:bar_x_preferred":[
@@ -82,6 +76,9 @@
     "name:cdo_x_preferred":[
         "Outrup"
     ],
+    "name:ces_x_preferred":[
+        "Outrup"
+    ],
     "name:cha_x_preferred":[
         "Outrup"
     ],
@@ -103,10 +100,13 @@
     "name:csb_x_preferred":[
         "Outrup"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Outrup"
     ],
     "name:dan_x_preferred":[
+        "Outrup"
+    ],
+    "name:deu_x_preferred":[
         "Outrup"
     ],
     "name:diq_x_preferred":[
@@ -116,9 +116,6 @@
         "Outrup"
     ],
     "name:dtp_x_preferred":[
-        "Outrup"
-    ],
-    "name:dut_x_preferred":[
         "Outrup"
     ],
     "name:eml_x_preferred":[
@@ -131,6 +128,9 @@
         "Outrup"
     ],
     "name:est_x_preferred":[
+        "Outrup"
+    ],
+    "name:eus_x_preferred":[
         "Outrup"
     ],
     "name:ewe_x_preferred":[
@@ -151,7 +151,7 @@
     "name:fit_x_preferred":[
         "Outrup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Outrup"
     ],
     "name:frp_x_preferred":[
@@ -170,9 +170,6 @@
         "Outrup"
     ],
     "name:gag_x_preferred":[
-        "Outrup"
-    ],
-    "name:ger_x_preferred":[
         "Outrup"
     ],
     "name:gla_x_preferred":[
@@ -226,9 +223,6 @@
     "name:ibo_x_preferred":[
         "Outrup"
     ],
-    "name:ice_x_preferred":[
-        "Outrup"
-    ],
     "name:ido_x_preferred":[
         "Outrup"
     ],
@@ -248,6 +242,9 @@
         "Outrup"
     ],
     "name:ipk_x_preferred":[
+        "Outrup"
+    ],
+    "name:isl_x_preferred":[
         "Outrup"
     ],
     "name:ita_x_preferred":[
@@ -337,16 +334,16 @@
     "name:lzz_x_preferred":[
         "Outrup"
     ],
-    "name:mao_x_preferred":[
-        "Outrup"
-    ],
-    "name:may_x_preferred":[
-        "Outrup"
-    ],
     "name:min_x_preferred":[
         "Outrup"
     ],
     "name:mlt_x_preferred":[
+        "Outrup"
+    ],
+    "name:mri_x_preferred":[
+        "Outrup"
+    ],
+    "name:msa_x_preferred":[
         "Outrup"
     ],
     "name:mus_x_preferred":[
@@ -445,7 +442,7 @@
     "name:roh_x_preferred":[
         "Outrup"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Outrup"
     ],
     "name:run_x_preferred":[
@@ -484,7 +481,7 @@
     "name:sli_x_preferred":[
         "Outrup"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Outrup"
     ],
     "name:slv_x_preferred":[
@@ -509,6 +506,9 @@
         "Outrup"
     ],
     "name:spa_x_preferred":[
+        "Outrup"
+    ],
+    "name:sqi_x_preferred":[
         "Outrup"
     ],
     "name:srd_x_preferred":[
@@ -592,9 +592,6 @@
     "name:war_x_preferred":[
         "Outrup"
     ],
-    "name:wel_x_preferred":[
-        "Outrup"
-    ],
     "name:wln_x_preferred":[
         "Outrup"
     ],
@@ -659,7 +656,7 @@
         }
     ],
     "wof:id":101873029,
-    "wof:lastmodified":1544751441,
+    "wof:lastmodified":1561777997,
     "wof:name":"Outrup",
     "wof:parent_id":1159297925,
     "wof:placetype":"locality",

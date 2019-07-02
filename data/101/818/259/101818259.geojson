@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
-    "geom:area_square_m":1931224.322527,
+    "geom:area_square_m":1931224.322526,
     "geom:bbox":"12.2153092776,55.3423297233,12.2473053215,55.3549041879",
     "geom:latitude":55.348664,
     "geom:longitude":12.229292,
@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "H\u00e5rlev"
     ],
-    "name:dut_x_preferred":[
-        "H\u00e5rlev"
-    ],
     "name:eng_x_preferred":[
         "H\u00e5rlev"
     ],
-    "name:fre_x_preferred":[
-        "H\u00e5rlev"
-    ],
-    "name:ger_x_preferred":[
-        "H\u00e5rlev"
-    ],
-    "name:may_x_preferred":[
+    "name:fra_x_preferred":[
         "H\u00e5rlev"
     ],
     "name:msa_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":101818259,
-    "wof:lastmodified":1530296442,
+    "wof:lastmodified":1561777993,
     "wof:name":"H\u00e5rlev",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

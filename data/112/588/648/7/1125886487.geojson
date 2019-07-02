@@ -27,13 +27,13 @@
     "name:dan_x_preferred":[
         "Grundf\u00f8r"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grundf\u00f8r"
     ],
     "name:eng_x_preferred":[
         "Grundf\u00f8r"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Grundf\u00f8r"
     ],
     "name:nno_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125886487,
-    "wof:lastmodified":1530290767,
+    "wof:lastmodified":1561778016,
     "wof:name":"Grundf\u00f8r",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

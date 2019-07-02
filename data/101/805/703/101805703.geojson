@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":7215432.316609,
+    "geom:area_square_m":7215432.316607,
     "geom:bbox":"8.55617822898,56.4720551061,8.61346117806,56.5002642896",
     "geom:latitude":56.485718,
     "geom:longitude":8.586835,
@@ -35,9 +35,6 @@
     "name:deu_x_preferred":[
         "Struer"
     ],
-    "name:dut_x_preferred":[
-        "Struer"
-    ],
     "name:eng_x_preferred":[
         "Struer Municipality"
     ],
@@ -50,20 +47,17 @@
     "name:fin_x_variant":[
         "Struerin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Struer"
     ],
     "name:frr_x_preferred":[
         "Struer Komuun"
     ],
-    "name:ger_x_preferred":[
-        "Struer"
-    ],
-    "name:ice_x_preferred":[
-        "Struer"
-    ],
     "name:ind_x_preferred":[
         "Munisipalitas Struer"
+    ],
+    "name:isl_x_preferred":[
+        "Struer"
     ],
     "name:ita_x_preferred":[
         "Struer"
@@ -103,9 +97,6 @@
     ],
     "name:ron_x_variant":[
         "Comuna Struer"
-    ],
-    "name:rum_x_preferred":[
-        "Struer"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0443\u044d\u0440"
@@ -171,7 +162,7 @@
         }
     ],
     "wof:id":101805703,
-    "wof:lastmodified":1530296402,
+    "wof:lastmodified":1561778001,
     "wof:name":"Struer",
     "wof:parent_id":1159297861,
     "wof:placetype":"locality",

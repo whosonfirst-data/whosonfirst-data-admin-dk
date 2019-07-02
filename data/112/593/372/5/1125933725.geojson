@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "No"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "No"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "No"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "No"
     ],
-    "name:ger_x_preferred":[
-        "No"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "No"
     ],
     "name:kal_x_preferred":[
+        "No"
+    ],
+    "name:nld_x_preferred":[
         "No"
     ],
     "name:nno_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125933725,
-    "wof:lastmodified":1530291946,
+    "wof:lastmodified":1561778011,
     "wof:name":"No",
     "wof:parent_id":1159297869,
     "wof:placetype":"locality",

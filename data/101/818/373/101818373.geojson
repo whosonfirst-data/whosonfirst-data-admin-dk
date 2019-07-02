@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":1841450.151648,
+    "geom:area_square_m":1841450.151649,
     "geom:bbox":"11.5836489216,55.9016108405,11.6188682882,55.9163267654",
     "geom:latitude":55.908833,
     "geom:longitude":11.600765,
@@ -25,25 +25,19 @@
     "name:deu_x_preferred":[
         "H\u00f8jby"
     ],
-    "name:dut_x_preferred":[
-        "H\u00f8jby"
-    ],
     "name:eng_x_preferred":[
         "H\u00f8jby"
     ],
-    "name:fre_x_preferred":[
-        "H\u00f8jby"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "H\u00f8jby"
     ],
     "name:hun_x_preferred":[
         "H\u00f8jby"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "H\u00f8jby"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "H\u00f8jby"
     ],
     "name:nno_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":101818373,
-    "wof:lastmodified":1530296454,
+    "wof:lastmodified":1561777996,
     "wof:name":"H\u00f8jby",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

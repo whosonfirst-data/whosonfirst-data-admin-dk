@@ -27,9 +27,6 @@
     "name:afr_x_preferred":[
         "Durup"
     ],
-    "name:alb_x_preferred":[
-        "Durup"
-    ],
     "name:ang_x_preferred":[
         "Durup"
     ],
@@ -43,9 +40,6 @@
         "Durup"
     ],
     "name:bam_x_preferred":[
-        "Durup"
-    ],
-    "name:baq_x_preferred":[
         "Durup"
     ],
     "name:bar_x_preferred":[
@@ -63,13 +57,13 @@
     "name:bre_x_preferred":[
         "Durup"
     ],
-    "name:bur_x_preferred":[
-        "Durup"
-    ],
     "name:cat_x_preferred":[
         "Durup"
     ],
     "name:cdo_x_preferred":[
+        "Durup"
+    ],
+    "name:ces_x_preferred":[
         "Durup"
     ],
     "name:cha_x_preferred":[
@@ -96,19 +90,19 @@
     "name:csb_x_preferred":[
         "Durup"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Durup"
     ],
     "name:dan_x_preferred":[
+        "Durup"
+    ],
+    "name:deu_x_preferred":[
         "Durup"
     ],
     "name:diq_x_preferred":[
         "Durup"
     ],
     "name:dsb_x_preferred":[
-        "Durup"
-    ],
-    "name:dut_x_preferred":[
         "Durup"
     ],
     "name:eml_x_preferred":[
@@ -123,6 +117,9 @@
     "name:est_x_preferred":[
         "Durup"
     ],
+    "name:eus_x_preferred":[
+        "Durup"
+    ],
     "name:ext_x_preferred":[
         "Durup"
     ],
@@ -135,7 +132,7 @@
     "name:fin_x_preferred":[
         "Durup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Durup"
     ],
     "name:frp_x_preferred":[
@@ -151,9 +148,6 @@
         "Durup"
     ],
     "name:fur_x_preferred":[
-        "Durup"
-    ],
-    "name:ger_x_preferred":[
         "Durup"
     ],
     "name:gla_x_preferred":[
@@ -207,9 +201,6 @@
     "name:ibo_x_preferred":[
         "Durup"
     ],
-    "name:ice_x_preferred":[
-        "Durup"
-    ],
     "name:ido_x_preferred":[
         "Durup"
     ],
@@ -226,6 +217,9 @@
         "Durup"
     ],
     "name:ipk_x_preferred":[
+        "Durup"
+    ],
+    "name:isl_x_preferred":[
         "Durup"
     ],
     "name:ita_x_preferred":[
@@ -306,12 +300,6 @@
     "name:mah_x_preferred":[
         "Durup"
     ],
-    "name:mao_x_preferred":[
-        "Durup"
-    ],
-    "name:may_x_preferred":[
-        "Durup"
-    ],
     "name:min_x_preferred":[
         "Durup"
     ],
@@ -321,10 +309,19 @@
     "name:mlt_x_preferred":[
         "Durup"
     ],
+    "name:mri_x_preferred":[
+        "Durup"
+    ],
+    "name:msa_x_preferred":[
+        "Durup"
+    ],
     "name:mus_x_preferred":[
         "Durup"
     ],
     "name:mwl_x_preferred":[
+        "Durup"
+    ],
+    "name:mya_x_preferred":[
         "Durup"
     ],
     "name:nah_x_preferred":[
@@ -340,6 +337,9 @@
         "Durup"
     ],
     "name:nds_x_preferred":[
+        "Durup"
+    ],
+    "name:nld_x_preferred":[
         "Durup"
     ],
     "name:nno_x_preferred":[
@@ -399,7 +399,7 @@
     "name:roh_x_preferred":[
         "Durup"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Durup"
     ],
     "name:run_x_preferred":[
@@ -414,7 +414,7 @@
     "name:sco_x_preferred":[
         "Durup"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Durup"
     ],
     "name:slv_x_preferred":[
@@ -436,6 +436,9 @@
         "Durup"
     ],
     "name:spa_x_preferred":[
+        "Durup"
+    ],
+    "name:sqi_x_preferred":[
         "Durup"
     ],
     "name:srd_x_preferred":[
@@ -522,9 +525,6 @@
     "name:war_x_preferred":[
         "Durup"
     ],
-    "name:wel_x_preferred":[
-        "Durup"
-    ],
     "name:wln_x_preferred":[
         "Durup"
     ],
@@ -596,7 +596,7 @@
         }
     ],
     "wof:id":1125892065,
-    "wof:lastmodified":1553816606,
+    "wof:lastmodified":1561778016,
     "wof:name":"Durup",
     "wof:parent_id":1159297899,
     "wof:placetype":"locality",

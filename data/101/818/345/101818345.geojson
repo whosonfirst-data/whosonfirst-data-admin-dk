@@ -26,19 +26,13 @@
     "name:dan_x_preferred":[
         "Osted"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Osted"
     ],
     "name:eng_x_preferred":[
         "Osted"
     ],
     "name:fra_x_preferred":[
-        "Osted"
-    ],
-    "name:fre_x_preferred":[
-        "Osted"
-    ],
-    "name:ger_x_preferred":[
         "Osted"
     ],
     "name:nld_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101818345,
-    "wof:lastmodified":1530296451,
+    "wof:lastmodified":1561777996,
     "wof:name":"Osted",
     "wof:parent_id":1159297805,
     "wof:placetype":"locality",

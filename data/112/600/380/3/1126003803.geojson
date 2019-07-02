@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Vedb\u00e6k"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vedb\u00e6k"
     ],
     "name:eng_x_preferred":[
@@ -30,19 +30,19 @@
     "name:fao_x_preferred":[
         "Vedb\u00e6k"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vedb\u00e6k"
     ],
-    "name:ger_x_preferred":[
-        "Vedb\u00e6k"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Vedb\u00e6k"
     ],
     "name:ita_x_preferred":[
         "Vedb\u00e6k"
     ],
     "name:kal_x_preferred":[
+        "Vedb\u00e6k"
+    ],
+    "name:nld_x_preferred":[
         "Vedb\u00e6k"
     ],
     "name:nno_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1126003803,
-    "wof:lastmodified":1530291743,
+    "wof:lastmodified":1561778022,
     "wof:name":"Vedb\u00e6k",
     "wof:parent_id":1159297843,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1343806.903621,
+    "geom:area_square_m":1343806.903622,
     "geom:bbox":"11.4890929352,55.6395664781,11.5132757949,55.6585469718",
     "geom:latitude":55.649745,
     "geom:longitude":11.501706,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Michael M\u00f8rk\u00f8v"
     ],
-    "name:dut_x_preferred":[
-        "M\u00f8rk\u00f8v"
-    ],
     "name:eng_x_preferred":[
         "M\u00f8rk\u00f8v"
     ],
@@ -49,6 +46,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30ab\u30a8\u30eb\u30fb\u30e1\u30eb\u30b1\u30d5"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00f8rk\u00f8v"
     ],
     "name:spa_x_preferred":[
         "Michael M\u00f8rk\u00f8v"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101818307,
-    "wof:lastmodified":1530289993,
+    "wof:lastmodified":1561777991,
     "wof:name":"M\u00f8rk\u00f8v",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

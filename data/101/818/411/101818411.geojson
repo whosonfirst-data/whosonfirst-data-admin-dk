@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1293972.354931,
+    "geom:area_square_m":1293972.35493,
     "geom:bbox":"12.3743482467,55.8617234632,12.3949273137,55.8761535097",
     "geom:latitude":55.869668,
     "geom:longitude":12.38537,
@@ -20,13 +20,13 @@
     "name:dan_x_preferred":[
         "Blovstr\u00f8d"
     ],
-    "name:dut_x_preferred":[
-        "Blovstr\u00f8d"
-    ],
     "name:eng_x_preferred":[
         "Blovstr\u00f8d"
     ],
     "name:ita_x_preferred":[
+        "Blovstr\u00f8d"
+    ],
+    "name:nld_x_preferred":[
         "Blovstr\u00f8d"
     ],
     "name:swe_x_preferred":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101818411,
-    "wof:lastmodified":1530291783,
+    "wof:lastmodified":1561777995,
     "wof:name":"Blovstr\u00f8d",
     "wof:parent_id":1159297849,
     "wof:placetype":"locality",

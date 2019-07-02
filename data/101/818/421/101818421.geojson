@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000441,
-    "geom:area_square_m":3065772.838741,
+    "geom:area_square_m":3065772.83874,
     "geom:bbox":"12.1333561418,55.7804424369,12.1659416213,55.804533707",
     "geom:latitude":55.791905,
     "geom:longitude":12.149791,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "\u00d8lstykke Kommune"
     ],
-    "name:dut_x_preferred":[
-        "\u00d8lstykke"
-    ],
     "name:eng_x_preferred":[
         "\u00d8lstykke"
     ],
@@ -40,12 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "\u00d8lstykke"
-    ],
-    "name:fre_x_preferred":[
-        "\u00d8lstykke"
-    ],
-    "name:ger_x_preferred":[
-        "\u00d8lstykke Kommune"
     ],
     "name:ita_x_preferred":[
         "\u00d8lstykke"
@@ -68,7 +59,7 @@
     "name:por_x_preferred":[
         "\u00d8lstykke"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna \u00d8lstykke"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +116,7 @@
         }
     ],
     "wof:id":101818421,
-    "wof:lastmodified":1530296459,
+    "wof:lastmodified":1561777995,
     "wof:name":"\u00d8lstykke",
     "wof:parent_id":1159297851,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "L\u00f8gten"
     ],
-    "name:dut_x_preferred":[
-        "L\u00f8gten"
-    ],
     "name:eng_x_preferred":[
         "L\u00f8gten"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101873049,
-    "wof:lastmodified":1544751451,
+    "wof:lastmodified":1561777996,
     "wof:name":"L\u00f8gten",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

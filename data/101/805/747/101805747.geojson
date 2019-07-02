@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":2737172.02294,
+    "geom:area_square_m":2737172.022941,
     "geom:bbox":"8.11016986414,55.9933789791,8.14310848423,56.0264550659",
     "geom:latitude":56.00985,
     "geom:longitude":8.125741,
@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Hvide Sande"
     ],
-    "name:dut_x_preferred":[
-        "Hvide Sande"
-    ],
     "name:eng_x_preferred":[
         "Hvide Sande"
     ],
     "name:fra_x_preferred":[
-        "Hvide Sande"
-    ],
-    "name:fre_x_preferred":[
-        "Hvide Sande"
-    ],
-    "name:ger_x_preferred":[
         "Hvide Sande"
     ],
     "name:nld_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":101805747,
-    "wof:lastmodified":1530296407,
+    "wof:lastmodified":1561778000,
     "wof:name":"Hvide Sande",
     "wof:parent_id":1159297869,
     "wof:placetype":"locality",

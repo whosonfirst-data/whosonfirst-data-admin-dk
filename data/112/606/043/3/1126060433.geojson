@@ -18,10 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cym_x_preferred":[
+        "Virum"
+    ],
     "name:dan_x_preferred":[
         "Virum"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Virum"
     ],
     "name:eng_x_preferred":[
@@ -33,22 +36,22 @@
     "name:fin_x_preferred":[
         "Virum"
     ],
-    "name:fre_x_preferred":[
-        "Virum"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Virum"
     ],
     "name:hrv_x_preferred":[
         "Virum"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Virum"
     ],
     "name:ita_x_preferred":[
         "Virum"
     ],
     "name:kal_x_preferred":[
+        "Virum"
+    ],
+    "name:nld_x_preferred":[
         "Virum"
     ],
     "name:nno_x_preferred":[
@@ -61,9 +64,6 @@
         "\u0412\u0438\u0440\u0443\u043c"
     ],
     "name:swe_x_preferred":[
-        "Virum"
-    ],
-    "name:wel_x_preferred":[
         "Virum"
     ],
     "qs_pg:aaroncc":"DK",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1126060433,
-    "wof:lastmodified":1530290376,
+    "wof:lastmodified":1561778020,
     "wof:name":"Virum",
     "wof:parent_id":1159297723,
     "wof:placetype":"locality",

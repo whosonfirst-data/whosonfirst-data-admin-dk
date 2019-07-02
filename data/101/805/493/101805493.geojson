@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1353988.74166,
+    "geom:area_square_m":1353988.741662,
     "geom:bbox":"9.53739990061,54.8811116096,9.56534938991,54.9009418249",
     "geom:latitude":54.890855,
     "geom:longitude":9.552808,
@@ -22,13 +22,13 @@
     "name:deu_x_preferred":[
         "Rinkenis"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Rinken\u00e6s"
     ],
     "name:eng_x_preferred":[
         "Rinken\u00e6s"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Rinken\u00e6s"
     ],
     "qs:a0":"Danmark",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":101805493,
-    "wof:lastmodified":1530296381,
+    "wof:lastmodified":1561778002,
     "wof:name":"Rinken\u00e6s",
     "wof:parent_id":1159297877,
     "wof:placetype":"locality",

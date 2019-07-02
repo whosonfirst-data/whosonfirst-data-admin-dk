@@ -21,17 +21,17 @@
     "name:dan_x_preferred":[
         "Vejers"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vejers"
     ],
     "name:eng_x_preferred":[
         "Vejers"
     ],
-    "name:ger_x_preferred":[
-        "Vejers"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0648\u062c\u0631\u0633"
+    ],
+    "name:nld_x_preferred":[
+        "Vejers"
     ],
     "name:unk_x_variant":[
         "Vejrs"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125818621,
-    "wof:lastmodified":1530292531,
+    "wof:lastmodified":1561778015,
     "wof:name":"Vejers",
     "wof:parent_id":1159297925,
     "wof:placetype":"locality",

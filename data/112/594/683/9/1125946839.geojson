@@ -24,16 +24,16 @@
     "name:dan_x_preferred":[
         "Marielyst"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Marielyst"
     ],
     "name:eng_x_preferred":[
         "Marielyst"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marielyst"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Marielyst"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125946839,
-    "wof:lastmodified":1530290558,
+    "wof:lastmodified":1561778009,
     "wof:name":"Marielyst",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

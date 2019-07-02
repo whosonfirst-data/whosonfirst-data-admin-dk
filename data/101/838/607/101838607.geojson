@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001752,
-    "geom:area_square_m":11770557.909676,
+    "geom:area_square_m":11770557.909674,
     "geom:bbox":"9.81871501915,57.0712580389,9.89001121995,57.1251689125",
     "geom:latitude":57.096912,
     "geom:longitude":9.8581,
@@ -27,9 +27,6 @@
         "Vadum"
     ],
     "name:dan_x_preferred":[
-        "Vadum"
-    ],
-    "name:dut_x_preferred":[
         "Vadum"
     ],
     "name:eng_x_preferred":[
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101838607,
-    "wof:lastmodified":1530296462,
+    "wof:lastmodified":1561778006,
     "wof:name":"Vadum",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

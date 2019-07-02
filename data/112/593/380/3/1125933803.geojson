@@ -22,13 +22,13 @@
     "name:dan_x_preferred":[
         "Fl\u00f8ng"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fl\u00f8ng"
     ],
     "name:eng_x_preferred":[
         "Fl\u00f8ng"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Fl\u00f8ng"
     ],
     "name:pol_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125933803,
-    "wof:lastmodified":1530291549,
+    "wof:lastmodified":1561778010,
     "wof:name":"Fl\u00f8ng",
     "wof:parent_id":1159297827,
     "wof:placetype":"locality",

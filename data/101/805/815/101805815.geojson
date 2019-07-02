@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":1691566.425627,
+    "geom:area_square_m":1691566.425628,
     "geom:bbox":"10.09797853,57.3778157816,10.1278733102,57.3921972206",
     "geom:latitude":57.385275,
     "geom:longitude":10.114052,
@@ -24,9 +24,6 @@
         "T\u00e5rs"
     ],
     "name:dan_x_preferred":[
-        "T\u00e5rs"
-    ],
-    "name:dut_x_preferred":[
         "T\u00e5rs"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101805815,
-    "wof:lastmodified":1530296414,
+    "wof:lastmodified":1561778001,
     "wof:name":"T\u00e5rs",
     "wof:parent_id":1159297775,
     "wof:placetype":"locality",

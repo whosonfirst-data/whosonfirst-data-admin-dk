@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003254,
-    "geom:area_square_m":21742038.317315,
+    "geom:area_square_m":21742038.317312,
     "geom:bbox":"9.56987075283,57.2387145975,9.73439249212,57.3829658325",
     "geom:latitude":57.297411,
     "geom:longitude":9.644666,
@@ -22,16 +22,16 @@
     "name:dan_x_preferred":[
         "L\u00f8kken"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "L\u00f8kken"
     ],
     "name:eng_x_preferred":[
         "L\u00f8kken"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00f8kken"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "L\u00f8kken"
     ],
     "name:nno_x_preferred":[
@@ -40,7 +40,7 @@
     "name:nob_x_preferred":[
         "L\u00f8kken"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "L\u00f8kken"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101805817,
-    "wof:lastmodified":1530296415,
+    "wof:lastmodified":1561777999,
     "wof:name":"L\u00f8kken",
     "wof:parent_id":1159297909,
     "wof:placetype":"locality",

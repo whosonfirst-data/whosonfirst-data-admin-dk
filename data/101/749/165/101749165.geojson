@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004584,
-    "geom:area_square_m":31816081.575512,
+    "geom:area_square_m":31816081.575513,
     "geom:bbox":"9.774356,55.8225015,9.93134303113,55.8865196585",
     "geom:latitude":55.85558,
     "geom:longitude":9.844836,
@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0633\u064a\u0646\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0578\u0580\u057d\u0565\u0576\u057d"
-    ],
     "name:ast_x_preferred":[
-        "Horsens"
-    ],
-    "name:baq_x_preferred":[
         "Horsens"
     ],
     "name:bel_x_preferred":[
@@ -53,13 +47,7 @@
     "name:ces_x_preferred":[
         "Horsens"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u5c14\u68ee\u65af"
-    ],
     "name:csb_x_preferred":[
-        "Horsens"
-    ],
-    "name:cze_x_preferred":[
         "Horsens"
     ],
     "name:dan_x_preferred":[
@@ -68,8 +56,8 @@
     "name:deu_x_preferred":[
         "Horsens"
     ],
-    "name:dut_x_preferred":[
-        "Horsens"
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03c1\u03c3\u03b5\u03bd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Horsens"
@@ -92,18 +80,6 @@
     "name:fra_x_preferred":[
         "Horsens"
     ],
-    "name:fre_x_preferred":[
-        "Horsens"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10e0\u10e1\u10d4\u10dc\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Horsens"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03cc\u03c1\u03c3\u03b5\u03bd\u03c2"
-    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0ab0\u0acd\u0ab8\u0aa8\u0acd\u0ab8"
     ],
@@ -116,8 +92,8 @@
     "name:hun_x_preferred":[
         "Horsens"
     ],
-    "name:ice_x_preferred":[
-        "Horsens"
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0580\u057d\u0565\u0576\u057d"
     ],
     "name:ile_x_preferred":[
         "Horsens"
@@ -158,22 +134,16 @@
     "name:lit_x_preferred":[
         "Horsensas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u0440\u0441\u0435\u043d\u0441"
-    ],
-    "name:mao_x_preferred":[
-        "Horsens"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0949\u0930\u094d\u0938\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Horsens"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u0440\u0441\u0435\u043d\u0441"
     ],
     "name:mri_x_preferred":[
+        "Horsens"
+    ],
+    "name:msa_x_preferred":[
         "Horsens"
     ],
     "name:nld_x_preferred":[
@@ -188,9 +158,6 @@
     "name:nor_x_preferred":[
         "Horsens"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0631\u0632\u0646\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u06c1\u0627\u0631\u0633\u0646\u0632"
     ],
@@ -201,9 +168,6 @@
         "Horsens"
     ],
     "name:ron_x_preferred":[
-        "Horsens"
-    ],
-    "name:rum_x_preferred":[
         "Horsens"
     ],
     "name:rus_x_preferred":[
@@ -311,7 +275,7 @@
         }
     ],
     "wof:id":101749165,
-    "wof:lastmodified":1530296364,
+    "wof:lastmodified":1561778004,
     "wof:name":"Horsens",
     "wof:parent_id":1159297859,
     "wof:placetype":"locality",

@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Spentrup"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Spentrup"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Spentrup"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101805717,
-    "wof:lastmodified":1530292290,
+    "wof:lastmodified":1561778003,
     "wof:name":"Spentrup",
     "wof:parent_id":1159297903,
     "wof:placetype":"locality",

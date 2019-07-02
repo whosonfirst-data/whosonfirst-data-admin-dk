@@ -26,9 +26,6 @@
     "name:dan_x_preferred":[
         "Havdrup"
     ],
-    "name:dut_x_preferred":[
-        "Havdrup"
-    ],
     "name:eng_x_preferred":[
         "Havdrup"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101818331,
-    "wof:lastmodified":1530296450,
+    "wof:lastmodified":1561777991,
     "wof:name":"Havdrup",
     "wof:parent_id":1159297761,
     "wof:placetype":"locality",

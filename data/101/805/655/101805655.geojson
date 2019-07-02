@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003823,
-    "geom:area_square_m":26335779.255545,
+    "geom:area_square_m":26335779.255544,
     "geom:bbox":"8.88465504274,56.1151825705,9.07903096491,56.1696948314",
     "geom:latitude":56.140162,
     "geom:longitude":8.973895,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0646\u064a\u0646\u063a"
-    ],
-    "name:baq_x_preferred":[
-        "Herning"
     ],
     "name:bel_x_variant":[
         "\u0413\u044d\u0440\u043d\u0456\u043d\u0433"
@@ -38,22 +35,13 @@
     "name:ces_x_preferred":[
         "Herning"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u5b81"
-    ],
     "name:csb_x_preferred":[
-        "Herning"
-    ],
-    "name:cze_x_preferred":[
         "Herning"
     ],
     "name:dan_x_preferred":[
         "Herning"
     ],
     "name:deu_x_preferred":[
-        "Herning"
-    ],
-    "name:dut_x_preferred":[
         "Herning"
     ],
     "name:eng_x_preferred":[
@@ -77,25 +65,13 @@
     "name:fra_x_preferred":[
         "Herning"
     ],
-    "name:fre_x_preferred":[
-        "Herning"
-    ],
     "name:frr_x_preferred":[
-        "Herning"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10e0\u10dc\u10d8\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Herning"
     ],
     "name:hrv_x_preferred":[
         "Herning"
     ],
     "name:hun_x_preferred":[
-        "Herning"
-    ],
-    "name:ice_x_preferred":[
         "Herning"
     ],
     "name:ile_x_preferred":[
@@ -131,12 +107,6 @@
     "name:lit_x_preferred":[
         "Herningas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0435\u0440\u043d\u0438\u043d\u0433"
-    ],
-    "name:may_x_preferred":[
-        "Munisipaliti Herning"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0440\u043d\u0438\u043d\u0433"
     ],
@@ -158,9 +128,6 @@
     "name:oci_x_preferred":[
         "Herning"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0631\u0646\u06cc\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Herning"
     ],
@@ -170,9 +137,6 @@
     "name:ron_x_preferred":[
         "Herning"
     ],
-    "name:rum_x_preferred":[
-        "Herning"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u043d\u0438\u043d\u0433"
     ],
@@ -180,9 +144,6 @@
         "Herning"
     ],
     "name:slk_x_preferred":[
-        "Herning"
-    ],
-    "name:slo_x_preferred":[
         "Herning"
     ],
     "name:slv_x_preferred":[
@@ -261,7 +222,7 @@
         }
     ],
     "wof:id":101805655,
-    "wof:lastmodified":1530296396,
+    "wof:lastmodified":1561778002,
     "wof:name":"Herning",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

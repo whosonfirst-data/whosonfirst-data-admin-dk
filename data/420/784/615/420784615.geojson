@@ -27,7 +27,7 @@
     "name:eng_x_preferred":[
         "Latin Quarter"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "quartier latin de Copenhague"
     ],
     "src:geom":"unknown",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":420784615,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561778008,
     "wof:name":"Latin Quarter",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

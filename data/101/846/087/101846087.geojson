@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Skals"
     ],
-    "name:dut_x_preferred":[
-        "Skals"
-    ],
     "name:eng_x_preferred":[
         "Skals"
     ],
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":101846087,
-    "wof:lastmodified":1530296474,
+    "wof:lastmodified":1561778005,
     "wof:name":"Skals",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Gelsted"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Gelsted"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Gelsted"
     ],
     "name:unk_x_variant":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101805429,
-    "wof:lastmodified":1530296374,
+    "wof:lastmodified":1561778002,
     "wof:name":"Gelsted",
     "wof:parent_id":1159297791,
     "wof:placetype":"locality",

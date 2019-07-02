@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":3215016.625025,
+    "geom:area_square_m":3493720.679004,
     "geom:bbox":"12.1556514686,55.8260377112,12.1941232191,55.8566324544",
     "geom:latitude":55.845219,
     "geom:longitude":12.174355,
@@ -21,9 +21,6 @@
         "Slangerup"
     ],
     "name:ast_x_preferred":[
-        "Slangerup"
-    ],
-    "name:baq_x_preferred":[
         "Slangerup"
     ],
     "name:bar_x_preferred":[
@@ -44,13 +41,16 @@
     "name:ceb_x_preferred":[
         "Slangerup"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
+        "Slangerup"
+    ],
+    "name:cym_x_preferred":[
         "Slangerup"
     ],
     "name:dan_x_preferred":[
         "Slangerup"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Slangerup"
     ],
     "name:eng_x_preferred":[
@@ -62,6 +62,9 @@
     "name:est_x_preferred":[
         "Slangerup"
     ],
+    "name:eus_x_preferred":[
+        "Slangerup"
+    ],
     "name:fao_x_preferred":[
         "Slangerup"
     ],
@@ -71,13 +74,7 @@
     "name:fra_x_preferred":[
         "Slangerup"
     ],
-    "name:fre_x_preferred":[
-        "Slangerup"
-    ],
     "name:fry_x_preferred":[
-        "Slangerup"
-    ],
-    "name:ger_x_preferred":[
         "Slangerup"
     ],
     "name:gsw_x_preferred":[
@@ -92,10 +89,10 @@
     "name:hun_x_preferred":[
         "Slangerup"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Slangerup"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Slangerup"
     ],
     "name:ita_x_preferred":[
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Slangerup"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Slangerup"
     ],
     "name:scn_x_preferred":[
@@ -143,7 +140,7 @@
     "name:sco_x_preferred":[
         "Slangerup"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Slangerup"
     ],
     "name:slv_x_preferred":[
@@ -156,9 +153,6 @@
         "Slangerup"
     ],
     "name:tur_x_preferred":[
-        "Slangerup"
-    ],
-    "name:wel_x_preferred":[
         "Slangerup"
     ],
     "qs:a0":"Danmark",
@@ -210,7 +204,7 @@
         }
     ],
     "wof:id":1175611407,
-    "wof:lastmodified":1534985888,
+    "wof:lastmodified":1561777985,
     "wof:name":"Slangerup",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

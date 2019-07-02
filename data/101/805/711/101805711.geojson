@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001042,
-    "geom:area_square_m":7196225.404752,
+    "geom:area_square_m":7196225.404754,
     "geom:bbox":"9.88299403828,56.0232161484,9.97114257203,56.0556063935",
     "geom:latitude":56.03971,
     "geom:longitude":9.93412,
@@ -26,16 +26,13 @@
     "name:ceb_x_preferred":[
         "Skanderborg"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u574e\u8a25\u5821\u81ea\u6cbb\u5e02"
+    "name:cym_x_preferred":[
+        "Skanderborg"
     ],
     "name:dan_x_preferred":[
         "Skanderborg"
     ],
     "name:deu_x_preferred":[
-        "Skanderborg"
-    ],
-    "name:dut_x_preferred":[
         "Skanderborg"
     ],
     "name:eng_x_preferred":[
@@ -50,19 +47,10 @@
     "name:fra_x_preferred":[
         "Skanderborg"
     ],
-    "name:fre_x_preferred":[
-        "Skanderborg"
-    ],
-    "name:ger_x_preferred":[
-        "Skanderborg"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e7\u05e0\u05d3\u05e8\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hun_x_preferred":[
-        "Skanderborg"
-    ],
-    "name:ice_x_preferred":[
         "Skanderborg"
     ],
     "name:isl_x_preferred":[
@@ -98,9 +86,6 @@
     "name:ron_x_preferred":[
         "Skanderborg"
     ],
-    "name:rum_x_preferred":[
-        "Skanderborg"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u043d\u043d\u0435\u0440\u0431\u043e\u0440\u0433"
     ],
@@ -111,9 +96,6 @@
         "\u0421\u043a\u0430\u043d\u0434\u0435\u0440\u0431\u043e\u0440\u0433"
     ],
     "name:swe_x_preferred":[
-        "Skanderborg"
-    ],
-    "name:wel_x_preferred":[
         "Skanderborg"
     ],
     "name:zho_x_preferred":[
@@ -167,7 +149,7 @@
         }
     ],
     "wof:id":101805711,
-    "wof:lastmodified":1530296403,
+    "wof:lastmodified":1561778003,
     "wof:name":"Skanderborg",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

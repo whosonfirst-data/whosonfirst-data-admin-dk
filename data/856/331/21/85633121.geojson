@@ -163,9 +163,6 @@
     "name:cze_x_colloquial":[
         "Dansko"
     ],
-    "name:cze_x_preferred":[
-        "D\u00e1nsko"
-    ],
     "name:dan_x_preferred":[
         "Danmark"
     ],
@@ -669,9 +666,6 @@
     "name:rue_x_preferred":[
         "\u0414\u0430\u043d\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Danemarca"
-    ],
     "name:run_x_preferred":[
         "Danemark"
     ],
@@ -889,8 +883,7 @@
         "\u4e39\u9ea6"
     ],
     "name:zho_x_variant":[
-        "\u4e39\u9ea5",
-        "\u4e39\u9ea6"
+        "\u4e39\u9ea5"
     ],
     "name:zho_yue_x_preferred":[
         "\u4e39\u9ea5"
@@ -1052,7 +1045,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1544059229,
+    "wof:lastmodified":1561777961,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1428517.146577,
+    "geom:area_square_m":1428517.146578,
     "geom:bbox":"10.3947963084,55.4276333209,10.4216513643,55.4447585576",
     "geom:latitude":55.43751,
     "geom:longitude":10.410596,
@@ -21,9 +21,6 @@
         "\u0421\u0442\u0438\u0433\u0435"
     ],
     "name:dan_x_preferred":[
-        "Stige"
-    ],
-    "name:dut_x_preferred":[
         "Stige"
     ],
     "name:eng_x_preferred":[
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101754091,
-    "wof:lastmodified":1530296365,
+    "wof:lastmodified":1561777991,
     "wof:name":"Stige",
     "wof:parent_id":1159297847,
     "wof:placetype":"locality",

@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Lang\u00f8"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Lang\u00f8"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Lang\u00f8"
     ],
     "name:spa_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125887485,
-    "wof:lastmodified":1530291336,
+    "wof:lastmodified":1561778016,
     "wof:name":"Lang\u00f8",
     "wof:parent_id":1159297799,
     "wof:placetype":"locality",

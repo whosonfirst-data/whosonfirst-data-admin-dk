@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2120052.366231,
+    "geom:area_square_m":2120052.36623,
     "geom:bbox":"8.83757078638,56.0262260062,8.86984011682,56.0433712447",
     "geom:latitude":56.035336,
     "geom:longitude":8.855954,
@@ -21,9 +21,6 @@
         "Kib\u00e6k"
     ],
     "name:dan_x_preferred":[
-        "Kib\u00e6k"
-    ],
-    "name:dut_x_preferred":[
         "Kib\u00e6k"
     ],
     "name:eng_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101805581,
-    "wof:lastmodified":1530296391,
+    "wof:lastmodified":1561778000,
     "wof:name":"Kib\u00e6k",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

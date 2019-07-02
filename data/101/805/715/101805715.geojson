@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":1622197.083351,
+    "geom:area_square_m":1622197.083353,
     "geom:bbox":"9.12749175468,56.4752378907,9.15986533246,56.4913618113",
     "geom:latitude":56.483959,
     "geom:longitude":9.1454,
@@ -24,9 +24,6 @@
         "Stoholm"
     ],
     "name:dan_x_preferred":[
-        "Stoholm"
-    ],
-    "name:dut_x_preferred":[
         "Stoholm"
     ],
     "name:eng_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101805715,
-    "wof:lastmodified":1530296404,
+    "wof:lastmodified":1561778000,
     "wof:name":"Stoholm",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

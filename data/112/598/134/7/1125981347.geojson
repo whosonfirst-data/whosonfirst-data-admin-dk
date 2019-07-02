@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Karlstrup"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Karlstrup"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Karlstrup"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125981347,
-    "wof:lastmodified":1530291008,
+    "wof:lastmodified":1561778020,
     "wof:name":"Karlstrup",
     "wof:parent_id":1159297761,
     "wof:placetype":"locality",

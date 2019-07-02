@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":935478.781131,
+    "geom:area_square_m":935478.781132,
     "geom:bbox":"9.49062540707,56.6101077461,9.51015354776,56.6209309827",
     "geom:latitude":56.616617,
     "geom:longitude":9.500601,
@@ -22,17 +22,11 @@
     "name:deu_x_preferred":[
         "M\u00f8ldrup Kommune"
     ],
-    "name:dut_x_preferred":[
-        "M\u00f8ldrup"
-    ],
     "name:eng_x_preferred":[
         "M\u00f8ldrup Municipality"
     ],
     "name:fao_x_preferred":[
         "M\u00f8ldrup kommuna"
-    ],
-    "name:ger_x_preferred":[
-        "M\u00f8ldrup Kommune"
     ],
     "name:ita_x_preferred":[
         "M\u00f8ldrup"
@@ -53,9 +47,6 @@
         "M\u00f8ldrup"
     ],
     "name:ron_x_preferred":[
-        "Comuna M\u00f8ldrup"
-    ],
-    "name:rum_x_preferred":[
         "Comuna M\u00f8ldrup"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":101805635,
-    "wof:lastmodified":1530291530,
+    "wof:lastmodified":1561778000,
     "wof:name":"M\u00f8ldrup",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

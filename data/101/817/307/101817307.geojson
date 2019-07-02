@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":1472775.06014,
+    "geom:area_square_m":1472775.060139,
     "geom:bbox":"10.2942070553,56.99003372,10.3237917499,57.0026567433",
     "geom:latitude":56.996549,
     "geom:longitude":10.30799,
@@ -20,7 +20,7 @@
     "name:dan_x_preferred":[
         "Hals"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hals"
     ],
     "name:eng_x_preferred":[
@@ -29,22 +29,22 @@
     "name:fao_x_preferred":[
         "Hals"
     ],
-    "name:fre_x_preferred":[
-        "Hals"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hals"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05dc\u05e1"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Hals"
     ],
     "name:ita_x_preferred":[
         "Hals"
     ],
     "name:kal_x_preferred":[
+        "Hals"
+    ],
+    "name:nld_x_preferred":[
         "Hals"
     ],
     "name:nno_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101817307,
-    "wof:lastmodified":1530290666,
+    "wof:lastmodified":1561777997,
     "wof:name":"Hals",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

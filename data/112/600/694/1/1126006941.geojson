@@ -25,10 +25,10 @@
     "name:dan_x_preferred":[
         "Stubberup"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Stubberup"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Stubberup"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1126006941,
-    "wof:lastmodified":1530290560,
+    "wof:lastmodified":1561778021,
     "wof:name":"Stubberup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

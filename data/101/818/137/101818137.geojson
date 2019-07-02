@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "R\u00f8dbyhavn"
     ],
-    "name:dut_x_preferred":[
-        "R\u00f8dbyhavn"
-    ],
     "name:eng_x_preferred":[
         "R\u00f8dbyhavn"
     ],
-    "name:fre_x_preferred":[
-        "R\u00f8dbyhavn"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00f8dbyhavn"
     ],
     "name:jpn_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101818137,
-    "wof:lastmodified":1530296426,
+    "wof:lastmodified":1561777994,
     "wof:name":"R\u00f8dbyhavn",
     "wof:parent_id":1159297799,
     "wof:placetype":"locality",

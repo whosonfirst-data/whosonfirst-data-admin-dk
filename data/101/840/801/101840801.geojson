@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001177,
-    "geom:area_square_m":8235000.522696,
+    "geom:area_square_m":8235000.522698,
     "geom:bbox":"12.1848033734,55.4964155713,12.2440977257,55.5574108086",
     "geom:latitude":55.53166,
     "geom:longitude":12.213273,
@@ -23,13 +23,7 @@
     "name:dan_x_preferred":[
         "Solr\u00f8d Strand"
     ],
-    "name:dut_x_preferred":[
-        "Solr\u00f8d Strand"
-    ],
     "name:eng_x_preferred":[
-        "Solr\u00f8d Strand"
-    ],
-    "name:may_x_preferred":[
         "Solr\u00f8d Strand"
     ],
     "name:msa_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101840801,
-    "wof:lastmodified":1530296465,
+    "wof:lastmodified":1561778006,
     "wof:name":"Solr\u00f8d Strand",
     "wof:parent_id":1159297761,
     "wof:placetype":"locality",

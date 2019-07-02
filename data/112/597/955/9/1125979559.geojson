@@ -21,13 +21,13 @@
     "name:dan_x_preferred":[
         "\u00c5r\u00f8sund"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00c5r\u00f8sund"
     ],
     "name:eng_x_preferred":[
         "Aar\u00f8sund"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "\u00c5r\u00f8sund"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125979559,
-    "wof:lastmodified":1530290808,
+    "wof:lastmodified":1561778018,
     "wof:name":"\u00c5r\u00f8sund",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

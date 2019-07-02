@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002848,
-    "geom:area_square_m":19507066.45901,
+    "geom:area_square_m":19507066.459009,
     "geom:bbox":"8.56380711759,56.3351921222,8.67776240714,56.3895062038",
     "geom:latitude":56.364714,
     "geom:longitude":8.617093,
@@ -17,9 +17,6 @@
     "mps:longitude":8.61623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Holstebro"
-    ],
     "name:bel_x_variant":[
         "\u0413\u043e\u043b\u044c\u0441\u0442\u044d\u0431\u0440\u0430"
     ],
@@ -35,19 +32,16 @@
     "name:ceb_x_preferred":[
         "Holstebro"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u723e\u65af\u7279\u5e03\u7f85"
-    ],
     "name:csb_x_preferred":[
+        "Holstebro"
+    ],
+    "name:cym_x_preferred":[
         "Holstebro"
     ],
     "name:dan_x_preferred":[
         "Holstebro"
     ],
     "name:deu_x_preferred":[
-        "Holstebro"
-    ],
-    "name:dut_x_preferred":[
         "Holstebro"
     ],
     "name:eng_x_preferred":[
@@ -68,22 +62,10 @@
     "name:fra_x_preferred":[
         "Holstebro"
     ],
-    "name:fre_x_preferred":[
-        "Holstebro"
-    ],
     "name:frr_x_preferred":[
         "Holstebro"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10dd\u10da\u10e1\u10e2\u10d4\u10d1\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Holstebro"
-    ],
     "name:hun_x_preferred":[
-        "Holstebro"
-    ],
-    "name:ice_x_preferred":[
         "Holstebro"
     ],
     "name:isl_x_preferred":[
@@ -103,9 +85,6 @@
     ],
     "name:lit_x_preferred":[
         "Holstebro"
-    ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u043b\u0442\u0435\u0441\u0431\u0440\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043b\u0441\u0442\u0435\u0431\u0440\u043e"
@@ -134,9 +113,6 @@
     "name:ron_x_preferred":[
         "Holstebro"
     ],
-    "name:rum_x_preferred":[
-        "Holstebro"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u044c\u0441\u0442\u0435\u0431\u0440\u043e"
     ],
@@ -162,9 +138,6 @@
         "Holstebro"
     ],
     "name:vol_x_preferred":[
-        "Holstebro"
-    ],
-    "name:wel_x_preferred":[
         "Holstebro"
     ],
     "name:zho_x_preferred":[
@@ -219,7 +192,7 @@
         }
     ],
     "wof:id":101805647,
-    "wof:lastmodified":1530296395,
+    "wof:lastmodified":1561778001,
     "wof:name":"Holstebro",
     "wof:parent_id":1159297801,
     "wof:placetype":"locality",

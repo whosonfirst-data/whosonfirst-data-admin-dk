@@ -20,13 +20,13 @@
     "name:dan_x_preferred":[
         "Str\u00f8by Egede"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Str\u00f8by Egede"
     ],
     "name:eng_x_preferred":[
         "Str\u00f8by Egede"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Str\u00f8by Egede"
     ],
     "name:spa_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101818261,
-    "wof:lastmodified":1530290318,
+    "wof:lastmodified":1561777993,
     "wof:name":"Str\u00f8by Egede",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

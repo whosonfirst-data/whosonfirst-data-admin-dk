@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":1462995.888475,
+    "geom:area_square_m":1462995.888472,
     "geom:bbox":"9.77028308259,56.3843788825,9.81879775942,56.3934299831",
     "geom:latitude":56.389241,
     "geom:longitude":9.792561,
@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Ulstrup"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ulstrup"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ulstrup"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101805663,
-    "wof:lastmodified":1530290766,
+    "wof:lastmodified":1561778002,
     "wof:name":"Ulstrup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

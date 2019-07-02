@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Sk\u00e6ring"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sk\u00e6ring"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sk\u00e6ring"
     ],
     "name:swe_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125946445,
-    "wof:lastmodified":1530291312,
+    "wof:lastmodified":1561778008,
     "wof:name":"Sk\u00e6ring",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

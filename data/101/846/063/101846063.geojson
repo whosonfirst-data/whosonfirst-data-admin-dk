@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "Bredsten"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bredsten"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +28,10 @@
     "name:fao_x_preferred":[
         "Bredsten"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bredsten"
     ],
-    "name:ger_x_preferred":[
-        "Bredsten"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Bredsten"
     ],
     "name:kal_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":101846063,
-    "wof:lastmodified":1530296471,
+    "wof:lastmodified":1561778004,
     "wof:name":"Bredsten",
     "wof:parent_id":1159297913,
     "wof:placetype":"locality",

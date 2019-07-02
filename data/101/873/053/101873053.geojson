@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Hatting"
     ],
-    "name:dut_x_preferred":[
-        "Hatting"
-    ],
     "name:eng_x_preferred":[
         "Hatting"
     ],
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":101873053,
-    "wof:lastmodified":1544751454,
+    "wof:lastmodified":1561777997,
     "wof:name":"Hatting",
     "wof:parent_id":1159297859,
     "wof:placetype":"locality",

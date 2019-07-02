@@ -21,19 +21,19 @@
     "name:dan_x_preferred":[
         "Flade"
     ],
+    "name:deu_x_preferred":[
+        "Flade"
+    ],
     "name:eng_x_preferred":[
         "Flade"
     ],
     "name:fao_x_preferred":[
         "Flade"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Flade"
     ],
-    "name:ger_x_preferred":[
-        "Flade"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Flade"
     ],
     "name:kal_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125979269,
-    "wof:lastmodified":1530291760,
+    "wof:lastmodified":1561778018,
     "wof:name":"Flade",
     "wof:parent_id":1159297845,
     "wof:placetype":"locality",

@@ -22,10 +22,10 @@
     "name:dan_x_preferred":[
         "M\u00e5l\u00f8v"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "M\u00e5l\u00f8v"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "M\u00e5l\u00f8v"
     ],
     "name:swe_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125795513,
-    "wof:lastmodified":1530292036,
+    "wof:lastmodified":1561778022,
     "wof:name":"M\u00e5l\u00f8v",
     "wof:parent_id":1159297883,
     "wof:placetype":"locality",

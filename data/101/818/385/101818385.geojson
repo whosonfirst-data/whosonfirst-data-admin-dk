@@ -23,10 +23,10 @@
     "name:dan_x_preferred":[
         "Svinninge"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Svinninge"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Svinninge"
     ],
     "qs:a0":"Danmark",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101818385,
-    "wof:lastmodified":1530289994,
+    "wof:lastmodified":1561777993,
     "wof:name":"Svinninge",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -21,19 +21,19 @@
     "name:dan_x_preferred":[
         "Blokhus"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Blokhus"
     ],
     "name:eng_x_preferred":[
         "Blokhus"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Blokhus"
     ],
-    "name:ger_x_preferred":[
+    "name:isl_x_preferred":[
         "Blokhus"
     ],
-    "name:ice_x_preferred":[
+    "name:nld_x_preferred":[
         "Blokhus"
     ],
     "name:nob_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1126049443,
-    "wof:lastmodified":1530292387,
+    "wof:lastmodified":1561778014,
     "wof:name":"Blokhus",
     "wof:parent_id":1159297909,
     "wof:placetype":"locality",

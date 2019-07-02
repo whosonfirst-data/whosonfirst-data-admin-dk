@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000917,
-    "geom:area_square_m":6371029.609571,
+    "geom:area_square_m":6371029.609569,
     "geom:bbox":"12.545353,55.8054117341,12.584252884,55.8472473489",
     "geom:latitude":55.821976,
     "geom:longitude":12.56253,
@@ -19,10 +19,10 @@
     "name:dan_x_preferred":[
         "Skodsborg"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Skodsborg"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Skodsborg"
     ],
     "name:swe_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101754107,
-    "wof:lastmodified":1530296367,
+    "wof:lastmodified":1561777991,
     "wof:name":"Skodsborg",
     "wof:parent_id":1159297843,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1065147.152457,
+    "geom:area_square_m":1065147.152458,
     "geom:bbox":"8.73150264188,55.3933342185,8.76319005882,55.4050618035",
     "geom:latitude":55.398465,
     "geom:longitude":8.743646,
@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "Gredstedbro"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gredstedbro"
     ],
     "name:eng_x_preferred":[
@@ -28,16 +28,16 @@
     "name:fao_x_preferred":[
         "Gredstedbro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gredstedbro"
     ],
-    "name:ger_x_preferred":[
-        "Gredstedbro"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Gredstedbro"
     ],
     "name:kal_x_preferred":[
+        "Gredstedbro"
+    ],
+    "name:nld_x_preferred":[
         "Gredstedbro"
     ],
     "name:nno_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101805523,
-    "wof:lastmodified":1530292508,
+    "wof:lastmodified":1561778003,
     "wof:name":"Gredstedbro",
     "wof:parent_id":1159297923,
     "wof:placetype":"locality",

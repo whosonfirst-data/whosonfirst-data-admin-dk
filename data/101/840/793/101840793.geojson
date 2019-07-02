@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":2485680.77457,
+    "geom:area_square_m":2485680.774569,
     "geom:bbox":"14.7704815819,55.2511827467,14.822092,55.2903312326",
     "geom:latitude":55.272784,
     "geom:longitude":14.800808,
@@ -16,14 +16,17 @@
     "mps:longitude":14.801199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Allinge-Sandvig"
+    ],
     "name:dan_x_preferred":[
         "Allinge-Sandvig"
     ],
     "name:deu_x_preferred":[
         "Allinge-Sandvig"
     ],
-    "name:dut_x_preferred":[
-        "Allinge-Sandvig"
+    "name:deu_x_variant":[
+        "Allinge-Sandvigds"
     ],
     "name:eng_x_preferred":[
         "Allinge-Sandvig"
@@ -37,16 +40,13 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u06cc\u0646\u06af-\u0633\u0646\u062f\u0648\u06cc\u06af"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Allinge-Sandvig"
-    ],
-    "name:ger_x_preferred":[
-        "Allinge-Sandvigds"
     ],
     "name:hrv_x_preferred":[
         "Allinge-Sandvig"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Allinge-Sandvig"
     ],
     "name:kal_x_preferred":[
@@ -61,22 +61,13 @@
     "name:nob_x_preferred":[
         "Allinge-Sandvig"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06cc\u0646\u06af-\u0633\u0646\u062f\u0648\u06cc\u06af"
-    ],
     "name:pol_x_preferred":[
         "Allinge-Sandvig"
     ],
     "name:ron_x_preferred":[
         "Allinge-Sandvig"
     ],
-    "name:rum_x_preferred":[
-        "Allinge-Sandvig"
-    ],
     "name:swe_x_preferred":[
-        "Allinge-Sandvig"
-    ],
-    "name:wel_x_preferred":[
         "Allinge-Sandvig"
     ],
     "qs:a0":"Danmark",
@@ -122,7 +113,7 @@
         }
     ],
     "wof:id":101840793,
-    "wof:lastmodified":1530296463,
+    "wof:lastmodified":1561778006,
     "wof:name":"Allinge-Sandvig",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

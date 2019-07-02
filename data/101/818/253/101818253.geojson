@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":2010660.377056,
+    "geom:area_square_m":2010660.377057,
     "geom:bbox":"11.4859315077,55.8031846278,11.5115371659,55.8222028125",
     "geom:latitude":55.81405,
     "geom:longitude":11.500175,
@@ -26,13 +26,7 @@
     "name:deu_x_preferred":[
         "Asn\u00e6s"
     ],
-    "name:dut_x_preferred":[
-        "Asn\u00e6s"
-    ],
     "name:eng_x_preferred":[
-        "Asn\u00e6s"
-    ],
-    "name:ger_x_preferred":[
         "Asn\u00e6s"
     ],
     "name:heb_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101818253,
-    "wof:lastmodified":1553815522,
+    "wof:lastmodified":1561777995,
     "wof:name":"Asn\u00e6s",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

@@ -24,19 +24,19 @@
     "name:dan_x_preferred":[
         "Nyboder"
     ],
+    "name:deu_x_preferred":[
+        "Nyboder"
+    ],
     "name:eng_x_preferred":[
         "Nyboder"
     ],
     "name:fao_x_preferred":[
         "Nyboder"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nyboder"
     ],
-    "name:ger_x_preferred":[
-        "Nyboder"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Nyboder"
     ],
     "name:kal_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":420784655,
-    "wof:lastmodified":1530296503,
+    "wof:lastmodified":1561778008,
     "wof:name":"Nyboder",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

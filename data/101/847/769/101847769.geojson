@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":776392.951085,
+    "geom:area_square_m":776392.951086,
     "geom:bbox":"12.2325104303,55.6781683267,12.2613502455,55.6845954403",
     "geom:latitude":55.681668,
     "geom:longitude":12.245487,
@@ -37,9 +37,6 @@
     "name:deu_x_preferred":[
         "H\u00f8je-Taastrup Kommune"
     ],
-    "name:dut_x_preferred":[
-        "Sengel\u00f8se"
-    ],
     "name:eng_x_preferred":[
         "Sengel\u00f8se"
     ],
@@ -57,6 +54,9 @@
     ],
     "name:hrv_x_preferred":[
         "H\u00f8je-Taastrup"
+    ],
+    "name:nld_x_preferred":[
+        "Sengel\u00f8se"
     ],
     "name:spa_x_preferred":[
         "H\u00f8je-Taastrup"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101847769,
-    "wof:lastmodified":1530291548,
+    "wof:lastmodified":1561778005,
     "wof:name":"Sengel\u00f8se",
     "wof:parent_id":1159297827,
     "wof:placetype":"locality",

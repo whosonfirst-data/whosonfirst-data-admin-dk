@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":1950799.344495,
+    "geom:area_square_m":1950799.344494,
     "geom:bbox":"10.0996677602,56.126554959,10.1317821679,56.1445528627",
     "geom:latitude":56.134811,
     "geom:longitude":10.118365,
@@ -24,9 +24,6 @@
         "Stavtrup"
     ],
     "name:dan_x_preferred":[
-        "Stavtrup"
-    ],
-    "name:dut_x_preferred":[
         "Stavtrup"
     ],
     "name:eng_x_preferred":[
@@ -89,7 +86,7 @@
         }
     ],
     "wof:id":101805565,
-    "wof:lastmodified":1530296389,
+    "wof:lastmodified":1561778001,
     "wof:name":"Stavtrup",
     "wof:parent_id":1159297797,
     "wof:placetype":"locality",

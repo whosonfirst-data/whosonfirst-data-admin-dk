@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Melby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Melby"
     ],
     "name:eng_x_preferred":[
@@ -30,16 +30,16 @@
     "name:fao_x_preferred":[
         "Melby"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Melby"
     ],
-    "name:ger_x_preferred":[
-        "Melby"
-    ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Melby"
     ],
     "name:kal_x_preferred":[
+        "Melby"
+    ],
+    "name:nld_x_preferred":[
         "Melby"
     ],
     "name:nno_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125806839,
-    "wof:lastmodified":1530290600,
+    "wof:lastmodified":1561778017,
     "wof:name":"Melby",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

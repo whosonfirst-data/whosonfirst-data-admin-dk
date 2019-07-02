@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001414,
-    "geom:area_square_m":9844477.247351,
+    "geom:area_square_m":9844477.24735,
     "geom:bbox":"9.09002720775,55.7127564772,9.19331450419,55.7490700857",
     "geom:latitude":55.732081,
     "geom:longitude":9.133228,
@@ -17,22 +17,13 @@
     "mps:longitude":9.121099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u056c\u056c\u0578\u0582\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u9686"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Billund"
     ],
     "name:dan_x_preferred":[
         "Billund"
     ],
     "name:deu_x_preferred":[
-        "Billund"
-    ],
-    "name:dut_x_preferred":[
         "Billund"
     ],
     "name:ell_x_preferred":[
@@ -47,23 +38,14 @@
     "name:fao_x_preferred":[
         "Billund"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0648\u0646\u062f\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Billund"
     ],
     "name:fra_x_preferred":[
         "Billund"
-    ],
-    "name:fre_x_preferred":[
-        "Billund"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10da\u10e3\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Billund"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bb\u03bf\u03cd\u03bd\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05dc\u05d5\u05e0\u05d3"
@@ -74,10 +56,13 @@
     "name:hun_x_preferred":[
         "Billund"
     ],
-    "name:ice_x_preferred":[
-        "Billund"
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u056c\u056c\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
+        "Billund"
+    ],
+    "name:isl_x_preferred":[
         "Billund"
     ],
     "name:ita_x_preferred":[
@@ -110,16 +95,13 @@
     "name:nor_x_preferred":[
         "Billund"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0644\u0648\u0646\u062f\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Gmina Billund"
     ],
     "name:por_x_preferred":[
         "Billund"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Billund"
     ],
     "name:rus_x_preferred":[
@@ -192,7 +174,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296383,
+    "wof:lastmodified":1561777998,
     "wof:name":"Billund",
     "wof:parent_id":1159297863,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003468,
-    "geom:area_square_m":23867187.186193,
+    "geom:area_square_m":23867187.186192,
     "geom:bbox":"9.48678757844,56.1519201505,9.62012380487,56.2085855762",
     "geom:latitude":56.181427,
     "geom:longitude":9.551099,
@@ -19,12 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0643\u064a\u0628\u0648\u0631\u062c"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u056c\u0584\u0565\u0562\u0578\u0580\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Silkeborg"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043b\u044c\u043a\u0435\u0431\u0430\u0440\u0433"
@@ -41,22 +35,19 @@
     "name:ceb_x_preferred":[
         "Silkeborg"
     ],
-    "name:chi_x_preferred":[
-        "\u9521\u5c14\u514b\u5821"
+    "name:ces_x_preferred":[
+        "Silkeborg"
     ],
     "name:csb_x_preferred":[
         "Silkeborg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Silkeborg"
     ],
     "name:dan_x_preferred":[
         "Silkeborg"
     ],
     "name:deu_x_preferred":[
-        "Silkeborg"
-    ],
-    "name:dut_x_preferred":[
         "Silkeborg"
     ],
     "name:eng_x_preferred":[
@@ -77,16 +68,7 @@
     "name:fra_x_preferred":[
         "Silkeborg"
     ],
-    "name:fre_x_preferred":[
-        "Silkeborg"
-    ],
     "name:frr_x_preferred":[
-        "Silkeborg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10da\u10d9\u10d4\u10d1\u10dd\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Silkeborg"
     ],
     "name:heb_x_preferred":[
@@ -95,8 +77,8 @@
     "name:hrv_x_preferred":[
         "Silkeborg"
     ],
-    "name:ice_x_preferred":[
-        "Silkeborg"
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u0584\u0565\u0562\u0578\u0580\u0563"
     ],
     "name:ido_x_preferred":[
         "Silkeborg"
@@ -121,9 +103,6 @@
     ],
     "name:lit_x_preferred":[
         "Silkeborgas"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u043b\u043a\u0435\u0431\u043e\u0440\u0433"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u043a\u0435\u0431\u043e\u0440\u0433"
@@ -152,9 +131,6 @@
     "name:ron_x_preferred":[
         "Silkeborg"
     ],
-    "name:rum_x_preferred":[
-        "Silkeborg"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u044c\u043a\u0435\u0431\u043e\u0440\u0433"
     ],
@@ -180,9 +156,6 @@
         "Silkeborg"
     ],
     "name:vol_x_preferred":[
-        "Silkeborg"
-    ],
-    "name:wel_x_preferred":[
         "Silkeborg"
     ],
     "name:yue_x_preferred":[
@@ -240,7 +213,7 @@
         }
     ],
     "wof:id":101805653,
-    "wof:lastmodified":1530296396,
+    "wof:lastmodified":1561778002,
     "wof:name":"Silkeborg",
     "wof:parent_id":1159297773,
     "wof:placetype":"locality",

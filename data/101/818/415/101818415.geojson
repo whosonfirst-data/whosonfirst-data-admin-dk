@@ -19,16 +19,10 @@
     "name:dan_x_preferred":[
         "Raml\u00f8se"
     ],
-    "name:dut_x_preferred":[
-        "Raml\u00f8se"
-    ],
     "name:eng_x_preferred":[
         "Raml\u00f8se"
     ],
     "name:fra_x_preferred":[
-        "Raml\u00f8se"
-    ],
-    "name:fre_x_preferred":[
         "Raml\u00f8se"
     ],
     "name:nld_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101818415,
-    "wof:lastmodified":1530296458,
+    "wof:lastmodified":1561777992,
     "wof:name":"Raml\u00f8se",
     "wof:parent_id":1159297855,
     "wof:placetype":"locality",

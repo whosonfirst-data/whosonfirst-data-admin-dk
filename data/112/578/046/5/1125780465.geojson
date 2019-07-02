@@ -25,19 +25,19 @@
     "name:csb_x_preferred":[
         "Charlottenlund"
     ],
+    "name:cym_x_preferred":[
+        "Charlottenlund"
+    ],
     "name:dan_x_preferred":[
         "Charlottenlund"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Charlottenlund"
     ],
     "name:eng_x_preferred":[
         "Charlottenlund"
     ],
-    "name:fre_x_preferred":[
-        "Charlottenlund"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Charlottenlund"
     ],
     "name:ita_x_preferred":[
@@ -49,10 +49,13 @@
     "name:kor_x_preferred":[
         "\uc0ec\ub85c\ud150\ub8ec"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Charlottenlund"
     ],
     "name:nds_x_preferred":[
+        "Charlottenlund"
+    ],
+    "name:nld_x_preferred":[
         "Charlottenlund"
     ],
     "name:nob_x_preferred":[
@@ -68,9 +71,6 @@
         "Charlottenlund"
     ],
     "name:swe_x_preferred":[
-        "Charlottenlund"
-    ],
-    "name:wel_x_preferred":[
         "Charlottenlund"
     ],
     "qs_pg:aaroncc":"DK",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1125780465,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561778022,
     "wof:name":"Charlottenlund",
     "wof:parent_id":1159297927,
     "wof:placetype":"locality",

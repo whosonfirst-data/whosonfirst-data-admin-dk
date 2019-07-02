@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1045300.642174,
+    "geom:area_square_m":1045300.642175,
     "geom:bbox":"15.127438462,55.1215025129,15.1553199334,55.1422386341",
     "geom:latitude":55.132402,
     "geom:longitude":15.14502,
@@ -28,9 +28,6 @@
     "name:deu_x_preferred":[
         "Svaneke"
     ],
-    "name:dut_x_preferred":[
-        "Svaneke"
-    ],
     "name:eng_x_preferred":[
         "Svaneke"
     ],
@@ -38,12 +35,6 @@
         "Svaneke"
     ],
     "name:fra_x_preferred":[
-        "Svaneke"
-    ],
-    "name:fre_x_preferred":[
-        "Svaneke"
-    ],
-    "name:ger_x_preferred":[
         "Svaneke"
     ],
     "name:hun_x_preferred":[
@@ -62,9 +53,6 @@
         "Svaneke"
     ],
     "name:ron_x_preferred":[
-        "Svaneke"
-    ],
-    "name:rum_x_preferred":[
         "Svaneke"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101818195,
-    "wof:lastmodified":1530296435,
+    "wof:lastmodified":1561777991,
     "wof:name":"Svaneke",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

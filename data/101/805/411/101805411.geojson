@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001367,
-    "geom:area_square_m":9576185.152608,
+    "geom:area_square_m":9576185.152609,
     "geom:bbox":"9.70261061865,55.4756741659,9.78178653529,55.5224548404",
     "geom:latitude":55.497787,
     "geom:longitude":9.745906,
@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Middelfart"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u5fb7\u6cd5\u7279"
-    ],
     "name:dan_x_preferred":[
         "Middelfart"
     ],
     "name:deu_x_preferred":[
-        "Middelfart"
-    ],
-    "name:dut_x_preferred":[
         "Middelfart"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Middelfart"
     ],
-    "name:fre_x_preferred":[
-        "Middelfart"
-    ],
-    "name:ger_x_preferred":[
-        "Middelfart"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05d3\u05dc\u05e4\u05d0\u05e8\u05d8"
     ],
     "name:hrv_x_preferred":[
-        "Middelfart"
-    ],
-    "name:ice_x_preferred":[
         "Middelfart"
     ],
     "name:isl_x_preferred":[
@@ -61,9 +46,6 @@
     ],
     "name:kor_x_preferred":[
         "\ubbf8\ub378\ud30c\ub974\ud2b8"
-    ],
-    "name:may_x_preferred":[
-        "Middelfart"
     ],
     "name:msa_x_preferred":[
         "Middelfart"
@@ -86,9 +68,6 @@
     "name:ron_x_preferred":[
         "Middelfart"
     ],
-    "name:rum_x_preferred":[
-        "Middelfart"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0434\u0434\u0435\u043b\u044c\u0444\u0430\u0440\u0442"
     ],
@@ -103,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Middelfart"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5fb7\u6cd5\u7279"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -156,7 +138,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296371,
+    "wof:lastmodified":1561778001,
     "wof:name":"Middelfart",
     "wof:parent_id":1159297791,
     "wof:placetype":"locality",

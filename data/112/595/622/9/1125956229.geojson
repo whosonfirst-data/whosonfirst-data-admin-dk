@@ -21,13 +21,13 @@
     "name:dan_x_preferred":[
         "Store Magleby"
     ],
-    "name:dut_x_preferred":[
-        "Store Magleby"
-    ],
     "name:eng_x_preferred":[
         "Store Magleby"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Store Magleby"
+    ],
+    "name:nld_x_preferred":[
         "Store Magleby"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125956229,
-    "wof:lastmodified":1530291012,
+    "wof:lastmodified":1561778012,
     "wof:name":"Store Magleby",
     "wof:parent_id":1159297763,
     "wof:placetype":"locality",

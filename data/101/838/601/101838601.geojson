@@ -35,9 +35,6 @@
     "name:deu_x_variant":[
         "Vejen Kommune"
     ],
-    "name:dut_x_preferred":[
-        "Vejen"
-    ],
     "name:eng_x_preferred":[
         "Vejen Municipality"
     ],
@@ -50,14 +47,8 @@
     "name:fra_x_preferred":[
         "Vejen"
     ],
-    "name:fre_x_preferred":[
-        "Vejen"
-    ],
     "name:frr_x_preferred":[
         "Vejen Komuun"
-    ],
-    "name:ger_x_preferred":[
-        "Vejen"
     ],
     "name:hun_x_preferred":[
         "Vejen"
@@ -73,9 +64,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d4\u10d8\u10d4\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Vejen"
     ],
     "name:msa_x_preferred":[
         "Vejen"
@@ -167,7 +155,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296462,
+    "wof:lastmodified":1561778006,
     "wof:name":"Vejen",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

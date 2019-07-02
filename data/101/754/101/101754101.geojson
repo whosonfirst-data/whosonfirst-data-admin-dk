@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00223,
-    "geom:area_square_m":15561360.977417,
+    "geom:area_square_m":15561360.977416,
     "geom:bbox":"12.2413418434,55.6342073475,12.3496451554,55.668776498",
     "geom:latitude":55.64862,
     "geom:longitude":12.293777,
@@ -32,28 +32,19 @@
     "name:dan_x_variant":[
         "T\u00e5strup"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taastrup"
     ],
     "name:eng_x_preferred":[
         "Taastrup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Taastrup"
     ],
     "name:frr_x_preferred":[
         "Taastrup"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10e1\u10e2\u10e0\u10e3\u10de\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Taastrup"
-    ],
     "name:hun_x_preferred":[
-        "Taastrup"
-    ],
-    "name:ice_x_preferred":[
         "Taastrup"
     ],
     "name:isl_x_preferred":[
@@ -67,9 +58,6 @@
     ],
     "name:lit_x_preferred":[
         "Hioj\u0117 Tostrupas"
-    ],
-    "name:may_x_preferred":[
-        "Taastrup"
     ],
     "name:msa_x_preferred":[
         "Taastrup"
@@ -90,9 +78,6 @@
         "Taastrup"
     ],
     "name:ron_x_preferred":[
-        "Taastrup"
-    ],
-    "name:rum_x_preferred":[
         "Taastrup"
     ],
     "name:rus_x_preferred":[
@@ -164,7 +149,7 @@
         }
     ],
     "wof:id":101754101,
-    "wof:lastmodified":1530296367,
+    "wof:lastmodified":1561777991,
     "wof:name":"Taastrup",
     "wof:parent_id":1159297827,
     "wof:placetype":"locality",

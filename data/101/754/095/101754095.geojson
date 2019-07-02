@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000605,
-    "geom:area_square_m":4225314.709145,
+    "geom:area_square_m":4225314.709144,
     "geom:bbox":"12.6313028615,55.5788579888,12.6814883068,55.6044653719",
     "geom:latitude":55.590856,
     "geom:longitude":12.65696,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Drag\u00f8r"
     ],
-    "name:dut_x_preferred":[
-        "Drag\u00f8r"
-    ],
     "name:eng_x_preferred":[
         "Dragor"
     ],
@@ -47,12 +44,6 @@
     "name:fra_x_preferred":[
         "Drag\u00f8r"
     ],
-    "name:fre_x_preferred":[
-        "Drag\u00f8r"
-    ],
-    "name:ger_x_preferred":[
-        "Drag\u00f8r"
-    ],
     "name:ind_x_preferred":[
         "Drag\u00f8r"
     ],
@@ -61,9 +52,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30e9\u30aa\u30a2"
-    ],
-    "name:may_x_preferred":[
-        "Drag\u00f8r"
     ],
     "name:msa_x_preferred":[
         "Drag\u00f8r"
@@ -84,9 +72,6 @@
         "Drag\u00f8r"
     ],
     "name:ron_x_preferred":[
-        "Drag\u00f8r"
-    ],
-    "name:rum_x_preferred":[
         "Drag\u00f8r"
     ],
     "name:rus_x_preferred":[
@@ -157,7 +142,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296366,
+    "wof:lastmodified":1561777991,
     "wof:name":"Drag\u00f8r",
     "wof:parent_id":1159297763,
     "wof:placetype":"locality",

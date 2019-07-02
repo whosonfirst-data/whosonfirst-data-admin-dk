@@ -23,9 +23,6 @@
     "name:dan_x_preferred":[
         "N\u00f8debo"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8debo"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8debo"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101818409,
-    "wof:lastmodified":1530296458,
+    "wof:lastmodified":1561777993,
     "wof:name":"N\u00f8debo",
     "wof:parent_id":1159297779,
     "wof:placetype":"locality",

@@ -19,8 +19,8 @@
     "name:dan_x_preferred":[
         "L\u00f8kken-Vr\u00e5 Kommune"
     ],
-    "name:dut_x_preferred":[
-        "L\u00f8kken-Vr\u00e5"
+    "name:deu_x_preferred":[
+        "L\u00f8kken-Vr\u00e5 Kommune"
     ],
     "name:eng_x_preferred":[
         "L\u00f8kken-Vr\u00e5"
@@ -28,10 +28,10 @@
     "name:fao_x_preferred":[
         "L\u00f8kken-Vr\u00e5 kommuna"
     ],
-    "name:ger_x_preferred":[
-        "L\u00f8kken-Vr\u00e5 Kommune"
-    ],
     "name:ita_x_preferred":[
+        "L\u00f8kken-Vr\u00e5"
+    ],
+    "name:nld_x_preferred":[
         "L\u00f8kken-Vr\u00e5"
     ],
     "name:nob_x_preferred":[
@@ -43,7 +43,7 @@
     "name:por_x_preferred":[
         "L\u00f8kken-Vr\u00e5"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna L\u00f8kken-Vr\u00e5"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126021055,
-    "wof:lastmodified":1513955785,
+    "wof:lastmodified":1561778012,
     "wof:name":"L\u00f8kken-Vr\u00e5",
     "wof:parent_id":85682593,
     "wof:placetype":"locality",

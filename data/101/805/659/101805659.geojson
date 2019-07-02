@@ -28,9 +28,6 @@
     "name:dan_x_preferred":[
         "Frederiks"
     ],
-    "name:dut_x_preferred":[
-        "Frederiks"
-    ],
     "name:eng_x_preferred":[
         "Frederiks"
     ],
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101805659,
-    "wof:lastmodified":1530296397,
+    "wof:lastmodified":1561778000,
     "wof:name":"Frederiks",
     "wof:parent_id":1159297825,
     "wof:placetype":"locality",

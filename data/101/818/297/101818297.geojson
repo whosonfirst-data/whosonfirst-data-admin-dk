@@ -22,9 +22,6 @@
     "name:dan_x_preferred":[
         "Glums\u00f8"
     ],
-    "name:dut_x_preferred":[
-        "Glums\u00f8"
-    ],
     "name:eng_x_preferred":[
         "Glums\u00f8"
     ],
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":101818297,
-    "wof:lastmodified":1530296445,
+    "wof:lastmodified":1561777995,
     "wof:name":"Glums\u00f8",
     "wof:parent_id":1159297917,
     "wof:placetype":"locality",

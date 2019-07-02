@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Ly\u00f8"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rre Lyndelse"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8rre Lyndelse"
     ],
@@ -39,6 +36,9 @@
     ],
     "name:lat_x_preferred":[
         "Ly\u00f8"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rre Lyndelse"
     ],
     "name:nno_x_preferred":[
         "Ly\u00f8"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101818211,
-    "wof:lastmodified":1530292050,
+    "wof:lastmodified":1561777992,
     "wof:name":"N\u00f8rre Lyndelse",
     "wof:parent_id":1159297885,
     "wof:placetype":"locality",

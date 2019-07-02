@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":316542.433647,
+    "geom:area_square_m":316542.433648,
     "geom:bbox":"12.5459497855,55.6589960381,12.5573730469,55.6651931844",
     "geom:latitude":55.662318,
     "geom:longitude":12.551297,
@@ -26,28 +26,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:chi_x_preferred":[
-        "\u97cb\u65af\u7279\u5e03\u7f85"
-    ],
     "name:dan_x_preferred":[
         "Vesterbro"
     ],
     "name:deu_x_preferred":[
         "Vesterbro"
     ],
-    "name:dut_x_preferred":[
-        "Vesterbro"
-    ],
     "name:eng_x_preferred":[
         "Vesterbro"
     ],
     "name:fra_x_preferred":[
-        "Vesterbro"
-    ],
-    "name:fre_x_preferred":[
-        "Vesterbro"
-    ],
-    "name:ger_x_preferred":[
         "Vesterbro"
     ],
     "name:heb_x_preferred":[
@@ -138,7 +126,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296609,
+    "wof:lastmodified":1561777957,
     "wof:name":"Vesterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

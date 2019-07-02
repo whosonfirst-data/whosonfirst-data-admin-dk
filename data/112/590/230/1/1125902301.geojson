@@ -21,10 +21,10 @@
     "name:dan_x_preferred":[
         "Skalborg"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Skalborg"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Skalborg"
     ],
     "qs_pg:aaroncc":"DK",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125902301,
-    "wof:lastmodified":1530290667,
+    "wof:lastmodified":1561778018,
     "wof:name":"Skalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

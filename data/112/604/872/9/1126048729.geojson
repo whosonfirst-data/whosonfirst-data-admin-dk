@@ -27,13 +27,13 @@
     "name:dan_x_preferred":[
         "Byrum"
     ],
-    "name:dut_x_preferred":[
-        "Byrum"
-    ],
     "name:eng_x_preferred":[
         "Byrum"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Byrum"
+    ],
+    "name:nld_x_preferred":[
         "Byrum"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126048729,
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1561778014,
     "wof:name":"Byrum",
     "wof:parent_id":1159297895,
     "wof:placetype":"locality",

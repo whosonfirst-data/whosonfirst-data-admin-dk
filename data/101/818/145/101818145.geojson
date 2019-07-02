@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1055330.236952,
+    "geom:area_square_m":1055330.236951,
     "geom:bbox":"11.2595334374,54.8026326322,11.2782176163,54.8188367291",
     "geom:latitude":54.811349,
     "geom:longitude":11.269793,
@@ -20,9 +20,6 @@
         "S\u00f8llested"
     ],
     "name:dan_x_preferred":[
-        "S\u00f8llested"
-    ],
-    "name:dut_x_preferred":[
         "S\u00f8llested"
     ],
     "name:eng_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101818145,
-    "wof:lastmodified":1530296427,
+    "wof:lastmodified":1561777993,
     "wof:name":"S\u00f8llested",
     "wof:parent_id":1159297799,
     "wof:placetype":"locality",

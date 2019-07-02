@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":1841588.846966,
+    "geom:area_square_m":1841588.846967,
     "geom:bbox":"12.0162332271,55.4487821962,12.0446149309,55.4649509613",
     "geom:latitude":55.457589,
     "geom:longitude":12.033051,
@@ -21,9 +21,6 @@
         "Bj\u00e6verskov"
     ],
     "name:dan_x_preferred":[
-        "Bj\u00e6verskov"
-    ],
-    "name:dut_x_preferred":[
         "Bj\u00e6verskov"
     ],
     "name:eng_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101818257,
-    "wof:lastmodified":1530296441,
+    "wof:lastmodified":1561777993,
     "wof:name":"Bj\u00e6verskov",
     "wof:parent_id":1159297933,
     "wof:placetype":"locality",

@@ -21,19 +21,19 @@
     "name:dan_x_preferred":[
         "Nylars"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nylars"
     ],
     "name:eng_x_preferred":[
         "Nylars"
     ],
-    "name:fre_x_preferred":[
-        "Nylars"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nylars"
     ],
     "name:hun_x_preferred":[
+        "Nylars"
+    ],
+    "name:nld_x_preferred":[
         "Nylars"
     ],
     "name:unk_x_variant":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125901019,
-    "wof:lastmodified":1530291107,
+    "wof:lastmodified":1561778018,
     "wof:name":"Nylars",
     "wof:parent_id":1159297781,
     "wof:placetype":"locality",

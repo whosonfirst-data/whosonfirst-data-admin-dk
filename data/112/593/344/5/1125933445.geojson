@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Kundby"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kundby"
     ],
     "name:eng_x_preferred":[
@@ -30,13 +30,13 @@
     "name:fin_x_preferred":[
         "Kundby"
     ],
-    "name:fre_x_preferred":[
-        "Kundby"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kundby"
     ],
     "name:ita_x_preferred":[
+        "Kundby"
+    ],
+    "name:nld_x_preferred":[
         "Kundby"
     ],
     "name:nno_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125933445,
-    "wof:lastmodified":1530289995,
+    "wof:lastmodified":1561778011,
     "wof:name":"Kundby",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

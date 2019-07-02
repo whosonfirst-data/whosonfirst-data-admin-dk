@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":746579.522269,
+    "geom:area_square_m":746579.522268,
     "geom:bbox":"12.1263965066,55.5056341605,12.1456614296,55.5155412918",
     "geom:latitude":55.51039,
     "geom:longitude":12.136704,
@@ -20,9 +20,6 @@
         "Lille Skensved"
     ],
     "name:dan_x_preferred":[
-        "Lille Skensved"
-    ],
-    "name:dut_x_preferred":[
         "Lille Skensved"
     ],
     "name:eng_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101818339,
-    "wof:lastmodified":1530296451,
+    "wof:lastmodified":1561777992,
     "wof:name":"Lille Skensved",
     "wof:parent_id":1159297933,
     "wof:placetype":"locality",

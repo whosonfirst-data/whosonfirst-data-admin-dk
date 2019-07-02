@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1164458.041204,
+    "geom:area_square_m":1164458.041203,
     "geom:bbox":"8.33368612792,56.3379322235,8.35491873904,56.3541056651",
     "geom:latitude":56.344762,
     "geom:longitude":8.342163,
@@ -22,16 +22,10 @@
     "name:deu_x_preferred":[
         "Vemb"
     ],
-    "name:dut_x_preferred":[
-        "Vemb"
-    ],
     "name:eng_x_preferred":[
         "Vemb"
     ],
-    "name:fre_x_preferred":[
-        "Vemb"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vemb"
     ],
     "name:nld_x_preferred":[
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":101805729,
-    "wof:lastmodified":1530296405,
+    "wof:lastmodified":1561778003,
     "wof:name":"Vemb",
     "wof:parent_id":1159297801,
     "wof:placetype":"locality",

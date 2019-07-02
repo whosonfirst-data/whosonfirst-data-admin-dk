@@ -26,9 +26,6 @@
     "name:dan_x_preferred":[
         "Hornsyld"
     ],
-    "name:dut_x_preferred":[
-        "Hornsyld"
-    ],
     "name:eng_x_preferred":[
         "Hornsyld"
     ],
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101805733,
-    "wof:lastmodified":1530296405,
+    "wof:lastmodified":1561778000,
     "wof:name":"Hornsyld",
     "wof:parent_id":1159297807,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Jystrup"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jystrup"
     ],
     "name:eng_x_preferred":[
         "Jystrup"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jystrup"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Jystrup"
     ],
     "name:unk_x_variant":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1126015067,
-    "wof:lastmodified":1530291083,
+    "wof:lastmodified":1561778021,
     "wof:name":"Jystrup",
     "wof:parent_id":1159297777,
     "wof:placetype":"locality",

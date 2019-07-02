@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001586,
-    "geom:area_square_m":10659060.740941,
+    "geom:area_square_m":10659060.740939,
     "geom:bbox":"9.88834135303,57.0533147174,9.99011453536,57.0910750291",
     "geom:latitude":57.071387,
     "geom:longitude":9.936854,
@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "N\u00f8rresundby"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f8rresundby"
-    ],
     "name:eng_x_preferred":[
         "N\u00f8rresundby"
     ],
@@ -38,15 +35,6 @@
         "N\u00f8rresundby"
     ],
     "name:fra_x_preferred":[
-        "N\u00f8rresundby"
-    ],
-    "name:fre_x_preferred":[
-        "N\u00f8rresundby"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d4\u10e0\u10d4\u10e1\u10e3\u10dc\u10d1\u10d8\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "N\u00f8rresundby"
     ],
     "name:ita_x_preferred":[
@@ -70,7 +58,7 @@
     "name:pol_x_preferred":[
         "N\u00f8rresundby"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "N\u00f8rresundby"
     ],
     "name:spa_x_preferred":[
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":101838611,
-    "wof:lastmodified":1530296463,
+    "wof:lastmodified":1561778006,
     "wof:name":"N\u00f8rresundby",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

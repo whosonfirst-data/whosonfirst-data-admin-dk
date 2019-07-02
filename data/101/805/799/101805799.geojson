@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":2079806.832913,
+    "geom:area_square_m":2079806.832914,
     "geom:bbox":"10.0854826086,56.9813768923,10.1117822579,57.0110428049",
     "geom:latitude":56.999618,
     "geom:longitude":10.100571,
@@ -26,13 +26,7 @@
     "name:dan_x_preferred":[
         "Storvorde"
     ],
-    "name:dut_x_preferred":[
-        "Storvorde"
-    ],
     "name:eng_x_preferred":[
-        "Storvorde"
-    ],
-    "name:ice_x_preferred":[
         "Storvorde"
     ],
     "name:isl_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101805799,
-    "wof:lastmodified":1530296414,
+    "wof:lastmodified":1561777998,
     "wof:name":"Storvorde",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

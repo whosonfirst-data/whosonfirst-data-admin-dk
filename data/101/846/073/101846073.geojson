@@ -26,9 +26,6 @@
     "name:dan_x_preferred":[
         "Assentoft"
     ],
-    "name:dut_x_preferred":[
-        "Assentoft"
-    ],
     "name:eng_x_preferred":[
         "Assentoft"
     ],
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101846073,
-    "wof:lastmodified":1530296472,
+    "wof:lastmodified":1561778005,
     "wof:name":"Assentoft",
     "wof:parent_id":1159297903,
     "wof:placetype":"locality",

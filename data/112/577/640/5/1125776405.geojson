@@ -21,13 +21,13 @@
     "name:dan_x_preferred":[
         "Ommel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ommel"
     ],
     "name:eng_x_preferred":[
         "Ommel"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Ommel"
     ],
     "qs_pg:aaroncc":"DK",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125776405,
-    "wof:lastmodified":1530291718,
+    "wof:lastmodified":1561778023,
     "wof:name":"Ommel",
     "wof:parent_id":1159297837,
     "wof:placetype":"locality",

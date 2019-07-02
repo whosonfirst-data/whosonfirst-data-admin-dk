@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":975435.624696,
+    "geom:area_square_m":975435.624697,
     "geom:bbox":"11.562302347,55.8463638889,11.5941360393,55.8552697319",
     "geom:latitude":55.851334,
     "geom:longitude":11.580989,
@@ -22,7 +22,7 @@
     "name:deu_x_preferred":[
         "VIG"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Vig"
     ],
     "name:eng_x_preferred":[
@@ -30,9 +30,6 @@
     ],
     "name:epo_x_preferred":[
         "VIG"
-    ],
-    "name:ger_x_preferred":[
-        "Vig"
     ],
     "name:hun_x_preferred":[
         "Vig"
@@ -45,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "VIG"
+    ],
+    "name:nld_x_variant":[
+        "Vig"
     ],
     "name:nno_x_preferred":[
         "Vig"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101847761,
-    "wof:lastmodified":1530296481,
+    "wof:lastmodified":1561778005,
     "wof:name":"Vig",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

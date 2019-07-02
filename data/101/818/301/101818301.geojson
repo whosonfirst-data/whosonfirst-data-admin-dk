@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003444,
-    "geom:area_square_m":23848545.378308,
+    "geom:area_square_m":23848545.378309,
     "geom:bbox":"11.5728448439,55.9054054114,11.7934045495,55.9682134086",
     "geom:latitude":55.940487,
     "geom:longitude":11.684348,
@@ -22,25 +22,16 @@
     "name:deu_x_preferred":[
         "R\u00f8rvig"
     ],
-    "name:dut_x_preferred":[
-        "R\u00f8rvig"
-    ],
     "name:eng_x_preferred":[
         "R\u00f8rvig"
     ],
-    "name:fre_x_preferred":[
-        "R\u00f8rvig"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00f8rvig"
     ],
     "name:nld_x_preferred":[
         "R\u00f8rvig"
     ],
     "name:ron_x_preferred":[
-        "R\u00f8rvig"
-    ],
-    "name:rum_x_preferred":[
         "R\u00f8rvig"
     ],
     "qs:a0":"Danmark",
@@ -88,7 +79,7 @@
         }
     ],
     "wof:id":101818301,
-    "wof:lastmodified":1530296446,
+    "wof:lastmodified":1561777992,
     "wof:name":"R\u00f8rvig",
     "wof:parent_id":1159297935,
     "wof:placetype":"locality",

@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Store Heddinge"
     ],
-    "name:dut_x_preferred":[
-        "Store Heddinge"
-    ],
     "name:eng_x_preferred":[
         "Store Heddinge"
     ],
-    "name:fre_x_preferred":[
-        "Store Heddinge"
-    ],
-    "name:ger_x_preferred":[
-        "Store Heddinge"
-    ],
-    "name:may_x_preferred":[
+    "name:fra_x_preferred":[
         "Store Heddinge"
     ],
     "name:msa_x_preferred":[
@@ -54,9 +45,6 @@
         "Store Heddinge"
     ],
     "name:ron_x_preferred":[
-        "Store Heddinge"
-    ],
-    "name:rum_x_preferred":[
         "Store Heddinge"
     ],
     "name:spa_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":101847765,
-    "wof:lastmodified":1530296482,
+    "wof:lastmodified":1561778005,
     "wof:name":"Store Heddinge",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",
