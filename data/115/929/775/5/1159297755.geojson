@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029388,
+    "geom:area_square_m":206062670.121627,
     "geom:bbox":"10.4799881569,55.3227850661,10.8005708906,55.6206112338",
     "geom:latitude":55.45523,
     "geom:longitude":10.615316,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Kerteminde Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Kerteminde Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.503482,
     "lbl:longitude":10.668336,
     "mps:latitude":55.503482,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297755,
-    "wof:lastmodified":1530290944,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562105858,
     "wof:name":"Kerteminde",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
