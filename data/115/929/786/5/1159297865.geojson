@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.166699,
+    "geom:area_square_m":1179937460.218235,
     "geom:bbox":"8.46246788016,54.8815046717,9.24964736687,55.2447133065",
     "geom:latitude":55.079866,
     "geom:longitude":8.865931,
@@ -24,7 +26,7 @@
     "mps:latitude":55.061303,
     "mps:longitude":8.858588,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Fan\u00f8"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297865,
-    "wof:lastmodified":1530291886,
+    "wof:lastmodified":1562094145,
     "wof:name":"Fano",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1084,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.009401,
+    "geom:area_square_m":65651005.993705,
     "geom:bbox":"12.5088450174,55.5724814642,12.8225933619,55.672745291",
     "geom:latitude":55.615148,
     "geom:longitude":12.640492,
@@ -24,7 +26,7 @@
     "mps:latitude":55.599736,
     "mps:longitude":12.595438,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Mariagerfjord"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297833,
-    "wof:lastmodified":1530291686,
+    "wof:lastmodified":1562094106,
     "wof:name":"Mariagerfjord",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

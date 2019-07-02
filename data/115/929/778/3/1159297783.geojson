@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.132078,
+    "geom:area_square_m":937173184.604007,
     "geom:bbox":"9.00495255725,54.800245719,9.63168198383,55.1679651676",
     "geom:latitude":54.981695,
     "geom:longitude":9.315383,
@@ -24,7 +26,7 @@
     "mps:latitude":54.987092,
     "mps:longitude":9.293399,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Norddjurs"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297783,
-    "wof:lastmodified":1530291199,
+    "wof:lastmodified":1562094146,
     "wof:name":"Norddjurs",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

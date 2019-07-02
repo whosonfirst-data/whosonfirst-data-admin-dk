@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.040773,
+    "geom:area_square_m":289754669.354994,
     "geom:bbox":"10.533065246,54.7218923462,10.95578912,55.1646968527",
     "geom:latitude":54.919745,
     "geom:longitude":10.77686,
@@ -24,7 +26,7 @@
     "mps:latitude":54.919245,
     "mps:longitude":10.768816,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Rudersdal"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297841,
-    "wof:lastmodified":1530291740,
+    "wof:lastmodified":1562094099,
     "wof:name":"Rudersdal",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

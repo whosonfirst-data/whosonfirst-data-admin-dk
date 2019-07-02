@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.085896,
+    "geom:area_square_m":602267805.058085,
     "geom:bbox":"9.21516452253,55.3085256365,9.69343604891,55.6297781747",
     "geom:latitude":55.455578,
     "geom:longitude":9.439579,
@@ -24,7 +26,7 @@
     "mps:latitude":55.445269,
     "mps:longitude":9.396266,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Viborg"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297823,
-    "wof:lastmodified":1530291518,
+    "wof:lastmodified":1562094126,
     "wof:name":"Viborg",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

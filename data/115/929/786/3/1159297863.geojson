@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.077309,
+    "geom:area_square_m":538179972.922925,
     "geom:bbox":"8.74738672742,55.5935087887,9.19924080871,55.8957745207",
     "geom:latitude":55.737598,
     "geom:longitude":8.968635,
@@ -24,7 +26,7 @@
     "mps:latitude":55.73726,
     "mps:longitude":8.953261,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "T\u00f8nder"
     ],
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1159297863,
-    "wof:lastmodified":1530291872,
+    "wof:lastmodified":1562094153,
     "wof:name":"Tonder",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
