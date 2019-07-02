@@ -15,7 +15,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001354,
-    "geom:area_square_m":9447816.166767,
+    "geom:area_square_m":9447816.166766,
     "geom:bbox":"12.3413340844,55.6095372996,12.4049680167,55.6562146242",
     "geom:latitude":55.632866,
     "geom:longitude":12.373036,
@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"c8bcbfa984386613f2757a0c2648938a",
+    "wof:geomhash":"7764a81746dab065df8781a91510690c",
     "wof:hierarchy":[],
     "wof:id":1394014105,
     "wof:lang_x_official":[
@@ -58,19 +58,21 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103815,
+    "wof:lastmodified":1562104857,
     "wof:name":"Vallensbaek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297901
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    12.341334084361256,
-    55.609537299553246,
+    12.34133408436126,
+    55.60953729955325,
     12.40496801668758,
     55.65621462415431
 ],

@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297831,
-    "wof:lastmodified":1562094134,
+    "wof:lastmodified":1562104827,
     "wof:name":"Tarnby",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

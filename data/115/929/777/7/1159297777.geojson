@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297777,
-    "wof:lastmodified":1562094152,
+    "wof:lastmodified":1562104862,
     "wof:name":"Hillerod",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

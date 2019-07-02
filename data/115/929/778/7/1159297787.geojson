@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297787,
-    "wof:lastmodified":1562094113,
+    "wof:lastmodified":1562104788,
     "wof:name":"Nordfyn",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014011
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

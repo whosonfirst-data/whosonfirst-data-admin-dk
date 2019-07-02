@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297775,
-    "wof:lastmodified":1562094155,
+    "wof:lastmodified":1562104870,
     "wof:name":"Ringsted",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

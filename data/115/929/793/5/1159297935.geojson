@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297935,
-    "wof:lastmodified":1562094115,
+    "wof:lastmodified":1562104792,
     "wof:name":null,
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

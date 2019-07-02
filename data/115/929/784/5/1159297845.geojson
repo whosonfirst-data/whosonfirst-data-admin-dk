@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297845,
-    "wof:lastmodified":1562094111,
+    "wof:lastmodified":1562104783,
     "wof:name":"Odense",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297811,
-    "wof:lastmodified":1562094154,
+    "wof:lastmodified":1562104867,
     "wof:name":"Horsholm",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

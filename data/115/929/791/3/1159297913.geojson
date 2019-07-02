@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297913,
-    "wof:lastmodified":1562094148,
+    "wof:lastmodified":1562104854,
     "wof:name":"Herlev",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,7 +15,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036671,
-    "geom:area_square_m":257122463.269982,
+    "geom:area_square_m":257122463.269958,
     "geom:bbox":"11.9110147187,55.3682881239,12.2310554079,55.5351901839",
     "geom:latitude":55.456168,
     "geom:longitude":12.070713,
@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"9d13ff0c67bea59e0be41be39392e871",
+    "wof:geomhash":"8f7bcfefb64c4b244d38ef34068bc843",
     "wof:hierarchy":[],
     "wof:id":1394014027,
     "wof:lang_x_official":[
@@ -58,19 +58,21 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103784,
+    "wof:lastmodified":1562104798,
     "wof:name":"Koge",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297933
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    11.911014718714041,
-    55.368288123852174,
+    11.91101471871404,
+    55.36828812385217,
     12.23105540790505,
     55.53519018390433
 ],

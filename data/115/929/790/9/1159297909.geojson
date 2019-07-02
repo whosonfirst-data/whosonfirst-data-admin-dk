@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297909,
-    "wof:lastmodified":1562094109,
+    "wof:lastmodified":1562104781,
     "wof:name":"Vejle",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

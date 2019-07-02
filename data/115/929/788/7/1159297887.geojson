@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297887,
-    "wof:lastmodified":1562094141,
+    "wof:lastmodified":1562104841,
     "wof:name":"Frederikshavn",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

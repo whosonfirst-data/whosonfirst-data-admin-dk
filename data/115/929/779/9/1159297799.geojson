@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297799,
-    "wof:lastmodified":1562094094,
+    "wof:lastmodified":1562104751,
     "wof:name":"Holstebro",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394013983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

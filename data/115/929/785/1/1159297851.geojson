@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297851,
-    "wof:lastmodified":1562094147,
+    "wof:lastmodified":1562104852,
     "wof:name":"Svendborg",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014097
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

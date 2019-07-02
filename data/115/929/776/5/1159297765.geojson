@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297765,
-    "wof:lastmodified":1562094153,
+    "wof:lastmodified":1562104865,
     "wof:name":"Fredericia",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

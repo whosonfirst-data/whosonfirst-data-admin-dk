@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"cea2f038a9824c007d5371eace827b4d",
+    "wof:geomhash":"d72edf8d2d70ce5dbf1b804974aab518",
     "wof:hierarchy":[],
     "wof:id":1394014053,
     "wof:lang_x_official":[
@@ -58,14 +58,16 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103797,
+    "wof:lastmodified":1562104822,
     "wof:name":"Nordfyns",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297789
+    ],
     "wof:tags":[]
 },
   "bbox": [

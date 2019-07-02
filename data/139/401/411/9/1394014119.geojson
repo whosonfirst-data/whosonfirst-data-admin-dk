@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"4c96c40f88a34d64e89ce8a8e78f3ccc",
+    "wof:geomhash":"e883d4456bc4374f07dfbf3b09d5e1c9",
     "wof:hierarchy":[],
     "wof:id":1394014119,
     "wof:lang_x_official":[
@@ -58,18 +58,20 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103816,
+    "wof:lastmodified":1562104860,
     "wof:name":"Glostrup",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297771
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    12.367807499235917,
+    12.36780749923592,
     55.65795256181109,
     12.43236082043169,
     55.70947839819386

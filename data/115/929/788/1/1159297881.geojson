@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297881,
-    "wof:lastmodified":1562094107,
+    "wof:lastmodified":1562104776,
     "wof:name":"Ballerup",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394013999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

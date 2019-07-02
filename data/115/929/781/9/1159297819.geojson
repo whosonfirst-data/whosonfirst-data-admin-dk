@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297819,
-    "wof:lastmodified":1562094114,
+    "wof:lastmodified":1562104789,
     "wof:name":"Kolding",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

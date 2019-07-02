@@ -15,7 +15,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080734,
-    "geom:area_square_m":567695635.459301,
+    "geom:area_square_m":567695635.459433,
     "geom:bbox":"10.9450284107,55.140014243,11.5215427162,55.5097798936",
     "geom:latitude":55.342751,
     "geom:longitude":11.341889,
@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"bbcd93a31181733e1f3698bba6e2c90a",
+    "wof:geomhash":"a879c5a1758a2778ac20316e843ba6a3",
     "wof:hierarchy":[],
     "wof:id":1394013981,
     "wof:lang_x_official":[
@@ -58,14 +58,16 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103757,
+    "wof:lastmodified":1562104746,
     "wof:name":"Slagelse",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297897
+    ],
     "wof:tags":[]
 },
   "bbox": [

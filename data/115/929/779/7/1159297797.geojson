@@ -55,14 +55,16 @@
         }
     ],
     "wof:id":1159297797,
-    "wof:lastmodified":1562094089,
+    "wof:lastmodified":1562104741,
     "wof:name":"Lolland",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394013977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

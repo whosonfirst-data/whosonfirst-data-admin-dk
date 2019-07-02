@@ -15,7 +15,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069518,
-    "geom:area_square_m":493635605.502906,
+    "geom:area_square_m":493635605.502862,
     "geom:bbox":"9.46246947805,54.8348121803,10.0716062353,55.0838842503",
     "geom:latitude":54.952349,
     "geom:longitude":9.785103,
@@ -49,7 +49,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"DK",
-    "wof:geomhash":"ef8590f7d3f6ab747f9ff171e34a5892",
+    "wof:geomhash":"3c83c6b5c225a584330c5dde8a1e4604",
     "wof:hierarchy":[],
     "wof:id":1394014049,
     "wof:lang_x_official":[
@@ -58,19 +58,21 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562103794,
+    "wof:lastmodified":1562104815,
     "wof:name":"Sonderborg",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159297877
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    9.462469478052522,
-    54.834812180286285,
+    9.46246947805252,
+    54.83481218028628,
     10.07160623528804,
     55.08388425028837
 ],
