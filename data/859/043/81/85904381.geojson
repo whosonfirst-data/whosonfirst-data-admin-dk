@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38518472.658882,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.394581,55.821676,12.394581,55.821676",
     "geom:latitude":55.821676,
     "geom:longitude":12.394581,
@@ -62,7 +62,7 @@
     "wof:belongsto":[
         85682581,
         102191581,
-        1159297831,
+        1394014061,
         85633121,
         101818425
     ],
@@ -79,7 +79,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297831,
+            "localadmin_id":1394014061,
             "locality_id":101818425,
             "neighbourhood_id":85904381,
             "region_id":85682581
@@ -89,7 +89,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936209,
+    "wof:lastmodified":1562795489,
     "wof:name":"Sovang",
     "wof:parent_id":101818425,
     "wof:placetype":"neighbourhood",

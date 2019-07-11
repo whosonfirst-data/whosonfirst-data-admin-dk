@@ -47,7 +47,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297909,
+        1394014003,
         85633121,
         85682593
     ],
@@ -64,15 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297909,
+            "localadmin_id":1394014003,
             "locality_id":1125848809,
             "region_id":85682593
         }
     ],
     "wof:id":1125848809,
-    "wof:lastmodified":1530292386,
+    "wof:lastmodified":1562796814,
     "wof:name":"Birkelse",
-    "wof:parent_id":1159297909,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

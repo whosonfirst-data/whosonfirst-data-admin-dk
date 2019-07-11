@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
-    "geom:area_square_m":3224825.40405,
+    "geom:area_square_m":3224825.404049,
     "geom:bbox":"8.60468966395,56.0796495184,8.6498858717,56.0985712099",
     "geom:latitude":56.090993,
     "geom:longitude":8.62731,
@@ -87,7 +87,7 @@
     "wd:wordcount":406,
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -106,15 +106,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":101805577,
             "region_id":85682597
         }
     ],
     "wof:id":101805577,
-    "wof:lastmodified":1530296390,
+    "wof:lastmodified":1562796059,
     "wof:name":"Videb\u00e6k",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:population":4052,
     "wof:population_rank":4,

@@ -52,7 +52,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -70,15 +70,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":101805567,
             "region_id":85682597
         }
     ],
     "wof:id":101805567,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1562794514,
     "wof:name":"Virklund",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:population":3113,
     "wof:population_rank":4,

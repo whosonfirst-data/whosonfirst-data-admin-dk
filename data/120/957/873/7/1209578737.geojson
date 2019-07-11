@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014087,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"285b22bac106f8727161017d7908680a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209578737
+            "localadmin_id":1394014087,
+            "locality_id":1209578737,
+            "region_id":85682597
         }
     ],
     "wof:id":1209578737,
-    "wof:lastmodified":1537619805,
+    "wof:lastmodified":1562795125,
     "wof:name":"Staksrode",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

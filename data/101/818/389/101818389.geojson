@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2458731.577157,
+    "geom:area_square_m":2458731.577156,
     "geom:bbox":"11.4800467506,55.507603772,11.5148275277,55.5355675998",
     "geom:latitude":55.525832,
     "geom:longitude":11.494164,
@@ -37,7 +37,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297921,
+        1394014099,
         85633121,
         85682589
     ],
@@ -56,15 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297921,
+            "localadmin_id":1394014099,
             "locality_id":101818389,
             "region_id":85682589
         }
     ],
     "wof:id":101818389,
-    "wof:lastmodified":1530292498,
+    "wof:lastmodified":1562797006,
     "wof:name":"Dianalund",
-    "wof:parent_id":1159297921,
+    "wof:parent_id":1394014099,
     "wof:placetype":"locality",
     "wof:population":3605,
     "wof:population_rank":4,

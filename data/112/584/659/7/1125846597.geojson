@@ -49,7 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -66,15 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":1125846597,
             "region_id":85682597
         }
     ],
     "wof:id":1125846597,
-    "wof:lastmodified":1530291065,
+    "wof:lastmodified":1562794506,
     "wof:name":"Hatten\u00e6s",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

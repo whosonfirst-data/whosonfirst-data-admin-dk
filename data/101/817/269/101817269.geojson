@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000595,
-    "geom:area_square_m":4110709.623232,
+    "geom:area_square_m":4110709.623233,
     "geom:bbox":"12.1717382627,56.0085416871,12.2251074792,56.0295331048",
     "geom:latitude":56.02031,
     "geom:longitude":12.197321,
@@ -80,7 +80,7 @@
     "wd:wordcount":228,
     "wof:belongsto":[
         102191581,
-        1159297855,
+        1394014111,
         85633121,
         85682581
     ],
@@ -99,15 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297855,
+            "localadmin_id":1394014111,
             "locality_id":101817269,
             "region_id":85682581
         }
     ],
     "wof:id":101817269,
-    "wof:lastmodified":1530296421,
+    "wof:lastmodified":1562795872,
     "wof:name":"Helsinge",
-    "wof:parent_id":1159297855,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:population":7354,
     "wof:population_rank":5,

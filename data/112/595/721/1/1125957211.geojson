@@ -79,7 +79,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297843,
+        1394014143,
         85633121,
         85682581
     ],
@@ -97,15 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297843,
+            "localadmin_id":1394014143,
             "locality_id":1125957211,
             "region_id":85682581
         }
     ],
     "wof:id":1125957211,
-    "wof:lastmodified":1561778012,
+    "wof:lastmodified":1562795693,
     "wof:name":"Holte",
-    "wof:parent_id":1159297843,
+    "wof:parent_id":1394014143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

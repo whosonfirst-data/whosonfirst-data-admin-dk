@@ -57,7 +57,7 @@
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -76,15 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":101817289,
             "region_id":85682597
         }
     ],
     "wof:id":101817289,
-    "wof:lastmodified":1561777997,
+    "wof:lastmodified":1562795202,
     "wof:name":"Thorsager",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

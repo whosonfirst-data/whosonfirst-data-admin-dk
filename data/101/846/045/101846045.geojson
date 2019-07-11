@@ -57,10 +57,11 @@
     "wd:longitude":9.5561,
     "wd:wordcount":226,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297823,
+        1394014045,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +78,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297823,
+            "empire_id":136253045,
+            "localadmin_id":1394014045,
             "locality_id":101846045,
             "region_id":85682575
         }
     ],
     "wof:id":101846045,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562795303,
     "wof:name":"S\u00f8nder Bjert",
-    "wof:parent_id":1159297823,
+    "wof:parent_id":1394014045,
     "wof:placetype":"locality",
     "wof:population":1815,
     "wof:population_rank":3,

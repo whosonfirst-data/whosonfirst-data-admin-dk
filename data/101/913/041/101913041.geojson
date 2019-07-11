@@ -50,7 +50,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297849,
+        1394014117,
         85633121,
         85682581
     ],
@@ -67,7 +67,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297849,
+            "localadmin_id":1394014117,
             "locality_id":101913041,
             "region_id":85682581
         }
@@ -76,9 +76,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530291783,
+    "wof:lastmodified":1562795789,
     "wof:name":"Nym\u00f8lle",
-    "wof:parent_id":1159297849,
+    "wof:parent_id":1394014117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

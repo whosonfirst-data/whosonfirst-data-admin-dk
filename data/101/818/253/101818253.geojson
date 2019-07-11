@@ -66,7 +66,7 @@
     "wd:wordcount":114,
     "wof:belongsto":[
         102191581,
-        1159297935,
+        1394014017,
         85633121,
         85682589
     ],
@@ -84,15 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297935,
+            "localadmin_id":1394014017,
             "locality_id":101818253,
             "region_id":85682589
         }
     ],
     "wof:id":101818253,
-    "wof:lastmodified":1561777995,
+    "wof:lastmodified":1562797188,
     "wof:name":"Asn\u00e6s",
-    "wof:parent_id":1159297935,
+    "wof:parent_id":1394014017,
     "wof:placetype":"locality",
     "wof:population":2441,
     "wof:population_rank":4,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000697,
-    "geom:area_square_m":4968052.677749,
+    "geom:area_square_m":4968052.677748,
     "geom:bbox":"11.4772381657,54.7593809797,11.5364176007,54.7856796391",
     "geom:latitude":54.77278,
     "geom:longitude":11.51143,
@@ -85,7 +85,7 @@
     "wd:wordcount":568,
     "wof:belongsto":[
         102191581,
-        1159297799,
+        1394013983,
         85633121,
         85682589
     ],
@@ -104,15 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297799,
+            "localadmin_id":1394013983,
             "locality_id":101818147,
             "region_id":85682589
         }
     ],
     "wof:id":101818147,
-    "wof:lastmodified":1530296427,
+    "wof:lastmodified":1562795015,
     "wof:name":"Maribo",
-    "wof:parent_id":1159297799,
+    "wof:parent_id":1394013983,
     "wof:placetype":"locality",
     "wof:population":5349,
     "wof:population_rank":5,

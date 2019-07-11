@@ -53,7 +53,7 @@
     "wd:wordcount":333,
     "wof:belongsto":[
         102191581,
-        1159297881,
+        1394013999,
         85633121,
         85682589
     ],
@@ -71,15 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297881,
+            "localadmin_id":1394013999,
             "locality_id":101818375,
             "region_id":85682589
         }
     ],
     "wof:id":101818375,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1562796269,
     "wof:name":"Svogerslev",
-    "wof:parent_id":1159297881,
+    "wof:parent_id":1394013999,
     "wof:placetype":"locality",
     "wof:population":4355,
     "wof:population_rank":4,

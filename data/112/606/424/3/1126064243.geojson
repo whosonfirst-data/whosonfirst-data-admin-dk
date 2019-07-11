@@ -36,7 +36,7 @@
     "wof:belongsto":[
         85682589,
         102191581,
-        1159297761,
+        1394014039,
         85633121,
         101840801
     ],
@@ -52,14 +52,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297761,
+            "localadmin_id":1394014039,
             "locality_id":101840801,
             "neighbourhood_id":1126064243,
             "region_id":85682589
         }
     ],
     "wof:id":1126064243,
-    "wof:lastmodified":1530291009,
+    "wof:lastmodified":1562794462,
     "wof:name":"Solr\u00f8d Strand",
     "wof:parent_id":101840801,
     "wof:placetype":"neighbourhood",

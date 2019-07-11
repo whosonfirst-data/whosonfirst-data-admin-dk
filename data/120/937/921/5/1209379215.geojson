@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014071,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"041e155932d50c766113de206949f84d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209379215
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
+            "locality_id":1209379215,
+            "region_id":85682575
         }
     ],
     "wof:id":1209379215,
-    "wof:lastmodified":1537619831,
+    "wof:lastmodified":1562796434,
     "wof:name":"Oksnebjerg",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

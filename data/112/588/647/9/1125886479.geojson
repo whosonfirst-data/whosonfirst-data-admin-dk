@@ -42,7 +42,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297835,
+        1394014035,
         85633121,
         85682593
     ],
@@ -59,15 +59,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297835,
+            "localadmin_id":1394014035,
             "locality_id":1125886479,
             "region_id":85682593
         }
     ],
     "wof:id":1125886479,
-    "wof:lastmodified":1530291704,
+    "wof:lastmodified":1562795583,
     "wof:name":"D\u00f8strup",
-    "wof:parent_id":1159297835,
+    "wof:parent_id":1394014035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

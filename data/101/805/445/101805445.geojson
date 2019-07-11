@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2438675.457381,
+    "geom:area_square_m":2438675.457382,
     "geom:bbox":"8.60039668239,55.7983000412,8.63236424841,55.818119386",
     "geom:latitude":55.808288,
     "geom:longitude":8.61849,
@@ -79,10 +79,11 @@
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297925,
+        1394014031,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,15 +100,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297925,
+            "empire_id":136253045,
+            "localadmin_id":1394014031,
             "locality_id":101805445,
             "region_id":85682575
         }
     ],
     "wof:id":101805445,
-    "wof:lastmodified":1530296376,
+    "wof:lastmodified":1562797092,
     "wof:name":"\u00d8lgod",
-    "wof:parent_id":1159297925,
+    "wof:parent_id":1394014031,
     "wof:placetype":"locality",
     "wof:population":3891,
     "wof:population_rank":4,

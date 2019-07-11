@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014031,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2619671
     },
     "wof:country":"DK",
-    "wof:geomhash":"580b33e70d243af545c7d2e0095e47cd",
+    "wof:geomhash":"3262747d17ded65f3f2b83517ec3a59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209178563
+            "empire_id":136253045,
+            "localadmin_id":1394014031,
+            "locality_id":1209178563,
+            "region_id":85682575
         }
     ],
     "wof:id":1209178563,
-    "wof:lastmodified":1536295337,
+    "wof:lastmodified":1562797084,
     "wof:name":"Hulvig",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
@@ -54,9 +62,9 @@
 },
   "bbox": [
     8.61853,
-    55.697280000000006,
+    55.69728000000001,
     8.61853,
-    55.697280000000006
+    55.69728000000001
 ],
   "geometry": {"coordinates":[8.61853,55.69728000000001],"type":"Point"}
 }

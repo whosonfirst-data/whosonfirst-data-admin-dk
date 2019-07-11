@@ -173,7 +173,7 @@
     "wd:wordcount":2966,
     "wof:belongsto":[
         102191581,
-        1159297917,
+        1394013979,
         85633121,
         85682589
     ],
@@ -193,7 +193,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297917,
+            "localadmin_id":1394013979,
             "locality_id":101818313,
             "region_id":85682589
         }
@@ -202,9 +202,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777994,
+    "wof:lastmodified":1562796928,
     "wof:name":"N\u00e6stved",
-    "wof:parent_id":1159297917,
+    "wof:parent_id":1394013979,
     "wof:placetype":"locality",
     "wof:population":40660,
     "wof:population_rank":7,

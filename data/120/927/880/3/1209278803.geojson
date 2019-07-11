@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014053,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"99b97e536745193ee61f5d960b79c0d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209278803
+            "empire_id":136253045,
+            "localadmin_id":1394014053,
+            "locality_id":1209278803,
+            "region_id":85682575
         }
     ],
     "wof:id":1209278803,
-    "wof:lastmodified":1536292097,
+    "wof:lastmodified":1562794854,
     "wof:name":"Askeby",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

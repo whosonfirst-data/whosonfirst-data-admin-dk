@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
+    "geom:area_square_m":1214338.474423,
     "geom:bbox":"10.2445413785,55.9106531966,10.2588964722,55.9268431668",
     "geom:latitude":55.918425,
     "geom:longitude":10.251947,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297815,
+        1394014033,
         85633121,
         85682597
     ],
@@ -52,15 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297815,
+            "localadmin_id":1394014033,
             "locality_id":101805673,
             "region_id":85682597
         }
     ],
     "wof:id":101805673,
-    "wof:lastmodified":1530291474,
+    "wof:lastmodified":1562795277,
     "wof:name":"Hov",
-    "wof:parent_id":1159297815,
+    "wof:parent_id":1394014033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

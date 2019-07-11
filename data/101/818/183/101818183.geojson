@@ -83,7 +83,7 @@
     "wd:wordcount":861,
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -102,15 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":101818183,
             "region_id":85682589
         }
     ],
     "wof:id":101818183,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1562796686,
     "wof:name":"Stege",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:population":3881,
     "wof:population_rank":4,

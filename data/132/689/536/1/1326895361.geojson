@@ -30,7 +30,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297765,
+        1394014137,
         85633121,
         85682589
     ],
@@ -45,15 +45,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297765,
+            "localadmin_id":1394014137,
             "locality_id":1326895361,
             "region_id":85682589
         }
     ],
     "wof:id":1326895361,
-    "wof:lastmodified":1537504215,
+    "wof:lastmodified":1562794479,
     "wof:name":"Greve",
-    "wof:parent_id":1159297765,
+    "wof:parent_id":1394014137,
     "wof:placetype":"locality",
     "wof:population":47671,
     "wof:population_rank":7,

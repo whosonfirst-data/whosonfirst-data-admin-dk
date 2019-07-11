@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014019,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"423dc167a5d39a982833e3408e8feb0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209578793
+            "localadmin_id":1394014019,
+            "locality_id":1209578793,
+            "region_id":85682597
         }
     ],
     "wof:id":1209578793,
-    "wof:lastmodified":1537619829,
+    "wof:lastmodified":1562796083,
     "wof:name":"Oster Rabjerg",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

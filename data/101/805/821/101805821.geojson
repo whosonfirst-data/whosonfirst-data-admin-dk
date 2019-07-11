@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000749,
-    "geom:area_square_m":4965045.146789,
+    "geom:area_square_m":4965045.146788,
     "geom:bbox":"9.94656923151,57.5684525809,9.99165447837,57.598122334",
     "geom:latitude":57.584079,
     "geom:longitude":9.969818,
@@ -98,7 +98,7 @@
     "wd:wordcount":853,
     "wof:belongsto":[
         102191581,
-        1159297775,
+        1394014153,
         85633121,
         85682593
     ],
@@ -117,15 +117,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297775,
+            "localadmin_id":1394014153,
             "locality_id":101805821,
             "region_id":85682593
         }
     ],
     "wof:id":101805821,
-    "wof:lastmodified":1530296415,
+    "wof:lastmodified":1562794536,
     "wof:name":"Hirtshals",
-    "wof:parent_id":1159297775,
+    "wof:parent_id":1394014153,
     "wof:placetype":"locality",
     "wof:population":6653,
     "wof:population_rank":5,

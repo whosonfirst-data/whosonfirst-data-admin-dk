@@ -89,7 +89,7 @@
     "wd:wordcount":154,
     "wof:belongsto":[
         102191581,
-        1159297889,
+        1394014001,
         85633121,
         85682593
     ],
@@ -108,15 +108,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297889,
+            "localadmin_id":1394014001,
             "locality_id":101817299,
             "region_id":85682593
         }
     ],
     "wof:id":101817299,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1562796391,
     "wof:name":"S\u00e6by",
-    "wof:parent_id":1159297889,
+    "wof:parent_id":1394014001,
     "wof:placetype":"locality",
     "wof:population":8435,
     "wof:population_rank":5,

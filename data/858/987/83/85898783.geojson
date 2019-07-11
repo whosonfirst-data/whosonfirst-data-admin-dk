@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9462688.273655,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.192899,57.475704,10.192899,57.475704",
     "geom:latitude":57.475704,
     "geom:longitude":10.192899,
@@ -62,7 +62,7 @@
     "wof:belongsto":[
         85682593,
         102191581,
-        1159297775,
+        1394014153,
         85633121,
         101805829
     ],
@@ -79,7 +79,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297775,
+            "localadmin_id":1394014153,
             "locality_id":101805829,
             "neighbourhood_id":85898783,
             "region_id":85682593
@@ -89,7 +89,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531932108,
+    "wof:lastmodified":1562794575,
     "wof:name":"Gammel Sindal",
     "wof:parent_id":101805829,
     "wof:placetype":"neighbourhood",

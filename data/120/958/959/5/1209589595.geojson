@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014139,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"e86d1ccfcd3e2dbe6962e8b58d2816c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209589595
+            "empire_id":136253045,
+            "localadmin_id":1394014139,
+            "locality_id":1209589595,
+            "region_id":85682575
         }
     ],
     "wof:id":1209589595,
-    "wof:lastmodified":1537619877,
+    "wof:lastmodified":1562794447,
     "wof:name":"Flodstrup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297921,
+        1394014099,
         85633121,
         85682589
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297921,
+            "localadmin_id":1394014099,
             "locality_id":1293464209,
             "region_id":85682589
         }
     ],
     "wof:id":1293464209,
-    "wof:lastmodified":1537619809,
+    "wof:lastmodified":1562797010,
     "wof:name":"Sobjerg",
-    "wof:parent_id":1159297921,
+    "wof:parent_id":1394014099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

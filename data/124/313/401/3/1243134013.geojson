@@ -34,7 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297799,
+        1394013983,
         85633121,
         85682589
     ],
@@ -48,15 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297799,
+            "localadmin_id":1394013983,
             "locality_id":1243134013,
             "region_id":85682589
         }
     ],
     "wof:id":1243134013,
-    "wof:lastmodified":1537619888,
+    "wof:lastmodified":1562795011,
     "wof:name":"Blans",
-    "wof:parent_id":1159297799,
+    "wof:parent_id":1394013983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

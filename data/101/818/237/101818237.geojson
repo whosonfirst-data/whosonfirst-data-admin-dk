@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
+    "geom:area_square_m":1184648.167601,
     "geom:bbox":"10.5263177566,55.2285445572,10.543756916,55.2456185629",
     "geom:latitude":55.237164,
     "geom:longitude":10.533628,
@@ -58,10 +59,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,15 +80,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818237,
             "region_id":85682575
         }
     ],
     "wof:id":101818237,
-    "wof:lastmodified":1530296439,
+    "wof:lastmodified":1562796315,
     "wof:name":"Ryslinge",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

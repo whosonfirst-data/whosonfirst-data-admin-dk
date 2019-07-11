@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394013983,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"c86d898694cd0d1e77f23b8ec74dd724",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209071081
+            "localadmin_id":1394013983,
+            "locality_id":1209071081,
+            "region_id":85682589
         }
     ],
     "wof:id":1209071081,
-    "wof:lastmodified":1537619884,
+    "wof:lastmodified":1562795002,
     "wof:name":"Burso",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394013983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

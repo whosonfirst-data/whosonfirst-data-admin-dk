@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
+    "geom:area_square_m":706716.898591,
     "geom:bbox":"12.3318513259,55.8219558566,12.3541121371,55.8311130314",
     "geom:latitude":55.826061,
     "geom:longitude":12.342648,
@@ -49,7 +50,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297831,
+        1394014061,
         85633121,
         85682581
     ],
@@ -66,7 +67,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297831,
+            "localadmin_id":1394014061,
             "locality_id":101911357,
             "region_id":85682581
         }
@@ -75,9 +76,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530291582,
+    "wof:lastmodified":1562795489,
     "wof:name":"Farum Overdrev",
-    "wof:parent_id":1159297831,
+    "wof:parent_id":1394014061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

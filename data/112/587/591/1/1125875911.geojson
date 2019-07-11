@@ -47,7 +47,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -64,15 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":1125875911,
             "region_id":85682597
         }
     ],
     "wof:id":1125875911,
-    "wof:lastmodified":1530292558,
+    "wof:lastmodified":1562797154,
     "wof:name":"Bording Kirkeby",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:population":2104,
     "wof:population_rank":4,

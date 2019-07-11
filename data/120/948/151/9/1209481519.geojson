@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014011,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"918907656aaf3e0552e405c0d06cea48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209481519
+            "localadmin_id":1394014011,
+            "locality_id":1209481519,
+            "region_id":85682597
         }
     ],
     "wof:id":1209481519,
-    "wof:lastmodified":1536285768,
+    "wof:lastmodified":1562794811,
     "wof:name":"Rimso",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

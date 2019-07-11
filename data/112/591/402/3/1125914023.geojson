@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297889,
+        1394014001,
         85633121,
         85682593
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297889,
+            "localadmin_id":1394014001,
             "locality_id":1125914023,
             "region_id":85682593
         }
     ],
     "wof:id":1125914023,
-    "wof:lastmodified":1530292123,
+    "wof:lastmodified":1562796393,
     "wof:name":"S\u00f8nderklit",
-    "wof:parent_id":1159297889,
+    "wof:parent_id":1394014001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

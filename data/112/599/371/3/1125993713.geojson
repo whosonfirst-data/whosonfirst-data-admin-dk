@@ -86,7 +86,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297915,
+        1394014021,
         85633121,
         85682581
     ],
@@ -103,15 +103,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297915,
+            "localadmin_id":1394014021,
             "locality_id":1125993713,
             "region_id":85682581
         }
     ],
     "wof:id":1125993713,
-    "wof:lastmodified":1561778017,
+    "wof:lastmodified":1562796896,
     "wof:name":"Herlev",
-    "wof:parent_id":1159297915,
+    "wof:parent_id":1394014021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -32,7 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014049,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +46,18 @@
     "wof:geomhash":"0d19907060794de88e784e0454bd7292",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209580007
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
+            "locality_id":1209580007,
+            "region_id":85682575
         }
     ],
     "wof:id":1209580007,
-    "wof:lastmodified":1537619900,
+    "wof:lastmodified":1562796183,
     "wof:name":"Lagmade",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

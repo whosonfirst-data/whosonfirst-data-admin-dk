@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1343622.831107,
+    "geom:area_square_m":1343622.831108,
     "geom:bbox":"9.15889931175,56.3054290881,9.18609661012,56.3208835094",
     "geom:latitude":56.311372,
     "geom:longitude":9.172398,
@@ -55,7 +55,7 @@
     "wd:wordcount":25,
     "wof:belongsto":[
         102191581,
-        1159297825,
+        1394014051,
         85633121,
         85682597
     ],
@@ -73,15 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297825,
+            "localadmin_id":1394014051,
             "locality_id":101805559,
             "region_id":85682597
         }
     ],
     "wof:id":101805559,
-    "wof:lastmodified":1530296388,
+    "wof:lastmodified":1562795362,
     "wof:name":"Karup",
-    "wof:parent_id":1159297825,
+    "wof:parent_id":1394014051,
     "wof:placetype":"locality",
     "wof:population":2176,
     "wof:population_rank":4,

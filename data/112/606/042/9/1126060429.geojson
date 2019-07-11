@@ -79,7 +79,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297871,
+        1394014151,
         85633121,
         85682581
     ],
@@ -97,15 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297871,
+            "localadmin_id":1394014151,
             "locality_id":1126060429,
             "region_id":85682581
         }
     ],
     "wof:id":1126060429,
-    "wof:lastmodified":1561778020,
+    "wof:lastmodified":1562796154,
     "wof:name":"Br\u00f8ndbyvester",
-    "wof:parent_id":1159297871,
+    "wof:parent_id":1394014151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

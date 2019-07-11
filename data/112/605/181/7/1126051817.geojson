@@ -53,7 +53,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297765,
+        1394014137,
         85633121,
         85682589
     ],
@@ -70,15 +70,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297765,
+            "localadmin_id":1394014137,
             "locality_id":1126051817,
             "region_id":85682589
         }
     ],
     "wof:id":1126051817,
-    "wof:lastmodified":1561778013,
+    "wof:lastmodified":1562794478,
     "wof:name":"Hundige",
-    "wof:parent_id":1159297765,
+    "wof:parent_id":1394014137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

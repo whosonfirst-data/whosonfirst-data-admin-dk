@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014093,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"f04b4bbcacf4976e2c8bd812b7784b6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209373777
+            "empire_id":136253045,
+            "localadmin_id":1394014093,
+            "locality_id":1209373777,
+            "region_id":85682575
         }
     ],
     "wof:id":1209373777,
-    "wof:lastmodified":1536289020,
+    "wof:lastmodified":1562794757,
     "wof:name":"Lunderup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

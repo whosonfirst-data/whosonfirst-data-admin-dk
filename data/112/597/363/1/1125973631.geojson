@@ -66,7 +66,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297843,
+        1394014143,
         85633121,
         85682581
     ],
@@ -84,15 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297843,
+            "localadmin_id":1394014143,
             "locality_id":1125973631,
             "region_id":85682581
         }
     ],
     "wof:id":1125973631,
-    "wof:lastmodified":1561778018,
+    "wof:lastmodified":1562795693,
     "wof:name":"Tr\u00f8r\u00f8d",
-    "wof:parent_id":1159297843,
+    "wof:parent_id":1394014143,
     "wof:placetype":"locality",
     "wof:population":8576,
     "wof:population_rank":5,

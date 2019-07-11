@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2438793.604539,
+    "geom:area_square_m":2438793.60454,
     "geom:bbox":"11.8456068077,55.5863473095,11.8755502862,55.6070789064",
     "geom:latitude":55.59506,
     "geom:longitude":11.859444,
@@ -70,7 +70,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297805,
+        1394014067,
         85633121,
         85682589
     ],
@@ -87,15 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297805,
+            "localadmin_id":1394014067,
             "locality_id":101818255,
             "region_id":85682589
         }
     ],
     "wof:id":101818255,
-    "wof:lastmodified":1530291368,
+    "wof:lastmodified":1562795101,
     "wof:name":"Kirke Hvals\u00f8",
-    "wof:parent_id":1159297805,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:population":3930,
     "wof:population_rank":4,

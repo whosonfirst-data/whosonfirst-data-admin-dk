@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297761,
+        1394014039,
         85633121,
         85682589
     ],
@@ -44,15 +44,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297761,
+            "localadmin_id":1394014039,
             "locality_id":1293451543,
             "region_id":85682589
         }
     ],
     "wof:id":1293451543,
-    "wof:lastmodified":1537504212,
+    "wof:lastmodified":1562794461,
     "wof:name":"Jersie",
-    "wof:parent_id":1159297761,
+    "wof:parent_id":1394014039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

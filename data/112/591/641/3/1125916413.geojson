@@ -55,7 +55,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -73,15 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":1125916413,
             "region_id":85682589
         }
     ],
     "wof:id":1125916413,
-    "wof:lastmodified":1561778019,
+    "wof:lastmodified":1562796702,
     "wof:name":"Udby",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

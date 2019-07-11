@@ -84,10 +84,11 @@
     "wd:longitude":8.4,
     "wd:wordcount":79,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297867,
+        1394014065,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,15 +105,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297867,
+            "empire_id":136253045,
+            "localadmin_id":1394014065,
             "locality_id":101805403,
             "region_id":85682575
         }
     ],
     "wof:id":101805403,
-    "wof:lastmodified":1561778003,
+    "wof:lastmodified":1562796032,
     "wof:name":"Nordby",
-    "wof:parent_id":1159297867,
+    "wof:parent_id":1394014065,
     "wof:placetype":"locality",
     "wof:population":2512,
     "wof:population_rank":4,

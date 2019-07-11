@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
+    "geom:area_square_m":786232.729725,
     "geom:bbox":"10.1216662258,56.4941533852,10.1378915692,56.5049443716",
     "geom:latitude":56.498944,
     "geom:longitude":10.129818,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297903,
+        1394013975,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297903,
+            "localadmin_id":1394013975,
             "locality_id":101805753,
             "region_id":85682597
         }
     ],
     "wof:id":101805753,
-    "wof:lastmodified":1530292290,
+    "wof:lastmodified":1562796638,
     "wof:name":"Harridslev",
-    "wof:parent_id":1159297903,
+    "wof:parent_id":1394013975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

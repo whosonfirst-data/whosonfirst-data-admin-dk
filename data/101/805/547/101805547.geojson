@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
+    "geom:area_square_m":1065252.422968,
     "geom:bbox":"9.69112785893,54.9417624682,9.72385010745,54.9561518657",
     "geom:latitude":54.949722,
     "geom:longitude":9.702103,
@@ -34,10 +35,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297877,
+        1394014049,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297877,
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
             "locality_id":101805547,
             "region_id":85682575
         }
     ],
     "wof:id":101805547,
-    "wof:lastmodified":1530291990,
+    "wof:lastmodified":1562796177,
     "wof:name":"Vester Sottrup",
-    "wof:parent_id":1159297877,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

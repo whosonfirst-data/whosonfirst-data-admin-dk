@@ -72,7 +72,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297901,
+        1394014105,
         85633121,
         85682581
     ],
@@ -89,15 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297901,
+            "localadmin_id":1394014105,
             "locality_id":1126043915,
             "region_id":85682581
         }
     ],
     "wof:id":1126043915,
-    "wof:lastmodified":1530292279,
+    "wof:lastmodified":1562796618,
     "wof:name":"Vallensb\u00e6k",
-    "wof:parent_id":1159297901,
+    "wof:parent_id":1394014105,
     "wof:placetype":"locality",
     "wof:population":13500,
     "wof:population_rank":6,

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297737,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"47ad1686091a1ea40f4d6e7a0bbf0027",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209389347
+            "localadmin_id":1159297737,
+            "locality_id":1209389347,
+            "region_id":85682589
         }
     ],
     "wof:id":1209389347,
-    "wof:lastmodified":1537619864,
+    "wof:lastmodified":1562793933,
     "wof:name":"Herritslev",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

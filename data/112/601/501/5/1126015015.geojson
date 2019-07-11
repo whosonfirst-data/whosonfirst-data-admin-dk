@@ -46,7 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297905,
+        1394014025,
         85633121,
         85682581
     ],
@@ -63,15 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297905,
+            "localadmin_id":1394014025,
             "locality_id":1126015015,
             "region_id":85682581
         }
     ],
     "wof:id":1126015015,
-    "wof:lastmodified":1530292303,
+    "wof:lastmodified":1562796664,
     "wof:name":"Aved\u00f8re",
-    "wof:parent_id":1159297905,
+    "wof:parent_id":1394014025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

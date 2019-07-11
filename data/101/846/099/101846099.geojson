@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
+    "geom:area_square_m":756489.637407,
     "geom:bbox":"9.57296298151,55.7816878137,9.58419237291,55.7978855768",
     "geom:latitude":55.791727,
     "geom:longitude":9.577841,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297807,
+        1394014087,
         85633121,
         85682597
     ],
@@ -48,15 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297807,
+            "localadmin_id":1394014087,
             "locality_id":101846099,
             "region_id":85682597
         }
     ],
     "wof:id":101846099,
-    "wof:lastmodified":1530291414,
+    "wof:lastmodified":1562795119,
     "wof:name":"Lindved",
-    "wof:parent_id":1159297807,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

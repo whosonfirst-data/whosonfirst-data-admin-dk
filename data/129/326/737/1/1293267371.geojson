@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":1293267371,
             "region_id":85682593
         }
     ],
     "wof:id":1293267371,
-    "wof:lastmodified":1537619803,
+    "wof:lastmodified":1562796362,
     "wof:name":"Store Binderup",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

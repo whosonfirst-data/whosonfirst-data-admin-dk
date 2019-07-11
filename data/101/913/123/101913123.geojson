@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
+    "geom:area_square_m":545275.924654,
     "geom:bbox":"10.9211328679,57.2933496612,10.9444275162,57.2990484168",
     "geom:latitude":57.296181,
     "geom:longitude":10.933631,
@@ -63,7 +64,7 @@
     "wd:wordcount":928,
     "wof:belongsto":[
         102191581,
-        1159297895,
+        1394013989,
         85633121,
         85682593
     ],
@@ -79,15 +80,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297895,
+            "localadmin_id":1394013989,
             "locality_id":101913123,
             "region_id":85682593
         }
     ],
     "wof:id":101913123,
-    "wof:lastmodified":1530296492,
+    "wof:lastmodified":1562796470,
     "wof:name":"L\u00e6s\u00f8",
-    "wof:parent_id":1159297895,
+    "wof:parent_id":1394013989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

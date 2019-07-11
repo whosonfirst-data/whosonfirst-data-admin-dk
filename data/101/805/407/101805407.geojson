@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
+    "geom:area_square_m":1224411.567976,
     "geom:bbox":"10.1784573092,55.4407604434,10.197457251,55.4578237606",
     "geom:latitude":55.447893,
     "geom:longitude":10.188581,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297789,
+        1394014053,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297789,
+            "empire_id":136253045,
+            "localadmin_id":1394014053,
             "locality_id":101805407,
             "region_id":85682575
         }
     ],
     "wof:id":101805407,
-    "wof:lastmodified":1530291221,
+    "wof:lastmodified":1562794860,
     "wof:name":"Morud",
-    "wof:parent_id":1159297789,
+    "wof:parent_id":1394014053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

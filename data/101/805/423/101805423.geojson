@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1493221.141215,
+    "geom:area_square_m":1493221.141214,
     "geom:bbox":"10.1669861721,55.3392058781,10.1922173516,55.3553909459",
     "geom:latitude":55.346783,
     "geom:longitude":10.181749,
@@ -52,10 +52,11 @@
     "src:population":"geonames",
     "wd:wordcount":186,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297891,
+        1394014071,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,15 +73,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297891,
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
             "locality_id":101805423,
             "region_id":85682575
         }
     ],
     "wof:id":101805423,
-    "wof:lastmodified":1530296373,
+    "wof:lastmodified":1562796428,
     "wof:name":"Tommerup Stationsby",
-    "wof:parent_id":1159297891,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:population":2401,
     "wof:population_rank":4,

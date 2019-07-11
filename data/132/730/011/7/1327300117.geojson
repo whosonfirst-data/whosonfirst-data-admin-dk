@@ -69,7 +69,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -84,15 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":1327300117,
             "region_id":85682597
         }
     ],
     "wof:id":1327300117,
-    "wof:lastmodified":1537619813,
+    "wof:lastmodified":1562796593,
     "wof:name":"Skive",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:population":20815,
     "wof:population_rank":7,

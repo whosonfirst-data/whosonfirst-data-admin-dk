@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297917,
+        1394013979,
         85633121,
         85682589
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297917,
+            "localadmin_id":1394013979,
             "locality_id":1259545385,
             "region_id":85682589
         }
     ],
     "wof:id":1259545385,
-    "wof:lastmodified":1537619866,
+    "wof:lastmodified":1562796908,
     "wof:name":"Havnskov",
-    "wof:parent_id":1159297917,
+    "wof:parent_id":1394013979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

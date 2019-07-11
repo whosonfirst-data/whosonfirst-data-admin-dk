@@ -35,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297935,
+        1394014017,
         85633121,
         85682589
     ],
@@ -50,15 +50,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297935,
+            "localadmin_id":1394014017,
             "locality_id":101873033,
             "region_id":85682589
         }
     ],
     "wof:id":101873033,
-    "wof:lastmodified":1544751443,
+    "wof:lastmodified":1562797197,
     "wof:name":"Nyk\u00f8bing S",
-    "wof:parent_id":1159297935,
+    "wof:parent_id":1394014017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

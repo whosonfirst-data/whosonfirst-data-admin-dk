@@ -49,7 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297895,
+        1394013989,
         85633121,
         85682593
     ],
@@ -66,15 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297895,
+            "localadmin_id":1394013989,
             "locality_id":1125785751,
             "region_id":85682593
         }
     ],
     "wof:id":1125785751,
-    "wof:lastmodified":1530292200,
+    "wof:lastmodified":1562796468,
     "wof:name":"Vester\u00f8 Havn",
-    "wof:parent_id":1159297895,
+    "wof:parent_id":1394013989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

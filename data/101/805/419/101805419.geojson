@@ -64,10 +64,11 @@
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297891,
+        1394014071,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,15 +85,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297891,
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
             "locality_id":101805419,
             "region_id":85682575
         }
     ],
     "wof:id":101805419,
-    "wof:lastmodified":1530296372,
+    "wof:lastmodified":1562796428,
     "wof:name":"Vissenbjerg",
-    "wof:parent_id":1159297891,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:population":3055,
     "wof:population_rank":4,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1612708.769658,
+    "geom:area_square_m":1612708.769659,
     "geom:bbox":"12.0156146128,55.2392096062,12.0465866089,55.2673342583",
     "geom:latitude":55.254395,
     "geom:longitude":12.030856,
@@ -83,7 +83,7 @@
     "wd:wordcount":202,
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -102,15 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":101818265,
             "region_id":85682589
         }
     ],
     "wof:id":101818265,
-    "wof:lastmodified":1530296442,
+    "wof:lastmodified":1562795246,
     "wof:name":"R\u00f8nnede",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":2395,
     "wof:population_rank":4,

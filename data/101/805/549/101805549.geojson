@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
+    "geom:area_square_m":915869.034049,
     "geom:bbox":"9.2920446585,55.1926924128,9.31718955934,55.2035106163",
     "geom:latitude":55.197567,
     "geom:longitude":9.302102,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297747,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +53,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297747,
             "locality_id":101805549,
             "region_id":85682575
         }
     ],
     "wof:id":101805549,
-    "wof:lastmodified":1530290803,
+    "wof:lastmodified":1562794215,
     "wof:name":"Over Jerstal",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
+    "geom:area_square_m":885844.562843,
     "geom:bbox":"9.50797465304,56.0187741,9.53362765457,56.0277968719",
     "geom:latitude":56.023402,
     "geom:longitude":9.521798,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":101805611,
             "region_id":85682597
         }
     ],
     "wof:id":101805611,
-    "wof:lastmodified":1530291062,
+    "wof:lastmodified":1562794513,
     "wof:name":"Bryrup",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

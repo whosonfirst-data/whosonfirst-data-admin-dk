@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297753,
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"d3a9b77fdc776ff8046650a6e9f18bf3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209081331
+            "localadmin_id":1159297753,
+            "locality_id":1209081331,
+            "region_id":85682593
         }
     ],
     "wof:id":1209081331,
-    "wof:lastmodified":1536298327,
+    "wof:lastmodified":1562794325,
     "wof:name":"Norrehede",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

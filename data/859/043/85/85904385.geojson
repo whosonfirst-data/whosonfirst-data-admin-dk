@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":41609955.407996,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.322867,55.656723,12.322867,55.656723",
     "geom:latitude":55.656723,
     "geom:longitude":12.322867,
@@ -93,7 +93,7 @@
     "wof:belongsto":[
         85682581,
         102191581,
-        1159297827,
+        1394014125,
         85633121,
         101754101
     ],
@@ -110,7 +110,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297827,
+            "localadmin_id":1394014125,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
             "region_id":85682581
@@ -120,7 +120,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936210,
+    "wof:lastmodified":1562795417,
     "wof:name":"Tarbaek",
     "wof:parent_id":101754101,
     "wof:placetype":"neighbourhood",

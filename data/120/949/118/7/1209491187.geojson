@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297725,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"629ba7ac5e144a7f087a8029ee91dfb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209491187
+            "localadmin_id":1159297725,
+            "locality_id":1209491187,
+            "region_id":85682597
         }
     ],
     "wof:id":1209491187,
-    "wof:lastmodified":1536285480,
+    "wof:lastmodified":1562793767,
     "wof:name":"Varhede",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297725,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

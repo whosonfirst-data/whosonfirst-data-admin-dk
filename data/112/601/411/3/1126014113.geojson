@@ -47,7 +47,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -64,15 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":1126014113,
             "region_id":85682597
         }
     ],
     "wof:id":1126014113,
-    "wof:lastmodified":1530291949,
+    "wof:lastmodified":1562796076,
     "wof:name":"R\u00e6kker M\u00f8lle",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

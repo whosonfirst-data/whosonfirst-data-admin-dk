@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
+    "geom:area_square_m":1069928.75741,
     "geom:bbox":"15.0775578147,54.995284942,15.1076896785,55.0117386279",
     "geom:latitude":55.003446,
     "geom:longitude":15.092638,
@@ -37,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297781,
+        1394013995,
         85633121,
         85682581
     ],
@@ -54,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297781,
+            "localadmin_id":1394013995,
             "locality_id":101913115,
             "region_id":85682581
         }
     ],
     "wof:id":101913115,
-    "wof:lastmodified":1530291121,
+    "wof:lastmodified":1562794665,
     "wof:name":"Strandby G\u00e5rde",
-    "wof:parent_id":1159297781,
+    "wof:parent_id":1394013995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

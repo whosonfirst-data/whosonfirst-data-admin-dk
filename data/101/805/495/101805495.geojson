@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
+    "geom:area_square_m":915780.647961,
     "geom:bbox":"9.39033716931,55.6488402195,9.4109758991,55.6623727658",
     "geom:latitude":55.655613,
     "geom:longitude":9.400381,
@@ -31,10 +32,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101805495,
             "region_id":85682575
         }
     ],
     "wof:id":101805495,
-    "wof:lastmodified":1530292443,
+    "wof:lastmodified":1562796851,
     "wof:name":"\u00d8dsted",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

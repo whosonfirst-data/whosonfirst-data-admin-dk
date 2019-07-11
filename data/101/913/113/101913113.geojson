@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
+    "geom:area_square_m":156360.989049,
     "geom:bbox":"14.9593046971,55.2038143404,14.970023816,55.2154028181",
     "geom:latitude":55.208874,
     "geom:longitude":14.965066,
@@ -46,7 +47,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297781,
+        1394013995,
         85633121,
         85682581
     ],
@@ -63,15 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297781,
+            "localadmin_id":1394013995,
             "locality_id":101913113,
             "region_id":85682581
         }
     ],
     "wof:id":101913113,
-    "wof:lastmodified":1530291120,
+    "wof:lastmodified":1562794683,
     "wof:name":"N\u00f8rresand",
-    "wof:parent_id":1159297781,
+    "wof:parent_id":1394013995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

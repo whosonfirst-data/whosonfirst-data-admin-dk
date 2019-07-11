@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":1260352173,
             "region_id":85682597
         }
     ],
     "wof:id":1260352173,
-    "wof:lastmodified":1536617840,
+    "wof:lastmodified":1562795203,
     "wof:name":"Kastrup",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1180729.013925,
+    "geom:area_square_m":1180729.013924,
     "geom:bbox":"10.5209296757,56.5038980817,10.5610438191,56.514601547",
     "geom:latitude":56.510358,
     "geom:longitude":10.539308,
@@ -38,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297787,
+        1394014011,
         85633121,
         85682597
     ],
@@ -55,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297787,
+            "localadmin_id":1394014011,
             "locality_id":101913121,
             "region_id":85682597
         }
     ],
     "wof:id":101913121,
-    "wof:lastmodified":1530291205,
+    "wof:lastmodified":1562794809,
     "wof:name":"Ryg\u00e5rd Strand",
-    "wof:parent_id":1159297787,
+    "wof:parent_id":1394014011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0016,
-    "geom:area_square_m":11028012.132934,
+    "geom:area_square_m":11028012.132932,
     "geom:bbox":"9.12248377839,56.1142787953,9.21287679134,56.1606833453",
     "geom:latitude":56.134322,
     "geom:longitude":9.157808,
@@ -80,7 +80,7 @@
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -99,15 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805707,
             "region_id":85682597
         }
     ],
     "wof:id":101805707,
-    "wof:lastmodified":1530296403,
+    "wof:lastmodified":1562797154,
     "wof:name":"Ikast",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:population":14692,
     "wof:population_rank":6,

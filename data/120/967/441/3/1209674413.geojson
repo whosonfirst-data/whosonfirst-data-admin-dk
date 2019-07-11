@@ -28,24 +28,32 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014031,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2623050
     },
     "wof:country":"DK",
-    "wof:geomhash":"e4d4d3d181c1d130e7c1d125a9383f6e",
+    "wof:geomhash":"f52f0ce150219eb2967dcc2f0241eff9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209674413
+            "empire_id":136253045,
+            "localadmin_id":1394014031,
+            "locality_id":1209674413,
+            "region_id":85682575
         }
     ],
     "wof:id":1209674413,
-    "wof:lastmodified":1536279806,
+    "wof:lastmodified":1562797088,
     "wof:name":"Debel",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
@@ -53,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.835180000000003,
+    8.83518,
     55.60985,
-    8.835180000000003,
+    8.83518,
     55.60985
 ],
   "geometry": {"coordinates":[8.83518,55.60985],"type":"Point"}

@@ -70,7 +70,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297919,
+        1394014075,
         85633121,
         85682597
     ],
@@ -87,15 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297919,
+            "localadmin_id":1394014075,
             "locality_id":101805619,
             "region_id":85682597
         }
     ],
     "wof:id":101805619,
-    "wof:lastmodified":1530292489,
+    "wof:lastmodified":1562796984,
     "wof:name":"Harbo\u00f8re",
-    "wof:parent_id":1159297919,
+    "wof:parent_id":1394014075,
     "wof:placetype":"locality",
     "wof:population":1745,
     "wof:population_rank":3,

@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014003,
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"fdefa6670a7664e356e10acbab39de84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209678187
+            "localadmin_id":1394014003,
+            "locality_id":1209678187,
+            "region_id":85682593
         }
     ],
     "wof:id":1209678187,
-    "wof:lastmodified":1536279674,
+    "wof:lastmodified":1562796819,
     "wof:name":"Sonderokse",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

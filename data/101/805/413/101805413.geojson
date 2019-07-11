@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2438806.831917,
+    "geom:area_square_m":2438806.831916,
     "geom:bbox":"10.0744567574,55.5495985931,10.1061356559,55.5720611827",
     "geom:latitude":55.562529,
     "geom:longitude":10.09006,
@@ -81,10 +81,11 @@
     "wd:longitude":10.088889,
     "wd:wordcount":586,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297789,
+        1394014053,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,15 +102,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297789,
+            "empire_id":136253045,
+            "localadmin_id":1394014053,
             "locality_id":101805413,
             "region_id":85682575
         }
     ],
     "wof:id":101805413,
-    "wof:lastmodified":1530296371,
+    "wof:lastmodified":1562794848,
     "wof:name":"Bogense",
-    "wof:parent_id":1159297789,
+    "wof:parent_id":1394014053,
     "wof:placetype":"locality",
     "wof:population":3410,
     "wof:population_rank":4,

@@ -32,10 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297841,
+        1394013991,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297841,
+            "empire_id":136253045,
+            "localadmin_id":1394013991,
             "locality_id":1293563141,
             "region_id":85682575
         }
     ],
     "wof:id":1293563141,
-    "wof:lastmodified":1537619835,
+    "wof:lastmodified":1562795669,
     "wof:name":"Norre Longelse",
-    "wof:parent_id":1159297841,
+    "wof:parent_id":1394013991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

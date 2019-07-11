@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
+    "geom:area_square_m":1930974.22908,
     "geom:bbox":"9.82095218886,55.9116996344,9.85610903828,55.9368884919",
     "geom:latitude":55.926032,
     "geom:longitude":9.838474,
@@ -65,7 +66,7 @@
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -84,15 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101805737,
             "region_id":85682597
         }
     ],
     "wof:id":101805737,
-    "wof:lastmodified":1530296406,
+    "wof:lastmodified":1562795898,
     "wof:name":"Gedved",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":223224.532355,
+    "geom:area_square_m":654024.307443,
     "geom:bbox":"12.568359375,55.6527979719,12.5903320312,55.6675446571",
     "geom:latitude":55.660252,
     "geom:longitude":12.577973,
@@ -71,12 +71,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":149,
     "wof:belongsto":[
-        85898767,
+        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159,
-        85682581
+        101749159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +94,7 @@
             "country_id":85633121,
             "localadmin_id":1159297727,
             "locality_id":101749159,
-            "neighbourhood_id":85898767,
+            "neighbourhood_id":1175611413,
             "region_id":85682581
         }
     ],
@@ -103,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1534985888,
+    "wof:lastmodified":1562793805,
     "wof:name":"Amagerbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

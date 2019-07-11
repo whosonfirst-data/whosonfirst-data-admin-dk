@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
+    "geom:area_square_m":975593.63952,
     "geom:bbox":"10.2482145708,55.2258354456,10.2670780665,55.2375340546",
     "geom:latitude":55.231567,
     "geom:longitude":10.257658,
@@ -61,10 +62,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,15 +80,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101805439,
             "region_id":85682575
         }
     ],
     "wof:id":101805439,
-    "wof:lastmodified":1530292052,
+    "wof:lastmodified":1562796314,
     "wof:name":"Brobyv\u00e6rk",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -46,11 +46,22 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        85682581
+    ],
     "wof:breaches":[],
     "wof:country":"DK",
     "wof:geomhash":"7764a81746dab065df8781a91510690c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014105,
+            "region_id":85682581
+        }
+    ],
     "wof:id":1394014105,
     "wof:lang_x_official":[
         "dan"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562104857,
+    "wof:lastmodified":1562799149,
     "wof:name":"Vallensbaek",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",

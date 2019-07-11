@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014127,
+        85633121,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"17fa780b9159d72df364e0399ea80376",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209285947
+            "localadmin_id":1394014127,
+            "locality_id":1209285947,
+            "region_id":85682581
         }
     ],
     "wof:id":1209285947,
-    "wof:lastmodified":1537619857,
+    "wof:lastmodified":1562794928,
     "wof:name":"Islev",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

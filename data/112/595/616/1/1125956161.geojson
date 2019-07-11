@@ -46,7 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297807,
+        1394014087,
         85633121,
         85682597
     ],
@@ -63,15 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297807,
+            "localadmin_id":1394014087,
             "locality_id":1125956161,
             "region_id":85682597
         }
     ],
     "wof:id":1125956161,
-    "wof:lastmodified":1530291417,
+    "wof:lastmodified":1562795122,
     "wof:name":"Bisholt",
-    "wof:parent_id":1159297807,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

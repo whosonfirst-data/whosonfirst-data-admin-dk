@@ -49,7 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297827,
+        1394014125,
         85633121,
         85682581
     ],
@@ -66,15 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297827,
+            "localadmin_id":1394014125,
             "locality_id":1125806851,
             "region_id":85682581
         }
     ],
     "wof:id":1125806851,
-    "wof:lastmodified":1530291549,
+    "wof:lastmodified":1562795415,
     "wof:name":"H\u00f8je T\u00e5strup",
-    "wof:parent_id":1159297827,
+    "wof:parent_id":1394014125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
+    "geom:area_square_m":716658.480881,
     "geom:bbox":"9.99520779047,55.8893452663,10.009584419,55.8992315713",
     "geom:latitude":55.894002,
     "geom:longitude":10.002107,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -48,15 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101805699,
             "region_id":85682597
         }
     ],
     "wof:id":101805699,
-    "wof:lastmodified":1530291847,
+    "wof:lastmodified":1562795891,
     "wof:name":"S\u00f8vind",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

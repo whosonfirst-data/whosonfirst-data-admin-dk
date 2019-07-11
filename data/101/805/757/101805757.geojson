@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001037,
+    "geom:area_square_m":7025877.08719,
     "geom:bbox":"8.82652231729,56.7694630659,8.88013117986,56.8110937516",
     "geom:latitude":56.792245,
     "geom:longitude":8.852934,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297845,
+        1394014007,
         85633121,
         85682593
     ],
@@ -47,15 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297845,
+            "localadmin_id":1394014007,
             "locality_id":101805757,
             "region_id":85682593
         }
     ],
     "wof:id":101805757,
-    "wof:lastmodified":1530291757,
+    "wof:lastmodified":1562795713,
     "wof:name":"Nyk\u00f8bing M",
-    "wof:parent_id":1159297845,
+    "wof:parent_id":1394014007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

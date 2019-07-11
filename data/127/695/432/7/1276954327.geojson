@@ -32,7 +32,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":1276954327,
             "region_id":85682597
         }
     ],
     "wof:id":1276954327,
-    "wof:lastmodified":1537619876,
+    "wof:lastmodified":1562795226,
     "wof:name":"Folle",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -178,7 +178,6 @@
     "wd:wordcount":167,
     "wof:belongsto":[
         102191581,
-        101847781,
         1159297729,
         85633121,
         85682581
@@ -199,12 +198,12 @@
             "continent_id":102191581,
             "country_id":85633121,
             "localadmin_id":1159297729,
-            "locality_id":101847781,
+            "locality_id":1175611407,
             "region_id":85682581
         }
     ],
     "wof:id":1175611407,
-    "wof:lastmodified":1561777985,
+    "wof:lastmodified":1562793164,
     "wof:name":"Slangerup",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

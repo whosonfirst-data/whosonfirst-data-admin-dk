@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014007,
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"4ca3e0766aa64c46ac09d8838eb3021d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209681311
+            "localadmin_id":1394014007,
+            "locality_id":1209681311,
+            "region_id":85682593
         }
     ],
     "wof:id":1209681311,
-    "wof:lastmodified":1537619808,
+    "wof:lastmodified":1562795710,
     "wof:name":"Sonder Draby",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

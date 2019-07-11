@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
+    "geom:area_square_m":995286.070822,
     "geom:bbox":"9.72287769387,56.2189354323,9.74873176758,56.2351102347",
     "geom:latitude":56.227212,
     "geom:longitude":9.738728,
@@ -71,7 +72,7 @@
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -90,15 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":101805605,
             "region_id":85682597
         }
     ],
     "wof:id":101805605,
-    "wof:lastmodified":1530296393,
+    "wof:lastmodified":1562794503,
     "wof:name":"Gjern",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

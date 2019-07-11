@@ -59,7 +59,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -77,15 +77,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":1125949133,
             "region_id":85682593
         }
     ],
     "wof:id":1125949133,
-    "wof:lastmodified":1561778008,
+    "wof:lastmodified":1562796355,
     "wof:name":"Ravnkilde",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

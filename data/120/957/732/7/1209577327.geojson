@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297737,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"90afca1311fb56a2525bb8c158ae13d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209577327
+            "localadmin_id":1159297737,
+            "locality_id":1209577327,
+            "region_id":85682589
         }
     ],
     "wof:id":1209577327,
-    "wof:lastmodified":1536282896,
+    "wof:lastmodified":1562793936,
     "wof:name":"Sletteskov",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

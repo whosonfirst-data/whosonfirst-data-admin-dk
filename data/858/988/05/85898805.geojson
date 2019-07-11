@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18832363.956232,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.529407,55.954421,12.529407,55.954421",
     "geom:latitude":55.954421,
     "geom:longitude":12.529407,
@@ -63,7 +63,7 @@
     "wof:belongsto":[
         85682581,
         102191581,
-        1159297819,
+        1394014013,
         85633121,
         101818407
     ],
@@ -80,7 +80,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297819,
+            "localadmin_id":1394014013,
             "locality_id":101818407,
             "neighbourhood_id":85898805,
             "region_id":85682581
@@ -90,7 +90,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531932111,
+    "wof:lastmodified":1562799325,
     "wof:name":"Sletten",
     "wof:parent_id":101818407,
     "wof:placetype":"neighbourhood",

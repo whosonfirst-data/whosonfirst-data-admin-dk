@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000315,
+    "geom:area_square_m":2179785.17012,
     "geom:bbox":"12.1800995952,55.9906873625,12.2344263985,56.0035932848",
     "geom:latitude":55.995918,
     "geom:longitude":12.204202,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297855,
+        1394014111,
         85633121,
         85682581
     ],
@@ -47,15 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297855,
+            "localadmin_id":1394014111,
             "locality_id":101818403,
             "region_id":85682581
         }
     ],
     "wof:id":101818403,
-    "wof:lastmodified":1530291826,
+    "wof:lastmodified":1562795872,
     "wof:name":"Annisse Nord",
-    "wof:parent_id":1159297855,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

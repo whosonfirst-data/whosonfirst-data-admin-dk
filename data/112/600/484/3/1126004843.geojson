@@ -46,7 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297805,
+        1394014067,
         85633121,
         85682589
     ],
@@ -63,15 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297805,
+            "localadmin_id":1394014067,
             "locality_id":1126004843,
             "region_id":85682589
         }
     ],
     "wof:id":1126004843,
-    "wof:lastmodified":1530291371,
+    "wof:lastmodified":1562795105,
     "wof:name":"N\u00f8rre Hvals\u00f8",
-    "wof:parent_id":1159297805,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:population":3930,
     "wof:population_rank":4,

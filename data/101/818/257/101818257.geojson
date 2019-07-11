@@ -56,7 +56,7 @@
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
-        1159297933,
+        1394014027,
         85633121,
         85682589
     ],
@@ -75,15 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297933,
+            "localadmin_id":1394014027,
             "locality_id":101818257,
             "region_id":85682589
         }
     ],
     "wof:id":101818257,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1562797173,
     "wof:name":"Bj\u00e6verskov",
-    "wof:parent_id":1159297933,
+    "wof:parent_id":1394014027,
     "wof:placetype":"locality",
     "wof:population":2618,
     "wof:population_rank":4,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":5743161.962499,
+    "geom:area_square_m":5743161.962498,
     "geom:bbox":"8.47712535672,55.9336364633,8.51904373878,55.967742679",
     "geom:latitude":55.948586,
     "geom:longitude":8.498279,
@@ -73,7 +73,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -92,15 +92,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":101805679,
             "region_id":85682597
         }
     ],
     "wof:id":101805679,
-    "wof:lastmodified":1530291940,
+    "wof:lastmodified":1562796051,
     "wof:name":"Skjern",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:population":7145,
     "wof:population_rank":5,

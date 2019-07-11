@@ -51,7 +51,7 @@
     "wd:wordcount":328,
     "wof:belongsto":[
         102191581,
-        1159297825,
+        1394014051,
         85633121,
         85682597
     ],
@@ -70,15 +70,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297825,
+            "localadmin_id":1394014051,
             "locality_id":101846087,
             "region_id":85682597
         }
     ],
     "wof:id":101846087,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562795363,
     "wof:name":"Skals",
-    "wof:parent_id":1159297825,
+    "wof:parent_id":1394014051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

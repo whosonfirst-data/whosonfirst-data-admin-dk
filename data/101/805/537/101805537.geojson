@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
+    "geom:area_square_m":1284248.503619,
     "geom:bbox":"8.8094666337,55.0498846765,8.83462256525,55.0624345133",
     "geom:latitude":55.056638,
     "geom:longitude":8.823132,
@@ -80,10 +81,11 @@
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297865,
+        1394014091,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,15 +101,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297865,
+            "empire_id":136253045,
+            "localadmin_id":1394014091,
             "locality_id":101805537,
             "region_id":85682575
         }
     ],
     "wof:id":101805537,
-    "wof:lastmodified":1530296387,
+    "wof:lastmodified":1562795979,
     "wof:name":"Bredebro",
-    "wof:parent_id":1159297865,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

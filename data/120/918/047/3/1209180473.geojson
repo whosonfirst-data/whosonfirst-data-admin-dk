@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014121,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"a3f73db02f537c1a40ab8dda7e85e9e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209180473
+            "localadmin_id":1394014121,
+            "locality_id":1209180473,
+            "region_id":85682597
         }
     ],
     "wof:id":1209180473,
-    "wof:lastmodified":1537619813,
+    "wof:lastmodified":1562794509,
     "wof:name":"Skaegkaer",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

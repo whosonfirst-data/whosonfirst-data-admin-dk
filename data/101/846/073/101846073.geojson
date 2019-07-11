@@ -56,7 +56,7 @@
     "wd:wordcount":844,
     "wof:belongsto":[
         102191581,
-        1159297903,
+        1394013975,
         85633121,
         85682597
     ],
@@ -75,15 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297903,
+            "localadmin_id":1394013975,
             "locality_id":101846073,
             "region_id":85682597
         }
     ],
     "wof:id":101846073,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562796637,
     "wof:name":"Assentoft",
-    "wof:parent_id":1159297903,
+    "wof:parent_id":1394013975,
     "wof:placetype":"locality",
     "wof:population":2432,
     "wof:population_rank":4,

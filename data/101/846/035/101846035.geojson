@@ -66,10 +66,11 @@
     "src:lbl:centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,15 +87,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101846035,
             "region_id":85682575
         }
     ],
     "wof:id":101846035,
-    "wof:lastmodified":1530292441,
+    "wof:lastmodified":1562796864,
     "wof:name":"B\u00f8rkop",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:population":3561,
     "wof:population_rank":4,

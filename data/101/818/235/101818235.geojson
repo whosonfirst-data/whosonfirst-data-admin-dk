@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":995523.267165,
+    "geom:area_square_m":995523.267166,
     "geom:bbox":"10.3181842204,55.1367149441,10.3402108727,55.1492918431",
     "geom:latitude":55.14339,
     "geom:longitude":10.328389,
@@ -35,10 +35,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818235,
             "region_id":85682575
         }
     ],
     "wof:id":101818235,
-    "wof:lastmodified":1530292050,
+    "wof:lastmodified":1562796315,
     "wof:name":"Korinth",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -40,10 +40,11 @@
     "woe:name_adm1":"Syddanmark",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297865,
+        1394014091,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +58,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297865,
+            "empire_id":136253045,
+            "localadmin_id":1394014091,
             "locality_id":1125989537,
             "region_id":85682575
         }
     ],
     "wof:id":1125989537,
-    "wof:lastmodified":1530291881,
+    "wof:lastmodified":1562795997,
     "wof:name":"S\u00e6d Mark",
-    "wof:parent_id":1159297865,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

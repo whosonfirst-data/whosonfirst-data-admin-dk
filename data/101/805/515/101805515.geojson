@@ -148,10 +148,11 @@
     "wd:population":7543,
     "wd:wordcount":587,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297865,
+        1394014091,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +170,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297865,
+            "empire_id":136253045,
+            "localadmin_id":1394014091,
             "locality_id":101805515,
             "region_id":85682575
         }
@@ -178,9 +180,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561778003,
+    "wof:lastmodified":1562795979,
     "wof:name":"T\u00f8nder",
-    "wof:parent_id":1159297865,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:population":7543,
     "wof:population_rank":5,

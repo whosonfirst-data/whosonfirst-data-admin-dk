@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014111,
+        85633121,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"21ba5848bdc97ec9d16a721ae11b7106",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209177813
+            "localadmin_id":1394014111,
+            "locality_id":1209177813,
+            "region_id":85682581
         }
     ],
     "wof:id":1209177813,
-    "wof:lastmodified":1536295362,
+    "wof:lastmodified":1562795874,
     "wof:name":"Orby",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

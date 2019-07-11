@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":1821861.20461,
+    "geom:area_square_m":1821861.204608,
     "geom:bbox":"10.6489624625,55.0383696461,10.6865668017,55.0527472766",
     "geom:latitude":55.045901,
     "geom:longitude":10.663976,
@@ -71,10 +71,11 @@
     "src:population":"geonames",
     "wd:wordcount":333,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297853,
+        1394014043,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,15 +91,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297853,
+            "empire_id":136253045,
+            "localadmin_id":1394014043,
             "locality_id":101818175,
             "region_id":85682575
         }
     ],
     "wof:id":101818175,
-    "wof:lastmodified":1530296432,
+    "wof:lastmodified":1562795847,
     "wof:name":"Thur\u00f8 By",
-    "wof:parent_id":1159297853,
+    "wof:parent_id":1394014043,
     "wof:placetype":"locality",
     "wof:population":3350,
     "wof:population_rank":4,

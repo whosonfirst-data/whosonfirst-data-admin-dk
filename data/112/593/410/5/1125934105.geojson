@@ -45,7 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297897,
+        1394013981,
         85633121,
         85682589
     ],
@@ -62,15 +62,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297897,
+            "localadmin_id":1394013981,
             "locality_id":1125934105,
             "region_id":85682589
         }
     ],
     "wof:id":1125934105,
-    "wof:lastmodified":1530292238,
+    "wof:lastmodified":1562796503,
     "wof:name":"S\u00f8nderups\u00f8nder",
-    "wof:parent_id":1159297897,
+    "wof:parent_id":1394013981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

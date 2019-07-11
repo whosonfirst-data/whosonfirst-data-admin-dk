@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014067,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"d3894f0e94e0aa73a7a3027c28ffda96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209680599
+            "localadmin_id":1394014067,
+            "locality_id":1209680599,
+            "region_id":85682589
         }
     ],
     "wof:id":1209680599,
-    "wof:lastmodified":1536279591,
+    "wof:lastmodified":1562795100,
     "wof:name":"Saerlose",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

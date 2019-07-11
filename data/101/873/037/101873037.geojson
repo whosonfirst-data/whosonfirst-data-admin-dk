@@ -96,7 +96,7 @@
     "wd:wordcount":179,
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -115,7 +115,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":101873037,
             "region_id":85682589
         }
@@ -124,9 +124,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1544751446,
+    "wof:lastmodified":1562795246,
     "wof:name":"Faxe",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":3747,
     "wof:population_rank":4,

@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297721,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"415593332f784544b8c64aae65cfe3f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209678897
+            "localadmin_id":1159297721,
+            "locality_id":1209678897,
+            "region_id":85682597
         }
     ],
     "wof:id":1209678897,
-    "wof:lastmodified":1536279649,
+    "wof:lastmodified":1562793744,
     "wof:name":"Fregerslev",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

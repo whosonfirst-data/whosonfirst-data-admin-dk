@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":3942181.123379,
+    "geom:area_square_m":3942181.123378,
     "geom:bbox":"10.4525791269,55.224346315,10.4935239044,55.2530132839",
     "geom:latitude":55.239363,
     "geom:longitude":10.477046,
@@ -71,10 +71,11 @@
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,15 +92,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818231,
             "region_id":85682575
         }
     ],
     "wof:id":101818231,
-    "wof:lastmodified":1530296439,
+    "wof:lastmodified":1562796314,
     "wof:name":"Ringe",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:population":4849,
     "wof:population_rank":4,

@@ -31,7 +31,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -45,15 +45,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":1343924093,
             "region_id":85682597
         }
     ],
     "wof:id":1343924093,
-    "wof:lastmodified":1537069542,
+    "wof:lastmodified":1562797165,
     "wof:name":"Isenvad",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:population":645,
     "wof:population_rank":2,

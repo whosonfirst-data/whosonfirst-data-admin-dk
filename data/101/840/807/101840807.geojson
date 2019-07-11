@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2068989.300865,
+    "geom:area_square_m":2068989.300864,
     "geom:bbox":"11.8534630209,55.0042175458,11.9009577217,55.0414311277",
     "geom:latitude":55.02333,
     "geom:longitude":11.877802,
@@ -37,7 +37,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -54,15 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":101840807,
             "region_id":85682589
         }
     ],
     "wof:id":101840807,
-    "wof:lastmodified":1530292337,
+    "wof:lastmodified":1562796736,
     "wof:name":"Neder Vindinge",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:population":1900,
     "wof:population_rank":3,

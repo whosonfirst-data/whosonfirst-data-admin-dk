@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
+    "geom:area_square_m":1483067.732969,
     "geom:bbox":"9.94561377928,55.933374702,9.96481695999,55.9522510421",
     "geom:latitude":55.944201,
     "geom:longitude":9.956039,
@@ -37,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -54,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101805627,
             "region_id":85682597
         }
     ],
     "wof:id":101805627,
-    "wof:lastmodified":1530291846,
+    "wof:lastmodified":1562795891,
     "wof:name":"Hovedg\u00e5rd",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

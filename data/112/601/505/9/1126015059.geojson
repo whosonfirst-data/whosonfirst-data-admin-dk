@@ -57,7 +57,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297825,
+        1394014051,
         85633121,
         85682597
     ],
@@ -74,15 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297825,
+            "localadmin_id":1394014051,
             "locality_id":1126015059,
             "region_id":85682597
         }
     ],
     "wof:id":1126015059,
-    "wof:lastmodified":1530291536,
+    "wof:lastmodified":1562795366,
     "wof:name":"K\u00e5rup",
-    "wof:parent_id":1159297825,
+    "wof:parent_id":1394014051,
     "wof:placetype":"locality",
     "wof:population":2176,
     "wof:population_rank":4,

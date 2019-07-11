@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297817,
+        1394014147,
         85633121,
         85682581
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297817,
+            "localadmin_id":1394014147,
             "locality_id":1259559725,
             "region_id":85682581
         }
     ],
     "wof:id":1259559725,
-    "wof:lastmodified":1536748995,
+    "wof:lastmodified":1562795286,
     "wof:name":"Endrup",
-    "wof:parent_id":1159297817,
+    "wof:parent_id":1394014147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

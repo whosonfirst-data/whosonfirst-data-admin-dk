@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297797,
+        1394013977,
         85633121,
         85682597
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297797,
+            "localadmin_id":1394013977,
             "locality_id":1125993703,
             "region_id":85682597
         }
     ],
     "wof:id":1125993703,
-    "wof:lastmodified":1530291310,
+    "wof:lastmodified":1562794963,
     "wof:name":"\u00c5byh\u00f8j",
-    "wof:parent_id":1159297797,
+    "wof:parent_id":1394013977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

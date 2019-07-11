@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394013975,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"876bec18df2dc09456ae554548a7d1cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209082071
+            "localadmin_id":1394013975,
+            "locality_id":1209082071,
+            "region_id":85682597
         }
     ],
     "wof:id":1209082071,
-    "wof:lastmodified":1537619809,
+    "wof:lastmodified":1562796629,
     "wof:name":"Sodring Kaer",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394013975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
+    "geom:area_square_m":1095127.737811,
     "geom:bbox":"8.68583112459,54.9586764406,8.70938050032,54.970421522",
     "geom:latitude":54.964409,
     "geom:longitude":8.695894,
@@ -75,10 +76,11 @@
     "wd:longitude":8.696111,
     "wd:wordcount":219,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297865,
+        1394014091,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,15 +97,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297865,
+            "empire_id":136253045,
+            "localadmin_id":1394014091,
             "locality_id":101805485,
             "region_id":85682575
         }
     ],
     "wof:id":101805485,
-    "wof:lastmodified":1530296381,
+    "wof:lastmodified":1562795979,
     "wof:name":"H\u00f8jer",
-    "wof:parent_id":1159297865,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

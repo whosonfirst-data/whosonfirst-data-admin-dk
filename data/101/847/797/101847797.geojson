@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
+    "geom:area_square_m":1373479.114716,
     "geom:bbox":"10.392257385,56.3030351711,10.4197375717,56.3138306953",
     "geom:latitude":56.308455,
     "geom:longitude":10.406332,
@@ -44,7 +45,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -60,15 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":101847797,
             "region_id":85682597
         }
     ],
     "wof:id":101847797,
-    "wof:lastmodified":1530291431,
+    "wof:lastmodified":1562795202,
     "wof:name":"Ugelb\u00f8lle",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

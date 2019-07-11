@@ -79,7 +79,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297883,
+        1394014129,
         85633121,
         85682581
     ],
@@ -97,15 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297883,
+            "localadmin_id":1394014129,
             "locality_id":1125995525,
             "region_id":85682581
         }
     ],
     "wof:id":1125995525,
-    "wof:lastmodified":1561778017,
+    "wof:lastmodified":1562796282,
     "wof:name":"Skovlunde",
-    "wof:parent_id":1159297883,
+    "wof:parent_id":1394014129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

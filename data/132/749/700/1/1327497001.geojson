@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297827,
+        1394014125,
         85633121,
         85682581
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297827,
+            "localadmin_id":1394014125,
             "locality_id":1327497001,
             "region_id":85682581
         }
     ],
     "wof:id":1327497001,
-    "wof:lastmodified":1537082199,
+    "wof:lastmodified":1562795416,
     "wof:name":"Vridslosemagle",
-    "wof:parent_id":1159297827,
+    "wof:parent_id":1394014125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014153,
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"7830a6b1537bea073b63eb80de1a69be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209276841
+            "localadmin_id":1394014153,
+            "locality_id":1209276841,
+            "region_id":85682593
         }
     ],
     "wof:id":1209276841,
-    "wof:lastmodified":1537619805,
+    "wof:lastmodified":1562794545,
     "wof:name":"Saesing",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

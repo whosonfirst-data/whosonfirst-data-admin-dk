@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00092,
-    "geom:area_square_m":6470638.322065,
+    "geom:area_square_m":6470638.322066,
     "geom:bbox":"11.9339059069,55.3098698984,11.9857176229,55.3387850506",
     "geom:latitude":55.325153,
     "geom:longitude":11.959063,
@@ -76,7 +76,7 @@
     "wd:wordcount":427,
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -95,15 +95,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":101818329,
             "region_id":85682589
         }
     ],
     "wof:id":101818329,
-    "wof:lastmodified":1530296450,
+    "wof:lastmodified":1562795246,
     "wof:name":"Haslev",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":10588,
     "wof:population_rank":6,

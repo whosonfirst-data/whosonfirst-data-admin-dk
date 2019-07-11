@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297735,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"e911c24d4a9a43c360eb4703f82441a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209691985
+            "localadmin_id":1159297735,
+            "locality_id":1209691985,
+            "region_id":85682597
         }
     ],
     "wof:id":1209691985,
-    "wof:lastmodified":1536279207,
+    "wof:lastmodified":1562793878,
     "wof:name":"Rask Mark",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

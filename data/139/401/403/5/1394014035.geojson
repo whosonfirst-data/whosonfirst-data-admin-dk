@@ -46,11 +46,22 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        85682593
+    ],
     "wof:breaches":[],
     "wof:country":"DK",
     "wof:geomhash":"928d8858599bd39764654a23c5c3df9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014035,
+            "region_id":85682593
+        }
+    ],
     "wof:id":1394014035,
     "wof:lang_x_official":[
         "dan"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562104804,
+    "wof:lastmodified":1562798308,
     "wof:name":"Mariagerfjord",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",

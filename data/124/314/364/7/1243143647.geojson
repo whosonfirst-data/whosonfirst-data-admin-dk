@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297855,
+        1394014111,
         85633121,
         85682581
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297855,
+            "localadmin_id":1394014111,
             "locality_id":1243143647,
             "region_id":85682581
         }
     ],
     "wof:id":1243143647,
-    "wof:lastmodified":1536744938,
+    "wof:lastmodified":1562795871,
     "wof:name":"Saltrup",
-    "wof:parent_id":1159297855,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":2528295.483121,
+    "geom:area_square_m":2528295.483119,
     "geom:bbox":"9.40157416998,55.7459644362,9.44122191115,55.7614003557",
     "geom:latitude":55.752905,
     "geom:longitude":9.419171,
@@ -111,10 +111,11 @@
     "wd:longitude":9.4194,
     "wd:wordcount":578,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,15 +132,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101805475,
             "region_id":85682575
         }
     ],
     "wof:id":101805475,
-    "wof:lastmodified":1530296380,
+    "wof:lastmodified":1562796851,
     "wof:name":"Jelling",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:population":3059,
     "wof:population_rank":4,

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
+    "geom:area_square_m":875861.79896,
     "geom:bbox":"9.68294298834,56.1837588931,9.70227649146,56.1936722021",
     "geom:latitude":56.188601,
     "geom:longitude":9.692604,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":101805603,
             "region_id":85682597
         }
     ],
     "wof:id":101805603,
-    "wof:lastmodified":1530291062,
+    "wof:lastmodified":1562794504,
     "wof:name":"Voel",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

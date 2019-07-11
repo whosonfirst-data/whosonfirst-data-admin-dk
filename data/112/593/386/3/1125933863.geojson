@@ -71,10 +71,11 @@
     "woe:name_adm1":"Syddanmark",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297841,
+        1394013991,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,15 +91,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297841,
+            "empire_id":136253045,
+            "localadmin_id":1394013991,
             "locality_id":1125933863,
             "region_id":85682575
         }
     ],
     "wof:id":1125933863,
-    "wof:lastmodified":1561778010,
+    "wof:lastmodified":1562795673,
     "wof:name":"S\u00e6dballe",
-    "wof:parent_id":1159297841,
+    "wof:parent_id":1394013991,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

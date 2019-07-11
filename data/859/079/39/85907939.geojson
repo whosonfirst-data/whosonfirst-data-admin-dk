@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31296466.973354,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.364612,55.356325,10.364612,55.356325",
     "geom:latitude":55.356325,
     "geom:longitude":10.364612,
@@ -69,9 +69,10 @@
     "wof:belongsto":[
         85682575,
         102191581,
-        1159297847,
+        1394014029,
         85633121,
-        101749151
+        101749151,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297847,
+            "empire_id":136253045,
+            "localadmin_id":1394014029,
             "locality_id":101749151,
             "neighbourhood_id":85907939,
             "region_id":85682575
@@ -95,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936663,
+    "wof:lastmodified":1562795767,
     "wof:name":"Odense SV",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

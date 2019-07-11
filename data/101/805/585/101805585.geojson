@@ -68,7 +68,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297807,
+        1394014087,
         85633121,
         85682597
     ],
@@ -86,15 +86,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297807,
+            "localadmin_id":1394014087,
             "locality_id":101805585,
             "region_id":85682597
         }
     ],
     "wof:id":101805585,
-    "wof:lastmodified":1561778003,
+    "wof:lastmodified":1562795117,
     "wof:name":"T\u00f8rring",
-    "wof:parent_id":1159297807,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:population":2370,
     "wof:population_rank":4,

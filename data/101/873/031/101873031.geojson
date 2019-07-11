@@ -39,7 +39,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297881,
+        1394013999,
         85633121,
         85682589
     ],
@@ -56,15 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297881,
+            "localadmin_id":1394013999,
             "locality_id":101873031,
             "region_id":85682589
         }
     ],
     "wof:id":101873031,
-    "wof:lastmodified":1544751442,
+    "wof:lastmodified":1562796268,
     "wof:name":"Veddelev",
-    "wof:parent_id":1159297881,
+    "wof:parent_id":1394013999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

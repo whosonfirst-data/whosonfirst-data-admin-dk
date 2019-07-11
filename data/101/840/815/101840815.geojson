@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001822,
+    "geom:area_square_m":12563490.119809,
     "geom:bbox":"12.1554225952,56.0807067765,12.2718704695,56.1264383274",
     "geom:latitude":56.105131,
     "geom:longitude":12.210001,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297855,
+        1394014111,
         85633121,
         85682581
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297855,
+            "localadmin_id":1394014111,
             "locality_id":101840815,
             "region_id":85682581
         }
     ],
     "wof:id":101840815,
-    "wof:lastmodified":1530291827,
+    "wof:lastmodified":1562795876,
     "wof:name":"Smidstrup",
-    "wof:parent_id":1159297855,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

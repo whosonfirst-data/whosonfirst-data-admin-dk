@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297919,
+        1394014075,
         85633121,
         85682597
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297919,
+            "localadmin_id":1394014075,
             "locality_id":1226118433,
             "region_id":85682597
         }
     ],
     "wof:id":1226118433,
-    "wof:lastmodified":1536618085,
+    "wof:lastmodified":1562796992,
     "wof:name":"Lundsby",
-    "wof:parent_id":1159297919,
+    "wof:parent_id":1394014075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

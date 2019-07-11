@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
+    "geom:area_square_m":1204605.329045,
     "geom:bbox":"10.525243444,55.0308873653,10.5597819147,55.0415491077",
     "geom:latitude":55.037078,
     "geom:longitude":10.542102,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297853,
+        1394014043,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297853,
+            "empire_id":136253045,
+            "localadmin_id":1394014043,
             "locality_id":101818243,
             "region_id":85682575
         }
     ],
     "wof:id":101818243,
-    "wof:lastmodified":1530291810,
+    "wof:lastmodified":1562795831,
     "wof:name":"Rantzausminde",
-    "wof:parent_id":1159297853,
+    "wof:parent_id":1394014043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

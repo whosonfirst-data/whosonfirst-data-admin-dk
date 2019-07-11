@@ -83,7 +83,7 @@
     "wd:wordcount":435,
     "wof:belongsto":[
         102191581,
-        1159297779,
+        1394014085,
         85633121,
         85682581
     ],
@@ -102,15 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297779,
+            "localadmin_id":1394014085,
             "locality_id":101847779,
             "region_id":85682581
         }
     ],
     "wof:id":101847779,
-    "wof:lastmodified":1530296482,
+    "wof:lastmodified":1562794611,
     "wof:name":"Sk\u00e6vinge",
-    "wof:parent_id":1159297779,
+    "wof:parent_id":1394014085,
     "wof:placetype":"locality",
     "wof:population":2555,
     "wof:population_rank":4,

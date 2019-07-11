@@ -30,7 +30,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -45,15 +45,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":1327495933,
             "region_id":85682593
         }
     ],
     "wof:id":1327495933,
-    "wof:lastmodified":1537504200,
+    "wof:lastmodified":1562796370,
     "wof:name":"Stovring",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:population":6239,
     "wof:population_rank":5,

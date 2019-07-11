@@ -46,11 +46,24 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        136253045,
+        85682575
+    ],
     "wof:breaches":[],
     "wof:country":"DK",
     "wof:geomhash":"73e195035cd4d7445cd72a000ec38ca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "empire_id":136253045,
+            "localadmin_id":1394013991,
+            "region_id":85682575
+        }
+    ],
     "wof:id":1394013991,
     "wof:lang_x_official":[
         "dan"
@@ -58,9 +71,9 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562104759,
+    "wof:lastmodified":1562797549,
     "wof:name":"Langeland",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",

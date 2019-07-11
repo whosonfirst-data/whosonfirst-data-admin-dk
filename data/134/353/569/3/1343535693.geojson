@@ -36,7 +36,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -50,15 +50,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":1343535693,
             "region_id":85682589
         }
     ],
     "wof:id":1343535693,
-    "wof:lastmodified":1537619850,
+    "wof:lastmodified":1562796741,
     "wof:name":"Kong Firgarde",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

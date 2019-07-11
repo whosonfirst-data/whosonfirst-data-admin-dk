@@ -171,11 +171,11 @@
     "wd:longitude":8.763056,
     "wd:wordcount":1433,
     "wof:belongsto":[
+        85682575,
         102191581,
-        101846039,
-        1159297923,
+        1394014103,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,15 +192,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297923,
-            "locality_id":101846039,
+            "empire_id":136253045,
+            "localadmin_id":1394014103,
+            "locality_id":1175611411,
             "region_id":85682575
         }
     ],
     "wof:id":1175611411,
-    "wof:lastmodified":1561777985,
+    "wof:lastmodified":1562797017,
     "wof:name":"Ribe",
-    "wof:parent_id":1159297923,
+    "wof:parent_id":1394014103,
     "wof:placetype":"locality",
     "wof:population":7983,
     "wof:population_rank":5,

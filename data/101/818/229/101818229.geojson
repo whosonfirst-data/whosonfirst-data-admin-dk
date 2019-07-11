@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1652469.986804,
+    "geom:area_square_m":1652469.986803,
     "geom:bbox":"10.6445879711,55.3519611283,10.6761518887,55.3654571391",
     "geom:latitude":55.360206,
     "geom:longitude":10.661484,
@@ -43,10 +43,11 @@
     "wd:longitude":10.666667,
     "wd:wordcount":66,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297759,
+        1394014139,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +63,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297759,
+            "empire_id":136253045,
+            "localadmin_id":1394014139,
             "locality_id":101818229,
             "region_id":85682575
         }
     ],
     "wof:id":101818229,
-    "wof:lastmodified":1530296438,
+    "wof:lastmodified":1562794441,
     "wof:name":"Ullerslev",
-    "wof:parent_id":1159297759,
+    "wof:parent_id":1394014139,
     "wof:placetype":"locality",
     "wof:population":2962,
     "wof:population_rank":4,

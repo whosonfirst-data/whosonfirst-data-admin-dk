@@ -46,11 +46,22 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633121,
+        85682581
+    ],
     "wof:breaches":[],
     "wof:country":"DK",
     "wof:geomhash":"237b951e8796d722bef6b5fe7269194f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014127,
+            "region_id":85682581
+        }
+    ],
     "wof:id":1394014127,
     "wof:lang_x_official":[
         "dan"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562104863,
+    "wof:lastmodified":1562799254,
     "wof:name":"Rodovre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",

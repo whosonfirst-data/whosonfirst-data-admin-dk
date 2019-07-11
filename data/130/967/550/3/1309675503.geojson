@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297871,
+        1394014151,
         85633121,
         85682581
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297871,
+            "localadmin_id":1394014151,
             "locality_id":1309675503,
             "region_id":85682581
         }
     ],
     "wof:id":1309675503,
-    "wof:lastmodified":1536620009,
+    "wof:lastmodified":1562796155,
     "wof:name":"Vesterled",
-    "wof:parent_id":1159297871,
+    "wof:parent_id":1394014151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
