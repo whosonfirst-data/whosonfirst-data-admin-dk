@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
+    "geom:area_square_m":955365.612214,
     "geom:bbox":"8.97559759644,56.6942348122,8.99857289377,56.7069321772",
     "geom:latitude":56.702535,
     "geom:longitude":8.984769,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":101805613,
             "region_id":85682597
         }
     ],
     "wof:id":101805613,
-    "wof:lastmodified":1530292262,
+    "wof:lastmodified":1562796557,
     "wof:name":"Roslev",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

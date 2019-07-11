@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00206,
-    "geom:area_square_m":14524375.967661,
+    "geom:area_square_m":14524375.967664,
     "geom:bbox":"9.23657996935,55.2114745327,9.33209663945,55.2635487387",
     "geom:latitude":55.23679,
     "geom:longitude":9.278196,
@@ -94,10 +94,11 @@
     "src:population":"geonames",
     "wd:wordcount":231,
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297747,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,13 +115,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297747,
             "locality_id":101805505,
             "region_id":85682575
         }
     ],
     "wof:id":101805505,
-    "wof:lastmodified":1530296383,
+    "wof:lastmodified":1562794214,
     "wof:name":"Vojens",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

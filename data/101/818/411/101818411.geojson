@@ -53,7 +53,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297849,
+        1394014117,
         85633121,
         85682581
     ],
@@ -71,15 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297849,
+            "localadmin_id":1394014117,
             "locality_id":101818411,
             "region_id":85682581
         }
     ],
     "wof:id":101818411,
-    "wof:lastmodified":1561777995,
+    "wof:lastmodified":1562795788,
     "wof:name":"Blovstr\u00f8d",
-    "wof:parent_id":1159297849,
+    "wof:parent_id":1394014117,
     "wof:placetype":"locality",
     "wof:population":2137,
     "wof:population_rank":4,

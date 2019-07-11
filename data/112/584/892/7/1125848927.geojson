@@ -46,10 +46,11 @@
     "woe:name_adm1":"Syddanmark",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297853,
+        1394014043,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +65,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297853,
+            "empire_id":136253045,
+            "localadmin_id":1394014043,
             "locality_id":1125848927,
             "region_id":85682575
         }
     ],
     "wof:id":1125848927,
-    "wof:lastmodified":1530291815,
+    "wof:lastmodified":1562795835,
     "wof:name":"Ulb\u00f8lle",
-    "wof:parent_id":1159297853,
+    "wof:parent_id":1394014043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

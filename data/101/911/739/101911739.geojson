@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
+    "geom:area_square_m":607193.61093,
     "geom:bbox":"12.0837488212,55.6904352805,12.1060842806,55.6970107246",
     "geom:latitude":55.694346,
     "geom:longitude":12.094826,
@@ -55,7 +56,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297881,
+        1394013999,
         85633121,
         85682589
     ],
@@ -71,15 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297881,
+            "localadmin_id":1394013999,
             "locality_id":101911739,
             "region_id":85682589
         }
     ],
     "wof:id":101911739,
-    "wof:lastmodified":1530292023,
+    "wof:lastmodified":1562796265,
     "wof:name":"Forskningscenter Ris\u00f8",
-    "wof:parent_id":1159297881,
+    "wof:parent_id":1394013999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

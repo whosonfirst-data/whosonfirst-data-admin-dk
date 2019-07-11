@@ -59,7 +59,7 @@
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
-        1159297797,
+        1394013977,
         85633121,
         85682597
     ],
@@ -78,15 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297797,
+            "localadmin_id":1394013977,
             "locality_id":101805595,
             "region_id":85682597
         }
     ],
     "wof:id":101805595,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1562794956,
     "wof:name":"M\u00e5rslet",
-    "wof:parent_id":1159297797,
+    "wof:parent_id":1394013977,
     "wof:placetype":"locality",
     "wof:population":2698,
     "wof:population_rank":4,

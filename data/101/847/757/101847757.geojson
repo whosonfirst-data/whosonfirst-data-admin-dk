@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
+    "geom:area_square_m":1373666.701756,
     "geom:bbox":"11.8852892825,55.6972262417,11.9079666003,55.7115760527",
     "geom:latitude":55.703513,
     "geom:longitude":11.896976,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297805,
+        1394014067,
         85633121,
         85682589
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297805,
+            "localadmin_id":1394014067,
             "locality_id":101847757,
             "region_id":85682589
         }
     ],
     "wof:id":101847757,
-    "wof:lastmodified":1530291369,
+    "wof:lastmodified":1562795097,
     "wof:name":"Kirke Hyllinge",
-    "wof:parent_id":1159297805,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

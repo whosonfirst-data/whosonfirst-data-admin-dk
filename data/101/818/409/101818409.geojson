@@ -54,7 +54,7 @@
     "wd:wordcount":510,
     "wof:belongsto":[
         102191581,
-        1159297779,
+        1394014085,
         85633121,
         85682581
     ],
@@ -72,15 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297779,
+            "localadmin_id":1394014085,
             "locality_id":101818409,
             "region_id":85682581
         }
     ],
     "wof:id":101818409,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1562794613,
     "wof:name":"N\u00f8debo",
-    "wof:parent_id":1159297779,
+    "wof:parent_id":1394014085,
     "wof:placetype":"locality",
     "wof:population":1875,
     "wof:population_rank":3,

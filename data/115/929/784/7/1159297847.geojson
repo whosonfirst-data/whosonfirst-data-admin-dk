@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.043218,
+    "geom:area_square_m":303568447.697054,
     "geom:bbox":"10.1758064596,55.2881219335,10.5768541009,55.4819821462",
     "geom:latitude":55.385132,
     "geom:longitude":10.371579,
@@ -24,7 +26,7 @@
     "mps:latitude":55.380678,
     "mps:longitude":10.318666,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Aller\u00f8d"
     ],
@@ -37,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633121,
+        136253045,
         85682575
     ],
     "wof:breaches":[],
@@ -48,19 +51,22 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297847,
             "region_id":85682575
         }
     ],
     "wof:id":1159297847,
-    "wof:lastmodified":1530291780,
+    "wof:lastmodified":1562800387,
     "wof:name":"Allerod",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

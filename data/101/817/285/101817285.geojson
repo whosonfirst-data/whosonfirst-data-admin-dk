@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
+    "geom:area_square_m":1313702.95639,
     "geom:bbox":"10.3260788337,56.4946845119,10.3504290628,56.5099770507",
     "geom:latitude":56.501171,
     "geom:longitude":10.336091,
@@ -62,7 +63,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297787,
+        1394014011,
         85633121,
         85682597
     ],
@@ -78,15 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297787,
+            "localadmin_id":1394014011,
             "locality_id":101817285,
             "region_id":85682597
         }
     ],
     "wof:id":101817285,
-    "wof:lastmodified":1530291204,
+    "wof:lastmodified":1562794817,
     "wof:name":"\u00d8rsted",
-    "wof:parent_id":1159297787,
+    "wof:parent_id":1394014011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

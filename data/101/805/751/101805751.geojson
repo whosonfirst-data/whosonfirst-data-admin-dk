@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":2139753.034587,
+    "geom:area_square_m":2139753.034588,
     "geom:bbox":"8.75312984511,56.4703245821,8.79536315991,56.4866853778",
     "geom:latitude":56.47809,
     "geom:longitude":8.777563,
@@ -68,7 +68,7 @@
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
-        1159297801,
+        1394014015,
         85633121,
         85682597
     ],
@@ -87,15 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297801,
+            "localadmin_id":1394014015,
             "locality_id":101805751,
             "region_id":85682597
         }
     ],
     "wof:id":101805751,
-    "wof:lastmodified":1530296407,
+    "wof:lastmodified":1562795074,
     "wof:name":"Vinderup",
-    "wof:parent_id":1159297801,
+    "wof:parent_id":1394014015,
     "wof:placetype":"locality",
     "wof:population":2991,
     "wof:population_rank":4,

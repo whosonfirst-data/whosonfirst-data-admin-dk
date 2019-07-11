@@ -106,7 +106,7 @@
     "wd:wordcount":357,
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -125,15 +125,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":101805593,
             "region_id":85682597
         }
     ],
     "wof:id":101805593,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1562796087,
     "wof:name":"Ringk\u00f8bing",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:population":9315,
     "wof:population_rank":5,

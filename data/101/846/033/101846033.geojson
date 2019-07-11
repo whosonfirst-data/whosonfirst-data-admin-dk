@@ -72,10 +72,11 @@
     "wd:longitude":9.724444,
     "wd:wordcount":318,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297877,
+        1394014049,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,15 +93,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297877,
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
             "locality_id":101846033,
             "region_id":85682575
         }
     ],
     "wof:id":101846033,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562796202,
     "wof:name":"Dybb\u00f8l",
-    "wof:parent_id":1159297877,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:population":2303,
     "wof:population_rank":4,

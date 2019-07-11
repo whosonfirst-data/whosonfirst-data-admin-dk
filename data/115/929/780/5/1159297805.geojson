@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1085,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.034242,
+    "geom:area_square_m":238996457.68083,
     "geom:bbox":"11.7787496091,55.5266543852,12.0744437419,55.7455052065",
     "geom:latitude":55.635071,
     "geom:longitude":11.917396,
@@ -24,7 +26,7 @@
     "mps:latitude":55.62714,
     "mps:longitude":11.880441,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Hedensted"
     ],
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1159297805,
-    "wof:lastmodified":1530291375,
+    "wof:lastmodified":1562799889,
     "wof:name":"Hedensted",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

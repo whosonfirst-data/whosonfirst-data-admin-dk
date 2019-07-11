@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1082,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.207215,
+    "geom:area_square_m":1415596311.87532,
     "geom:bbox":"8.97169138174,56.21841225,9.7963156018,56.683243467",
     "geom:latitude":56.462525,
     "geom:longitude":9.403914,
@@ -24,7 +26,7 @@
     "mps:latitude":56.498507,
     "mps:longitude":9.512774,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "H\u00f8je-Taastrup"
     ],
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1159297825,
-    "wof:lastmodified":1530291546,
+    "wof:lastmodified":1562800110,
     "wof:name":"Hoje-Taastrup",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

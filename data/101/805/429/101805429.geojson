@@ -49,10 +49,11 @@
     "wd:longitude":9.97139,
     "wd:wordcount":127,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297791,
+        1394014063,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +69,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297791,
+            "empire_id":136253045,
+            "localadmin_id":1394014063,
             "locality_id":101805429,
             "region_id":85682575
         }
     ],
     "wof:id":101805429,
-    "wof:lastmodified":1561778002,
+    "wof:lastmodified":1562794903,
     "wof:name":"Gelsted",
-    "wof:parent_id":1159297791,
+    "wof:parent_id":1394014063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

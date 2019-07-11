@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014091,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"b80c0eab4dfc4e2a14dc4c7832f81da9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209373807
+            "empire_id":136253045,
+            "localadmin_id":1394014091,
+            "locality_id":1209373807,
+            "region_id":85682575
         }
     ],
     "wof:id":1209373807,
-    "wof:lastmodified":1537619847,
+    "wof:lastmodified":1562795991,
     "wof:name":"Kumled",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

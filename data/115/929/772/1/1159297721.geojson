@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065757,
+    "geom:area_square_m":453756251.414861,
     "geom:bbox":"9.63314466736,55.9539871287,10.0929330781,56.2169355655",
     "geom:latitude":56.078384,
     "geom:longitude":9.872114,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Skanderborg Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Skanderborg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":56.076149,
     "lbl:longitude":9.872121,
     "mps:latitude":56.076149,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297721,
-    "wof:lastmodified":1530290374,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562793751,
     "wof:name":"Skanderborg",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

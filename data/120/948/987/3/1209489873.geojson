@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014123,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"ce5d0d151f09e475c5360fba77ead136",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209489873
+            "localadmin_id":1394014123,
+            "locality_id":1209489873,
+            "region_id":85682589
         }
     ],
     "wof:id":1209489873,
-    "wof:lastmodified":1536285520,
+    "wof:lastmodified":1562794587,
     "wof:name":"Vigersted",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

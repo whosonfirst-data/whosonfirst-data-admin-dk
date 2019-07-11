@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.069518,
+    "geom:area_square_m":493635605.502862,
     "geom:bbox":"9.46246947805,54.8348121803,10.0716062353,55.0838842503",
     "geom:latitude":54.952349,
     "geom:longitude":9.785103,
@@ -24,7 +26,7 @@
     "mps:latitude":54.958757,
     "mps:longitude":9.926706,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Frederiksberg"
     ],
@@ -37,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633121,
+        136253045,
         85682575
     ],
     "wof:breaches":[],
@@ -48,19 +51,22 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297877,
             "region_id":85682575
         }
     ],
     "wof:id":1159297877,
-    "wof:lastmodified":1530292012,
+    "wof:lastmodified":1562800740,
     "wof:name":"Frederiksberg",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

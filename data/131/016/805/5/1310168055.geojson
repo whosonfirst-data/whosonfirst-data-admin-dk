@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297845,
+        1394014007,
         85633121,
         85682593
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297845,
+            "localadmin_id":1394014007,
             "locality_id":1310168055,
             "region_id":85682593
         }
     ],
     "wof:id":1310168055,
-    "wof:lastmodified":1536906697,
+    "wof:lastmodified":1562795726,
     "wof:name":"Ovtrup",
-    "wof:parent_id":1159297845,
+    "wof:parent_id":1394014007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

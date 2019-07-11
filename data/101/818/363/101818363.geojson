@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
+    "geom:area_square_m":1353767.278065,
     "geom:bbox":"11.205616196,55.6082543722,11.2450419949,55.6212008642",
     "geom:latitude":55.614588,
     "geom:longitude":11.223424,
@@ -39,7 +40,7 @@
     "wd:wordcount":229,
     "wof:belongsto":[
         102191581,
-        1159297757,
+        1394013985,
         85633121,
         85682589
     ],
@@ -55,15 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297757,
+            "localadmin_id":1394013985,
             "locality_id":101818363,
             "region_id":85682589
         }
     ],
     "wof:id":101818363,
-    "wof:lastmodified":1530296453,
+    "wof:lastmodified":1562794403,
     "wof:name":"Ubby",
-    "wof:parent_id":1159297757,
+    "wof:parent_id":1394013985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

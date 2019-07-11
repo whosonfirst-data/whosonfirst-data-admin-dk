@@ -64,7 +64,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297827,
+        1394014125,
         85633121,
         85682581
     ],
@@ -82,15 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297827,
+            "localadmin_id":1394014125,
             "locality_id":1125933803,
             "region_id":85682581
         }
     ],
     "wof:id":1125933803,
-    "wof:lastmodified":1561778010,
+    "wof:lastmodified":1562795415,
     "wof:name":"Fl\u00f8ng",
-    "wof:parent_id":1159297827,
+    "wof:parent_id":1394014125,
     "wof:placetype":"locality",
     "wof:population":11108,
     "wof:population_rank":6,

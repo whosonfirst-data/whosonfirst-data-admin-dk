@@ -95,7 +95,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297845,
+        1394014007,
         85633121,
         85682593
     ],
@@ -112,15 +112,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297845,
+            "localadmin_id":1394014007,
             "locality_id":1125851919,
             "region_id":85682593
         }
     ],
     "wof:id":1125851919,
-    "wof:lastmodified":1561778022,
+    "wof:lastmodified":1562795716,
     "wof:name":"Nyk\u00f8bing Mors",
-    "wof:parent_id":1159297845,
+    "wof:parent_id":1394014007,
     "wof:placetype":"locality",
     "wof:population":9326,
     "wof:population_rank":5,

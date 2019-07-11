@@ -98,7 +98,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297771,
+        1394014119,
         85633121,
         85682581
     ],
@@ -115,15 +115,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297771,
+            "localadmin_id":1394014119,
             "locality_id":1126048817,
             "region_id":85682581
         }
     ],
     "wof:id":1126048817,
-    "wof:lastmodified":1561778014,
+    "wof:lastmodified":1562794499,
     "wof:name":"Glostrup",
-    "wof:parent_id":1159297771,
+    "wof:parent_id":1394014119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":3185600.871613,
+    "geom:area_square_m":3185600.871615,
     "geom:bbox":"12.1325179058,55.1988906562,12.1931336787,55.2273377645",
     "geom:latitude":55.215663,
     "geom:longitude":12.159674,
@@ -59,7 +59,7 @@
     "wd:wordcount":245,
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -78,15 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":101818383,
             "region_id":85682589
         }
     ],
     "wof:id":101818383,
-    "wof:lastmodified":1530296455,
+    "wof:lastmodified":1562795241,
     "wof:name":"Faxe Ladeplads",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":2837,
     "wof:population_rank":4,

@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297903,
+        1394013975,
         85633121,
         85682597
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297903,
+            "localadmin_id":1394013975,
             "locality_id":1226218441,
             "region_id":85682597
         }
     ],
     "wof:id":1226218441,
-    "wof:lastmodified":1536972647,
+    "wof:lastmodified":1562796636,
     "wof:name":"Sonder Borup",
-    "wof:parent_id":1159297903,
+    "wof:parent_id":1394013975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

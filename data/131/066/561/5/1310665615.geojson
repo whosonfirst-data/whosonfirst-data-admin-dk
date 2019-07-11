@@ -34,7 +34,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -49,15 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":1310665615,
             "region_id":85682589
         }
     ],
     "wof:id":1310665615,
-    "wof:lastmodified":1537619879,
+    "wof:lastmodified":1562795258,
     "wof:name":"Faxe Ladeplads",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":2837,
     "wof:population_rank":4,

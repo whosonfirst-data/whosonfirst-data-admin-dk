@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
+    "geom:area_square_m":1015319.590803,
     "geom:bbox":"8.78847782545,55.5952028172,8.81231376253,55.6078124595",
     "geom:latitude":55.60117,
     "geom:longitude":8.799698,
@@ -49,10 +50,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297925,
+        1394014031,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +69,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297925,
+            "empire_id":136253045,
+            "localadmin_id":1394014031,
             "locality_id":101805483,
             "region_id":85682575
         }
     ],
     "wof:id":101805483,
-    "wof:lastmodified":1530292525,
+    "wof:lastmodified":1562797073,
     "wof:name":"Agerb\u00e6k",
-    "wof:parent_id":1159297925,
+    "wof:parent_id":1394014031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

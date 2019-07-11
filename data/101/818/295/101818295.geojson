@@ -37,7 +37,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -54,15 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":101818295,
             "region_id":85682589
         }
     ],
     "wof:id":101818295,
-    "wof:lastmodified":1530292333,
+    "wof:lastmodified":1562796681,
     "wof:name":"\u00d8rslev",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:population":1801,
     "wof:population_rank":3,

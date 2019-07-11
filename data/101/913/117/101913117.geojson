@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
+    "geom:area_square_m":2009942.889681,
     "geom:bbox":"15.0403746118,54.9913107536,15.0885346815,55.0023645283",
     "geom:latitude":54.997671,
     "geom:longitude":15.066111,
@@ -56,7 +57,7 @@
     "wd:wordcount":502,
     "wof:belongsto":[
         102191581,
-        1159297781,
+        1394013995,
         85633121,
         85682581
     ],
@@ -73,7 +74,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297781,
+            "localadmin_id":1394013995,
             "locality_id":101913117,
             "region_id":85682581
         }
@@ -82,9 +83,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530296492,
+    "wof:lastmodified":1562794671,
     "wof:name":"Dueodde",
-    "wof:parent_id":1159297781,
+    "wof:parent_id":1394013995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

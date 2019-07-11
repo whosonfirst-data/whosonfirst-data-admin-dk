@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
+    "geom:area_square_m":1462901.055288,
     "geom:bbox":"8.86295475377,56.7455834925,8.88761336802,56.7643300471",
     "geom:latitude":56.755584,
     "geom:longitude":8.87611,
@@ -64,7 +65,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -81,15 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":101805629,
             "region_id":85682597
         }
     ],
     "wof:id":101805629,
-    "wof:lastmodified":1530292263,
+    "wof:lastmodified":1562796558,
     "wof:name":"Glyng\u00f8re",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

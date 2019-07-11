@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
+    "geom:area_square_m":696781.855285,
     "geom:bbox":"9.69928618838,55.731736061,9.72002085454,55.7389072859",
     "geom:latitude":55.734752,
     "geom:longitude":9.708522,
@@ -37,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297807,
+        1394014087,
         85633121,
         85682597
     ],
@@ -54,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297807,
+            "localadmin_id":1394014087,
             "locality_id":101846091,
             "region_id":85682597
         }
     ],
     "wof:id":101846091,
-    "wof:lastmodified":1530291413,
+    "wof:lastmodified":1562795116,
     "wof:name":"Daug\u00e5rd",
-    "wof:parent_id":1159297807,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

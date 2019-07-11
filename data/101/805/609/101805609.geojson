@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
+    "geom:area_square_m":1323804.060583,
     "geom:bbox":"9.27622819414,55.9807888708,9.30840997175,55.9906835247",
     "geom:latitude":55.985147,
     "geom:longitude":9.290934,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805609,
             "region_id":85682597
         }
     ],
     "wof:id":101805609,
-    "wof:lastmodified":1530292556,
+    "wof:lastmodified":1562797158,
     "wof:name":"Ejstrupholm",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

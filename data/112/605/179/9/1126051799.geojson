@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":1126051799,
             "region_id":85682597
         }
     ],
     "wof:id":1126051799,
-    "wof:lastmodified":1530292557,
+    "wof:lastmodified":1562797155,
     "wof:name":"Hallundb\u00e6k",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

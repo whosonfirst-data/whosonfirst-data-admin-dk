@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23409258.137914,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.316552,55.438498,10.316552,55.438498",
     "geom:latitude":55.438498,
     "geom:longitude":10.316552,
@@ -69,9 +69,10 @@
     "wof:belongsto":[
         85682575,
         102191581,
-        1159297847,
+        1394014029,
         85633121,
-        101818207
+        101818207,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297847,
+            "empire_id":136253045,
+            "localadmin_id":1394014029,
             "locality_id":101818207,
             "neighbourhood_id":85907931,
             "region_id":85682575
@@ -95,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936659,
+    "wof:lastmodified":1562795768,
     "wof:name":"Odense N",
     "wof:parent_id":101818207,
     "wof:placetype":"neighbourhood",

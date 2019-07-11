@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078431,
+    "geom:area_square_m":537935668.376794,
     "geom:bbox":"9.6606978526,56.1886789974,10.2426400163,56.4501486531",
     "geom:latitude":56.311315,
     "geom:longitude":9.930785,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Favrskov Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Favrskov Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":56.297678,
     "lbl:longitude":9.906816,
     "mps:latitude":56.297678,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297745,
-    "wof:lastmodified":1530290780,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794199,
     "wof:name":"Favrskov",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

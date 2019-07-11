@@ -75,7 +75,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297819,
+        1394014013,
         85633121,
         85682581
     ],
@@ -93,15 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297819,
+            "localadmin_id":1394014013,
             "locality_id":1125881161,
             "region_id":85682581
         }
     ],
     "wof:id":1125881161,
-    "wof:lastmodified":1561778016,
+    "wof:lastmodified":1562795292,
     "wof:name":"Esperg\u00e6rde",
-    "wof:parent_id":1159297819,
+    "wof:parent_id":1394014013,
     "wof:placetype":"locality",
     "wof:population":11358,
     "wof:population_rank":6,

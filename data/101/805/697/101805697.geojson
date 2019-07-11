@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":637033.447218,
     "geom:bbox":"9.59925705022,55.8680613775,9.61843313293,55.8779717524",
     "geom:latitude":55.872629,
     "geom:longitude":9.609985,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297807,
+        1394014087,
         85633121,
         85682597
     ],
@@ -48,15 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297807,
+            "localadmin_id":1394014087,
             "locality_id":101805697,
             "region_id":85682597
         }
     ],
     "wof:id":101805697,
-    "wof:lastmodified":1530291415,
+    "wof:lastmodified":1562795118,
     "wof:name":"Rask M\u00f8lle",
-    "wof:parent_id":1159297807,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -257,7 +257,7 @@
     "wd:wordcount":154,
     "wof:belongsto":[
         102191581,
-        1159297921,
+        1394014099,
         85633121,
         85682589
     ],
@@ -277,7 +277,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297921,
+            "localadmin_id":1394014099,
             "locality_id":101818281,
             "region_id":85682589
         }
@@ -286,9 +286,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777992,
+    "wof:lastmodified":1562797006,
     "wof:name":"Sor\u00f8",
-    "wof:parent_id":1159297921,
+    "wof:parent_id":1394014099,
     "wof:placetype":"locality",
     "wof:population":7167,
     "wof:population_rank":5,

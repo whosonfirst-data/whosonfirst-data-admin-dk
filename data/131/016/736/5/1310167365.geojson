@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297757,
+        1394013985,
         85633121,
         85682589
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297757,
+            "localadmin_id":1394013985,
             "locality_id":1310167365,
             "region_id":85682589
         }
     ],
     "wof:id":1310167365,
-    "wof:lastmodified":1536907742,
+    "wof:lastmodified":1562794421,
     "wof:name":"Kelleklinte",
-    "wof:parent_id":1159297757,
+    "wof:parent_id":1394013985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

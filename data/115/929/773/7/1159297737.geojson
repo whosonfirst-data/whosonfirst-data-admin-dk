@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126131,
+    "geom:area_square_m":899292740.432374,
     "geom:bbox":"11.5300317545,54.5590783718,12.1657190193,54.9718427261",
     "geom:latitude":54.78802,
     "geom:longitude":11.831219,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Guldborgsund Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Guldborgsund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.814822,
     "lbl:longitude":11.95036,
     "mps:latitude":54.814822,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297737,
-    "wof:lastmodified":1530290580,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794008,
     "wof:name":"Guldborgsund",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

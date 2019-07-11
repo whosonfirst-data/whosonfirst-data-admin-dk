@@ -63,7 +63,7 @@
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
-        1159297797,
+        1394013977,
         85633121,
         85682597
     ],
@@ -81,15 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297797,
+            "localadmin_id":1394013977,
             "locality_id":101873049,
             "region_id":85682597
         }
     ],
     "wof:id":101873049,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1562794967,
     "wof:name":"L\u00f8gten",
-    "wof:parent_id":1159297797,
+    "wof:parent_id":1394013977,
     "wof:placetype":"locality",
     "wof:population":5048,
     "wof:population_rank":5,

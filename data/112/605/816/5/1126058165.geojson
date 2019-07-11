@@ -45,7 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297801,
+        1394014015,
         85633121,
         85682597
     ],
@@ -62,15 +62,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297801,
+            "localadmin_id":1394014015,
             "locality_id":1126058165,
             "region_id":85682597
         }
     ],
     "wof:id":1126058165,
-    "wof:lastmodified":1530291359,
+    "wof:lastmodified":1562795070,
     "wof:name":"Bj\u00e6rt",
-    "wof:parent_id":1159297801,
+    "wof:parent_id":1394014015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

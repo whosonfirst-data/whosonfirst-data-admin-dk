@@ -44,7 +44,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297777,
+        1394014123,
         85633121,
         85682589
     ],
@@ -61,15 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297777,
+            "localadmin_id":1394014123,
             "locality_id":1125934373,
             "region_id":85682589
         }
     ],
     "wof:id":1125934373,
-    "wof:lastmodified":1530291082,
+    "wof:lastmodified":1562794584,
     "wof:name":"Vetterslev",
-    "wof:parent_id":1159297777,
+    "wof:parent_id":1394014123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

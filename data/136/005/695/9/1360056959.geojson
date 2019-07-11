@@ -32,7 +32,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297873,
+        1394014109,
         85633121,
         85682581
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297873,
+            "localadmin_id":1394014109,
             "locality_id":1360056959,
             "region_id":85682581
         }
     ],
     "wof:id":1360056959,
-    "wof:lastmodified":1537619839,
+    "wof:lastmodified":1562796161,
     "wof:name":"Morkhoj",
-    "wof:parent_id":1159297873,
+    "wof:parent_id":1394014109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082671,
+    "geom:area_square_m":576640965.559952,
     "geom:bbox":"11.3509618891,55.5089288642,11.8583687672,55.8091690964",
     "geom:latitude":55.660387,
     "geom:longitude":11.617463,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Holb\u00e6k Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Holaek Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.675774,
     "lbl:longitude":11.573848,
     "mps:latitude":55.675774,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297717,
-    "wof:lastmodified":1530290004,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562793709,
     "wof:name":"Holaek",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

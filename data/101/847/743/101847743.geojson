@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
+    "geom:area_square_m":706755.613311,
     "geom:bbox":"12.6051388612,55.5640833284,12.6228510827,55.5756921468",
     "geom:latitude":55.569186,
     "geom:longitude":12.615042,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297763,
+        1394014057,
         85633121,
         85682581
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297763,
+            "localadmin_id":1394014057,
             "locality_id":101847743,
             "region_id":85682581
         }
     ],
     "wof:id":101847743,
-    "wof:lastmodified":1530291012,
+    "wof:lastmodified":1562794464,
     "wof:name":"S\u00f8vang",
-    "wof:parent_id":1159297763,
+    "wof:parent_id":1394014057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

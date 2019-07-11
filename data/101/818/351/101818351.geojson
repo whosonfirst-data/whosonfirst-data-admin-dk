@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
+    "geom:area_square_m":1363787.147046,
     "geom:bbox":"11.8377820419,55.2503934816,11.8711997843,55.2644895429",
     "geom:latitude":55.259501,
     "geom:longitude":11.851921,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297917,
+        1394013979,
         85633121,
         85682589
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297917,
+            "localadmin_id":1394013979,
             "locality_id":101818351,
             "region_id":85682589
         }
     ],
     "wof:id":101818351,
-    "wof:lastmodified":1530292470,
+    "wof:lastmodified":1562796905,
     "wof:name":"Holme-Olstrup",
-    "wof:parent_id":1159297917,
+    "wof:parent_id":1394013979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

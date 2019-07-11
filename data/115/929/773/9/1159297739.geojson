@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017568,
+    "geom:area_square_m":121569721.709231,
     "geom:bbox":"11.6757635949,55.8785945061,12.1278929519,56.2051986845",
     "geom:latitude":55.970189,
     "geom:longitude":12.003041,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Halsn\u00e6s Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Halsnaes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.996891,
     "lbl:longitude":12.002503,
     "mps:latitude":55.996891,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297739,
-    "wof:lastmodified":1530290604,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794020,
     "wof:name":"Halsnaes",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

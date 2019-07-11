@@ -250,7 +250,7 @@
     "wd:wordcount":1014,
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -269,15 +269,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101749165,
             "region_id":85682597
         }
     ],
     "wof:id":101749165,
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1562795897,
     "wof:name":"Horsens",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:population":50074,
     "wof:population_rank":8,

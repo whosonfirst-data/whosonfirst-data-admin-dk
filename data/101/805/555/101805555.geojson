@@ -106,10 +106,11 @@
     "src:population":"geonames",
     "wd:wordcount":458,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297823,
+        1394014045,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,15 +127,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297823,
+            "empire_id":136253045,
+            "localadmin_id":1394014045,
             "locality_id":101805555,
             "region_id":85682575
         }
     ],
     "wof:id":101805555,
-    "wof:lastmodified":1530296387,
+    "wof:lastmodified":1562795305,
     "wof:name":"Christiansfeld",
-    "wof:parent_id":1159297823,
+    "wof:parent_id":1394014045,
     "wof:placetype":"locality",
     "wof:population":2709,
     "wof:population_rank":4,

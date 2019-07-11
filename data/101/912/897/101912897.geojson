@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":134911.822745,
+    "geom:area_square_m":134911.822744,
     "geom:bbox":"8.52940577625,56.6450027503,8.53736616147,56.6522462297",
     "geom:latitude":56.648214,
     "geom:longitude":8.532939,
@@ -36,7 +36,7 @@
     "wd:wordcount":12,
     "wof:belongsto":[
         102191581,
-        1159297861,
+        1394014047,
         85633121,
         85682597
     ],
@@ -52,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297861,
+            "localadmin_id":1394014047,
             "locality_id":101912897,
             "region_id":85682597
         }
     ],
     "wof:id":101912897,
-    "wof:lastmodified":1530296491,
+    "wof:lastmodified":1562795940,
     "wof:name":"Thyholm",
-    "wof:parent_id":1159297861,
+    "wof:parent_id":1394014047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

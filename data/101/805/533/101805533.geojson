@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
+    "geom:area_square_m":1304042.890892,
     "geom:bbox":"8.78910797064,55.4640001336,8.80839592255,55.4810873171",
     "geom:latitude":55.473405,
     "geom:longitude":8.798132,
@@ -37,10 +38,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297923,
+        1394014103,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297923,
+            "empire_id":136253045,
+            "localadmin_id":1394014103,
             "locality_id":101805533,
             "region_id":85682575
         }
     ],
     "wof:id":101805533,
-    "wof:lastmodified":1530292508,
+    "wof:lastmodified":1562797019,
     "wof:name":"G\u00f8rding",
-    "wof:parent_id":1159297923,
+    "wof:parent_id":1394014103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

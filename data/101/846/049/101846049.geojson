@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
+    "geom:area_square_m":1104993.464368,
     "geom:bbox":"8.71628711698,55.2663762499,8.73530283033,55.2852765753",
     "geom:latitude":55.278455,
     "geom:longitude":8.725678,
@@ -31,10 +32,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297923,
+        1394014103,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297923,
+            "empire_id":136253045,
+            "localadmin_id":1394014103,
             "locality_id":101846049,
             "region_id":85682575
         }
     ],
     "wof:id":101846049,
-    "wof:lastmodified":1530292507,
+    "wof:lastmodified":1562797042,
     "wof:name":"Egeb\u00e6k",
-    "wof:parent_id":1159297923,
+    "wof:parent_id":1394014103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

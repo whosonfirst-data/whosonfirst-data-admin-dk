@@ -419,10 +419,11 @@
     "wd:population":173814,
     "wd:wordcount":8417,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297847,
+        1394014029,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -440,7 +441,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297847,
+            "empire_id":136253045,
+            "localadmin_id":1394014029,
             "locality_id":101749151,
             "region_id":85682575
         }
@@ -449,9 +451,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1562795759,
     "wof:name":"Odense",
-    "wof:parent_id":1159297847,
+    "wof:parent_id":1394014029,
     "wof:placetype":"locality",
     "wof:population":173814,
     "wof:population_rank":9,

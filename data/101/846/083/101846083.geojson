@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
+    "geom:area_square_m":915572.566718,
     "geom:bbox":"9.00596008001,56.6621565866,9.02879417851,56.6756627512",
     "geom:latitude":56.670007,
     "geom:longitude":9.017008,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":101846083,
             "region_id":85682597
         }
     ],
     "wof:id":101846083,
-    "wof:lastmodified":1530292260,
+    "wof:lastmodified":1562796556,
     "wof:name":"Jebjerg",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

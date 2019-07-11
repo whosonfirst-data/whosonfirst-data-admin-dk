@@ -145,7 +145,7 @@
     "wd:wordcount":630,
     "wof:belongsto":[
         102191581,
-        1159297813,
+        1394014089,
         85633121,
         85682581
     ],
@@ -165,7 +165,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297813,
+            "localadmin_id":1394014089,
             "locality_id":101754103,
             "region_id":85682581
         }
@@ -174,9 +174,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777990,
+    "wof:lastmodified":1562795262,
     "wof:name":"H\u00f8rsholm",
-    "wof:parent_id":1159297813,
+    "wof:parent_id":1394014089,
     "wof:placetype":"locality",
     "wof:population":36670,
     "wof:population_rank":7,

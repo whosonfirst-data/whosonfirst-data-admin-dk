@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1582201.451552,
+    "geom:area_square_m":1582201.451553,
     "geom:bbox":"8.60334211627,57.1063144612,8.6314980821,57.1189317038",
     "geom:latitude":57.113306,
     "geom:longitude":8.618487,
@@ -83,7 +83,7 @@
     "wd:wordcount":1985,
     "wof:belongsto":[
         102191581,
-        1159297829,
+        1394014009,
         85633121,
         85682593
     ],
@@ -101,15 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297829,
+            "localadmin_id":1394014009,
             "locality_id":101846119,
             "region_id":85682593
         }
     ],
     "wof:id":101846119,
-    "wof:lastmodified":1530296477,
+    "wof:lastmodified":1562795428,
     "wof:name":"Hanstholm",
-    "wof:parent_id":1159297829,
+    "wof:parent_id":1394014009,
     "wof:placetype":"locality",
     "wof:population":2418,
     "wof:population_rank":4,

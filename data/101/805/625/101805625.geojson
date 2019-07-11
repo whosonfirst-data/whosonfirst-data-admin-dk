@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
+    "geom:area_square_m":1313853.203075,
     "geom:bbox":"9.73911192961,55.9583205569,9.76320117131,55.9744825259",
     "geom:latitude":55.967447,
     "geom:longitude":9.752385,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -52,15 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101805625,
             "region_id":85682597
         }
     ],
     "wof:id":101805625,
-    "wof:lastmodified":1530291846,
+    "wof:lastmodified":1562795891,
     "wof:name":"\u00d8stbirk",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

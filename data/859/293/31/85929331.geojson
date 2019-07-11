@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002265,
-    "geom:area_square_m":15811975.728027,
+    "geom:area_square_m":15811975.728026,
     "geom:bbox":"12.5013835944,55.5978326697,12.5871312779,55.6512483556",
     "geom:latitude":55.623023,
     "geom:longitude":12.549735,
@@ -62,10 +62,10 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":142,
     "wof:belongsto":[
+        85682581,
         102191581,
-        1159297833,
-        85633121,
-        85682581
+        1394013997,
+        85633121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297833,
+            "localadmin_id":1394013997,
             "locality_id":-1,
             "neighbourhood_id":85929331,
             "region_id":85682581
@@ -89,7 +89,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296609,
+    "wof:lastmodified":1562795564,
     "wof:name":"Vestamager",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

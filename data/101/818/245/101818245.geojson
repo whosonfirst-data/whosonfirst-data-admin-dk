@@ -75,10 +75,11 @@
     "wd:longitude":9.533333,
     "wd:wordcount":2799,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,15 +94,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818245,
             "region_id":85682575
         }
     ],
     "wof:id":101818245,
-    "wof:lastmodified":1561777992,
+    "wof:lastmodified":1562796302,
     "wof:name":"Vejle",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

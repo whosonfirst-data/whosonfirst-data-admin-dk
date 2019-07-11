@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":1226008001,
             "region_id":85682597
         }
     ],
     "wof:id":1226008001,
-    "wof:lastmodified":1536780242,
+    "wof:lastmodified":1562795896,
     "wof:name":"Enner",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

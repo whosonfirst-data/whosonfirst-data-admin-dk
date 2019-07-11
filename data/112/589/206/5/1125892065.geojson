@@ -572,7 +572,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -590,15 +590,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":1125892065,
             "region_id":85682597
         }
     ],
     "wof:id":1125892065,
-    "wof:lastmodified":1561778016,
+    "wof:lastmodified":1562796578,
     "wof:name":"Durup",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

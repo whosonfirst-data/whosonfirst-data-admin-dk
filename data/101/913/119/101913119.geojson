@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
+    "geom:area_square_m":772263.946063,
     "geom:bbox":"12.3061552869,55.8278401385,12.3229756471,55.8396322618",
     "geom:latitude":55.834568,
     "geom:longitude":12.314859,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297849,
+        1394014117,
         85633121,
         85682581
     ],
@@ -50,15 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297849,
+            "localadmin_id":1394014117,
             "locality_id":101913119,
             "region_id":85682581
         }
     ],
     "wof:id":101913119,
-    "wof:lastmodified":1530291783,
+    "wof:lastmodified":1562795789,
     "wof:name":"Hestetangshuse",
-    "wof:parent_id":1159297849,
+    "wof:parent_id":1394014117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

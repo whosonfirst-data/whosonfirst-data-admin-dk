@@ -97,7 +97,7 @@
     "wd:wordcount":951,
     "wof:belongsto":[
         102191581,
-        1159297781,
+        1394013995,
         85633121,
         85682581
     ],
@@ -116,15 +116,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297781,
+            "localadmin_id":1394013995,
             "locality_id":101818189,
             "region_id":85682581
         }
     ],
     "wof:id":101818189,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1562794665,
     "wof:name":"Nex\u00f8",
-    "wof:parent_id":1159297781,
+    "wof:parent_id":1394013995,
     "wof:placetype":"locality",
     "wof:population":3841,
     "wof:population_rank":4,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001588,
-    "geom:area_square_m":11028715.304262,
+    "geom:area_square_m":11028715.304264,
     "geom:bbox":"12.3947753833,55.8149256358,12.4686742641,55.8618105479",
     "geom:latitude":55.839216,
     "geom:longitude":12.42789,
@@ -93,7 +93,7 @@
     "wd:wordcount":963,
     "wof:belongsto":[
         102191581,
-        1159297843,
+        1394014143,
         85633121,
         85682581
     ],
@@ -112,15 +112,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297843,
+            "localadmin_id":1394014143,
             "locality_id":101818427,
             "region_id":85682581
         }
     ],
     "wof:id":101818427,
-    "wof:lastmodified":1530296460,
+    "wof:lastmodified":1562795689,
     "wof:name":"Birker\u00f8d",
-    "wof:parent_id":1159297843,
+    "wof:parent_id":1394014143,
     "wof:placetype":"locality",
     "wof:population":18901,
     "wof:population_rank":6,

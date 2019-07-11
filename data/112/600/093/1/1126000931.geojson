@@ -46,7 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297855,
+        1394014111,
         85633121,
         85682581
     ],
@@ -63,15 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297855,
+            "localadmin_id":1394014111,
             "locality_id":1126000931,
             "region_id":85682581
         }
     ],
     "wof:id":1126000931,
-    "wof:lastmodified":1530291826,
+    "wof:lastmodified":1562795876,
     "wof:name":"Kagerup",
-    "wof:parent_id":1159297855,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

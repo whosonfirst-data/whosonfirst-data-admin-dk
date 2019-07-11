@@ -51,7 +51,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297787,
+        1394014011,
         85633121,
         85682597
     ],
@@ -68,15 +68,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297787,
+            "localadmin_id":1394014011,
             "locality_id":1125868267,
             "region_id":85682597
         }
     ],
     "wof:id":1125868267,
-    "wof:lastmodified":1530291206,
+    "wof:lastmodified":1562794808,
     "wof:name":"Anholt",
-    "wof:parent_id":1159297787,
+    "wof:parent_id":1394014011,
     "wof:placetype":"locality",
     "wof:population":160,
     "wof:population_rank":1,

@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394013983,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +42,17 @@
     "wof:geomhash":"8f8c04ef9cca13e12ffea22b133e19e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209179019
+            "localadmin_id":1394013983,
+            "locality_id":1209179019,
+            "region_id":85682589
         }
     ],
     "wof:id":1209179019,
-    "wof:lastmodified":1537504220,
+    "wof:lastmodified":1562795019,
     "wof:name":"Birket",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394013983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

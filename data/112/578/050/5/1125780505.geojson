@@ -179,7 +179,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297879,
+        1394014135,
         85633121,
         85682581
     ],
@@ -196,15 +196,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297879,
+            "localadmin_id":1394014135,
             "locality_id":1125780505,
             "region_id":85682581
         }
     ],
     "wof:id":1125780505,
-    "wof:lastmodified":1561778022,
+    "wof:lastmodified":1562796247,
     "wof:name":"Frederiksberg",
-    "wof:parent_id":1159297879,
+    "wof:parent_id":1394014135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

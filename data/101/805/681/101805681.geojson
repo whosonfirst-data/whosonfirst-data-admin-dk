@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000791,
-    "geom:area_square_m":5474419.410771,
+    "geom:area_square_m":5474419.410772,
     "geom:bbox":"9.09934958525,55.9241908909,9.15907297135,55.9572776778",
     "geom:latitude":55.942712,
     "geom:longitude":9.128752,
@@ -83,7 +83,7 @@
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -102,15 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805681,
             "region_id":85682597
         }
     ],
     "wof:id":101805681,
-    "wof:lastmodified":1530296399,
+    "wof:lastmodified":1562797158,
     "wof:name":"Brande",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:population":6357,
     "wof:population_rank":5,

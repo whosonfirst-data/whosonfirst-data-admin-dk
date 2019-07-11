@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297793,
+        1394014145,
         85633121,
         85682581
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297793,
+            "localadmin_id":1394014145,
             "locality_id":1292972307,
             "region_id":85682581
         }
     ],
     "wof:id":1292972307,
-    "wof:lastmodified":1537619795,
+    "wof:lastmodified":1562794925,
     "wof:name":"Tranegilde",
-    "wof:parent_id":1159297793,
+    "wof:parent_id":1394014145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

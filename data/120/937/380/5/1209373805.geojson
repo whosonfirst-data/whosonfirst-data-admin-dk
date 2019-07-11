@@ -33,7 +33,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014055,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"92ee939402d4c02d68f2bdbb033b9644",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209373805
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
+            "locality_id":1209373805,
+            "region_id":85682575
         }
     ],
     "wof:id":1209373805,
-    "wof:lastmodified":1537619866,
+    "wof:lastmodified":1562796309,
     "wof:name":"Hastrup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -76,7 +76,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297773,
+        1394014121,
         85633121,
         85682597
     ],
@@ -95,15 +95,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297773,
+            "localadmin_id":1394014121,
             "locality_id":101846071,
             "region_id":85682597
         }
     ],
     "wof:id":101846071,
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1562794513,
     "wof:name":"Kjellerup",
-    "wof:parent_id":1159297773,
+    "wof:parent_id":1394014121,
     "wof:placetype":"locality",
     "wof:population":4514,
     "wof:population_rank":4,

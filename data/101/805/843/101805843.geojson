@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":3154465.03779,
+    "geom:area_square_m":3154465.037789,
     "geom:bbox":"9.24206956311,57.0791336835,9.28487218612,57.1015220114",
     "geom:latitude":57.090689,
     "geom:longitude":9.263666,
@@ -71,7 +71,7 @@
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
-        1159297909,
+        1394014003,
         85633121,
         85682593
     ],
@@ -90,15 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297909,
+            "localadmin_id":1394014003,
             "locality_id":101805843,
             "region_id":85682593
         }
     ],
     "wof:id":101805843,
-    "wof:lastmodified":1530296419,
+    "wof:lastmodified":1562796812,
     "wof:name":"Fjerritslev",
-    "wof:parent_id":1159297909,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:population":3441,
     "wof:population_rank":4,

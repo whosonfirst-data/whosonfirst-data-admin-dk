@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31288549.813564,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.138414,56.16617,10.138414,56.16617",
     "geom:latitude":56.16617,
     "geom:longitude":10.138414,
@@ -72,7 +72,7 @@
     "wof:belongsto":[
         85682597,
         102191581,
-        1159297797,
+        1394013977,
         85633121,
         101749163
     ],
@@ -89,7 +89,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297797,
+            "localadmin_id":1394013977,
             "locality_id":101749163,
             "neighbourhood_id":85907923,
             "region_id":85682597
@@ -99,7 +99,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936657,
+    "wof:lastmodified":1562794983,
     "wof:name":"\u00c5rhus V",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

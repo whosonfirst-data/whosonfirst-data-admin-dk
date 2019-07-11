@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014099,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"502f1e6c481f9fb6890ebd328731b2c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209690343
+            "localadmin_id":1394014099,
+            "locality_id":1209690343,
+            "region_id":85682589
         }
     ],
     "wof:id":1209690343,
-    "wof:lastmodified":1536279265,
+    "wof:lastmodified":1562797005,
     "wof:name":"Assentorp",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

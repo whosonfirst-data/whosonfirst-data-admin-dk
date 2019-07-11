@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
+    "geom:area_square_m":1563048.013747,
     "geom:bbox":"9.07662764011,54.9351952045,9.10928083956,54.9551322827",
     "geom:latitude":54.944428,
     "geom:longitude":9.095146,
@@ -45,10 +46,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297783,
+        1394014093,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +65,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297783,
+            "empire_id":136253045,
+            "localadmin_id":1394014093,
             "locality_id":101846041,
             "region_id":85682575
         }
     ],
     "wof:id":101846041,
-    "wof:lastmodified":1530291187,
+    "wof:lastmodified":1562794765,
     "wof:name":"Bylderup-Bov",
-    "wof:parent_id":1159297783,
+    "wof:parent_id":1394014093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

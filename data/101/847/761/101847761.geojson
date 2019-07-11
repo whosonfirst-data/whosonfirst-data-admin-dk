@@ -72,7 +72,7 @@
     "wd:wordcount":115,
     "wof:belongsto":[
         102191581,
-        1159297935,
+        1394014017,
         85633121,
         85682589
     ],
@@ -90,15 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297935,
+            "localadmin_id":1394014017,
             "locality_id":101847761,
             "region_id":85682589
         }
     ],
     "wof:id":101847761,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562797187,
     "wof:name":"Vig",
-    "wof:parent_id":1159297935,
+    "wof:parent_id":1394014017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

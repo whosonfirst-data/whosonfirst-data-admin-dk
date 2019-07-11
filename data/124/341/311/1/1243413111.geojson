@@ -28,10 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297823,
+        1394014045,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +44,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297823,
+            "empire_id":136253045,
+            "localadmin_id":1394014045,
             "locality_id":1243413111,
             "region_id":85682575
         }
     ],
     "wof:id":1243413111,
-    "wof:lastmodified":1536852560,
+    "wof:lastmodified":1562795313,
     "wof:name":"Tingskovhede",
-    "wof:parent_id":1159297823,
+    "wof:parent_id":1394014045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

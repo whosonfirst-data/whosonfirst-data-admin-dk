@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014111,
+        85633121,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"b7ced32e9edac98467be8c6fefd6f01a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209082431
+            "localadmin_id":1394014111,
+            "locality_id":1209082431,
+            "region_id":85682581
         }
     ],
     "wof:id":1209082431,
-    "wof:lastmodified":1537619840,
+    "wof:lastmodified":1562795872,
     "wof:name":"Marum",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

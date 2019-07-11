@@ -199,10 +199,11 @@
     "wd:population":39922,
     "wd:wordcount":458,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297769,
+        1394014037,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -220,7 +221,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297769,
+            "empire_id":136253045,
+            "localadmin_id":1394014037,
             "locality_id":101805497,
             "region_id":85682575
         }
@@ -229,9 +231,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777999,
+    "wof:lastmodified":1562794488,
     "wof:name":"Fredericia",
-    "wof:parent_id":1159297769,
+    "wof:parent_id":1394014037,
     "wof:placetype":"locality",
     "wof:population":39922,
     "wof:population_rank":7,

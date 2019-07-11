@@ -99,10 +99,11 @@
     "wd:longitude":9.9,
     "wd:wordcount":715,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297891,
+        1394014071,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +121,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297891,
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
             "locality_id":101805409,
             "region_id":85682575
         }
@@ -129,9 +131,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777999,
+    "wof:lastmodified":1562796425,
     "wof:name":"Assens",
-    "wof:parent_id":1159297891,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:population":6053,
     "wof:population_rank":5,

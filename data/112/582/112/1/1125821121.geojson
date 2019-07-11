@@ -41,10 +41,11 @@
     "woe:name_adm1":"Syddanmark",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297751,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +60,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297751,
             "locality_id":1125821121,
             "region_id":85682575
         }
     ],
     "wof:id":1125821121,
-    "wof:lastmodified":1530290829,
+    "wof:lastmodified":1562794292,
     "wof:name":"Lintrup",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

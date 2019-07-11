@@ -37,7 +37,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297805,
+        1394014067,
         85633121,
         85682589
     ],
@@ -56,15 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297805,
+            "localadmin_id":1394014067,
             "locality_id":101847759,
             "region_id":85682589
         }
     ],
     "wof:id":101847759,
-    "wof:lastmodified":1530291369,
+    "wof:lastmodified":1562795097,
     "wof:name":"Ejby",
-    "wof:parent_id":1159297805,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:population":1987,
     "wof:population_rank":3,

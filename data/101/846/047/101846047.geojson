@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
+    "geom:area_square_m":1124753.015911,
     "geom:bbox":"9.24902377488,55.9006870044,9.26817963573,55.9150843748",
     "geom:latitude":55.90818,
     "geom:longitude":9.259649,
@@ -36,10 +37,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101846047,
             "region_id":85682575
         }
     ],
     "wof:id":101846047,
-    "wof:lastmodified":1530292441,
+    "wof:lastmodified":1562796864,
     "wof:name":"Thyregod",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

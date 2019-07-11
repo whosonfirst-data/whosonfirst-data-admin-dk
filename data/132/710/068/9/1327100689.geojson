@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297899,
+        1394014073,
         85633121,
         85682597
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297899,
+            "localadmin_id":1394014073,
             "locality_id":1327100689,
             "region_id":85682597
         }
     ],
     "wof:id":1327100689,
-    "wof:lastmodified":1537619894,
+    "wof:lastmodified":1562796592,
     "wof:name":"Asted",
-    "wof:parent_id":1159297899,
+    "wof:parent_id":1394014073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005553,
+    "geom:area_square_m":38606826.065771,
     "geom:bbox":"12.4132863029,55.7595580367,12.5969116571,55.8097096755",
     "geom:latitude":55.785996,
     "geom:longitude":12.509057,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Lyngby-Taarb\u00e6k Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Lyngby-Taarbaek Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.781735,
     "lbl:longitude":12.510815,
     "mps:latitude":55.781735,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297723,
-    "wof:lastmodified":1530290383,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562793756,
     "wof:name":"Lyngby-Taarbaek",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

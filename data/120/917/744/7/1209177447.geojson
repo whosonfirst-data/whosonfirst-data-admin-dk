@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014107,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"c6fa66a99147a7b0221a1399989393bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209177447
+            "localadmin_id":1394014107,
+            "locality_id":1209177447,
+            "region_id":85682597
         }
     ],
     "wof:id":1209177447,
-    "wof:lastmodified":1537619795,
+    "wof:lastmodified":1562797155,
     "wof:name":"Traelund",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

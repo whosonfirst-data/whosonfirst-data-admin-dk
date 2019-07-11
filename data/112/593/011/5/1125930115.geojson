@@ -49,7 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297889,
+        1394014001,
         85633121,
         85682593
     ],
@@ -66,15 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297889,
+            "localadmin_id":1394014001,
             "locality_id":1125930115,
             "region_id":85682593
         }
     ],
     "wof:id":1125930115,
-    "wof:lastmodified":1530292118,
+    "wof:lastmodified":1562796385,
     "wof:name":"H\u00f8jen",
-    "wof:parent_id":1159297889,
+    "wof:parent_id":1394014001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

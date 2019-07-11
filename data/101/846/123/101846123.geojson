@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
+    "geom:area_square_m":666761.873984,
     "geom:bbox":"8.51482014141,56.8894190171,8.53626340902,56.8949591076",
     "geom:latitude":56.892106,
     "geom:longitude":8.526221,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297829,
+        1394014009,
         85633121,
         85682593
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297829,
+            "localadmin_id":1394014009,
             "locality_id":101846123,
             "region_id":85682593
         }
     ],
     "wof:id":101846123,
-    "wof:lastmodified":1530291564,
+    "wof:lastmodified":1562795428,
     "wof:name":"Snedsted",
-    "wof:parent_id":1159297829,
+    "wof:parent_id":1394014009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

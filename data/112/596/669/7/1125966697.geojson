@@ -46,7 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297917,
+        1394013979,
         85633121,
         85682589
     ],
@@ -63,15 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297917,
+            "localadmin_id":1394013979,
             "locality_id":1125966697,
             "region_id":85682589
         }
     ],
     "wof:id":1125966697,
-    "wof:lastmodified":1530292474,
+    "wof:lastmodified":1562796915,
     "wof:name":"Boserup",
-    "wof:parent_id":1159297917,
+    "wof:parent_id":1394013979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

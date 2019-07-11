@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":44475580.525192,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.410927,55.489134,8.410927,55.489134",
     "geom:latitude":55.489134,
     "geom:longitude":8.410927,
@@ -69,9 +69,10 @@
     "wof:belongsto":[
         85682575,
         102191581,
-        1159297923,
+        1394014103,
         85633121,
-        101749155
+        101749155,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297923,
+            "empire_id":136253045,
+            "localadmin_id":1394014103,
             "locality_id":101749155,
             "neighbourhood_id":85866369,
             "region_id":85682575
@@ -94,7 +96,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531871180,
+    "wof:lastmodified":1562797060,
     "wof:name":"Esbjerg V",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",

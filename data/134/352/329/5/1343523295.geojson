@@ -60,7 +60,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297757,
+        1394013985,
         85633121,
         85682589
     ],
@@ -75,15 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297757,
+            "localadmin_id":1394013985,
             "locality_id":1343523295,
             "region_id":85682589
         }
     ],
     "wof:id":1343523295,
-    "wof:lastmodified":1537619890,
+    "wof:lastmodified":1562794414,
     "wof:name":"Bjergsted",
-    "wof:parent_id":1159297757,
+    "wof:parent_id":1394013985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

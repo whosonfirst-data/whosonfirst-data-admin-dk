@@ -91,10 +91,11 @@
     "src:population":"geonames",
     "wd:wordcount":289,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297783,
+        1394014093,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,15 +112,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297783,
+            "empire_id":136253045,
+            "localadmin_id":1394014093,
             "locality_id":101805467,
             "region_id":85682575
         }
     ],
     "wof:id":101805467,
-    "wof:lastmodified":1530296379,
+    "wof:lastmodified":1562794763,
     "wof:name":"Tinglev",
-    "wof:parent_id":1159297783,
+    "wof:parent_id":1394014093,
     "wof:placetype":"locality",
     "wof:population":2829,
     "wof:population_rank":4,

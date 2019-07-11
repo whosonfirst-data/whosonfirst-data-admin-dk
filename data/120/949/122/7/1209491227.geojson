@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014107,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"32e3cc5abc8e045becf967f01855f3b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209491227
+            "localadmin_id":1394014107,
+            "locality_id":1209491227,
+            "region_id":85682597
         }
     ],
     "wof:id":1209491227,
-    "wof:lastmodified":1537619803,
+    "wof:lastmodified":1562797159,
     "wof:name":"Store Langkaer",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

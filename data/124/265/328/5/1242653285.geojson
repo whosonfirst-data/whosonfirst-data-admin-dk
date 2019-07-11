@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297825,
+        1394014051,
         85633121,
         85682597
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297825,
+            "localadmin_id":1394014051,
             "locality_id":1242653285,
             "region_id":85682597
         }
     ],
     "wof:id":1242653285,
-    "wof:lastmodified":1537619846,
+    "wof:lastmodified":1562795354,
     "wof:name":"Lanum",
-    "wof:parent_id":1159297825,
+    "wof:parent_id":1394014051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

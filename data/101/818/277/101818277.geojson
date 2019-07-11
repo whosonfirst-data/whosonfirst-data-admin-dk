@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":2508518.370001,
+    "geom:area_square_m":2508518.37,
     "geom:bbox":"11.2765538821,55.4945013043,11.3036453018,55.5169481273",
     "geom:latitude":55.506794,
     "geom:longitude":11.29108,
@@ -83,7 +83,7 @@
     "wd:wordcount":161,
     "wof:belongsto":[
         102191581,
-        1159297757,
+        1394013985,
         85633121,
         85682589
     ],
@@ -102,15 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297757,
+            "localadmin_id":1394013985,
             "locality_id":101818277,
             "region_id":85682589
         }
     ],
     "wof:id":101818277,
-    "wof:lastmodified":1530296443,
+    "wof:lastmodified":1562794381,
     "wof:name":"H\u00f8ng",
-    "wof:parent_id":1159297757,
+    "wof:parent_id":1394013985,
     "wof:placetype":"locality",
     "wof:population":3789,
     "wof:population_rank":4,

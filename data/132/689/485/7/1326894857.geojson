@@ -28,10 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297751,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,13 +44,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297751,
             "locality_id":1326894857,
             "region_id":85682575
         }
     ],
     "wof:id":1326894857,
-    "wof:lastmodified":1536958679,
+    "wof:lastmodified":1562794304,
     "wof:name":"Terpling",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

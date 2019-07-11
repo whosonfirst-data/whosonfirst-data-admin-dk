@@ -28,24 +28,30 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014019,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2610484
     },
     "wof:country":"DK",
-    "wof:geomhash":"35cee2640fc59711ef2f5558921a5da3",
+    "wof:geomhash":"e75a2195b46e8fd6327211703ff66c28",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209691841
+            "localadmin_id":1394014019,
+            "locality_id":1209691841,
+            "region_id":85682597
         }
     ],
     "wof:id":1209691841,
-    "wof:lastmodified":1536279212,
+    "wof:lastmodified":1562796081,
     "wof:name":"Vesterbaek",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
@@ -53,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.473230000000001,
+    8.47323,
     56.12014,
-    8.473230000000001,
+    8.47323,
     56.12014
 ],
   "geometry": {"coordinates":[8.47323,56.12014],"type":"Point"}

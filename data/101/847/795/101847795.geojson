@@ -100,7 +100,7 @@
     "wd:wordcount":1220,
     "wof:belongsto":[
         102191581,
-        1159297787,
+        1394014011,
         85633121,
         85682597
     ],
@@ -119,15 +119,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297787,
+            "localadmin_id":1394014011,
             "locality_id":101847795,
             "region_id":85682597
         }
     ],
     "wof:id":101847795,
-    "wof:lastmodified":1530296484,
+    "wof:lastmodified":1562794817,
     "wof:name":"Grenaa",
-    "wof:parent_id":1159297787,
+    "wof:parent_id":1394014011,
     "wof:placetype":"locality",
     "wof:population":14317,
     "wof:population_rank":6,

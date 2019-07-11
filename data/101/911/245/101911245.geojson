@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
+    "geom:area_square_m":308500.086758,
     "geom:bbox":"8.80899639963,56.7603286453,8.82386376837,56.7666346139",
     "geom:latitude":56.763713,
     "geom:longitude":8.816408,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297845,
+        1394014007,
         85633121,
         85682593
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297845,
+            "localadmin_id":1394014007,
             "locality_id":101911245,
             "region_id":85682593
         }
     ],
     "wof:id":101911245,
-    "wof:lastmodified":1530291757,
+    "wof:lastmodified":1562795707,
     "wof:name":"Freds\u00f8",
-    "wof:parent_id":1159297845,
+    "wof:parent_id":1394014007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

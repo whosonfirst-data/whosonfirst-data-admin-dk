@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
+    "geom:area_square_m":1293710.299232,
     "geom:bbox":"10.049074657,56.8007220469,10.0719659636,56.8196016197",
     "geom:latitude":56.812615,
     "geom:longitude":10.060847,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":101846113,
             "region_id":85682593
         }
     ],
     "wof:id":101846113,
-    "wof:lastmodified":1530292104,
+    "wof:lastmodified":1562796360,
     "wof:name":"Terndrup",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

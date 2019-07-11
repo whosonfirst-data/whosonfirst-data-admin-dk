@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
+    "geom:area_square_m":1403678.495129,
     "geom:bbox":"10.5161892562,55.1683498563,10.5365253602,55.184584543",
     "geom:latitude":55.176312,
     "geom:longitude":10.52636,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818217,
             "region_id":85682575
         }
     ],
     "wof:id":101818217,
-    "wof:lastmodified":1530292050,
+    "wof:lastmodified":1562796301,
     "wof:name":"Kv\u00e6rndrup",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

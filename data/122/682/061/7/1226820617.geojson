@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297833,
+        1394013997,
         85633121,
         85682581
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297833,
+            "localadmin_id":1394013997,
             "locality_id":1226820617,
             "region_id":85682581
         }
     ],
     "wof:id":1226820617,
-    "wof:lastmodified":1536604787,
+    "wof:lastmodified":1562795550,
     "wof:name":"Viberup",
-    "wof:parent_id":1159297833,
+    "wof:parent_id":1394013997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

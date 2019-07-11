@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297717,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"aa5aa268e0770755569eae51d7b53573",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209480069
+            "localadmin_id":1159297717,
+            "locality_id":1209480069,
+            "region_id":85682589
         }
     ],
     "wof:id":1209480069,
-    "wof:lastmodified":1536285812,
+    "wof:lastmodified":1562793689,
     "wof:name":"Avdebo",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

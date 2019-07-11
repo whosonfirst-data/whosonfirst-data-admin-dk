@@ -41,7 +41,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297909,
+        1394014003,
         85633121,
         85682593
     ],
@@ -58,15 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297909,
+            "localadmin_id":1394014003,
             "locality_id":101873063,
             "region_id":85682593
         }
     ],
     "wof:id":101873063,
-    "wof:lastmodified":1544751459,
+    "wof:lastmodified":1562796824,
     "wof:name":"K\u00e5s",
-    "wof:parent_id":1159297909,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:population":1990,
     "wof:population_rank":3,

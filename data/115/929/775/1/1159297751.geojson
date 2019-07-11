@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115665,
+    "geom:area_square_m":810611888.511135,
     "geom:bbox":"8.7622083231,55.2893625009,9.3033809758,55.6279316245",
     "geom:latitude":55.474416,
     "geom:longitude":9.051696,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Vejen Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Vejen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.459381,
     "lbl:longitude":9.05166,
     "mps:latitude":55.459381,
@@ -33,10 +46,11 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
+        136253045,
         85682575
     ],
     "wof:breaches":[],
@@ -48,12 +62,19 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297751,
             "region_id":85682575
         }
     ],
     "wof:id":1159297751,
-    "wof:lastmodified":1530290837,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794319,
     "wof:name":"Vejen",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

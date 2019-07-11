@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000617,
-    "geom:area_square_m":4139561.196956,
+    "geom:area_square_m":4139561.196954,
     "geom:bbox":"9.71768021235,57.1367160624,9.76573214745,57.1708088101",
     "geom:latitude":57.157555,
     "geom:longitude":9.740933,
@@ -95,7 +95,7 @@
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
-        1159297909,
+        1394014003,
         85633121,
         85682593
     ],
@@ -114,15 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297909,
+            "localadmin_id":1394014003,
             "locality_id":101805835,
             "region_id":85682593
         }
     ],
     "wof:id":101805835,
-    "wof:lastmodified":1530296417,
+    "wof:lastmodified":1562796812,
     "wof:name":"Aabybro",
-    "wof:parent_id":1159297909,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:population":4849,
     "wof:population_rank":4,

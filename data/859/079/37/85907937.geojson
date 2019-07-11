@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":32797138.512691,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.495404,55.342108,10.495404,55.342108",
     "geom:latitude":55.342108,
     "geom:longitude":10.495404,
@@ -67,10 +67,11 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
-        1159297847,
-        85633121
+        1394014029,
+        85633121,
+        136253045,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +85,8 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297847,
+            "empire_id":136253045,
+            "localadmin_id":1394014029,
             "locality_id":-1,
             "neighbourhood_id":85907937,
             "region_id":85682575
@@ -94,7 +96,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936662,
+    "wof:lastmodified":1562795767,
     "wof:name":"Odense SO",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -28,10 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297747,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,13 +44,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297747,
             "locality_id":1260363705,
             "region_id":85682575
         }
     ],
     "wof:id":1260363705,
-    "wof:lastmodified":1536601269,
+    "wof:lastmodified":1562794262,
     "wof:name":"Sillerup",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

@@ -34,7 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297861,
+        1394014047,
         85633121,
         85682597
     ],
@@ -48,15 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297861,
+            "localadmin_id":1394014047,
             "locality_id":1309781875,
             "region_id":85682597
         }
     ],
     "wof:id":1309781875,
-    "wof:lastmodified":1537619876,
+    "wof:lastmodified":1562795949,
     "wof:name":"Flovlev",
-    "wof:parent_id":1159297861,
+    "wof:parent_id":1394014047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

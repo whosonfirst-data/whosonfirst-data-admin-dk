@@ -74,7 +74,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297935,
+        1394014017,
         85633121,
         85682589
     ],
@@ -91,15 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297935,
+            "localadmin_id":1394014017,
             "locality_id":1125869619,
             "region_id":85682589
         }
     ],
     "wof:id":1125869619,
-    "wof:lastmodified":1561778015,
+    "wof:lastmodified":1562797189,
     "wof:name":"Nyk\u00f8bing Sj\u00e6lland",
-    "wof:parent_id":1159297935,
+    "wof:parent_id":1394014017,
     "wof:placetype":"locality",
     "wof:population":5596,
     "wof:population_rank":5,

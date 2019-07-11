@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297717,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"53d28794735047139b3d061a7fbb080a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209179041
+            "localadmin_id":1159297717,
+            "locality_id":1209179041,
+            "region_id":85682589
         }
     ],
     "wof:id":1209179041,
-    "wof:lastmodified":1537619798,
+    "wof:lastmodified":1562793682,
     "wof:name":"Tastrup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

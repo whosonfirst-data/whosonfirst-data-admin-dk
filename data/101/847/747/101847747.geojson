@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":2379316.331154,
+    "geom:area_square_m":2379316.331155,
     "geom:bbox":"12.0334997118,55.1124819032,12.0702495757,55.1300626964",
     "geom:latitude":55.11969,
     "geom:longitude":12.051502,
@@ -80,7 +80,7 @@
     "wd:wordcount":292,
     "wof:belongsto":[
         102191581,
-        1159297907,
+        1394013993,
         85633121,
         85682589
     ],
@@ -99,15 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297907,
+            "localadmin_id":1394013993,
             "locality_id":101847747,
             "region_id":85682589
         }
     ],
     "wof:id":101847747,
-    "wof:lastmodified":1530296480,
+    "wof:lastmodified":1562796724,
     "wof:name":"Pr\u00e6st\u00f8",
-    "wof:parent_id":1159297907,
+    "wof:parent_id":1394013993,
     "wof:placetype":"locality",
     "wof:population":3695,
     "wof:population_rank":4,

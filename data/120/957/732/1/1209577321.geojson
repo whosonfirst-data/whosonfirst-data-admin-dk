@@ -33,7 +33,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014099,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"9a1ebdf90a24d0d367bf16d0b800d2c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209577321
+            "localadmin_id":1394014099,
+            "locality_id":1209577321,
+            "region_id":85682589
         }
     ],
     "wof:id":1209577321,
-    "wof:lastmodified":1537619841,
+    "wof:lastmodified":1562797007,
     "wof:name":"Lynge-Eskilstrup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

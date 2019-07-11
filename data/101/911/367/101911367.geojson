@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
+    "geom:area_square_m":358377.849601,
     "geom:bbox":"11.9651156056,55.2852738401,11.9749042853,55.2933828987",
     "geom:latitude":55.289015,
     "geom:longitude":11.970014,
@@ -44,7 +45,7 @@
     "wd:wordcount":831,
     "wof:belongsto":[
         102191581,
-        1159297811,
+        1394014141,
         85633121,
         85682589
     ],
@@ -61,7 +62,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297811,
+            "localadmin_id":1394014141,
             "locality_id":101911367,
             "region_id":85682589
         }
@@ -70,9 +71,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530296490,
+    "wof:lastmodified":1562795240,
     "wof:name":"Gisselfeld",
-    "wof:parent_id":1159297811,
+    "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

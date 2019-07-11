@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
+    "geom:area_square_m":1015127.721789,
     "geom:bbox":"8.57176387556,56.4999302327,8.5928904,56.5142726739",
     "geom:latitude":56.507863,
     "geom:longitude":8.581972,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297861,
+        1394014047,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297861,
+            "localadmin_id":1394014047,
             "locality_id":101846093,
             "region_id":85682597
         }
     ],
     "wof:id":101846093,
-    "wof:lastmodified":1530291859,
+    "wof:lastmodified":1562795943,
     "wof:name":"Bremdal",
-    "wof:parent_id":1159297861,
+    "wof:parent_id":1394014047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

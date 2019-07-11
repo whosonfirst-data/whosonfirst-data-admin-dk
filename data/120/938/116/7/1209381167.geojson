@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014083,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"bd4d9de12ff94a72439dcc1624aa228b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209381167
+            "localadmin_id":1394014083,
+            "locality_id":1209381167,
+            "region_id":85682597
         }
     ],
     "wof:id":1209381167,
-    "wof:lastmodified":1536288779,
+    "wof:lastmodified":1562795895,
     "wof:name":"Hansted",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

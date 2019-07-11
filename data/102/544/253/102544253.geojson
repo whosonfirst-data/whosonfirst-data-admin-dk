@@ -26,11 +26,11 @@
         "state_id":28362583
     },
     "wof:belongsto":[
+        85682581,
         102191581,
-        1159297831,
+        1394014061,
         85633121,
-        101754111,
-        85682581
+        101754111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +43,14 @@
             "campus_id":102544253,
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297831,
+            "localadmin_id":1394014061,
             "locality_id":101754111,
             "neighbourhood_id":-1,
             "region_id":85682581
         }
     ],
     "wof:id":102544253,
-    "wof:lastmodified":1535389799,
+    "wof:lastmodified":1562795489,
     "wof:name":"V\u00e6rl\u00f8se Lufthavn",
     "wof:parent_id":101754111,
     "wof:placetype":"campus",

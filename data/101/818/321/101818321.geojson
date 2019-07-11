@@ -131,7 +131,7 @@
     "wd:wordcount":429,
     "wof:belongsto":[
         102191581,
-        1159297777,
+        1394014123,
         85633121,
         85682589
     ],
@@ -151,7 +151,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297777,
+            "localadmin_id":1394014123,
             "locality_id":101818321,
             "region_id":85682589
         }
@@ -160,9 +160,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1562794586,
     "wof:name":"Ringsted",
-    "wof:parent_id":1159297777,
+    "wof:parent_id":1394014123,
     "wof:placetype":"locality",
     "wof:population":20188,
     "wof:population_rank":7,

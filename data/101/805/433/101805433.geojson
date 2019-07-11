@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
+    "geom:area_square_m":856117.974679,
     "geom:bbox":"10.2393335449,55.31752411,10.2582281498,55.3319211015",
     "geom:latitude":55.323589,
     "geom:longitude":10.248363,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297891,
+        1394014071,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297891,
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
             "locality_id":101805433,
             "region_id":85682575
         }
     ],
     "wof:id":101805433,
-    "wof:lastmodified":1530292158,
+    "wof:lastmodified":1562796427,
     "wof:name":"Brylle",
-    "wof:parent_id":1159297891,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

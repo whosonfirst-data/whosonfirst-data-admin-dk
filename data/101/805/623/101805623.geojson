@@ -69,7 +69,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -87,15 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805623,
             "region_id":85682597
         }
     ],
     "wof:id":101805623,
-    "wof:lastmodified":1561778001,
+    "wof:lastmodified":1562797152,
     "wof:name":"N\u00f8rre Snede",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

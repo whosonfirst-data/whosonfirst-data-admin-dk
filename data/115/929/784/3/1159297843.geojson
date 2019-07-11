@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1084,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.010514,
+    "geom:area_square_m":73010757.822608,
     "geom:bbox":"12.3927904089,55.7951381484,12.5824113752,55.8781237008",
     "geom:latitude":55.834322,
     "geom:longitude":12.48872,
@@ -24,7 +26,7 @@
     "mps:latitude":55.836865,
     "mps:longitude":12.479534,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "Mors\u00f8"
     ],
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1159297843,
-    "wof:lastmodified":1530291746,
+    "wof:lastmodified":1562800346,
     "wof:name":"Morso",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

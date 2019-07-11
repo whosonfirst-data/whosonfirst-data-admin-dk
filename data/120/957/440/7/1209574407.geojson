@@ -31,7 +31,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014049,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"81ed18440c58fab4720a5b6ace6b5e1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209574407
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
+            "locality_id":1209574407,
+            "region_id":85682575
         }
     ],
     "wof:id":1209574407,
-    "wof:lastmodified":1537619901,
+    "wof:lastmodified":1562796195,
     "wof:name":"Sottrup Sogn",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

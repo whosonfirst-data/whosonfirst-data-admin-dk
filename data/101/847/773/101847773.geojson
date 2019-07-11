@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
+    "geom:area_square_m":875905.746812,
     "geom:bbox":"12.2776814347,55.9597250274,12.3047159486,55.9695196337",
     "geom:latitude":55.965675,
     "geom:longitude":12.289629,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297779,
+        1394014085,
         85633121,
         85682581
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297779,
+            "localadmin_id":1394014085,
             "locality_id":101847773,
             "region_id":85682581
         }
     ],
     "wof:id":101847773,
-    "wof:lastmodified":1530291087,
+    "wof:lastmodified":1562794611,
     "wof:name":"Gadevang",
-    "wof:parent_id":1159297779,
+    "wof:parent_id":1394014085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

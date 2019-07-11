@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":1671927.726576,
+    "geom:area_square_m":1671927.726577,
     "geom:bbox":"9.96253771392,56.6434278143,9.99185697902,56.655116658",
     "geom:latitude":56.649134,
     "geom:longitude":9.974823,
@@ -94,7 +94,7 @@
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
-        1159297835,
+        1394014035,
         85633121,
         85682593
     ],
@@ -113,15 +113,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297835,
+            "localadmin_id":1394014035,
             "locality_id":101805763,
             "region_id":85682593
         }
     ],
     "wof:id":101805763,
-    "wof:lastmodified":1530296408,
+    "wof:lastmodified":1562795598,
     "wof:name":"Mariager",
-    "wof:parent_id":1159297835,
+    "wof:parent_id":1394014035,
     "wof:placetype":"locality",
     "wof:population":2433,
     "wof:population_rank":4,

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
+    "geom:area_square_m":1731820.741851,
     "geom:bbox":"9.33556618685,56.1600349884,9.37113195685,56.175305337",
     "geom:latitude":56.16851,
     "geom:longitude":9.353631,
@@ -61,7 +62,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -78,15 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805731,
             "region_id":85682597
         }
     ],
     "wof:id":101805731,
-    "wof:lastmodified":1530292557,
+    "wof:lastmodified":1562797152,
     "wof:name":"Engesvang",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

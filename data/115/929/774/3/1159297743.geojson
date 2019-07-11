@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168333,
+    "geom:area_square_m":1133254311.359837,
     "geom:bbox":"9.39071530121,56.8110120962,10.3894943069,57.2305984115",
     "geom:latitude":57.012998,
     "geom:longitude":9.963253,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Aalborg Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Aalborg Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":56.973578,
     "lbl:longitude":9.924653,
     "mps:latitude":56.973578,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297743,
-    "wof:lastmodified":1530290747,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794148,
     "wof:name":"Aalborg",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297815,
+        1394014033,
         85633121,
         85682597
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297815,
+            "localadmin_id":1394014033,
             "locality_id":1125852851,
             "region_id":85682597
         }
     ],
     "wof:id":1125852851,
-    "wof:lastmodified":1530291475,
+    "wof:lastmodified":1562795268,
     "wof:name":"Kysing N\u00e6s",
-    "wof:parent_id":1159297815,
+    "wof:parent_id":1394014033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

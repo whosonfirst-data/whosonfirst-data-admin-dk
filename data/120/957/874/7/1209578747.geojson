@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014019,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"4dc2b285b325b8374c9ef59b6cc0974d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209578747
+            "localadmin_id":1394014019,
+            "locality_id":1209578747,
+            "region_id":85682597
         }
     ],
     "wof:id":1209578747,
-    "wof:lastmodified":1536282855,
+    "wof:lastmodified":1562796083,
     "wof:name":"Osterby",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -56,7 +56,7 @@
     "wd:wordcount":157,
     "wof:belongsto":[
         102191581,
-        1159297761,
+        1394014039,
         85633121,
         85682589
     ],
@@ -75,15 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297761,
+            "localadmin_id":1394014039,
             "locality_id":101818331,
             "region_id":85682589
         }
     ],
     "wof:id":101818331,
-    "wof:lastmodified":1561777991,
+    "wof:lastmodified":1562794459,
     "wof:name":"Havdrup",
-    "wof:parent_id":1159297761,
+    "wof:parent_id":1394014039,
     "wof:placetype":"locality",
     "wof:population":3828,
     "wof:population_rank":4,

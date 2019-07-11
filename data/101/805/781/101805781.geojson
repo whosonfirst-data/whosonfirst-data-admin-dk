@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001226,
-    "geom:area_square_m":8339762.185111,
+    "geom:area_square_m":8339762.185112,
     "geom:bbox":"9.76392517958,56.6154243614,9.83398386958,56.6603255592",
     "geom:latitude":56.639548,
     "geom:longitude":9.798374,
@@ -109,7 +109,7 @@
     "wd:wordcount":296,
     "wof:belongsto":[
         102191581,
-        1159297835,
+        1394014035,
         85633121,
         85682593
     ],
@@ -128,15 +128,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297835,
+            "localadmin_id":1394014035,
             "locality_id":101805781,
             "region_id":85682593
         }
     ],
     "wof:id":101805781,
-    "wof:lastmodified":1530296412,
+    "wof:lastmodified":1562795579,
     "wof:name":"Hobro",
-    "wof:parent_id":1159297835,
+    "wof:parent_id":1394014035,
     "wof:placetype":"locality",
     "wof:population":11064,
     "wof:population_rank":6,

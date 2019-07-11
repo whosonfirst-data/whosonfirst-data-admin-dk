@@ -53,7 +53,7 @@
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
-        1159297757,
+        1394013985,
         85633121,
         85682589
     ],
@@ -71,15 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297757,
+            "localadmin_id":1394013985,
             "locality_id":101818271,
             "region_id":85682589
         }
     ],
     "wof:id":101818271,
-    "wof:lastmodified":1561777995,
+    "wof:lastmodified":1562794425,
     "wof:name":"Sveb\u00f8lle",
-    "wof:parent_id":1159297757,
+    "wof:parent_id":1394013985,
     "wof:placetype":"locality",
     "wof:population":2186,
     "wof:population_rank":4,

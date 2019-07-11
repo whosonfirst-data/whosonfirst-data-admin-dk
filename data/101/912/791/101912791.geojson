@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
+    "geom:area_square_m":757465.24433,
     "geom:bbox":"8.52509290129,56.5390003963,8.54433181674,56.5543701777",
     "geom:latitude":56.544271,
     "geom:longitude":8.535644,
@@ -40,7 +41,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297861,
+        1394014047,
         85633121,
         85682597
     ],
@@ -56,7 +57,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297861,
+            "localadmin_id":1394014047,
             "locality_id":101912791,
             "region_id":85682597
         }
@@ -65,9 +66,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530291860,
+    "wof:lastmodified":1562795946,
     "wof:name":"Toftum Bjerge",
-    "wof:parent_id":1159297861,
+    "wof:parent_id":1394014047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
+    "geom:area_square_m":1084981.471191,
     "geom:bbox":"9.43877756437,55.7056750097,9.47210368426,55.7147777501",
     "geom:latitude":55.710872,
     "geom:longitude":9.455292,
@@ -31,10 +32,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101805487,
             "region_id":85682575
         }
     ],
     "wof:id":101805487,
-    "wof:lastmodified":1530292442,
+    "wof:lastmodified":1562796852,
     "wof:name":"Skibet",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

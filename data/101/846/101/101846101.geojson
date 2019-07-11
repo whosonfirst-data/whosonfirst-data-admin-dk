@@ -67,7 +67,7 @@
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -86,15 +86,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":101846101,
             "region_id":85682597
         }
     ],
     "wof:id":101846101,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1562796097,
     "wof:name":"Tarm",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:population":4080,
     "wof:population_rank":4,

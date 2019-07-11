@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014087,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"16143b38979038c41b2b71ef016b9738",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209678841
+            "localadmin_id":1394014087,
+            "locality_id":1209678841,
+            "region_id":85682597
         }
     ],
     "wof:id":1209678841,
-    "wof:lastmodified":1536279651,
+    "wof:lastmodified":1562795130,
     "wof:name":"Barritskov By",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

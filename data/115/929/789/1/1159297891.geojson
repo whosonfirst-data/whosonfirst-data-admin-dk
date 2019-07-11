@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1083,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.072485,
+    "geom:area_square_m":510277665.510703,
     "geom:bbox":"9.76564220241,55.1205076584,10.2938796839,55.4326955625",
     "geom:latitude":55.297134,
     "geom:longitude":10.068319,
@@ -24,7 +26,7 @@
     "mps:latitude":55.294274,
     "mps:longitude":10.068345,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "L\u00e6s\u00f8"
     ],
@@ -37,6 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633121,
+        136253045,
         85682575
     ],
     "wof:breaches":[],
@@ -48,19 +51,22 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297891,
             "region_id":85682575
         }
     ],
     "wof:id":1159297891,
-    "wof:lastmodified":1530292193,
+    "wof:lastmodified":1562800919,
     "wof:name":"Laeso",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014071
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

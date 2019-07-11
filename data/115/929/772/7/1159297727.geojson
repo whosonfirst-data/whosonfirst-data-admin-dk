@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013072,
+    "geom:area_square_m":91144089.040587,
     "geom:bbox":"12.4529976028,55.6128533452,12.7342547567,55.7327114941",
     "geom:latitude":55.675813,
     "geom:longitude":12.553266,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Copenhagen Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Copenhagen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.698354,
     "lbl:longitude":12.571489,
     "mps:latitude":55.698354,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297727,
-    "wof:lastmodified":1530290471,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562793819,
     "wof:name":"Copenhagen",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

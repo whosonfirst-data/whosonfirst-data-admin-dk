@@ -110,7 +110,7 @@
     "wd:wordcount":574,
     "wof:belongsto":[
         102191581,
-        1159297763,
+        1394014057,
         85633121,
         85682581
     ],
@@ -133,7 +133,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297763,
+            "localadmin_id":1394014057,
             "locality_id":101754095,
             "region_id":85682581
         }
@@ -142,9 +142,9 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777991,
+    "wof:lastmodified":1562794464,
     "wof:name":"Drag\u00f8r",
-    "wof:parent_id":1159297763,
+    "wof:parent_id":1394014057,
     "wof:placetype":"locality",
     "wof:population":11045,
     "wof:population_rank":6,

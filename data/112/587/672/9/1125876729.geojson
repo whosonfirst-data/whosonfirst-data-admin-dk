@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":1125876729,
             "region_id":85682597
         }
     ],
     "wof:id":1125876729,
-    "wof:lastmodified":1530291952,
+    "wof:lastmodified":1562796061,
     "wof:name":"Store Mj\u00f8l",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

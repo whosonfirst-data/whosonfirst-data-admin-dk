@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
+    "geom:area_square_m":1572698.208615,
     "geom:bbox":"11.4575077048,55.7764351594,11.48935717,55.793801138",
     "geom:latitude":55.784606,
     "geom:longitude":11.470245,
@@ -37,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297935,
+        1394014017,
         85633121,
         85682589
     ],
@@ -54,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297935,
+            "localadmin_id":1394014017,
             "locality_id":101818303,
             "region_id":85682589
         }
     ],
     "wof:id":101818303,
-    "wof:lastmodified":1530292574,
+    "wof:lastmodified":1562797197,
     "wof:name":"F\u00e5revejle Stationsby",
-    "wof:parent_id":1159297935,
+    "wof:parent_id":1394014017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

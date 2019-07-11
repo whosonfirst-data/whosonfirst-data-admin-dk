@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
+    "geom:area_square_m":627110.432776,
     "geom:bbox":"11.9525451206,55.6405170883,11.9655499053,55.6505208783",
     "geom:latitude":55.645512,
     "geom:longitude":11.958454,
@@ -37,7 +38,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297805,
+        1394014067,
         85633121,
         85682589
     ],
@@ -54,15 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297805,
+            "localadmin_id":1394014067,
             "locality_id":101818337,
             "region_id":85682589
         }
     ],
     "wof:id":101818337,
-    "wof:lastmodified":1530291369,
+    "wof:lastmodified":1562795107,
     "wof:name":"Gevninge",
-    "wof:parent_id":1159297805,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -53,7 +53,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297861,
+        1394014047,
         85633121,
         85682597
     ],
@@ -71,15 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297861,
+            "localadmin_id":1394014047,
             "locality_id":101805607,
             "region_id":85682597
         }
     ],
     "wof:id":101805607,
-    "wof:lastmodified":1561778003,
+    "wof:lastmodified":1562795938,
     "wof:name":"Hjerm",
-    "wof:parent_id":1159297861,
+    "wof:parent_id":1394014047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

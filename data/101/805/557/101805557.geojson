@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
+    "geom:area_square_m":617253.757817,
     "geom:bbox":"9.67099395121,54.9174763532,9.68822829141,54.9282359887",
     "geom:latitude":54.923188,
     "geom:longitude":9.679534,
@@ -38,10 +39,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297877,
+        1394014049,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297877,
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
             "locality_id":101805557,
             "region_id":85682575
         }
     ],
     "wof:id":101805557,
-    "wof:lastmodified":1530291991,
+    "wof:lastmodified":1562796177,
     "wof:name":"Nyb\u00f8l",
-    "wof:parent_id":1159297877,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

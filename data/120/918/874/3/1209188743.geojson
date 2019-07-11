@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297737,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"7602eb8117d2473c4e9f7927fe1c933e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209188743
+            "localadmin_id":1159297737,
+            "locality_id":1209188743,
+            "region_id":85682589
         }
     ],
     "wof:id":1209188743,
-    "wof:lastmodified":1536295009,
+    "wof:lastmodified":1562793925,
     "wof:name":"Stangerup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

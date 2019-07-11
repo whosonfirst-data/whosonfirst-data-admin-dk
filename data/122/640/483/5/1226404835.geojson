@@ -33,7 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297829,
+        1394014009,
         85633121,
         85682593
     ],
@@ -47,15 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297829,
+            "localadmin_id":1394014009,
             "locality_id":1226404835,
             "region_id":85682593
         }
     ],
     "wof:id":1226404835,
-    "wof:lastmodified":1537619884,
+    "wof:lastmodified":1562795443,
     "wof:name":"Brund",
-    "wof:parent_id":1159297829,
+    "wof:parent_id":1394014009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

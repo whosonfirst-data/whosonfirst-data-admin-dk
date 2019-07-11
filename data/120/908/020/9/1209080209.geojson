@@ -28,7 +28,11 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        85682575,
+        102191581,
+        1394014139,
+        85633121,
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +42,18 @@
     "wof:geomhash":"c03ce9f79244505b28b8963d6cd98240",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209080209
+            "empire_id":136253045,
+            "localadmin_id":1394014139,
+            "locality_id":1209080209,
+            "region_id":85682575
         }
     ],
     "wof:id":1209080209,
-    "wof:lastmodified":1536298362,
+    "wof:lastmodified":1562794443,
     "wof:name":"Lamdrup",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

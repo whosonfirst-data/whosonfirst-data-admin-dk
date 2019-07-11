@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000134,
+    "geom:area_square_m":905590.348322,
     "geom:bbox":"9.69381404136,56.8399285892,9.70855698798,56.8552397562",
     "geom:latitude":56.848237,
     "geom:longitude":9.700579,
@@ -32,7 +33,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -48,15 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":101805789,
             "region_id":85682593
         }
     ],
     "wof:id":101805789,
-    "wof:lastmodified":1530292105,
+    "wof:lastmodified":1562796359,
     "wof:name":"Suldrup",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

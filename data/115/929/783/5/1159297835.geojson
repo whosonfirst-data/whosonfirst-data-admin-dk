@@ -13,8 +13,10 @@
     "dk-geodk:regionkode":1081,
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-07-02",
     "edtf:inception":"uuuu",
     "geom:area":0.106226,
+    "geom:area_square_m":721286240.117793,
     "geom:bbox":"9.52772429105,56.5504325669,10.334664077,56.8608372196",
     "geom:latitude":56.692476,
     "geom:longitude":9.946963,
@@ -24,7 +26,7 @@
     "mps:latitude":56.726028,
     "mps:longitude":9.913262,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:dan_x_preferred":[
         "\u00c6r\u00f8"
     ],
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1159297835,
-    "wof:lastmodified":1530291713,
+    "wof:lastmodified":1562800304,
     "wof:name":"Aero",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded":[],
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1394014035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

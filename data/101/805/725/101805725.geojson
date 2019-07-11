@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
+    "geom:area_square_m":1015215.336476,
     "geom:bbox":"8.49596427795,56.1215596736,8.51524147881,56.1314995148",
     "geom:latitude":56.126574,
     "geom:longitude":8.506616,
@@ -61,7 +62,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297869,
+        1394014019,
         85633121,
         85682597
     ],
@@ -78,15 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297869,
+            "localadmin_id":1394014019,
             "locality_id":101805725,
             "region_id":85682597
         }
     ],
     "wof:id":101805725,
-    "wof:lastmodified":1530291941,
+    "wof:lastmodified":1562796056,
     "wof:name":"Spjald",
-    "wof:parent_id":1159297869,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

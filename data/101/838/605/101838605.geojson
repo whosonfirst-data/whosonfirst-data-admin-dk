@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":1885822.823342,
     "geom:bbox":"9.5879915744,54.90020648,9.62595744902,54.9190941866",
     "geom:latitude":54.908174,
     "geom:longitude":9.61017,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297877,
+        1394014049,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297877,
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
             "locality_id":101838605,
             "region_id":85682575
         }
     ],
     "wof:id":101838605,
-    "wof:lastmodified":1530291992,
+    "wof:lastmodified":1562796178,
     "wof:name":"Egernsund",
-    "wof:parent_id":1159297877,
+    "wof:parent_id":1394014049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
+    "geom:area_square_m":1284199.010614,
     "geom:bbox":"9.95599870546,55.2368909821,9.98899967514,55.2521688518",
     "geom:latitude":55.242863,
     "geom:longitude":9.97367,
@@ -33,10 +34,11 @@
     ],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297891,
+        1394014071,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297891,
+            "empire_id":136253045,
+            "localadmin_id":1394014071,
             "locality_id":101846021,
             "region_id":85682575
         }
     ],
     "wof:id":101846021,
-    "wof:lastmodified":1530292155,
+    "wof:lastmodified":1562796426,
     "wof:name":"Ebberup",
-    "wof:parent_id":1159297891,
+    "wof:parent_id":1394014071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

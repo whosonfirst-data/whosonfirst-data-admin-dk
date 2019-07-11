@@ -39,7 +39,9 @@
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Hovedstaden",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1394014155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20098601,
@@ -52,14 +54,15 @@
         {
             "continent_id":-1,
             "country_id":-1,
+            "localadmin_id":1394014155,
             "locality_id":1125962533,
             "region_id":-1
         }
     ],
     "wof:id":1125962533,
-    "wof:lastmodified":1509403397,
+    "wof:lastmodified":1562793671,
     "wof:name":"Christians\u00f8",
-    "wof:parent_id":-1,
+    "wof:parent_id":1394014155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

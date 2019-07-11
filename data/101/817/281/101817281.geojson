@@ -64,7 +64,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -82,15 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":101817281,
             "region_id":85682597
         }
     ],
     "wof:id":101817281,
-    "wof:lastmodified":1561777997,
+    "wof:lastmodified":1562795202,
     "wof:name":"Ryomg\u00e5rd",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:population":1952,
     "wof:population_rank":3,

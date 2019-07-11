@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":1950910.314837,
+    "geom:area_square_m":1950910.314836,
     "geom:bbox":"9.74756518287,55.8819371453,9.78920111019,55.9025867664",
     "geom:latitude":55.891613,
     "geom:longitude":9.768813,
@@ -36,7 +36,7 @@
     "wd:wordcount":2842,
     "wof:belongsto":[
         102191581,
-        1159297859,
+        1394014083,
         85633121,
         85682597
     ],
@@ -53,15 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297859,
+            "localadmin_id":1394014083,
             "locality_id":101805735,
             "region_id":85682597
         }
     ],
     "wof:id":101805735,
-    "wof:lastmodified":1530296405,
+    "wof:lastmodified":1562795897,
     "wof:name":"Lund",
-    "wof:parent_id":1159297859,
+    "wof:parent_id":1394014083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

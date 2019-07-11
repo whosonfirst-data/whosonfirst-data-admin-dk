@@ -56,7 +56,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297927,
+        1394014115,
         85633121,
         85682581
     ],
@@ -73,15 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297927,
+            "localadmin_id":1394014115,
             "locality_id":1125913297,
             "region_id":85682581
         }
     ],
     "wof:id":1125913297,
-    "wof:lastmodified":1561778019,
+    "wof:lastmodified":1562797132,
     "wof:name":"Buddinge",
-    "wof:parent_id":1159297927,
+    "wof:parent_id":1394014115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000596,
-    "geom:area_square_m":4140741.978293,
+    "geom:area_square_m":4140741.978292,
     "geom:bbox":"9.19781976871,55.8275393326,9.25628069034,55.8637854141",
     "geom:latitude":55.84451,
     "geom:longitude":9.231682,
@@ -51,10 +51,11 @@
     "wd:longitude":9.2383,
     "wd:wordcount":139,
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297913,
+        1394014101,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,15 +72,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "empire_id":136253045,
+            "localadmin_id":1394014101,
             "locality_id":101805443,
             "region_id":85682575
         }
     ],
     "wof:id":101805443,
-    "wof:lastmodified":1530296375,
+    "wof:lastmodified":1562796850,
     "wof:name":"Give",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:population":4240,
     "wof:population_rank":4,

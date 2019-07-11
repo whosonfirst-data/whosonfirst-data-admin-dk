@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000304,
-    "geom:area_square_m":2130256.934102,
+    "geom:area_square_m":2130256.934103,
     "geom:bbox":"12.0574738209,55.4828865066,12.1065673633,55.496775939",
     "geom:latitude":55.489467,
     "geom:longitude":12.080826,
@@ -49,7 +49,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297933,
+        1394014027,
         85633121,
         85682589
     ],
@@ -68,15 +68,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297933,
+            "localadmin_id":1394014027,
             "locality_id":101818379,
             "region_id":85682589
         }
     ],
     "wof:id":101818379,
-    "wof:lastmodified":1530292564,
+    "wof:lastmodified":1562797176,
     "wof:name":"Ejby",
-    "wof:parent_id":1159297933,
+    "wof:parent_id":1394014027,
     "wof:placetype":"locality",
     "wof:population":2692,
     "wof:population_rank":4,

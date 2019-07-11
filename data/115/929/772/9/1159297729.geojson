@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035956,
+    "geom:area_square_m":249786515.682165,
     "geom:bbox":"11.8459624361,55.7142368859,12.2312912898,55.937968693",
     "geom:latitude":55.818606,
     "geom:longitude":12.013159,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Frederikssund Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Frederikssund Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.793708,
     "lbl:longitude":11.985618,
     "mps:latitude":55.793708,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297729,
-    "wof:lastmodified":1530290508,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562793868,
     "wof:name":"Frederikssund",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

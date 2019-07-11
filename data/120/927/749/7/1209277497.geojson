@@ -32,7 +32,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014019,
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"387ce5bea10d1aa01664e448233e3053",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209277497
+            "localadmin_id":1394014019,
+            "locality_id":1209277497,
+            "region_id":85682597
         }
     ],
     "wof:id":1209277497,
-    "wof:lastmodified":1537619875,
+    "wof:lastmodified":1562796092,
     "wof:name":"Fuglbjerg",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

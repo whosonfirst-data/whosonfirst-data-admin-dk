@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
+    "geom:area_square_m":985301.549869,
     "geom:bbox":"10.3667190643,56.3291882881,10.3877202142,56.3417570448",
     "geom:latitude":56.335903,
     "geom:longitude":10.37786,
@@ -64,7 +65,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -81,15 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":101817283,
             "region_id":85682597
         }
     ],
     "wof:id":101817283,
-    "wof:lastmodified":1530291429,
+    "wof:lastmodified":1562795201,
     "wof:name":"M\u00f8rke",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -41,7 +41,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297909,
+        1394014003,
         85633121,
         85682593
     ],
@@ -57,15 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297909,
+            "localadmin_id":1394014003,
             "locality_id":1125994435,
             "region_id":85682593
         }
     ],
     "wof:id":1125994435,
-    "wof:lastmodified":1530292383,
+    "wof:lastmodified":1562796826,
     "wof:name":"\u00c5leg\u00e5rds Mark",
-    "wof:parent_id":1159297909,
+    "wof:parent_id":1394014003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":4318934.092672,
+    "geom:area_square_m":4318934.092673,
     "geom:bbox":"9.81315948281,56.8680605924,9.85091168342,56.9022169726",
     "geom:latitude":56.88596,
     "geom:longitude":9.832914,
@@ -65,7 +65,7 @@
     "wd:wordcount":167,
     "wof:belongsto":[
         102191581,
-        1159297887,
+        1394014079,
         85633121,
         85682593
     ],
@@ -84,15 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297887,
+            "localadmin_id":1394014079,
             "locality_id":101805779,
             "region_id":85682593
         }
     ],
     "wof:id":101805779,
-    "wof:lastmodified":1530296411,
+    "wof:lastmodified":1562796353,
     "wof:name":"St\u00f8vring",
-    "wof:parent_id":1159297887,
+    "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:population":6239,
     "wof:population_rank":5,

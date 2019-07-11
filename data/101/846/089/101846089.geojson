@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
+    "geom:area_square_m":1263953.205055,
     "geom:bbox":"9.92874206535,56.4267961442,9.96275239235,56.4375898941",
     "geom:latitude":56.433082,
     "geom:longitude":9.942862,
@@ -35,7 +36,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297903,
+        1394013975,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297903,
+            "localadmin_id":1394013975,
             "locality_id":101846089,
             "region_id":85682597
         }
     ],
     "wof:id":101846089,
-    "wof:lastmodified":1530292289,
+    "wof:lastmodified":1562796638,
     "wof:name":"Stevnstrup",
-    "wof:parent_id":1159297903,
+    "wof:parent_id":1394013975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

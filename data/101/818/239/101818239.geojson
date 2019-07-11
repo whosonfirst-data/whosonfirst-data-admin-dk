@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
+    "geom:area_square_m":1154786.62587,
     "geom:bbox":"10.5888176709,55.2103317441,10.6109898836,55.2228752342",
     "geom:latitude":55.217511,
     "geom:longitude":10.599023,
@@ -31,10 +32,11 @@
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85682575,
         102191581,
-        1159297885,
+        1394014055,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297885,
+            "empire_id":136253045,
+            "localadmin_id":1394014055,
             "locality_id":101818239,
             "region_id":85682575
         }
     ],
     "wof:id":101818239,
-    "wof:lastmodified":1530292051,
+    "wof:lastmodified":1562796300,
     "wof:name":"Gislev",
-    "wof:parent_id":1159297885,
+    "wof:parent_id":1394014055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

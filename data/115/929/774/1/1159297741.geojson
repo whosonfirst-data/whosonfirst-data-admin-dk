@@ -15,10 +15,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11304,
+    "geom:area_square_m":764919853.130072,
     "geom:bbox":"9.06835365102,56.6368992426,9.65987278549,57.0305984446",
     "geom:latitude":56.821824,
     "geom:longitude":9.380332,
     "iso:country":"DK",
+    "label:dan_x_preferred_longname":[
+        "Vesthimmerland Kommune"
+    ],
+    "label:dan_x_preferred_placetype":[
+        "kommune"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Vesthimmerland Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":56.813064,
     "lbl:longitude":9.364557,
     "mps:latitude":56.813064,
@@ -33,7 +46,7 @@
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -53,7 +66,13 @@
         }
     ],
     "wof:id":1159297741,
-    "wof:lastmodified":1530290616,
+    "wof:lang_x_official":[
+        "dan"
+    ],
+    "wof:lang_x_spoken":[
+        "dan"
+    ],
+    "wof:lastmodified":1562794052,
     "wof:name":"Vesthimmerland",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

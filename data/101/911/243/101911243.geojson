@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":626994.921209,
     "geom:bbox":"9.57666512003,56.4836673798,9.59454426436,56.4926658982",
     "geom:latitude":56.488616,
     "geom:longitude":9.584879,
@@ -34,7 +35,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297825,
+        1394014051,
         85633121,
         85682597
     ],
@@ -51,15 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297825,
+            "localadmin_id":1394014051,
             "locality_id":101911243,
             "region_id":85682597
         }
     ],
     "wof:id":101911243,
-    "wof:lastmodified":1530291533,
+    "wof:lastmodified":1562795350,
     "wof:name":"Tjele",
-    "wof:parent_id":1159297825,
+    "wof:parent_id":1394014051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

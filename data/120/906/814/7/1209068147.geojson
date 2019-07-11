@@ -31,7 +31,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1394014067,
+        85633121,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"b1b02374459fa5ff378eae48dcca04fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209068147
+            "localadmin_id":1394014067,
+            "locality_id":1209068147,
+            "region_id":85682589
         }
     ],
     "wof:id":1209068147,
-    "wof:lastmodified":1537619830,
+    "wof:lastmodified":1562795098,
     "wof:name":"Om",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1394014067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

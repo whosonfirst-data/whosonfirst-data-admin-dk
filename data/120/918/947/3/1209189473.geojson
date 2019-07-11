@@ -28,7 +28,10 @@
     "mz:is_current":-1,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633121
+        102191581,
+        1159297743,
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +41,17 @@
     "wof:geomhash":"402e509ce0675f8e36d0f1129a068549",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":1209189473
+            "localadmin_id":1159297743,
+            "locality_id":1209189473,
+            "region_id":85682593
         }
     ],
     "wof:id":1209189473,
-    "wof:lastmodified":1536294984,
+    "wof:lastmodified":1562794097,
     "wof:name":"Hostemark",
-    "wof:parent_id":85633121,
+    "wof:parent_id":1159297743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

@@ -32,10 +32,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85682575,
         102191581,
         1159297747,
         85633121,
-        85682575
+        136253045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +48,14 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
+            "empire_id":136253045,
             "localadmin_id":1159297747,
             "locality_id":1326494561,
             "region_id":85682575
         }
     ],
     "wof:id":1326494561,
-    "wof:lastmodified":1537619898,
+    "wof:lastmodified":1562794250,
     "wof:name":"Alkaer",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

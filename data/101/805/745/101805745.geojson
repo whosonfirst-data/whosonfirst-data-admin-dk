@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00024,
+    "geom:area_square_m":1652213.865631,
     "geom:bbox":"9.26046899575,56.1389883197,9.29593294346,56.1506173934",
     "geom:latitude":56.143847,
     "geom:longitude":9.27711,
@@ -60,7 +61,7 @@
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        1159297931,
+        1394014107,
         85633121,
         85682597
     ],
@@ -75,15 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297931,
+            "localadmin_id":1394014107,
             "locality_id":101805745,
             "region_id":85682597
         }
     ],
     "wof:id":101805745,
-    "wof:lastmodified":1530292557,
+    "wof:lastmodified":1562797158,
     "wof:name":"Bording",
-    "wof:parent_id":1159297931,
+    "wof:parent_id":1394014107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

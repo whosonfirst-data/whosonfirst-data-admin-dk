@@ -29,7 +29,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297881,
+        1394013999,
         85633121,
         85682589
     ],
@@ -43,15 +43,15 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297881,
+            "localadmin_id":1394013999,
             "locality_id":1193102015,
             "region_id":85682589
         }
     ],
     "wof:id":1193102015,
-    "wof:lastmodified":1536382479,
+    "wof:lastmodified":1562796265,
     "wof:name":"Ostrup",
-    "wof:parent_id":1159297881,
+    "wof:parent_id":1394013999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
