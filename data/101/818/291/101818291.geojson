@@ -22,7 +22,13 @@
     "name:eng_x_preferred":[
         "Gadstrup"
     ],
+    "name:fra_x_preferred":[
+        "Gadstrup"
+    ],
     "name:nld_x_preferred":[
+        "Gadstrup"
+    ],
+    "name:spa_x_preferred":[
         "Gadstrup"
     ],
     "qs:a0":"Danmark",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":101818291,
-    "wof:lastmodified":1562796268,
+    "wof:lastmodified":1563319403,
     "wof:name":"Gadstrup",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

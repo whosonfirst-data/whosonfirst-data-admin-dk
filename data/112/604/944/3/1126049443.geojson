@@ -39,6 +39,9 @@
     "name:nob_x_preferred":[
         "Blokhus"
     ],
+    "name:spa_x_preferred":[
+        "Blokhus"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126049443,
-    "wof:lastmodified":1562796819,
+    "wof:lastmodified":1563319651,
     "wof:name":"Blokhus",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "R\u00f8nnede"
     ],
+    "name:eng_x_variant":[
+        "R\u00f8nnede Municipality"
+    ],
     "name:fao_x_preferred":[
         "R\u00f8nnede kommuna"
     ],
@@ -47,6 +50,9 @@
     "name:nld_x_preferred":[
         "R\u00f8nnede"
     ],
+    "name:nob_x_preferred":[
+        "R\u00f8nnede kommune"
+    ],
     "name:nor_x_preferred":[
         "R\u00f8nnede kommune"
     ],
@@ -59,8 +65,14 @@
     "name:por_x_preferred":[
         "R\u00f8nnede"
     ],
+    "name:ron_x_preferred":[
+        "Comuna R\u00f8nnede"
+    ],
     "name:swe_x_preferred":[
         "R\u00f8nnede"
+    ],
+    "name:swe_x_variant":[
+        "R\u00f8nnede kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101818265,
-    "wof:lastmodified":1562795246,
+    "wof:lastmodified":1563319404,
     "wof:name":"R\u00f8nnede",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

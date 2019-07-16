@@ -41,6 +41,9 @@
     "name:nob_x_preferred":[
         "Osted"
     ],
+    "name:spa_x_preferred":[
+        "Osted"
+    ],
     "name:swe_x_preferred":[
         "Osted"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101818345,
-    "wof:lastmodified":1562795097,
+    "wof:lastmodified":1563319409,
     "wof:name":"Osted",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

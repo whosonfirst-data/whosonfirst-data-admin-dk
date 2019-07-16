@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "M\u00e5rslet"
     ],
+    "name:spa_x_preferred":[
+        "M\u00e5rslet"
+    ],
     "name:swe_x_preferred":[
         "M\u00e5rslet"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101805595,
-    "wof:lastmodified":1562794956,
+    "wof:lastmodified":1563319435,
     "wof:name":"M\u00e5rslet",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

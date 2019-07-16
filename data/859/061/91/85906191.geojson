@@ -27,7 +27,28 @@
     "name:dan_x_preferred":[
         "S\u00f8torvet"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:fao_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:isl_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:kal_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8torvet"
+    ],
+    "name:nob_x_preferred":[
         "S\u00f8torvet"
     ],
     "name:nor_x_preferred":[
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":85906191,
-    "wof:lastmodified":1530296585,
+    "wof:lastmodified":1563318846,
     "wof:name":"S\u00f8torvet",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -16,17 +16,29 @@
     "mps:longitude":12.058892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "K\u00f8gue"
+    ],
     "name:cat_x_preferred":[
         "Municipi de K\u00f8ge"
     ],
+    "name:cat_x_variant":[
+        "K\u00f8ge"
+    ],
     "name:ceb_x_preferred":[
         "K\u00f8ge Kommune"
+    ],
+    "name:ceb_x_variant":[
+        "K\u00f8ge"
     ],
     "name:csb_x_preferred":[
         "K\u00f8ge"
     ],
     "name:dan_x_preferred":[
         "K\u00f8ge Kommune"
+    ],
+    "name:dan_x_variant":[
+        "K\u00f8ge"
     ],
     "name:deu_x_preferred":[
         "K\u00f8ge Kommune"
@@ -43,8 +55,14 @@
     "name:fao_x_preferred":[
         "K\u00f8ge kommuna"
     ],
+    "name:fao_x_variant":[
+        "K\u00f8ge"
+    ],
     "name:fin_x_preferred":[
         "K\u00f8gen kunta"
+    ],
+    "name:fin_x_variant":[
+        "K\u00f8ge"
     ],
     "name:fra_x_preferred":[
         "K\u00f8ge"
@@ -52,10 +70,16 @@
     "name:frr_x_preferred":[
         "K\u00f8ge Komuun"
     ],
+    "name:frr_x_variant":[
+        "K\u00f8ge"
+    ],
     "name:hrv_x_preferred":[
         "K\u00f8ge"
     ],
     "name:hun_x_preferred":[
+        "K\u00f8ge"
+    ],
+    "name:ind_x_preferred":[
         "K\u00f8ge"
     ],
     "name:isl_x_preferred":[
@@ -127,6 +151,9 @@
     "name:swe_x_preferred":[
         "K\u00f8ge"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u0433\u0435"
+    ],
     "name:vie_x_preferred":[
         "K\u00f8ge"
     ],
@@ -179,7 +206,7 @@
         }
     ],
     "wof:id":101818343,
-    "wof:lastmodified":1562797173,
+    "wof:lastmodified":1563319414,
     "wof:name":"Vemmedrup",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

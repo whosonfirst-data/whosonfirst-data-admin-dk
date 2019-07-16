@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0444\u0431\u043e\u0440\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Ulfborg"
+    ],
     "name:dan_x_preferred":[
         "Ulfborg"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101805727,
-    "wof:lastmodified":1562795073,
+    "wof:lastmodified":1563319502,
     "wof:name":"Ulfborg",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

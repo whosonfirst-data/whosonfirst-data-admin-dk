@@ -21,6 +21,9 @@
     "name:dan_x_preferred":[
         "Holte"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bb\u03c4\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Holte"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125957211,
-    "wof:lastmodified":1562795693,
+    "wof:lastmodified":1563319630,
     "wof:name":"Holte",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

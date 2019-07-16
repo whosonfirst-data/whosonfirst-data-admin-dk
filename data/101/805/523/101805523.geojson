@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Gredstedbro"
     ],
+    "name:spa_x_preferred":[
+        "Gredstedbro"
+    ],
     "name:swe_x_preferred":[
         "Gredstedbro"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101805523,
-    "wof:lastmodified":1562797032,
+    "wof:lastmodified":1563319502,
     "wof:name":"Gredstedbro",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

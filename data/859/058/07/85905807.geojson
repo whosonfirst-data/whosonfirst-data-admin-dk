@@ -27,10 +27,19 @@
     "name:dan_x_preferred":[
         "Amagertorv"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Bradb\u00e6nken"
+    ],
+    "name:eng_x_preferred":[
         "Amagertorv"
     ],
     "name:fra_x_preferred":[
+        "Amagertorv"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30de\u30fc\u5e83\u5834"
+    ],
+    "name:nob_x_preferred":[
         "Amagertorv"
     ],
     "name:nor_x_preferred":[
@@ -38,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "Amagertorv"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9081\u5384\u5ee3\u5834"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":85905807,
-    "wof:lastmodified":1530296515,
+    "wof:lastmodified":1563318865,
     "wof:name":"Amagertorv",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

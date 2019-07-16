@@ -30,6 +30,9 @@
     "name:fao_x_preferred":[
         "Damsholte"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0645\u0634\u0648\u0644\u062a"
+    ],
     "name:fra_x_preferred":[
         "Damsholte"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125807591,
-    "wof:lastmodified":1562796694,
+    "wof:lastmodified":1563319691,
     "wof:name":"Damsholte",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

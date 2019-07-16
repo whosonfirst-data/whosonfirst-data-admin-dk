@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Undl\u00f8se"
     ],
+    "name:spa_x_preferred":[
+        "Undl\u00f8se"
+    ],
     "name:unk_x_variant":[
         "Ondl\u00f8se"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101818315,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1563319384,
     "wof:name":"Undl\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

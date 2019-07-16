@@ -29,10 +29,16 @@
     "name:nld_x_preferred":[
         "Tune"
     ],
+    "name:nno_x_preferred":[
+        "Tune"
+    ],
     "name:nob_x_preferred":[
         "Tune"
     ],
     "name:nor_x_preferred":[
+        "Tune"
+    ],
+    "name:spa_x_preferred":[
         "Tune"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101840803,
-    "wof:lastmodified":1562795416,
+    "wof:lastmodified":1563319542,
     "wof:name":"Tune",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

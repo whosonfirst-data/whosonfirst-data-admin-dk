@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Nyk\u00f8bing Mors"
     ],
+    "name:ceb_x_preferred":[
+        "Nyk\u00f8bing Mors"
+    ],
     "name:ces_x_preferred":[
         "Nyk\u00f8bing Mors"
     ],
@@ -46,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30e5\u30fc\u30af\u30d3\u30f3\u30fb\u30e2\u30fc\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30cb\u30e5\u30af\u30fc\u30d3\u30f3\u30fb\u30e2\u30fc\u30b9"
+    ],
     "name:msa_x_preferred":[
         "Nyk\u00f8bing Mors"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:ron_x_preferred":[
         "Nyk\u00f8bing Mors"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044e\u043a\u0451\u0431\u0438\u043d\u0433-\u041c\u043e\u0440\u0441"
     ],
     "name:spa_x_preferred":[
         "Nyk\u00f8bing Mors"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1126031513,
-    "wof:lastmodified":1562795709,
+    "wof:lastmodified":1563319653,
     "wof:name":"Nyk\u00f8bing Mors",
     "wof:parent_id":1394014007,
     "wof:placetype":"locality",

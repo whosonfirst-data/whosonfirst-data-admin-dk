@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "L\u00f8gstrup"
     ],
+    "name:spa_x_preferred":[
+        "L\u00f8gstrup"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101846085,
-    "wof:lastmodified":1562795362,
+    "wof:lastmodified":1563319521,
     "wof:name":"L\u00f8gstrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

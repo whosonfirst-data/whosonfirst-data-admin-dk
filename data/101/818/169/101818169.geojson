@@ -28,6 +28,9 @@
     "name:rus_x_preferred":[
         "\u042d\u0441\u043a\u0438\u043b\u044c\u0441\u0442\u0440\u0443\u043f"
     ],
+    "name:spa_x_preferred":[
+        "Eskilstrup"
+    ],
     "name:unk_x_variant":[
         "Eskildstrup"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101818169,
-    "wof:lastmodified":1561777992,
+    "wof:lastmodified":1563319372,
     "wof:name":"Eskilstrup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

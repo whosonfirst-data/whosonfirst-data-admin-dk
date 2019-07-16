@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "N\u00f8debo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30bc\u30dc\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "N\u00f8debo"
+    ],
+    "name:spa_x_preferred":[
         "N\u00f8debo"
     ],
     "name:swe_x_preferred":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":101818409,
-    "wof:lastmodified":1562794613,
+    "wof:lastmodified":1563319381,
     "wof:name":"N\u00f8debo",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

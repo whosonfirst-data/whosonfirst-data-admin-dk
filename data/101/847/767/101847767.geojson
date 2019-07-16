@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0440\u043b\u0435\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Forlev"
+    ],
     "name:dan_x_preferred":[
         "Forlev"
     ],
@@ -27,6 +30,12 @@
         "Forlev"
     ],
     "name:nld_x_preferred":[
+        "Forlev"
+    ],
+    "name:nob_x_preferred":[
+        "Forlev"
+    ],
+    "name:spa_x_preferred":[
         "Forlev"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":101847767,
-    "wof:lastmodified":1562796519,
+    "wof:lastmodified":1563319536,
     "wof:name":"Forlev",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

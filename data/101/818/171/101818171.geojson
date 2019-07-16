@@ -31,6 +31,9 @@
     "name:nor_x_preferred":[
         "V\u00e6ggerl\u00f8se"
     ],
+    "name:spa_x_preferred":[
+        "V\u00e6ggerl\u00f8se"
+    ],
     "name:unk_x_variant":[
         "Vigerl\u00f6se"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101818171,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1563319414,
     "wof:name":"V\u00e6ggerl\u00f8se",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

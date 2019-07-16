@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Lejre"
+    ],
+    "name:ceb_x_preferred":[
+        "Lejre"
+    ],
     "name:dan_x_preferred":[
         "Lejre"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:fra_x_preferred":[
         "Lejre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d9\u05e8\u05d4"
     ],
     "name:hun_x_preferred":[
         "Lejre"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1125873589,
-    "wof:lastmodified":1562795097,
+    "wof:lastmodified":1563319698,
     "wof:name":"Gammel Lejre",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

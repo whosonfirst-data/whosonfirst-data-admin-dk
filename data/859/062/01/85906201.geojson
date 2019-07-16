@@ -27,7 +27,34 @@
     "name:dan_x_preferred":[
         "Store Kannikestr\u00e6de"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:eng_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:fao_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:fra_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:isl_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:kal_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:nld_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:nno_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:nob_x_preferred":[
+        "Store Kannikestr\u00e6de"
+    ],
+    "name:swe_x_preferred":[
         "Store Kannikestr\u00e6de"
     ],
     "name:unk_x_variant":[
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":85906201,
-    "wof:lastmodified":1530296587,
+    "wof:lastmodified":1563318835,
     "wof:name":"Store Kannikestr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -23,6 +23,24 @@
     "name:dan_x_preferred":[
         "Vamdrup"
     ],
+    "name:eng_x_preferred":[
+        "Vamdrup"
+    ],
+    "name:fra_x_preferred":[
+        "Vamdrup"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30e0\u30c9\u30ed\u30d7"
+    ],
+    "name:nld_x_preferred":[
+        "Vamdrup"
+    ],
+    "name:slv_x_preferred":[
+        "Vamdrup"
+    ],
+    "name:spa_x_preferred":[
+        "Vamdrup"
+    ],
     "name:swe_x_preferred":[
         "Vamdrup"
     ],
@@ -74,7 +92,7 @@
         }
     ],
     "wof:id":101805441,
-    "wof:lastmodified":1562795314,
+    "wof:lastmodified":1563319446,
     "wof:name":"Vamdrup",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

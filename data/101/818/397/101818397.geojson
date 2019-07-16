@@ -24,7 +24,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0435\u043b\u044c\u0441\u0456\u043d\u0433\u0451\u0440"
     ],
     "name:bel_x_variant":[
-        "\u0413\u044d\u043b\u044c\u0441\u044b\u043d\u0433\u0451\u0440"
+        "\u0413\u044d\u043b\u044c\u0441\u044b\u043d\u0433\u0451\u0440",
+        "\u0425\u0435\u043b\u044c\u0441\u0456\u043d\u0433\u0451\u0440"
     ],
     "name:cat_x_preferred":[
         "Helsing\u00f8r"
@@ -39,6 +40,9 @@
         "Helsing\u00f8r"
     ],
     "name:csb_x_preferred":[
+        "Helsing\u00f8r"
+    ],
+    "name:cym_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:dan_x_colloquial":[
@@ -117,6 +121,9 @@
     "name:ita_x_preferred":[
         "Elsinore"
     ],
+    "name:ita_x_variant":[
+        "Helsing\u00f8r"
+    ],
     "name:jav_x_preferred":[
         "Helsing\u00f8r"
     ],
@@ -143,6 +150,9 @@
     ],
     "name:lmo_x_preferred":[
         "Elsin\u00f6r"
+    ],
+    "name:ltz_x_preferred":[
+        "Helsing\u00f8r"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u043b\u0441\u0438\u043d\u0433\u0435\u0440"
@@ -198,6 +208,9 @@
     "name:tat_x_preferred":[
         "\u04ba\u0435\u043b\u0441\u0438\u043d\u0433\u04e9\u0440"
     ],
+    "name:tat_x_variant":[
+        "\u04ba\u0435\u043b\u0441\u0438\u04a3\u04e9\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2e\u0e25\u0e0b\u0e34\u0e07\u0e40\u0e07\u0e2d\u0e23\u0e4c"
     ],
@@ -211,6 +224,9 @@
         "Helsing\u00f8r"
     ],
     "name:vol_x_preferred":[
+        "Helsing\u00f8r"
+    ],
+    "name:war_x_preferred":[
         "Helsing\u00f8r"
     ],
     "name:yue_x_preferred":[
@@ -272,7 +288,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795293,
+    "wof:lastmodified":1563319371,
     "wof:name":"Helsing\u00f8r",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

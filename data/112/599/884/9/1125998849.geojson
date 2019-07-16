@@ -21,6 +21,9 @@
     "name:bar_x_preferred":[
         "Gudhjem"
     ],
+    "name:ceb_x_preferred":[
+        "Gudhjem"
+    ],
     "name:dan_x_preferred":[
         "Gudhjem"
     ],
@@ -36,6 +39,9 @@
     "name:glg_x_preferred":[
         "Gudhjem"
     ],
+    "name:ltz_x_preferred":[
+        "Gudhjem"
+    ],
     "name:nld_x_preferred":[
         "Gudhjem"
     ],
@@ -49,6 +55,9 @@
         "Gudhjem"
     ],
     "name:ron_x_preferred":[
+        "Gudhjem"
+    ],
+    "name:spa_x_preferred":[
         "Gudhjem"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125998849,
-    "wof:lastmodified":1562794650,
+    "wof:lastmodified":1563319704,
     "wof:name":"Gudhjem",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

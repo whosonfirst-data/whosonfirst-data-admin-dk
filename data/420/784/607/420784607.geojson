@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5916796297,55.683839202,12.5916796297,55.683839202",
     "geom:latitude":55.683839,
     "geom:longitude":12.59168,
@@ -23,13 +24,25 @@
     "name:dan_x_preferred":[
         "Frederiksstaden"
     ],
+    "name:eng_x_preferred":[
+        "Frederiksstaden"
+    ],
     "name:fra_x_preferred":[
         "Frederiksstaden"
     ],
     "name:isl_x_preferred":[
         "Frederiksstaden"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30ba\u30ec\u30af\u30b9\u30c6\u30fc\u30bc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Frederiksstaden"
+    ],
     "name:nno_x_preferred":[
+        "Frederiksstaden"
+    ],
+    "name:nob_x_preferred":[
         "Frederiksstaden"
     ],
     "name:nor_x_preferred":[
@@ -69,7 +82,7 @@
         }
     ],
     "wof:id":420784607,
-    "wof:lastmodified":1530296501,
+    "wof:lastmodified":1563319588,
     "wof:name":"Frederiksstaden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

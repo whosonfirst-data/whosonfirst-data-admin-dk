@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":2597271.25365,
+    "geom:area_square_m":2597271.253652,
     "geom:bbox":"9.62705122312,56.9692090444,9.65988542682,56.9908414886",
     "geom:latitude":56.981163,
     "geom:longitude":9.641625,
@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Nibe"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u0431\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Nibe"
     ],
@@ -29,13 +32,25 @@
     "name:deu_x_preferred":[
         "Nibe"
     ],
+    "name:eng_x_preferred":[
+        "Nibe"
+    ],
+    "name:fin_x_preferred":[
+        "Nibe"
+    ],
     "name:fra_x_preferred":[
         "Nibe"
     ],
     "name:isl_x_preferred":[
         "Nibe"
     ],
+    "name:ita_x_preferred":[
+        "Nibe"
+    ],
     "name:nld_x_preferred":[
+        "Nibe"
+    ],
+    "name:nob_x_preferred":[
         "Nibe"
     ],
     "name:nor_x_preferred":[
@@ -53,7 +68,13 @@
     "name:sco_x_preferred":[
         "Nibe"
     ],
+    "name:spa_x_preferred":[
+        "Nibe"
+    ],
     "name:swe_x_preferred":[
+        "Nibe"
+    ],
+    "name:szl_x_preferred":[
         "Nibe"
     ],
     "qs:a0":"Danmark",
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":101805791,
-    "wof:lastmodified":1530296412,
+    "wof:lastmodified":1563319436,
     "wof:name":"Nibe",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

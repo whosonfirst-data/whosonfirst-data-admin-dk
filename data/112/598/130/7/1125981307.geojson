@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0443\u043d\u0441\u0435\u0431\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Hunseby"
+    ],
     "name:dan_x_preferred":[
         "Hunseby"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125981307,
-    "wof:lastmodified":1562795018,
+    "wof:lastmodified":1563319754,
     "wof:name":"Hunseby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

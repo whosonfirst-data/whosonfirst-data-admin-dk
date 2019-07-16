@@ -31,6 +31,12 @@
     "name:dan_x_variant":[
         "Ydre \u00d8sterbro"
     ],
+    "name:eng_x_preferred":[
+        "Ydre \u00d8sterbro"
+    ],
+    "name:nob_x_preferred":[
+        "Ydre \u00d8sterbro"
+    ],
     "name:nor_x_preferred":[
         "Ydre \u00d8sterbro"
     ],
@@ -96,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1536864519,
+    "wof:lastmodified":1563318838,
     "wof:name":"Ydre \u00d8sterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

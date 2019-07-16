@@ -19,6 +19,9 @@
     "name:afr_x_preferred":[
         "Gammel Rye"
     ],
+    "name:ceb_x_preferred":[
+        "Gammel Rye"
+    ],
     "name:dan_x_preferred":[
         "Gammel Rye"
     ],
@@ -32,6 +35,9 @@
         "\u30ea\u30e5\u30fc"
     ],
     "name:nld_x_preferred":[
+        "Gammel Rye"
+    ],
+    "name:spa_x_preferred":[
         "Gammel Rye"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101805671,
-    "wof:lastmodified":1561778001,
+    "wof:lastmodified":1563319477,
     "wof:name":"Gammel Rye",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

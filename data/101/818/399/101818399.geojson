@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":8579883.597201,
+    "geom:area_square_m":8579883.5972,
     "geom:bbox":"11.8418007442,55.9413190234,11.9070734463,55.984301235",
     "geom:latitude":55.959402,
     "geom:longitude":11.86877,
@@ -17,6 +17,9 @@
     "mps:longitude":11.860117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043d\u0434\u0435\u0441\u0442\u0435\u0434"
+    ],
     "name:ceb_x_preferred":[
         "Hundested"
     ],
@@ -35,7 +38,13 @@
     "name:fra_x_preferred":[
         "Hundested"
     ],
+    "name:ita_x_preferred":[
+        "Hundested"
+    ],
     "name:nld_x_preferred":[
+        "Hundested"
+    ],
+    "name:nob_x_preferred":[
         "Hundested"
     ],
     "name:nor_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":101818399,
-    "wof:lastmodified":1530296457,
+    "wof:lastmodified":1563319369,
     "wof:name":"Hundested",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

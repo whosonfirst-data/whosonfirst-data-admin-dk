@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.54947952,55.6952893154,12.54947952,55.6952893154",
     "geom:latitude":55.695289,
     "geom:longitude":12.54948,
@@ -23,22 +24,37 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0628\u0631\u0648"
     ],
+    "name:bos_x_preferred":[
+        "N\u00f8rrebro"
+    ],
     "name:dan_x_preferred":[
         "N\u00f8rrebro"
     ],
     "name:deu_x_preferred":[
         "N\u00f8rrebro"
     ],
+    "name:eng_x_preferred":[
+        "N\u00f8rrebro"
+    ],
     "name:eus_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:fin_x_preferred":[
         "N\u00f8rrebro"
     ],
     "name:fra_x_preferred":[
         "N\u00f8rrebro"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05e0\u05d4\u05d2\u05df/\u05e0\u05d5\u05e8\u05d4\u05d1\u05e8\u05d5"
+    ],
     "name:ita_x_preferred":[
         "N\u00f8rrebro"
     ],
     "name:nld_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:nob_x_preferred":[
         "N\u00f8rrebro"
     ],
     "name:nor_x_preferred":[
@@ -49,6 +65,12 @@
     ],
     "name:spa_x_preferred":[
         "N\u00f8rrebro"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u96f7\u5e03\u7f85"
     ],
     "src:geom":"unknown",
     "wd:wordcount":745,
@@ -78,7 +100,7 @@
         }
     ],
     "wof:id":420784595,
-    "wof:lastmodified":1530296499,
+    "wof:lastmodified":1563319582,
     "wof:name":"N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

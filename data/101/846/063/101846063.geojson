@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Bredsten"
     ],
+    "name:spa_x_preferred":[
+        "Bredsten"
+    ],
     "name:swe_x_preferred":[
         "Bredsten"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101846063,
-    "wof:lastmodified":1562796851,
+    "wof:lastmodified":1563319523,
     "wof:name":"Bredsten",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

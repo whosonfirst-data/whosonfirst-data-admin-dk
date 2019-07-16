@@ -58,6 +58,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0432\u0430\u043d\u0435\u043a\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Svaneke"
+    ],
     "name:swe_x_preferred":[
         "Svaneke"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101818195,
-    "wof:lastmodified":1562794666,
+    "wof:lastmodified":1563319367,
     "wof:name":"Svaneke",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

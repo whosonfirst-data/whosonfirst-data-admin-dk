@@ -53,6 +53,9 @@
     "name:swe_x_preferred":[
         "Thybor\u00f8n"
     ],
+    "name:swe_x_variant":[
+        "Kib\u00e6k"
+    ],
     "name:unk_x_variant":[
         "Tybor\u00f8n By"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101805575,
-    "wof:lastmodified":1562796984,
+    "wof:lastmodified":1563319460,
     "wof:name":"Thybor\u00f8n",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

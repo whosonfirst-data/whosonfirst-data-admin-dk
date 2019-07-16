@@ -28,6 +28,12 @@
     "name:dan_x_preferred":[
         "Vestamager"
     ],
+    "name:eng_x_preferred":[
+        "Vestamager"
+    ],
+    "name:swe_x_preferred":[
+        "Vestamager"
+    ],
     "name:unk_x_variant":[
         "Vestamager"
     ],
@@ -62,10 +68,10 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":142,
     "wof:belongsto":[
-        85682581,
         102191581,
         1394013997,
-        85633121
+        85633121,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795564,
+    "wof:lastmodified":1563318839,
     "wof:name":"Vestamager",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

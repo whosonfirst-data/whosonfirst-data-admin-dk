@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Errits\u00f8"
     ],
+    "name:ceb_x_preferred":[
+        "Errits\u00f8"
+    ],
     "name:ces_x_preferred":[
         "Errits\u00f8"
     ],
@@ -432,7 +435,7 @@
         }
     ],
     "wof:id":1126033681,
-    "wof:lastmodified":1562794487,
+    "wof:lastmodified":1563319655,
     "wof:name":"Errits\u00f8",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

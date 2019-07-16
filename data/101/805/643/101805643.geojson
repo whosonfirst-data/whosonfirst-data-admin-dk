@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "L\u00e5sby"
     ],
+    "name:spa_x_preferred":[
+        "L\u00e5sby"
+    ],
     "name:unk_x_variant":[
         "Laasby"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101805643,
-    "wof:lastmodified":1561777999,
+    "wof:lastmodified":1563319441,
     "wof:name":"L\u00e5sby",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

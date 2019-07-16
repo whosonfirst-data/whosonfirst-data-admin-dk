@@ -17,6 +17,9 @@
     "mps:longitude":11.291338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "H\u00f8ng Kommune"
+    ],
     "name:ceb_x_preferred":[
         "H\u00f8ng"
     ],
@@ -38,11 +41,17 @@
     "name:fao_x_variant":[
         "H\u00f8ng"
     ],
+    "name:fra_x_preferred":[
+        "H\u00f8ng"
+    ],
     "name:ita_x_preferred":[
         "H\u00f8ng"
     ],
     "name:nld_x_preferred":[
         "H\u00f8ng"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00f8ng kommune"
     ],
     "name:nor_x_preferred":[
         "H\u00f8ng kommune"
@@ -61,6 +70,10 @@
     ],
     "name:swe_x_preferred":[
         "H\u00f8ng"
+    ],
+    "name:swe_x_variant":[
+        "\u00d8lstykke kommun",
+        "H\u00f8ngs kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
@@ -108,7 +121,7 @@
         }
     ],
     "wof:id":101818277,
-    "wof:lastmodified":1562794381,
+    "wof:lastmodified":1563319396,
     "wof:name":"H\u00f8ng",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0451\u043a\u043a\u0435\u043d"
     ],
+    "name:spa_x_preferred":[
+        "L\u00f8kken"
+    ],
     "name:swe_x_preferred":[
         "L\u00f8kken"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805817,
-    "wof:lastmodified":1562796829,
+    "wof:lastmodified":1563319445,
     "wof:name":"L\u00f8kken",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

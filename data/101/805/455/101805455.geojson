@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "L\u00f8gumkloster"
     ],
+    "name:deu_x_variant":[
+        "L\u00fcgumkloster"
+    ],
     "name:eng_x_preferred":[
         "L\u00f8gumkloster"
     ],
@@ -39,6 +42,9 @@
         "L\u00f8gumkloster"
     ],
     "name:nld_x_preferred":[
+        "L\u00f8gumkloster"
+    ],
+    "name:nob_x_preferred":[
         "L\u00f8gumkloster"
     ],
     "name:nor_x_preferred":[
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":101805455,
-    "wof:lastmodified":1562795980,
+    "wof:lastmodified":1563319454,
     "wof:name":"L\u00f8gumkloster",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u0631\u064a\u064a\u0644\u0627\u0646\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Jutlandia Septentrional"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u042e\u0442\u043b\u0430\u043d\u0434\u044b\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09a1\u09c7\u09a8\u09ae\u09be\u09b0\u09cd\u0995 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bos_x_preferred":[
+        "Sjeverna Danska"
     ],
     "name:bre_x_preferred":[
         "Norzhjutland"
@@ -47,6 +53,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Nordjylland"
+    ],
+    "name:ceb_x_preferred":[
+        "North Denmark Region"
     ],
     "name:ces_x_preferred":[
         "Nordjylland"
@@ -215,8 +224,14 @@
     "name:swe_x_preferred":[
         "Nordjylland"
     ],
+    "name:swe_x_variant":[
+        "Region Nordjylland"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u04e9\u043d\u044c\u044f\u043a \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c21\u0c46\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -235,6 +250,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1eafc Jutland"
+    ],
+    "name:vls_x_preferred":[
+        "N\u00f4ord-Jutland"
     ],
     "name:zho_x_preferred":[
         "\u5317\u65e5\u5fb7\u5170\u5927\u533a"
@@ -357,7 +375,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1561777965,
+    "wof:lastmodified":1563318892,
     "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

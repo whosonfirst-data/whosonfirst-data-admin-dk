@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u043c\u0435\u043d\u0441\u043a\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Klemensker"
+    ],
     "name:dan_x_preferred":[
         "Klemensker"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125959731,
-    "wof:lastmodified":1562794655,
+    "wof:lastmodified":1563319630,
     "wof:name":"Klemensker",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

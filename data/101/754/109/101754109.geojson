@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Taarb\u00e6k"
     ],
+    "name:nob_x_preferred":[
+        "Taarb\u00e6k"
+    ],
     "name:por_x_preferred":[
         "Taarb\u00e6k"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101754109,
-    "wof:lastmodified":1561777991,
+    "wof:lastmodified":1563319362,
     "wof:name":"Taarb\u00e6k",
     "wof:parent_id":1159297723,
     "wof:placetype":"locality",

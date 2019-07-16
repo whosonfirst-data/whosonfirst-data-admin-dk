@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043b\u0435\u0440\u0443\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Bullerup"
+    ],
     "name:dan_x_preferred":[
         "Bullerup"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126014495,
-    "wof:lastmodified":1562795756,
+    "wof:lastmodified":1563319763,
     "wof:name":"Bullerup",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

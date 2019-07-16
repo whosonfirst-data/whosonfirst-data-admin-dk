@@ -41,6 +41,9 @@
     "name:nor_x_preferred":[
         "Tarm"
     ],
+    "name:spa_x_preferred":[
+        "Tarm"
+    ],
     "name:swe_x_preferred":[
         "Tarm"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101846101,
-    "wof:lastmodified":1562796097,
+    "wof:lastmodified":1563319526,
     "wof:name":"Tarm",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

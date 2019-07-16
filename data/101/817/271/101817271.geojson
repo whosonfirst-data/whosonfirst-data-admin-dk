@@ -41,6 +41,12 @@
     "name:nor_x_preferred":[
         "Helleb\u00e6k"
     ],
+    "name:ron_x_preferred":[
+        "Helleb\u00e6k"
+    ],
+    "name:spa_x_preferred":[
+        "Helleb\u00e6k"
+    ],
     "name:swe_x_preferred":[
         "Helleb\u00e6k"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101817271,
-    "wof:lastmodified":1562795293,
+    "wof:lastmodified":1563319428,
     "wof:name":"Helleb\u00e6k",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mps:longitude":9.738545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Fredericia"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u0440\u044d\u0434\u044d\u0440\u044b\u0441\u0456\u044f"
     ],
@@ -33,6 +36,9 @@
         "Fredericia"
     ],
     "name:csb_x_preferred":[
+        "Fredericia"
+    ],
+    "name:cym_x_preferred":[
         "Fredericia"
     ],
     "name:dan_x_preferred":[
@@ -125,6 +131,9 @@
     "name:nld_x_preferred":[
         "Fredericia"
     ],
+    "name:nno_x_preferred":[
+        "Fredericia"
+    ],
     "name:nob_x_preferred":[
         "Fredericia"
     ],
@@ -157,6 +166,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0446\u0438\u0458\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0438\u0458\u0430"
     ],
     "name:stq_x_preferred":[
         "Fredericia"
@@ -231,7 +243,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562794488,
+    "wof:lastmodified":1563319452,
     "wof:name":"Fredericia",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

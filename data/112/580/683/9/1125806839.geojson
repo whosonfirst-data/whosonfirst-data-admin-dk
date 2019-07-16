@@ -30,6 +30,9 @@
     "name:fao_x_preferred":[
         "Melby"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0628\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Melby"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125806839,
-    "wof:lastmodified":1561778017,
+    "wof:lastmodified":1563319693,
     "wof:name":"Melby",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

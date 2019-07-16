@@ -27,10 +27,34 @@
     "name:dan_x_preferred":[
         "\u00c5boulevard"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:fao_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:isl_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:kal_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:nob_x_preferred":[
         "\u00c5boulevard"
     ],
     "name:nor_x_preferred":[
+        "\u00c5boulevard"
+    ],
+    "name:swe_x_preferred":[
         "\u00c5boulevard"
     ],
     "name:unk_x_variant":[
@@ -90,7 +114,7 @@
         }
     ],
     "wof:id":85905789,
-    "wof:lastmodified":1530296511,
+    "wof:lastmodified":1563318859,
     "wof:name":"\u00c5boulevard",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

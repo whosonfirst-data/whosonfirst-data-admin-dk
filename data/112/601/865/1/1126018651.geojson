@@ -30,6 +30,9 @@
     "name:nob_x_preferred":[
         "B\u00e6kke"
     ],
+    "name:spa_x_preferred":[
+        "B\u00e6kke"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126018651,
-    "wof:lastmodified":1562794298,
+    "wof:lastmodified":1563319772,
     "wof:name":"B\u00e6kke",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

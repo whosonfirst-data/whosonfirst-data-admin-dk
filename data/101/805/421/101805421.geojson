@@ -24,13 +24,37 @@
     "name:dan_x_preferred":[
         "Aarup"
     ],
+    "name:deu_x_preferred":[
+        "Aarup"
+    ],
+    "name:eng_x_preferred":[
+        "Aarup"
+    ],
     "name:fao_x_preferred":[
         "Aarup kommuna"
+    ],
+    "name:fao_x_variant":[
+        "Aarup"
+    ],
+    "name:fra_x_preferred":[
+        "Aarup"
+    ],
+    "name:isl_x_preferred":[
+        "Aarup"
     ],
     "name:ita_x_preferred":[
         "Aarup"
     ],
+    "name:kal_x_preferred":[
+        "Aarup"
+    ],
     "name:nld_x_preferred":[
+        "Aarup"
+    ],
+    "name:nno_x_preferred":[
+        "Aarup"
+    ],
+    "name:nob_x_preferred":[
         "Aarup"
     ],
     "name:nor_x_preferred":[
@@ -42,8 +66,14 @@
     "name:por_x_preferred":[
         "Aarup"
     ],
+    "name:spa_x_preferred":[
+        "Aarup"
+    ],
     "name:swe_x_preferred":[
         "Aarups kommun"
+    ],
+    "name:swe_x_variant":[
+        "Aarup"
     ],
     "name:unk_x_variant":[
         "\u00c5rup"
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":101805421,
-    "wof:lastmodified":1562796428,
+    "wof:lastmodified":1563319474,
     "wof:name":"Aarup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

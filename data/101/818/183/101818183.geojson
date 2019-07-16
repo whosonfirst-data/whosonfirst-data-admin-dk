@@ -32,6 +32,9 @@
     "name:fao_x_preferred":[
         "Stege"
     ],
+    "name:fin_x_preferred":[
+        "Stege"
+    ],
     "name:fra_x_preferred":[
         "Stege"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101818183,
-    "wof:lastmodified":1562796686,
+    "wof:lastmodified":1563319409,
     "wof:name":"Stege",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

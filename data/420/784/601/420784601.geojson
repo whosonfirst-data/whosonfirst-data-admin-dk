@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.49317456,55.7502354077,12.49317456,55.7502354077",
     "geom:latitude":55.750235,
     "geom:longitude":12.493175,
@@ -23,7 +24,19 @@
     "name:dan_x_preferred":[
         "Buddinge"
     ],
+    "name:deu_x_preferred":[
+        "Buddinge"
+    ],
+    "name:eng_x_preferred":[
+        "Buddinge"
+    ],
     "name:msa_x_preferred":[
+        "Buddinge"
+    ],
+    "name:nld_x_preferred":[
+        "Buddinge"
+    ],
+    "name:swe_x_preferred":[
         "Buddinge"
     ],
     "src:geom":"unknown",
@@ -53,7 +66,7 @@
         }
     ],
     "wof:id":420784601,
-    "wof:lastmodified":1530296500,
+    "wof:lastmodified":1563319587,
     "wof:name":"Buddinge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

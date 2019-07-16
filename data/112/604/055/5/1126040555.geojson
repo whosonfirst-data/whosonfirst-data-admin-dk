@@ -24,10 +24,16 @@
     "name:deu_x_preferred":[
         "B\u00f6nnerup Strand"
     ],
+    "name:deu_x_variant":[
+        "B\u00f8nnerup Strand"
+    ],
     "name:eng_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
     "name:nld_x_preferred":[
+        "B\u00f8nnerup Strand"
+    ],
+    "name:spa_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
     "name:unk_x_variant":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1126040555,
-    "wof:lastmodified":1562794818,
+    "wof:lastmodified":1563319646,
     "wof:name":"B\u00f8nnerup Strand",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

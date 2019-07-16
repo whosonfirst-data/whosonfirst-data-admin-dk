@@ -24,11 +24,44 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u064a\u0627\u0633 \u0628\u064a\u0648\u0631\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:cat_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
     "name:dan_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:deu_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:eng_x_preferred":[
         "Andreas Bj\u00f8rn"
     ],
     "name:eng_x_variant":[
         "Andreas Bj\u00f8rns Gade"
+    ],
+    "name:fin_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:fra_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:nld_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:slv_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:spa_x_preferred":[
+        "Andreas Bj\u00f8rn"
+    ],
+    "name:sqi_x_preferred":[
+        "Andreas Bj\u00f8rn"
     ],
     "name:unk_x_variant":[
         "Andreas Bj\u00f8rns Gade"
@@ -87,7 +120,7 @@
         }
     ],
     "wof:id":85905813,
-    "wof:lastmodified":1530296516,
+    "wof:lastmodified":1563318869,
     "wof:name":"Andreas Bj\u00f8rns Gade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

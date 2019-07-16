@@ -30,6 +30,9 @@
     "name:nld_x_preferred":[
         "Tranum"
     ],
+    "name:spa_x_preferred":[
+        "Tranum"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126017631,
-    "wof:lastmodified":1562796818,
+    "wof:lastmodified":1563319760,
     "wof:name":"Tranum",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

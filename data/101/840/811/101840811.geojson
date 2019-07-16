@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Tisvilde"
     ],
+    "name:spa_x_preferred":[
+        "Tisvilde"
+    ],
     "name:swe_x_preferred":[
         "Tisvilde"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101840811,
-    "wof:lastmodified":1562795875,
+    "wof:lastmodified":1563319541,
     "wof:name":"Tisvilde",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

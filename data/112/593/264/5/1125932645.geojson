@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0440\u043a\u0435\u043d\u0434\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440\u043a\u0435\u043d\u0434\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Birkende"
     ],
     "name:dan_x_preferred":[
         "Birkende"
@@ -34,6 +40,9 @@
         "Birkende"
     ],
     "name:nob_x_preferred":[
+        "Birkende"
+    ],
+    "name:spa_x_preferred":[
         "Birkende"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125932645,
-    "wof:lastmodified":1562794348,
+    "wof:lastmodified":1563319612,
     "wof:name":"Birkende",
     "wof:parent_id":1159297755,
     "wof:placetype":"locality",

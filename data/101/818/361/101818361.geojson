@@ -34,7 +34,13 @@
     "name:fra_x_preferred":[
         "Karise"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30fc\u30bb"
+    ],
     "name:nld_x_preferred":[
+        "Karise"
+    ],
+    "name:spa_x_preferred":[
         "Karise"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101818361,
-    "wof:lastmodified":1562795239,
+    "wof:lastmodified":1563319388,
     "wof:name":"Karise",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

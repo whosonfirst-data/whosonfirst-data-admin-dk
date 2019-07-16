@@ -24,7 +24,28 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
+        "Krystalgade"
+    ],
+    "name:deu_x_preferred":[
+        "Krystalgade"
+    ],
+    "name:eng_x_preferred":[
+        "Krystalgade"
+    ],
+    "name:fra_x_preferred":[
+        "krystalgade"
+    ],
+    "name:nld_x_preferred":[
+        "Krystalgade"
+    ],
+    "name:nob_x_preferred":[
+        "Krystalgade"
+    ],
+    "name:spa_x_preferred":[
+        "Calle Krystal"
+    ],
+    "name:swe_x_preferred":[
         "Krystalgade"
     ],
     "name:unk_x_variant":[
@@ -84,7 +105,7 @@
         }
     ],
     "wof:id":85906011,
-    "wof:lastmodified":1530296553,
+    "wof:lastmodified":1563318872,
     "wof:name":"Krystalgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

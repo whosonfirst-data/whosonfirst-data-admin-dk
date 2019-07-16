@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000409,
-    "geom:area_square_m":2836813.159497,
+    "geom:area_square_m":2836813.159496,
     "geom:bbox":"11.9647233159,55.8333844304,12.012580795,55.8602844766",
     "geom:latitude":55.851287,
     "geom:longitude":11.990383,
@@ -32,10 +32,22 @@
     "name:fao_x_preferred":[
         "J\u00e6gerspris"
     ],
+    "name:fao_x_variant":[
+        "J\u00e6gerspris kommuna"
+    ],
     "name:fra_x_preferred":[
         "J\u00e6gerspris"
     ],
+    "name:ita_x_preferred":[
+        "J\u00e6gerspris"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30fc\u30a2\u30b9\u30d7\u30ea\u30b9"
+    ],
     "name:nld_x_preferred":[
+        "J\u00e6gerspris"
+    ],
+    "name:nob_x_preferred":[
         "J\u00e6gerspris"
     ],
     "name:nor_x_preferred":[
@@ -48,6 +60,12 @@
         "Gmina J\u00e6gerspris"
     ],
     "name:por_x_preferred":[
+        "J\u00e6gerspris"
+    ],
+    "name:sco_x_preferred":[
+        "J\u00e6gerspris"
+    ],
+    "name:spa_x_preferred":[
         "J\u00e6gerspris"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":101818247,
-    "wof:lastmodified":1530296440,
+    "wof:lastmodified":1563319398,
     "wof:name":"J\u00e6gerspris",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

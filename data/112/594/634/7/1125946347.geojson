@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u0435\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Orehoved"
+    ],
     "name:dan_x_preferred":[
         "Orehoved"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125946347,
-    "wof:lastmodified":1561778008,
+    "wof:lastmodified":1563319592,
     "wof:name":"Orehoved",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

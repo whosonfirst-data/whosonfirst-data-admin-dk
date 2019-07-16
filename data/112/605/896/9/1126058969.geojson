@@ -48,6 +48,9 @@
     "name:nob_x_preferred":[
         "S\u00f8nderho"
     ],
+    "name:spa_x_preferred":[
+        "S\u00f8nderho"
+    ],
     "name:swe_x_preferred":[
         "S\u00f8nderho"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126058969,
-    "wof:lastmodified":1562796032,
+    "wof:lastmodified":1563319642,
     "wof:name":"S\u00f8nderho",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00147,
-    "geom:area_square_m":10252941.57348,
+    "geom:area_square_m":10252941.573479,
     "geom:bbox":"12.5985717773,55.6380143288,12.6593835449,55.6806808076",
     "geom:latitude":55.658393,
     "geom:longitude":12.634012,
@@ -31,6 +31,12 @@
         "Sundbyoster"
     ],
     "name:dan_x_preferred":[
+        "Sundby\u00f8ster"
+    ],
+    "name:eng_x_preferred":[
+        "Sundby\u00f8ster"
+    ],
+    "name:nob_x_preferred":[
         "Sundby\u00f8ster"
     ],
     "name:nor_x_preferred":[
@@ -101,7 +107,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296610,
+    "wof:lastmodified":1563318839,
     "wof:name":"Sundby\u00f8ster",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003128,
-    "geom:area_square_m":21792099.130061,
+    "geom:area_square_m":21792099.130057,
     "geom:bbox":"12.3908178711,55.6882403248,12.4969482422,55.7441198899",
     "geom:latitude":55.713537,
     "geom:longitude":12.444763,
@@ -25,6 +25,18 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:dan_x_preferred":[
+        "Husum"
+    ],
+    "name:deu_x_preferred":[
+        "Husum"
+    ],
+    "name:eng_x_preferred":[
+        "Husum"
+    ],
+    "name:nob_x_preferred":[
+        "Husum"
+    ],
+    "name:swe_x_preferred":[
         "Husum"
     ],
     "name:unk_x_variant":[
@@ -60,11 +72,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +103,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530290467,
+    "wof:lastmodified":1563318898,
     "wof:name":"Husum",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

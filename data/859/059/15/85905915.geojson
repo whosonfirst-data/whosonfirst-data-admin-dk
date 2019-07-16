@@ -27,7 +27,13 @@
     "name:dan_x_preferred":[
         "Frederiksgade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:nld_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:nob_x_preferred":[
         "Frederiksgade"
     ],
     "name:nor_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":85905915,
-    "wof:lastmodified":1530296535,
+    "wof:lastmodified":1563318857,
     "wof:name":"Frederiksgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

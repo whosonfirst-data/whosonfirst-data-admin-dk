@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "S\u00f8nder Bjert"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062f\u0631 \u0628\u0631\u062a"
+    ],
     "name:nld_x_preferred":[
+        "S\u00f8nder Bjert"
+    ],
+    "name:spa_x_preferred":[
         "S\u00f8nder Bjert"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101846045,
-    "wof:lastmodified":1562795303,
+    "wof:lastmodified":1563319526,
     "wof:name":"S\u00f8nder Bjert",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

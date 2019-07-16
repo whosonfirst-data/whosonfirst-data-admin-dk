@@ -27,7 +27,10 @@
     "name:dan_x_preferred":[
         "Pal\u00e6gade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Pal\u00e6gade"
+    ],
+    "name:nld_x_preferred":[
         "Pal\u00e6gade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":85906099,
-    "wof:lastmodified":1530296569,
+    "wof:lastmodified":1563318876,
     "wof:name":"Pal\u00e6gade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

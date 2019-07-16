@@ -52,6 +52,9 @@
     "name:nob_x_preferred":[
         "Vig"
     ],
+    "name:spa_x_preferred":[
+        "Vig"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
     "qs:a1r":"0",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101847761,
-    "wof:lastmodified":1562797187,
+    "wof:lastmodified":1563319537,
     "wof:name":"Vig",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

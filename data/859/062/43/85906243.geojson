@@ -27,10 +27,34 @@
     "name:dan_x_preferred":[
         "Ved Stranden"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:eng_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:fao_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:fra_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:isl_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:kal_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:nno_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:nob_x_preferred":[
         "Ved Stranden"
     ],
     "name:nor_x_preferred":[
+        "Ved Stranden"
+    ],
+    "name:swe_x_preferred":[
         "Ved Stranden"
     ],
     "name:unk_x_variant":[
@@ -90,7 +114,7 @@
         }
     ],
     "wof:id":85906243,
-    "wof:lastmodified":1530296595,
+    "wof:lastmodified":1563318834,
     "wof:name":"Ved Stranden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

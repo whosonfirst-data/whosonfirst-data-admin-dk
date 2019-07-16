@@ -37,6 +37,9 @@
     "name:por_x_preferred":[
         "\u00c5lb\u00e6k"
     ],
+    "name:spa_x_preferred":[
+        "\u00c5lb\u00e6k"
+    ],
     "name:swe_x_preferred":[
         "\u00c5lb\u00e6k"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101817295,
-    "wof:lastmodified":1562796392,
+    "wof:lastmodified":1563319425,
     "wof:name":"\u00c5lb\u00e6k",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

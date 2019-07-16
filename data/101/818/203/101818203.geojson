@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u0646\u0628\u0648\u0631\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Svendborg"
+    ],
     "name:bre_x_preferred":[
         "Svendborg"
     ],
@@ -28,6 +31,9 @@
         "Svendborg"
     ],
     "name:ceb_x_preferred":[
+        "Svendborg"
+    ],
+    "name:cym_x_preferred":[
         "Svendborg"
     ],
     "name:dan_x_preferred":[
@@ -84,6 +90,9 @@
     "name:lit_x_preferred":[
         "Svendborg\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Svendborg"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0432\u0435\u043d\u0434\u0431\u043e\u0440\u0433"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u043d\u043d\u0431\u043e\u0440\u0433\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0432\u0435\u043d\u043d\u0431\u043e\u0440\u0433"
     ],
     "name:spa_x_preferred":[
         "Svendborg"
@@ -272,7 +284,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795846,
+    "wof:lastmodified":1563319380,
     "wof:name":"Svendborg",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

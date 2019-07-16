@@ -51,6 +51,9 @@
     "name:eus_x_preferred":[
         "Christianshavn"
     ],
+    "name:fin_x_preferred":[
+        "Christianshavn"
+    ],
     "name:fra_x_preferred":[
         "Christianshavn"
     ],
@@ -160,7 +163,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777959,
+    "wof:lastmodified":1563318860,
     "wof:name":"Chistianshavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

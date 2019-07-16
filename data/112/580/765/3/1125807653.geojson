@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u0432\u043d\u0435\u0431\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Havneby"
+    ],
     "name:dan_x_preferred":[
         "Havneby"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125807653,
-    "wof:lastmodified":1562795984,
+    "wof:lastmodified":1563319683,
     "wof:name":"Havneby",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

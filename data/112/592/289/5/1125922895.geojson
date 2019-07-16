@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0644\u064a\u0631\u0628"
+    ],
     "name:cat_x_preferred":[
         "Hellerup"
     ],
@@ -39,6 +42,9 @@
     "name:fra_x_preferred":[
         "Hellerup"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05e8\u05d5\u05e4"
+    ],
     "name:hun_x_preferred":[
         "Hellerup"
     ],
@@ -46,6 +52,9 @@
         "\u0540\u0565\u056c\u0565\u0580\u0578\u0582\u057a"
     ],
     "name:isl_x_preferred":[
+        "Hellerup"
+    ],
+    "name:ita_x_preferred":[
         "Hellerup"
     ],
     "name:jpn_x_preferred":[
@@ -71,6 +80,9 @@
     ],
     "name:swe_x_preferred":[
         "Hellerup"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u52d2\u9b6f\u666e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1125922895,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1563319619,
     "wof:name":"Hellerup",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

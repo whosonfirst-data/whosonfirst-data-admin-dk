@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Mern"
     ],
+    "name:spa_x_preferred":[
+        "Mern"
+    ],
     "name:swe_x_preferred":[
         "Mern"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101818317,
-    "wof:lastmodified":1562796677,
+    "wof:lastmodified":1563319411,
     "wof:name":"Mern",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

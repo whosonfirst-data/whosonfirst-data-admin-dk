@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Byrum"
     ],
+    "name:ceb_x_preferred":[
+        "Byrum"
+    ],
     "name:dan_x_preferred":[
         "Byrum"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125770453,
-    "wof:lastmodified":1562796468,
+    "wof:lastmodified":1563319818,
     "wof:name":"Byrum",
     "wof:parent_id":1394013989,
     "wof:placetype":"locality",

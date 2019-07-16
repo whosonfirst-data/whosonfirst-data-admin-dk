@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u0643\u064a\u0628\u0648\u0631\u062c"
     ],
+    "name:ast_x_preferred":[
+        "Silkeborg"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043b\u044c\u043a\u0435\u0431\u0430\u0440\u0433"
     ],
@@ -104,6 +107,9 @@
     "name:lit_x_preferred":[
         "Silkeborgas"
     ],
+    "name:ltz_x_preferred":[
+        "Silkeborg"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u043a\u0435\u0431\u043e\u0440\u0433"
     ],
@@ -143,8 +149,17 @@
     "name:srp_x_preferred":[
         "\u0421\u0438\u043b\u043a\u0435\u0431\u043e\u0440\u0433"
     ],
+    "name:stq_x_preferred":[
+        "Silkeborg"
+    ],
     "name:swe_x_preferred":[
         "Silkeborg"
+    ],
+    "name:szl_x_preferred":[
+        "Silkeborg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043b\u043a\u0435\u0431\u043e\u0440\u0433"
     ],
     "name:tur_x_preferred":[
         "Silkeborg"
@@ -213,7 +228,7 @@
         }
     ],
     "wof:id":101805653,
-    "wof:lastmodified":1562794504,
+    "wof:lastmodified":1563319492,
     "wof:name":"Silkeborg",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

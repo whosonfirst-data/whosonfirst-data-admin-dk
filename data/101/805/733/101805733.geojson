@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Hornsyld"
     ],
+    "name:spa_x_preferred":[
+        "Hornsyld"
+    ],
     "name:swe_x_preferred":[
         "Hornsyld"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101805733,
-    "wof:lastmodified":1562795118,
+    "wof:lastmodified":1563319466,
     "wof:name":"Hornsyld",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

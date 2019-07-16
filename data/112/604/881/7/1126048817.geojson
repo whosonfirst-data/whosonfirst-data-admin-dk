@@ -19,6 +19,15 @@
     "name:ara_x_preferred":[
         "\u063a\u0644\u0648\u0633\u062a\u0631\u0648\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Glostrup"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u043e\u0441\u0442\u0440\u0443\u043f"
+    ],
+    "name:ceb_x_preferred":[
+        "Glostrup"
+    ],
     "name:dan_x_preferred":[
         "Glostrup"
     ],
@@ -40,8 +49,14 @@
     "name:isl_x_preferred":[
         "Glostrup"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ed\u30b9\u30c8\u30eb\u30c3\u30d7"
+    ],
     "name:kal_x_preferred":[
         "Glostrup"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10dd\u10e1\u10e2\u10e0\u10e3\u10de\u10d8"
     ],
     "name:lav_x_preferred":[
         "Glostrupa"
@@ -72,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Glostrup"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6d1b\u65af\u695a\u666e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":1126048817,
-    "wof:lastmodified":1562794499,
+    "wof:lastmodified":1563319645,
     "wof:name":"Glostrup",
     "wof:parent_id":1394014119,
     "wof:placetype":"locality",

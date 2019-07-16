@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0431\u0435\u043b\u0435\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Horbelev"
+    ],
     "name:dan_x_preferred":[
         "Horbelev"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125791153,
-    "wof:lastmodified":1561778023,
+    "wof:lastmodified":1563319808,
     "wof:name":"Horbelev",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -23,7 +23,22 @@
     "name:dan_x_preferred":[
         "\u00c5rslev"
     ],
+    "name:eng_x_preferred":[
+        "\u00c5rslev"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c5rslev"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c5rslev"
+    ],
     "name:nld_x_preferred":[
+        "\u00c5rslev"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c5rslev"
+    ],
+    "name:spa_x_preferred":[
         "\u00c5rslev"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +96,7 @@
         }
     ],
     "wof:id":101818201,
-    "wof:lastmodified":1562796314,
+    "wof:lastmodified":1563319404,
     "wof:name":"\u00c5rslev",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

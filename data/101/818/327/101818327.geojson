@@ -44,7 +44,13 @@
     "name:ita_x_preferred":[
         "Kors\u00f8r"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30a2\u30bb\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "Kors\u00f8r"
+    ],
+    "name:nob_x_preferred":[
         "Kors\u00f8r"
     ],
     "name:nor_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Kors\u00f8r"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u745f"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101818327,
-    "wof:lastmodified":1562796515,
+    "wof:lastmodified":1563319407,
     "wof:name":"Kors\u00f8r",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

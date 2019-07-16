@@ -31,6 +31,9 @@
     "name:nor_x_preferred":[
         "Skals"
     ],
+    "name:spa_x_preferred":[
+        "Skals"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101846087,
-    "wof:lastmodified":1562795363,
+    "wof:lastmodified":1563319527,
     "wof:name":"Skals",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

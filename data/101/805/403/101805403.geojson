@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Nordby"
     ],
+    "name:cym_x_preferred":[
+        "Nordby"
+    ],
     "name:dan_x_preferred":[
         "Nordby"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ron_x_preferred":[
         "Nordby"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0431\u044e"
     ],
     "name:spa_x_preferred":[
         "Nordby"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":101805403,
-    "wof:lastmodified":1562796032,
+    "wof:lastmodified":1563319495,
     "wof:name":"Nordby",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

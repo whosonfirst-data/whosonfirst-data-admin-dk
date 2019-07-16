@@ -37,6 +37,12 @@
     "name:nor_x_preferred":[
         "N\u00f8rre Broby"
     ],
+    "name:spa_x_preferred":[
+        "N\u00f8rre Broby"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f8rre Broby"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101846019,
-    "wof:lastmodified":1562796302,
+    "wof:lastmodified":1563319529,
     "wof:name":"N\u00f8rre Broby",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

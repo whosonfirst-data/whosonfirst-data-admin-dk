@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Risskov"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0633\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Risskov"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126047037,
-    "wof:lastmodified":1562794966,
+    "wof:lastmodified":1563319648,
     "wof:name":"Risskov",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

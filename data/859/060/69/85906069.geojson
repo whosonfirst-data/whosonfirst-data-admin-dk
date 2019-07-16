@@ -27,10 +27,37 @@
     "name:dan_x_preferred":[
         "N\u00f8rregade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:fao_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:isl_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:kal_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:nob_x_preferred":[
         "N\u00f8rregade"
     ],
     "name:nor_x_preferred":[
+        "N\u00f8rregade"
+    ],
+    "name:swe_x_preferred":[
         "N\u00f8rregade"
     ],
     "name:unk_x_variant":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":85906069,
-    "wof:lastmodified":1530296564,
+    "wof:lastmodified":1563318870,
     "wof:name":"N\u00f8rregade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

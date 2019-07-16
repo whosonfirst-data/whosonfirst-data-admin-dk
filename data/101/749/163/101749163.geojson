@@ -27,6 +27,9 @@
     "name:aze_x_preferred":[
         "Orhus"
     ],
+    "name:bak_x_preferred":[
+        "\u041e\u0440\u0445\u0443\u0441"
+    ],
     "name:bel_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
     ],
@@ -45,6 +48,9 @@
     "name:cat_x_preferred":[
         "Aarhus"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c5rhus"
+    ],
     "name:ces_x_preferred":[
         "\u00c5rhus"
     ],
@@ -60,6 +66,9 @@
     "name:dan_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:dan_x_variant":[
+        "Aarhus"
+    ],
     "name:deu_x_preferred":[
         "\u00c5rhus"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03c1\u03c7\u03bf\u03c5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u038f\u03c1\u03c7\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_colloquial":[
         "Capital of Jutland",
@@ -95,6 +107,9 @@
     "name:fin_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:fin_x_variant":[
+        "Aarhus"
+    ],
     "name:fra_x_preferred":[
         "\u00c5rhus"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:glg_x_preferred":[
         "\u00c5rhus"
+    ],
+    "name:glg_x_variant":[
+        "Aarhus"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0ab9\u0ab8"
@@ -155,6 +173,9 @@
     "name:ita_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:ita_x_variant":[
+        "Aarhus"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30d5\u30b9"
     ],
@@ -183,6 +204,9 @@
         "Orhusas"
     ],
     "name:lmo_x_preferred":[
+        "Aarhus"
+    ],
+    "name:ltz_x_preferred":[
         "Aarhus"
     ],
     "name:mar_x_preferred":[
@@ -230,6 +254,9 @@
     "name:pol_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:pol_x_variant":[
+        "Aarhus"
+    ],
     "name:por_x_preferred":[
         "Aarhus"
     ],
@@ -238,6 +265,9 @@
     ],
     "name:ron_x_variant":[
         "Aarhus"
+    ],
+    "name:rue_x_preferred":[
+        "\u041e\u0440\u0433\u0443\u0441"
     ],
     "name:rup_x_preferred":[
         "Aarhus"
@@ -263,6 +293,9 @@
     "name:spa_x_preferred":[
         "\u00c5rhus"
     ],
+    "name:spa_x_variant":[
+        "Aarhus"
+    ],
     "name:sqi_x_preferred":[
         "Aarhus"
     ],
@@ -284,6 +317,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb0\u0bcd\u0bb9\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0440\u04bb\u0443\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c06\u0c30\u0c4d\u0c39\u0c42\u0c38\u0c4d"
     ],
@@ -292,6 +328,9 @@
     ],
     "name:tur_x_preferred":[
         "\u00c5rhus"
+    ],
+    "name:tur_x_variant":[
+        "Aarhus"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
@@ -463,7 +502,7 @@
         }
     ],
     "wof:id":101749163,
-    "wof:lastmodified":1562794953,
+    "wof:lastmodified":1563319515,
     "wof:megacity":0,
     "wof:name":"\u00c5rhus",
     "wof:parent_id":1394013977,

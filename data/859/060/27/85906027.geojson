@@ -24,13 +24,67 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bre_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:cos_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
     "name:dan_x_preferred":[
         "Larslejsstr\u00e6de"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:eng_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:fao_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:fra_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:ind_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:isl_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:ita_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:kal_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:nds_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:nld_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:nno_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:nob_x_preferred":[
         "Larslejsstr\u00e6de"
     ],
     "name:nor_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:por_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:ron_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:spa_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:swe_x_preferred":[
+        "Larslejsstr\u00e6de"
+    ],
+    "name:tah_x_preferred":[
         "Larslejsstr\u00e6de"
     ],
     "name:unk_x_variant":[
@@ -90,7 +144,7 @@
         }
     ],
     "wof:id":85906027,
-    "wof:lastmodified":1530296556,
+    "wof:lastmodified":1563318872,
     "wof:name":"Larslejsstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

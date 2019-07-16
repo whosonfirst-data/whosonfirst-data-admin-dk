@@ -17,6 +17,9 @@
     "mps:longitude":12.179105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "K\u00f8gue"
+    ],
     "name:bel_x_variant":[
         "\u041a\u0451\u0433\u0435"
     ],
@@ -60,6 +63,9 @@
         "K\u00f8ge"
     ],
     "name:hun_x_preferred":[
+        "K\u00f8ge"
+    ],
+    "name:ind_x_preferred":[
         "K\u00f8ge"
     ],
     "name:isl_x_preferred":[
@@ -134,8 +140,14 @@
     "name:srp_x_preferred":[
         "\u041a\u0435\u0458\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u0435\u0433\u0435"
+    ],
     "name:swe_x_preferred":[
         "K\u00f8ge"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u0433\u0435"
     ],
     "name:unk_x_variant":[
         "Kjoge"
@@ -204,7 +216,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562797176,
+    "wof:lastmodified":1563319540,
     "wof:name":"K\u00f8ge",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

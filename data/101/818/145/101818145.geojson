@@ -34,6 +34,9 @@
     "name:nor_x_preferred":[
         "S\u00f8llested"
     ],
+    "name:spa_x_preferred":[
+        "S\u00f8llested"
+    ],
     "name:swe_x_preferred":[
         "S\u00f8llested"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101818145,
-    "wof:lastmodified":1562794995,
+    "wof:lastmodified":1563319383,
     "wof:name":"S\u00f8llested",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

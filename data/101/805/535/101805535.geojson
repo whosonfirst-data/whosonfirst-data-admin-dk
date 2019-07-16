@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Sk\u00e6rb\u00e6k"
     ],
+    "name:spa_x_preferred":[
+        "Sk\u00e6rb\u00e6k"
+    ],
     "name:swe_x_preferred":[
         "Sk\u00e6rb\u00e6k"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101805535,
-    "wof:lastmodified":1562794485,
+    "wof:lastmodified":1563319438,
     "wof:name":"Sk\u00e6rb\u00e6k",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

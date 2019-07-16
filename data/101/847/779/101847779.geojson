@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Sk\u00e6vinge"
     ],
+    "name:eng_x_variant":[
+        "Sk\u00e6vinge Municipality"
+    ],
     "name:fao_x_preferred":[
         "Sk\u00e6vinge kommuna"
     ],
@@ -47,6 +50,9 @@
     "name:nld_x_preferred":[
         "Sk\u00e6vinge"
     ],
+    "name:nob_x_preferred":[
+        "Sk\u00e6vinge kommune"
+    ],
     "name:nor_x_preferred":[
         "Sk\u00e6vinge kommune"
     ],
@@ -59,8 +65,14 @@
     "name:por_x_preferred":[
         "Sk\u00e6vinge"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Sk\u00e6vinge"
+    ],
     "name:swe_x_preferred":[
         "Sk\u00e6vinge"
+    ],
+    "name:swe_x_variant":[
+        "Sk\u00e6vinge kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101847779,
-    "wof:lastmodified":1562794611,
+    "wof:lastmodified":1563319535,
     "wof:name":"Sk\u00e6vinge",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

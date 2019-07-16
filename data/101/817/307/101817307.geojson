@@ -17,6 +17,12 @@
     "mps:longitude":10.308999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043b\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Hals"
+    ],
     "name:dan_x_preferred":[
         "Hals"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":101817307,
-    "wof:lastmodified":1561777997,
+    "wof:lastmodified":1563319422,
     "wof:name":"Hals",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

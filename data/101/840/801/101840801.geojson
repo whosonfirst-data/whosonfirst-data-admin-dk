@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "Solr\u00f8d Strand"
     ],
+    "name:spa_x_preferred":[
+        "Solr\u00f8d Strand"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u043b\u0440\u0435\u0434 \u0421\u0442\u0440\u0430\u043d\u0434"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101840801,
-    "wof:lastmodified":1562794459,
+    "wof:lastmodified":1563319544,
     "wof:name":"Solr\u00f8d Strand",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:nor_x_preferred":[
         "Raml\u00f8se"
     ],
+    "name:spa_x_preferred":[
+        "Raml\u00f8se"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101818415,
-    "wof:lastmodified":1562795876,
+    "wof:lastmodified":1563319377,
     "wof:name":"Raml\u00f8se",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

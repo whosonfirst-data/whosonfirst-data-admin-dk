@@ -27,8 +27,32 @@
     "name:dan_x_preferred":[
         "Sankt Ann\u00e6 Plads"
     ],
+    "name:deu_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
     "name:eng_x_variant":[
         "St. Ann\u00e6 Plads"
+    ],
+    "name:fao_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:fra_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:isl_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:kal_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:nno_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Ann\u00e6 Plads"
     ],
     "name:nor_x_preferred":[
         "Sankt Ann\u00e6 Plads"
@@ -93,7 +117,7 @@
         }
     ],
     "wof:id":85906151,
-    "wof:lastmodified":1530296578,
+    "wof:lastmodified":1563318842,
     "wof:name":"St. Ann\u00e6 Plads",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

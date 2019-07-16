@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Hedehusene"
     ],
+    "name:spa_x_preferred":[
+        "Hedehusene"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101840817,
-    "wof:lastmodified":1562795416,
+    "wof:lastmodified":1563319541,
     "wof:name":"Hedehusene",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

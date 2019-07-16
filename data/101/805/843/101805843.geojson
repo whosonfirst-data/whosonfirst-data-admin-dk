@@ -44,6 +44,9 @@
     "name:por_x_preferred":[
         "Fjerritslev"
     ],
+    "name:spa_x_preferred":[
+        "Fjerritslev"
+    ],
     "name:swe_x_preferred":[
         "Fjerritslev"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805843,
-    "wof:lastmodified":1562796812,
+    "wof:lastmodified":1563319447,
     "wof:name":"Fjerritslev",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

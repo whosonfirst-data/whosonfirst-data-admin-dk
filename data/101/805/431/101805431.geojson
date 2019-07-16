@@ -24,10 +24,31 @@
     "name:dan_x_preferred":[
         "Tommerup"
     ],
+    "name:deu_x_preferred":[
+        "Tommerup"
+    ],
+    "name:eng_x_preferred":[
+        "Tommerup"
+    ],
+    "name:fra_x_preferred":[
+        "Tommerup"
+    ],
+    "name:ita_x_preferred":[
+        "Tommerup"
+    ],
     "name:nld_x_preferred":[
         "Tommerup"
     ],
+    "name:nob_x_preferred":[
+        "Tommerup"
+    ],
     "name:nor_x_preferred":[
+        "Tommerup"
+    ],
+    "name:por_x_preferred":[
+        "Tommerup"
+    ],
+    "name:spa_x_preferred":[
         "Tommerup"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +102,7 @@
         }
     ],
     "wof:id":101805431,
-    "wof:lastmodified":1562796437,
+    "wof:lastmodified":1563319455,
     "wof:name":"Tommerup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

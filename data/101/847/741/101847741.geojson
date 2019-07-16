@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Ollerup"
     ],
+    "name:spa_x_preferred":[
+        "Ollerup"
+    ],
     "name:swe_x_preferred":[
         "Ollerup"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101847741,
-    "wof:lastmodified":1562795832,
+    "wof:lastmodified":1563319536,
     "wof:name":"Ollerup",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

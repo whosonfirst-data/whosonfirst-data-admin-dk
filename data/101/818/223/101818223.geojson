@@ -17,8 +17,14 @@
     "mps:longitude":10.795935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Nyborg"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u044e\u0431\u0430\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u044e\u0431\u0430\u0440\u0433"
     ],
     "name:ceb_x_preferred":[
         "Nyborg"
@@ -61,6 +67,9 @@
     ],
     "name:kal_x_preferred":[
         "Nyborg"
+    ],
+    "name:lav_x_preferred":[
+        "Niborga"
     ],
     "name:msa_x_preferred":[
         "Nyborg"
@@ -161,7 +170,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562794446,
+    "wof:lastmodified":1563319397,
     "wof:name":"Nyborg",
     "wof:parent_id":1394014139,
     "wof:placetype":"locality",

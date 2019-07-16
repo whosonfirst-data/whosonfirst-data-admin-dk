@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000571,
-    "geom:area_square_m":3921396.887451,
+    "geom:area_square_m":3921396.887453,
     "geom:bbox":"10.0483880671,56.2470302024,10.0870602189,56.279393609",
     "geom:latitude":56.264163,
     "geom:longitude":10.06896,
@@ -17,7 +17,13 @@
     "mps:longitude":10.0751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u043d\u0435\u0440\u0443\u043f"
+    ],
     "name:cat_x_preferred":[
+        "Hinnerup"
+    ],
+    "name:ceb_x_preferred":[
         "Hinnerup"
     ],
     "name:dan_x_preferred":[
@@ -32,10 +38,22 @@
     "name:fao_x_preferred":[
         "Hinnerup"
     ],
+    "name:fra_x_preferred":[
+        "Hinnerup"
+    ],
     "name:ita_x_preferred":[
         "Hinnerup"
     ],
+    "name:kal_x_preferred":[
+        "Hinnerup"
+    ],
     "name:nld_x_preferred":[
+        "Hinnerup"
+    ],
+    "name:nno_x_preferred":[
+        "Hinnerup"
+    ],
+    "name:nob_x_preferred":[
         "Hinnerup"
     ],
     "name:nor_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":101805689,
-    "wof:lastmodified":1530296400,
+    "wof:lastmodified":1563319445,
     "wof:name":"Hinnerup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u064a\u0631\u0648\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:bel_x_variant":[
         "\u0413\u0456\u043b\u0435\u0440\u044d\u0434"
     ],
@@ -54,6 +57,9 @@
     "name:eng_x_variant":[
         "Hiller\u00f8d"
     ],
+    "name:est_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:eus_x_preferred":[
         "Hiller\u00f8d"
     ],
@@ -67,6 +73,9 @@
         "Hiller\u00f8d"
     ],
     "name:frr_x_preferred":[
+        "Hiller\u00f8d"
+    ],
+    "name:fry_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:glv_x_preferred":[
@@ -105,6 +114,9 @@
     "name:lit_x_preferred":[
         "Hileriodas"
     ],
+    "name:ltz_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0438\u043b\u0435\u0440\u0435\u0434"
     ],
@@ -135,6 +147,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0438\u043b\u043b\u0435\u0440\u043e\u0434"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0438\u043b\u043b\u0435\u0440\u0451\u0434"
+    ],
     "name:slv_x_preferred":[
         "Hiller\u00f8d"
     ],
@@ -148,6 +163,9 @@
         "\u0425\u0438\u043b\u0435\u0440\u0435\u0434"
     ],
     "name:swe_x_preferred":[
+        "Hiller\u00f8d"
+    ],
+    "name:tur_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:ukr_x_preferred":[
@@ -310,7 +328,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562794614,
+    "wof:lastmodified":1563319543,
     "wof:name":"Hiller\u00f8d",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

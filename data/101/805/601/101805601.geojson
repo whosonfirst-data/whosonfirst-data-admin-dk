@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Harlev"
     ],
+    "name:spa_x_preferred":[
+        "Harlev"
+    ],
     "name:unk_x_variant":[
         "Harlev Stationsby"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101805601,
-    "wof:lastmodified":1562794956,
+    "wof:lastmodified":1563319490,
     "wof:name":"Harlev",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

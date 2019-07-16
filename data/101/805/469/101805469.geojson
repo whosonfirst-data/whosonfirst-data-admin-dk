@@ -36,10 +36,16 @@
     "name:eng_x_preferred":[
         "Broager"
     ],
+    "name:eng_x_variant":[
+        "Broager Municipality"
+    ],
     "name:fao_x_preferred":[
         "Broager kommuna"
     ],
     "name:fao_x_variant":[
+        "Broager"
+    ],
+    "name:fra_x_preferred":[
         "Broager"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +53,9 @@
     ],
     "name:nld_x_preferred":[
         "Broager"
+    ],
+    "name:nob_x_preferred":[
+        "Broager kommune"
     ],
     "name:nor_x_preferred":[
         "Broager kommune"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":101805469,
-    "wof:lastmodified":1562796175,
+    "wof:lastmodified":1563319487,
     "wof:name":"Broager",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

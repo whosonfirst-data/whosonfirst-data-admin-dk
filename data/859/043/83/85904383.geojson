@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001598,
-    "geom:area_square_m":11152948.342785,
+    "geom:area_square_m":11152948.342786,
     "geom:bbox":"12.5788929707,55.6071400755,12.6330783817,55.6574466749",
     "geom:latitude":55.633796,
     "geom:longitude":12.602297,
@@ -27,6 +27,12 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:dan_x_preferred":[
+        "Sundbyvester"
+    ],
+    "name:eng_x_preferred":[
+        "Sundbyvester"
+    ],
+    "name:nob_x_preferred":[
         "Sundbyvester"
     ],
     "name:nor_x_preferred":[
@@ -97,7 +103,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296511,
+    "wof:lastmodified":1563318841,
     "wof:name":"Sundbyvester",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

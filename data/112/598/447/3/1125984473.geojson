@@ -22,16 +22,40 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u043b\u0443\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Avlum"
+    ],
     "name:dan_x_preferred":[
+        "Aulum"
+    ],
+    "name:deu_x_preferred":[
         "Aulum"
     ],
     "name:eng_x_preferred":[
         "Aulum"
     ],
+    "name:fao_x_preferred":[
+        "Aulum"
+    ],
+    "name:fra_x_preferred":[
+        "Aulum"
+    ],
+    "name:isl_x_preferred":[
+        "Aulum"
+    ],
+    "name:kal_x_preferred":[
+        "Aulum"
+    ],
     "name:nld_x_preferred":[
         "Aulum"
     ],
+    "name:nno_x_preferred":[
+        "Aulum"
+    ],
     "name:nob_x_preferred":[
+        "Aulum"
+    ],
+    "name:spa_x_preferred":[
         "Aulum"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +113,7 @@
         }
     ],
     "wof:id":1125984473,
-    "wof:lastmodified":1561778020,
+    "wof:lastmodified":1563319748,
     "wof:name":"Alrum",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

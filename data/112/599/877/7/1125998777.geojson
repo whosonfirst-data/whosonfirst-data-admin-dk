@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Ferring"
+    ],
     "name:dan_x_preferred":[
         "Ferring"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125998777,
-    "wof:lastmodified":1562796981,
+    "wof:lastmodified":1563319705,
     "wof:name":"Ferring",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

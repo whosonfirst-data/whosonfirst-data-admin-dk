@@ -41,7 +41,13 @@
     "name:nor_x_preferred":[
         "Hvide Sande"
     ],
+    "name:spa_x_preferred":[
+        "Hvide Sande"
+    ],
     "name:swe_x_preferred":[
+        "Hvide Sande"
+    ],
+    "name:szl_x_preferred":[
         "Hvide Sande"
     ],
     "qs:a0":"Danmark",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101805747,
-    "wof:lastmodified":1562796089,
+    "wof:lastmodified":1563319460,
     "wof:name":"Hvide Sande",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

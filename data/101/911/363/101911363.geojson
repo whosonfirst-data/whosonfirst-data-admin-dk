@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Tranek\u00e6r"
     ],
+    "name:ltz_x_preferred":[
+        "Tranek\u00e6r"
+    ],
     "name:nld_x_preferred":[
         "Tranek\u00e6r"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101911363,
-    "wof:lastmodified":1562795661,
+    "wof:lastmodified":1563319547,
     "wof:name":"Tranek\u00e6r Slot",
     "wof:parent_id":1394013991,
     "wof:placetype":"locality",

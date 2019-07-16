@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Tinglev"
     ],
+    "name:ces_x_preferred":[
+        "Tinglev"
+    ],
     "name:dan_x_preferred":[
         "Tinglev Kommune"
     ],
@@ -41,11 +44,20 @@
     "name:fao_x_variant":[
         "Tinglev"
     ],
+    "name:fra_x_preferred":[
+        "Tinglev"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e0\u05d2\u05dc\u05d1"
+    ],
     "name:ita_x_preferred":[
         "Tinglev"
     ],
     "name:nld_x_preferred":[
         "Tinglev"
+    ],
+    "name:nob_x_preferred":[
+        "Tinglev kommune"
     ],
     "name:nor_x_preferred":[
         "Tinglev kommune"
@@ -64,6 +76,12 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Tinglev"
+    ],
+    "name:slk_x_preferred":[
+        "Tinglev"
+    ],
+    "name:spa_x_preferred":[
+        "Tinglev"
     ],
     "name:swe_x_preferred":[
         "Tinglevs kommun"
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":101805467,
-    "wof:lastmodified":1562794763,
+    "wof:lastmodified":1563319486,
     "wof:name":"Tinglev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

@@ -31,9 +31,6 @@
     "name:bel_x_preferred":[
         "\u0410\u043c\u0430\u043b\u0456\u0435\u043d\u0431\u043e\u0440\u0433"
     ],
-    "name:bel_x_variant":[
-        "\u0410\u043c\u0430\u043b\u0456\u0435\u043d\u0431\u043e\u0440\u0433"
-    ],
     "name:cat_x_preferred":[
         "Amalienborg"
     ],
@@ -49,6 +46,9 @@
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ac\u03ba\u03c4\u03bf\u03c1\u03b1 \u0391\u03bc\u03ac\u03bb\u03b9\u03b5\u03bd\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
+    "name:eng_x_preferred":[
+        "Amalienborg"
+    ],
     "name:est_x_preferred":[
         "Amalienborgi loss"
     ],
@@ -61,8 +61,17 @@
     "name:fra_x_preferred":[
         "Amalienborg"
     ],
+    "name:frr_x_preferred":[
+        "Amalienborg Sloot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d9\u05dc\u05d9\u05d0\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
     "name:hun_x_preferred":[
         "Amalienborg palota"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0561\u056c\u056b\u0565\u0576\u0562\u0578\u0580\u0563"
     ],
     "name:isl_x_preferred":[
         "Amal\u00eduborg"
@@ -76,6 +85,12 @@
     "name:kor_x_preferred":[
         "\uc544\ub9d0\ub9ac\uc5d4\ubcf4\ub974 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub9d0\ub9ac\uc5d4\ubcf4\ub974\uc131"
+    ],
+    "name:lat_x_preferred":[
+        "Palatium Amalienborg"
+    ],
     "name:lav_x_preferred":[
         "Am\u0101lienborga"
     ],
@@ -86,6 +101,9 @@
         "Amalienborg"
     ],
     "name:nno_x_preferred":[
+        "Amalienborg"
+    ],
+    "name:nob_x_preferred":[
         "Amalienborg"
     ],
     "name:nor_x_preferred":[
@@ -180,7 +198,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296515,
+    "wof:lastmodified":1563318863,
     "wof:name":"Amalienborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

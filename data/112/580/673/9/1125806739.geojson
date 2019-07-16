@@ -27,10 +27,16 @@
     "name:eng_x_preferred":[
         "Bl\u00e5vand-Oksby"
     ],
+    "name:eng_x_variant":[
+        "Bl\u00e5vand"
+    ],
     "name:nld_x_preferred":[
         "Bl\u00e5vand"
     ],
     "name:nob_x_preferred":[
+        "Bl\u00e5vand"
+    ],
+    "name:swe_x_preferred":[
         "Bl\u00e5vand"
     ],
     "name:unk_x_variant":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125806739,
-    "wof:lastmodified":1562797076,
+    "wof:lastmodified":1563319685,
     "wof:name":"Bl\u00e5vand",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

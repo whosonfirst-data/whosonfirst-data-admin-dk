@@ -146,6 +146,9 @@
     "name:kon_x_preferred":[
         "Skagen"
     ],
+    "name:kor_x_preferred":[
+        "\uc2a4\uce74\uac90"
+    ],
     "name:lij_x_preferred":[
         "Skagen"
     ],
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":101817301,
-    "wof:lastmodified":1562796392,
+    "wof:lastmodified":1563319423,
     "wof:name":"Skagen",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

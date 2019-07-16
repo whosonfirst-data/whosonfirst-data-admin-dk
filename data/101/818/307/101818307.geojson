@@ -26,6 +26,9 @@
     "name:dan_x_preferred":[
         "Michael M\u00f8rk\u00f8v"
     ],
+    "name:dan_x_variant":[
+        "M\u00f8rk\u00f8v"
+    ],
     "name:deu_x_preferred":[
         "Michael M\u00f8rk\u00f8v"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818307,
-    "wof:lastmodified":1561777991,
+    "wof:lastmodified":1563319364,
     "wof:name":"M\u00f8rk\u00f8v",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

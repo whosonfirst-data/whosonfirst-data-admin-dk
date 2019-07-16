@@ -22,6 +22,9 @@
     "name:dan_x_preferred":[
         "Ly\u00f8"
     ],
+    "name:dan_x_variant":[
+        "N\u00f8rre Lyndelse"
+    ],
     "name:deu_x_preferred":[
         "Ly\u00f8"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Ly\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f8rre Lyndelse"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101818211,
-    "wof:lastmodified":1562796301,
+    "wof:lastmodified":1563319373,
     "wof:name":"N\u00f8rre Lyndelse",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

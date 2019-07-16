@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5850134429,55.6798308684,12.5850134429,55.6798308684",
     "geom:latitude":55.679831,
     "geom:longitude":12.585013,
@@ -26,19 +27,43 @@
     "name:deu_x_preferred":[
         "Kongens Nytorv"
     ],
+    "name:eng_x_preferred":[
+        "Kongens Nytorv"
+    ],
+    "name:fao_x_preferred":[
+        "Kongens Nytorv"
+    ],
     "name:fin_x_preferred":[
         "Kongens Nytorv"
     ],
     "name:fra_x_preferred":[
         "Kongens Nytorv"
     ],
+    "name:isl_x_preferred":[
+        "Kongens Nytorv"
+    ],
+    "name:ita_x_preferred":[
+        "Kongens Nytorv"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30b2\u30f3\u30b9\u30fb\u30cb\u30e5\u30fc\u30c8\u30fc\u5e83\u5834"
+    ],
+    "name:kal_x_preferred":[
+        "Kongens Nytorv"
     ],
     "name:nld_x_preferred":[
         "Kongens Nytorv"
     ],
+    "name:nno_x_preferred":[
+        "Kongens Nytorv"
+    ],
+    "name:nob_x_preferred":[
+        "Kongens Nytorv"
+    ],
     "name:nor_x_preferred":[
+        "Kongens Nytorv"
+    ],
+    "name:pol_x_preferred":[
         "Kongens Nytorv"
     ],
     "name:por_x_preferred":[
@@ -81,7 +106,7 @@
         }
     ],
     "wof:id":420784653,
-    "wof:lastmodified":1530296503,
+    "wof:lastmodified":1563319587,
     "wof:name":"Kongens Nytorv",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

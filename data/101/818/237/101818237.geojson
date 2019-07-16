@@ -40,6 +40,12 @@
     "name:por_x_preferred":[
         "Ryslinge"
     ],
+    "name:spa_x_preferred":[
+        "Ryslinge"
+    ],
+    "name:swe_x_preferred":[
+        "Ryslinge"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":101818237,
-    "wof:lastmodified":1562796315,
+    "wof:lastmodified":1563319405,
     "wof:name":"Ryslinge",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

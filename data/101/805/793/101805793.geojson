@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u043d\u0441\u0442\u0440\u0443\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Svenstrup"
+    ],
     "name:dan_x_preferred":[
         "Svenstrup"
     ],
@@ -51,6 +54,9 @@
         "Svenstrup"
     ],
     "name:sco_x_preferred":[
+        "Svenstrup"
+    ],
+    "name:spa_x_preferred":[
         "Svenstrup"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101805793,
-    "wof:lastmodified":1561778001,
+    "wof:lastmodified":1563319468,
     "wof:name":"Svenstrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

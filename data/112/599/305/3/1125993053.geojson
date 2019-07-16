@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u043b\u0434\u0431\u043e\u0440\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Guldborg"
+    ],
     "name:dan_x_preferred":[
         "Guldborg"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125993053,
-    "wof:lastmodified":1561778017,
+    "wof:lastmodified":1563319704,
     "wof:name":"Guldborgsund",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

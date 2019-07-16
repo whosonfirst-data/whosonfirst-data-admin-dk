@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Store Merl\u00f8se"
     ],
+    "name:spa_x_preferred":[
+        "Store Merl\u00f8se"
+    ],
     "name:unk_x_variant":[
         "Merl\u00f6se"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101818309,
-    "wof:lastmodified":1561777991,
+    "wof:lastmodified":1563319365,
     "wof:name":"Store Merl\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

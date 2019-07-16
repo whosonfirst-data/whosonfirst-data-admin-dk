@@ -27,10 +27,37 @@
     "name:dan_x_preferred":[
         "Skindergade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Skindergade"
+    ],
+    "name:eng_x_preferred":[
+        "Skindergade"
+    ],
+    "name:fao_x_preferred":[
+        "Skindergade"
+    ],
+    "name:fra_x_preferred":[
+        "Skindergade"
+    ],
+    "name:isl_x_preferred":[
+        "Skindergade"
+    ],
+    "name:kal_x_preferred":[
+        "Skindergade"
+    ],
+    "name:nld_x_preferred":[
+        "Skindergade"
+    ],
+    "name:nno_x_preferred":[
+        "Skindergade"
+    ],
+    "name:nob_x_preferred":[
         "Skindergade"
     ],
     "name:nor_x_preferred":[
+        "Skindergade"
+    ],
+    "name:swe_x_preferred":[
         "Skindergade"
     ],
     "name:unk_x_variant":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":85906173,
-    "wof:lastmodified":1530296582,
+    "wof:lastmodified":1563318844,
     "wof:name":"Skindergade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

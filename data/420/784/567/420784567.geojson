@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6331644833,55.6763383647,12.6331644833,55.6763383647",
     "geom:latitude":55.676338,
     "geom:longitude":12.633164,
@@ -23,7 +24,16 @@
     "name:dan_x_preferred":[
         "Pr\u00f8vestenen"
     ],
+    "name:eng_x_preferred":[
+        "Pr\u00f8vestenen"
+    ],
+    "name:nob_x_preferred":[
+        "Pr\u00f8vestenen"
+    ],
     "name:nor_x_preferred":[
+        "Pr\u00f8vestenen"
+    ],
+    "name:swe_x_preferred":[
         "Pr\u00f8vestenen"
     ],
     "src:geom":"unknown",
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":420784567,
-    "wof:lastmodified":1530296496,
+    "wof:lastmodified":1563319582,
     "wof:name":"Pr\u00f8vestenen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,12 @@
     "name:nld_x_preferred":[
         "Havdrup"
     ],
+    "name:por_x_preferred":[
+        "Havdrup"
+    ],
+    "name:spa_x_preferred":[
+        "Havdrup"
+    ],
     "name:swe_x_preferred":[
         "Havdrup"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":101818331,
-    "wof:lastmodified":1562794459,
+    "wof:lastmodified":1563319365,
     "wof:name":"Havdrup",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

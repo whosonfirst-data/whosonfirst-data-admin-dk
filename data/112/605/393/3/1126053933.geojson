@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Balka"
+    ],
     "name:dan_x_preferred":[
         "Balka"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126053933,
-    "wof:lastmodified":1562794658,
+    "wof:lastmodified":1563319641,
     "wof:name":"Balke",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

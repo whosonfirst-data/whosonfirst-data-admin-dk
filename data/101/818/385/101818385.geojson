@@ -20,13 +20,25 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u043d\u0438\u043d\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Svinninge"
+    ],
     "name:dan_x_preferred":[
         "Svinninge"
     ],
     "name:eng_x_preferred":[
         "Svinninge"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0648\u06cc\u0646\u06cc\u0646\u06af"
+    ],
     "name:nld_x_preferred":[
+        "Svinninge"
+    ],
+    "name:nob_x_preferred":[
+        "Svinninge"
+    ],
+    "name:spa_x_preferred":[
         "Svinninge"
     ],
     "qs:a0":"Danmark",
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":101818385,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1563319385,
     "wof:name":"Svinninge",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

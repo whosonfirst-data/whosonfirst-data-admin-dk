@@ -31,6 +31,12 @@
     "name:nld_x_preferred":[
         "Sk\u00e5rup"
     ],
+    "name:spa_x_preferred":[
+        "Sk\u00e5rup"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00e5rup"
+    ],
     "name:unk_x_variant":[
         "Skaarup"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101818209,
-    "wof:lastmodified":1562795831,
+    "wof:lastmodified":1563319402,
     "wof:name":"Sk\u00e5rup",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

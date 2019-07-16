@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Herlev"
     ],
+    "name:fao_x_preferred":[
+        "Herlev"
+    ],
+    "name:fra_x_preferred":[
+        "Herlev"
+    ],
     "name:frr_x_preferred":[
         "Herlev"
     ],
@@ -40,6 +46,9 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30a2\u30ec\u30a6"
     ],
+    "name:kal_x_preferred":[
+        "Herlev"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10d4\u10e0\u10da\u10d4\u10d5\u10d8"
     ],
@@ -50,6 +59,12 @@
         "Herlev"
     ],
     "name:nld_x_preferred":[
+        "Herlev"
+    ],
+    "name:nno_x_preferred":[
+        "Herlev"
+    ],
+    "name:nob_x_preferred":[
         "Herlev"
     ],
     "name:pol_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1125993713,
-    "wof:lastmodified":1562796896,
+    "wof:lastmodified":1563319702,
     "wof:name":"Herlev",
     "wof:parent_id":1394014021,
     "wof:placetype":"locality",

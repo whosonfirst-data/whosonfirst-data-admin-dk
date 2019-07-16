@@ -29,6 +29,12 @@
     "name:nld_x_preferred":[
         "Tj\u00e6reborg"
     ],
+    "name:nob_x_preferred":[
+        "Tj\u00e6reborg"
+    ],
+    "name:spa_x_preferred":[
+        "Tj\u00e6reborg"
+    ],
     "name:swe_x_preferred":[
         "Tj\u00e6reborg"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":101873021,
-    "wof:lastmodified":1562797031,
+    "wof:lastmodified":1563319421,
     "wof:name":"Tj\u00e6reborg",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

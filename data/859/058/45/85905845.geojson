@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
-    "geom:area_square_m":21020.499693,
+    "geom:area_square_m":21020.499692,
     "geom:bbox":"12.5927392845,55.6833879064,12.5951385498,55.685326933",
     "geom:latitude":55.684444,
     "geom:longitude":12.593845,
@@ -27,10 +27,37 @@
     "name:dan_x_preferred":[
         "Bredgade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Bredgade"
+    ],
+    "name:eng_x_preferred":[
+        "Bredgade"
+    ],
+    "name:fao_x_preferred":[
+        "Bredgade"
+    ],
+    "name:fra_x_preferred":[
+        "Bredgade"
+    ],
+    "name:isl_x_preferred":[
+        "Bredgade"
+    ],
+    "name:kal_x_preferred":[
+        "Bredgade"
+    ],
+    "name:nld_x_preferred":[
+        "Bredgade"
+    ],
+    "name:nno_x_preferred":[
+        "Bredgade"
+    ],
+    "name:nob_x_preferred":[
         "Bredgade"
     ],
     "name:nor_x_preferred":[
+        "Bredgade"
+    ],
+    "name:swe_x_preferred":[
         "Bredgade"
     ],
     "name:unk_x_variant":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":85905845,
-    "wof:lastmodified":1530296521,
+    "wof:lastmodified":1563318864,
     "wof:name":"Bredgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

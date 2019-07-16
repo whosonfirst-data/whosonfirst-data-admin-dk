@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
-    "geom:area_square_m":30958.844478,
+    "geom:area_square_m":30958.844477,
     "geom:bbox":"12.5875854492,55.6721590662,12.5913619995,55.67410678",
     "geom:latitude":55.672857,
     "geom:longitude":12.589521,
@@ -24,11 +24,53 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:deu_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:eng_x_preferred":[
+        "Knippelsbro"
+    ],
     "name:eng_x_variant":[
         "Knippelsbrogade"
     ],
+    "name:fao_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:fra_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:hun_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:isl_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:kal_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:lit_x_preferred":[
+        "Knipelio tiltas"
+    ],
+    "name:nld_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:nno_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:nob_x_preferred":[
+        "Knippelsbro"
+    ],
+    "name:swe_x_preferred":[
+        "Knippelsbro"
+    ],
     "name:unk_x_variant":[
         "Knippelsbrogade"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5c3c\u666e\u6a4b"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -84,7 +126,7 @@
         }
     ],
     "wof:id":85906001,
-    "wof:lastmodified":1530296550,
+    "wof:lastmodified":1563318876,
     "wof:name":"Knippelsbrogade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

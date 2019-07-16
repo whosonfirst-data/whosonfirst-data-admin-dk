@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000542,
-    "geom:area_square_m":3742398.671916,
+    "geom:area_square_m":3742398.671917,
     "geom:bbox":"10.0144449596,56.0735852867,10.056189038,56.0996457337",
     "geom:latitude":56.087047,
     "geom:longitude":10.035606,
@@ -17,11 +17,17 @@
     "mps:longitude":10.032444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "H\u00f8rning"
+    ],
     "name:dan_x_preferred":[
         "H\u00f8rning"
     ],
     "name:deu_x_preferred":[
         "H\u00f8rning Kommune"
+    ],
+    "name:eng_x_preferred":[
+        "H\u00f8rning"
     ],
     "name:fao_x_preferred":[
         "H\u00f8rning kommuna"
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "H\u00f8rnings kommun"
+    ],
+    "name:swe_x_variant":[
+        "H\u00f8rning"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":101805695,
-    "wof:lastmodified":1530296401,
+    "wof:lastmodified":1563319457,
     "wof:name":"H\u00f8rning",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

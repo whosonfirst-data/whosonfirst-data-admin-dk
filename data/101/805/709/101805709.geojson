@@ -17,10 +17,19 @@
     "mps:longitude":9.037557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Skive"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043a\u0456\u0432\u044d"
+    ],
     "name:cat_x_preferred":[
         "Skive"
     ],
     "name:ceb_x_preferred":[
+        "Skive"
+    ],
+    "name:cym_x_preferred":[
         "Skive"
     ],
     "name:dan_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101805709,
-    "wof:lastmodified":1562796578,
+    "wof:lastmodified":1563319437,
     "wof:name":"Skive",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

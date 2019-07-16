@@ -21,10 +21,22 @@
     "name:dan_x_preferred":[
         "\u00c5sum"
     ],
+    "name:deu_x_preferred":[
+        "\u00c5sum"
+    ],
     "name:eng_x_preferred":[
         "\u00c5sum"
     ],
     "name:nld_x_preferred":[
+        "\u00c5sum"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c5sum"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5sum"
+    ],
+    "name:swe_x_preferred":[
         "\u00c5sum"
     ],
     "name:unk_x_variant":[
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":1125926629,
-    "wof:lastmodified":1562795755,
+    "wof:lastmodified":1563319622,
     "wof:name":"\u00c5sum",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

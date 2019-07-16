@@ -31,6 +31,12 @@
     "name:dan_x_variant":[
         "Ydre N\u00f8rrebro"
     ],
+    "name:eng_x_preferred":[
+        "Ydre N\u00f8rrebro"
+    ],
+    "name:nob_x_preferred":[
+        "Ydre N\u00f8rrebro"
+    ],
     "name:nor_x_preferred":[
         "Ydre N\u00f8rrebro"
     ],
@@ -96,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1536864519,
+    "wof:lastmodified":1563318838,
     "wof:name":"Ydre N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

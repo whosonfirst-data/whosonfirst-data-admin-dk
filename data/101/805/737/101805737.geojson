@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Gedved"
     ],
+    "name:spa_x_preferred":[
+        "Gedved"
+    ],
     "name:swe_x_preferred":[
         "Gedveds kommun"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101805737,
-    "wof:lastmodified":1562795898,
+    "wof:lastmodified":1563319435,
     "wof:name":"Gedved",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Felsted"
     ],
+    "name:fra_x_preferred":[
+        "Felsted"
+    ],
     "name:nds_x_preferred":[
         "Felsted"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101846059,
-    "wof:lastmodified":1562794763,
+    "wof:lastmodified":1563319530,
     "wof:name":"Felsted",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

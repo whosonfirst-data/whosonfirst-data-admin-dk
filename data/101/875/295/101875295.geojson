@@ -35,6 +35,12 @@
     "name:nld_x_preferred":[
         "Liseleje"
     ],
+    "name:nob_x_preferred":[
+        "Liseleje"
+    ],
+    "name:spa_x_preferred":[
+        "Liseleje"
+    ],
     "name:swe_x_preferred":[
         "Liseleje"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101875295,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1563319430,
     "wof:name":"Liseleje",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

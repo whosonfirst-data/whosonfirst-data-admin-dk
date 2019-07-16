@@ -24,7 +24,37 @@
     "mz:min_zoom":20.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:deu_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:eng_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:fao_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:fra_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:isl_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:kal_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:nld_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:nno_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:nob_x_preferred":[
+        "Holmens Kanal"
+    ],
+    "name:swe_x_preferred":[
         "Holmens Kanal"
     ],
     "name:unk_x_variant":[
@@ -84,7 +114,7 @@
         }
     ],
     "wof:id":85905959,
-    "wof:lastmodified":1530296543,
+    "wof:lastmodified":1563318849,
     "wof:name":"Holmens Kanal",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

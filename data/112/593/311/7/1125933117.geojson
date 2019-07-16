@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "Grevinge"
     ],
+    "name:spa_x_preferred":[
+        "Grevinge"
+    ],
     "name:unk_x_variant":[
         "Gr\u00e6vinge"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125933117,
-    "wof:lastmodified":1562797191,
+    "wof:lastmodified":1563319614,
     "wof:name":"Grevinge",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

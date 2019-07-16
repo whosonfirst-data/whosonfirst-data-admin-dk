@@ -24,7 +24,37 @@
     "mz:min_zoom":19.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
+        "Havnegade"
+    ],
+    "name:deu_x_preferred":[
+        "Havnegade"
+    ],
+    "name:eng_x_preferred":[
+        "Havnegade"
+    ],
+    "name:fao_x_preferred":[
+        "Havnegade"
+    ],
+    "name:fra_x_preferred":[
+        "Havnegade"
+    ],
+    "name:isl_x_preferred":[
+        "Havnegade"
+    ],
+    "name:kal_x_preferred":[
+        "Havnegade"
+    ],
+    "name:nld_x_preferred":[
+        "Havnegade"
+    ],
+    "name:nno_x_preferred":[
+        "Havnegade"
+    ],
+    "name:nob_x_preferred":[
+        "Havnegade"
+    ],
+    "name:swe_x_preferred":[
         "Havnegade"
     ],
     "name:unk_x_variant":[
@@ -84,7 +114,7 @@
         }
     ],
     "wof:id":85905947,
-    "wof:lastmodified":1530296541,
+    "wof:lastmodified":1563318858,
     "wof:name":"Havnegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

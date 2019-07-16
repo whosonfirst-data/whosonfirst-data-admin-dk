@@ -27,7 +27,34 @@
     "name:dan_x_preferred":[
         "\u00d8ster Voldgade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:fao_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:isl_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:kal_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8ster Voldgade"
+    ],
+    "name:swe_x_preferred":[
         "\u00d8ster Voldgade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":85906091,
-    "wof:lastmodified":1530296567,
+    "wof:lastmodified":1563318875,
     "wof:name":"\u00d8ster Voldgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

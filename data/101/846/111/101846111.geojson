@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u043d\u0443\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Ranum"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
     "qs:a1r":"0",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101846111,
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1563319524,
     "wof:name":"Ranum",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

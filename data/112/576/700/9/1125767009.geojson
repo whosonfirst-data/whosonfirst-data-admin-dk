@@ -27,6 +27,9 @@
     "name:ces_x_preferred":[
         "Gentofte"
     ],
+    "name:cym_x_preferred":[
+        "Gentofte"
+    ],
     "name:dan_x_preferred":[
         "Gentofte"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Gentofte Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Gentofte"
     ],
     "name:est_x_preferred":[
         "Gentofte vald"
@@ -59,6 +65,9 @@
     ],
     "name:hun_x_preferred":[
         "Gentofte k\u00f6zs\u00e9g"
+    ],
+    "name:hun_x_variant":[
+        "Gentofte"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u0576\u057f\u0578\u0586\u057f\u0565"
@@ -95,6 +104,9 @@
     ],
     "name:nno_x_preferred":[
         "Gentofte kommune"
+    ],
+    "name:nno_x_variant":[
+        "Gentofte"
     ],
     "name:nob_x_preferred":[
         "Gentofte"
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":1125767009,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1563319784,
     "wof:name":"Gentofte",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

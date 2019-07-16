@@ -27,7 +27,13 @@
     "name:dan_x_preferred":[
         "Klareboderne"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Klareboderne"
+    ],
+    "name:nld_x_preferred":[
+        "Klareboderne"
+    ],
+    "name:nob_x_preferred":[
         "Klareboderne"
     ],
     "name:nor_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":85905989,
-    "wof:lastmodified":1530296548,
+    "wof:lastmodified":1563318852,
     "wof:name":"Klareboderne",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

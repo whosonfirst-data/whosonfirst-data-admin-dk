@@ -29,8 +29,23 @@
     "name:ell_x_preferred":[
         "\u03a6\u03ac\u03c1\u03bf\u03c5\u03bc"
     ],
+    "name:eng_x_preferred":[
+        "Farum"
+    ],
     "name:est_x_preferred":[
         "Farum"
+    ],
+    "name:fra_x_preferred":[
+        "Farum"
+    ],
+    "name:ita_x_preferred":[
+        "Farum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30eb\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub8f8"
     ],
     "name:lit_x_preferred":[
         "Farumas"
@@ -38,11 +53,17 @@
     "name:nld_x_preferred":[
         "Farum"
     ],
+    "name:pol_x_preferred":[
+        "Farum"
+    ],
     "name:ron_x_preferred":[
         "Farum"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0440\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Farum"
     ],
     "name:swe_x_preferred":[
         "Farum"
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":101818425,
-    "wof:lastmodified":1562795487,
+    "wof:lastmodified":1563319374,
     "wof:name":"Farum",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

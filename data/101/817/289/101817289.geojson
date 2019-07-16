@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Thorsager"
     ],
+    "name:spa_x_preferred":[
+        "Thorsager"
+    ],
     "name:swe_x_preferred":[
         "Thorsager"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101817289,
-    "wof:lastmodified":1562795202,
+    "wof:lastmodified":1563319424,
     "wof:name":"Thorsager",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

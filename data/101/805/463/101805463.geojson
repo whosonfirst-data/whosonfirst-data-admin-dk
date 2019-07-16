@@ -29,11 +29,14 @@
     "name:aze_x_preferred":[
         "Qram"
     ],
+    "name:bak_x_preferred":[
+        "\u0433\u0440\u0430\u043c\u043c"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u0430\u043c"
     ],
     "name:bel_x_variant":[
-        "\u0413\u0440\u0430\u043c"
+        "\u0433\u0440\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09ae"
@@ -44,8 +47,20 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043c"
     ],
+    "name:bul_x_variant":[
+        "g"
+    ],
     "name:cat_x_preferred":[
         "Gram"
+    ],
+    "name:cat_x_variant":[
+        "gram"
+    ],
+    "name:cdo_x_preferred":[
+        "K\u00e1ik"
+    ],
+    "name:ces_x_preferred":[
+        "gram"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0440\u0430\u043c\u043c"
@@ -53,14 +68,23 @@
     "name:dan_x_preferred":[
         "Gram"
     ],
+    "name:dan_x_variant":[
+        "gram"
+    ],
     "name:deu_x_preferred":[
         "Gramm"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b1\u03bc\u03bc\u03ac\u03c1\u03b9\u03bf"
     ],
+    "name:eng_x_preferred":[
+        "gram"
+    ],
     "name:epo_x_preferred":[
         "Gramo"
+    ],
+    "name:epo_x_variant":[
+        "gramo"
     ],
     "name:est_x_preferred":[
         "Gramm"
@@ -68,11 +92,26 @@
     "name:eus_x_preferred":[
         "Gramo"
     ],
+    "name:eus_x_variant":[
+        "gramo"
+    ],
+    "name:fao_x_preferred":[
+        "Gramm"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0645"
     ],
+    "name:fin_x_preferred":[
+        "gramma"
+    ],
     "name:fra_x_preferred":[
         "Gramme"
+    ],
+    "name:fra_x_variant":[
+        "gramme"
+    ],
+    "name:fry_x_preferred":[
+        "gram"
     ],
     "name:fur_x_preferred":[
         "Gram"
@@ -98,11 +137,20 @@
     "name:hun_x_preferred":[
         "Gramm"
     ],
+    "name:hun_x_variant":[
+        "gramm"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0580\u0561\u0574"
     ],
     "name:ido_x_preferred":[
         "Gramo"
+    ],
+    "name:ido_x_variant":[
+        "gramo"
+    ],
+    "name:ilo_x_preferred":[
+        "gramo"
     ],
     "name:ind_x_preferred":[
         "Gram"
@@ -113,14 +161,23 @@
     "name:ita_x_preferred":[
         "Grammo"
     ],
+    "name:ita_x_variant":[
+        "grammo"
+    ],
     "name:jav_x_preferred":[
         "Gram"
+    ],
+    "name:jbo_x_preferred":[
+        "grake"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30e0"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e0\u10d0\u10db\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u043c\u043c"
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub7a8"
@@ -134,6 +191,12 @@
     "name:lav_x_preferred":[
         "Grams"
     ],
+    "name:lav_x_variant":[
+        "grams"
+    ],
+    "name:lfn_x_preferred":[
+        "gram"
+    ],
     "name:lin_x_preferred":[
         "G\u00e1lame"
     ],
@@ -143,20 +206,41 @@
     "name:ltz_x_preferred":[
         "Gramm"
     ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d30\u0d3e\u0d02"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0430\u043c"
+    ],
+    "name:mkd_x_variant":[
+        "\u0433\u0440\u0430\u043c"
     ],
     "name:mlt_x_preferred":[
         "Gramma"
     ],
+    "name:mlt_x_variant":[
+        "gramma"
+    ],
     "name:msa_x_preferred":[
         "Gram"
+    ],
+    "name:nan_x_preferred":[
+        "Kong-khek"
     ],
     "name:nld_x_preferred":[
         "Gram"
     ],
+    "name:nld_x_variant":[
+        "gram"
+    ],
     "name:nno_x_preferred":[
         "Gram"
+    ],
+    "name:nno_x_variant":[
+        "gram"
+    ],
+    "name:nob_x_preferred":[
+        "gram"
     ],
     "name:nor_x_preferred":[
         "Gram"
@@ -173,8 +257,14 @@
     "name:pol_x_preferred":[
         "Gram"
     ],
+    "name:pol_x_variant":[
+        "gram"
+    ],
     "name:por_x_preferred":[
         "Grama"
+    ],
+    "name:por_x_variant":[
+        "grama"
     ],
     "name:que_x_preferred":[
         "K'isura"
@@ -182,14 +272,26 @@
     "name:ron_x_preferred":[
         "Gram"
     ],
+    "name:rue_x_preferred":[
+        "\u0413\u0440\u0430\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043c\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0433\u0440\u0430\u043c\u043c"
     ],
     "name:sah_x_preferred":[
         "\u0413\u0440\u0430\u043c\u043c"
     ],
+    "name:scn_x_preferred":[
+        "Grammu"
+    ],
     "name:sco_x_preferred":[
         "Gram"
+    ],
+    "name:sco_x_variant":[
+        "gram"
     ],
     "name:slk_x_preferred":[
         "Gram"
@@ -197,17 +299,35 @@
     "name:slv_x_preferred":[
         "Gram"
     ],
+    "name:slv_x_variant":[
+        "gram"
+    ],
+    "name:smo_x_preferred":[
+        "Karama"
+    ],
     "name:som_x_preferred":[
         "Garaam"
     ],
     "name:spa_x_preferred":[
         "Gramo"
     ],
+    "name:spa_x_variant":[
+        "gramo"
+    ],
+    "name:srd_x_preferred":[
+        "Grammu"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0430\u043c"
     ],
+    "name:srp_x_variant":[
+        "\u0433\u0440\u0430\u043c"
+    ],
     "name:swe_x_preferred":[
         "Gram"
+    ],
+    "name:swe_x_variant":[
+        "gram"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd"
@@ -224,11 +344,17 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u0433\u0440\u0430\u043c"
+    ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u0627\u0645"
     ],
     "name:vie_x_preferred":[
         "Gam"
+    ],
+    "name:vie_x_variant":[
+        "gam"
     ],
     "name:war_x_preferred":[
         "Gramo"
@@ -238,6 +364,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d2\u05e8\u05d0\u05dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u514b"
     ],
     "name:zho_x_preferred":[
         "\u514b"
@@ -292,7 +421,7 @@
         }
     ],
     "wof:id":101805463,
-    "wof:lastmodified":1562794214,
+    "wof:lastmodified":1563319451,
     "wof:name":"Gram",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

@@ -26,7 +26,16 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0647\u0627\u0641\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0439\u0445\u0430\u0432\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:ceb_x_preferred":[
         "Nyhavn"
     ],
     "name:dan_x_preferred":[
@@ -35,7 +44,16 @@
     "name:deu_x_preferred":[
         "Nyhavn"
     ],
+    "name:eng_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:epo_x_preferred":[
+        "Nyhavn"
+    ],
     "name:eus_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:fao_x_preferred":[
         "Nyhavn"
     ],
     "name:fin_x_preferred":[
@@ -44,7 +62,13 @@
     "name:fra_x_preferred":[
         "Nyhavn"
     ],
+    "name:glg_x_preferred":[
+        "Nyhavn"
+    ],
     "name:hun_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:isl_x_preferred":[
         "Nyhavn"
     ],
     "name:ita_x_preferred":[
@@ -53,17 +77,41 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30e5\u30fc\u30cf\u30a6\u30f3"
     ],
+    "name:kal_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:kor_x_preferred":[
+        "\ub258\ud558\uc6b4"
+    ],
+    "name:lat_x_preferred":[
+        "Nyhavn"
+    ],
     "name:nld_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:nno_x_preferred":[
+        "Nyhavn"
+    ],
+    "name:nob_x_preferred":[
         "Nyhavn"
     ],
     "name:nor_x_preferred":[
         "Nyhavn"
     ],
+    "name:pol_x_preferred":[
+        "Nyhavn"
+    ],
     "name:por_x_preferred":[
         "Nyhavn"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u044e\u0445\u0430\u0432\u043d"
+    ],
     "name:spa_x_preferred":[
         "Nyhavn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0445\u0430\u0432\u043d"
     ],
     "name:swe_x_preferred":[
         "Nyhavn"
@@ -72,6 +120,9 @@
         "\u041d\u0443\u0433\u0430\u0432\u043d"
     ],
     "name:unk_x_variant":[
+        "Nyhavn"
+    ],
+    "name:vie_x_preferred":[
         "Nyhavn"
     ],
     "name:zho_x_preferred":[
@@ -139,7 +190,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296565,
+    "wof:lastmodified":1563318877,
     "wof:name":"Nyhavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

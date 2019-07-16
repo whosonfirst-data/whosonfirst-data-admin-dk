@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "B\u00f8rkop Kommune"
     ],
+    "name:eng_x_preferred":[
+        "B\u00f8rkop Municipality"
+    ],
     "name:fao_x_preferred":[
         "B\u00f8rkop kommuna"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:nld_x_preferred":[
         "B\u00f8rkop"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00f8rkop kommune"
     ],
     "name:nor_x_preferred":[
         "B\u00f8rkop kommune"
@@ -46,6 +52,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna B\u00f8rkop"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f8rkops kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":101846035,
-    "wof:lastmodified":1562796864,
+    "wof:lastmodified":1563319530,
     "wof:name":"B\u00f8rkop",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

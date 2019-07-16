@@ -34,6 +34,9 @@
     "name:bre_x_preferred":[
         "Kastell Kronborg"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u043e\u043d\u0431\u043e\u0440\u0433"
+    ],
     "name:cat_x_preferred":[
         "Castell de Kronborg"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ces_x_preferred":[
         "Kronborg"
+    ],
+    "name:cym_x_preferred":[
+        "Castell Kronborg"
     ],
     "name:dan_x_preferred":[
         "Kronborg"
@@ -52,6 +58,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c3\u03c4\u03c1\u03bf \u039a\u03c1\u03cc\u03bd\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba"
     ],
+    "name:eng_x_preferred":[
+        "Kronborg Castle"
+    ],
     "name:epo_x_preferred":[
         "Kastelo de Kronborg"
     ],
@@ -61,11 +70,17 @@
     "name:eus_x_preferred":[
         "Kronborg gaztelua"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u06a9\u0631\u0627\u0646\u0628\u0648\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Kronborgin linna"
     ],
     "name:fra_x_preferred":[
         "Ch\u00e2teau de Kronborg"
+    ],
+    "name:fry_x_preferred":[
+        "Kronborg"
     ],
     "name:glg_x_preferred":[
         "Castelo de Kronborg"
@@ -76,11 +91,20 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05e8\u05ea \u05e7\u05e8\u05d5\u05e0\u05d1\u05d5\u05e8\u05d2"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u094b\u0902\u092c\u094b\u0930\u094d\u0917"
+    ],
     "name:hrv_x_preferred":[
         "Dvorac Kronborg"
     ],
     "name:hun_x_preferred":[
         "Kronborg"
+    ],
+    "name:hun_x_variant":[
+        "Kronborg-kast\u00e9ly"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0578\u0576\u0562\u0578\u0580\u0563"
     ],
     "name:ina_x_preferred":[
         "Kronborg"
@@ -115,6 +139,9 @@
     "name:nno_x_preferred":[
         "Kronborg slott"
     ],
+    "name:nob_x_preferred":[
+        "Kronborg slott"
+    ],
     "name:nor_x_preferred":[
         "Kronborg slott"
     ],
@@ -145,6 +172,9 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e04\u0e23\u0e2d\u0e19\u0e1a\u0e2d\u0e23\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Kronborg"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u043d\u0431\u043e\u0440\u0433"
     ],
@@ -153,6 +183,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u00e2u \u0111\u00e0i Kronborg"
+    ],
+    "name:vie_x_variant":[
+        "Kronborg"
     ],
     "name:zho_x_preferred":[
         "\u514b\u9686\u5821"
@@ -188,11 +221,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":2172,
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014013,
         85633121,
-        101818397
+        101818397,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -217,7 +250,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795297,
+    "wof:lastmodified":1563318898,
     "wof:name":"Kronborg",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

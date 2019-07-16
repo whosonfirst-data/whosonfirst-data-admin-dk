@@ -28,6 +28,9 @@
     "name:nob_x_preferred":[
         "Hundige"
     ],
+    "name:spa_x_preferred":[
+        "Hundige"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hundige",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126051817,
-    "wof:lastmodified":1562794478,
+    "wof:lastmodified":1563319639,
     "wof:name":"Hundige",
     "wof:parent_id":1394014137,
     "wof:placetype":"locality",
