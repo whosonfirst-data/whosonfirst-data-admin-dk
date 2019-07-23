@@ -26,13 +26,22 @@
     "name:dan_x_preferred":[
         "Klarup"
     ],
+    "name:deu_x_preferred":[
+        "Klarup"
+    ],
     "name:eng_x_preferred":[
+        "Klarup"
+    ],
+    "name:fra_x_preferred":[
         "Klarup"
     ],
     "name:nld_x_preferred":[
         "Klarup"
     ],
     "name:sco_x_preferred":[
+        "Klarup"
+    ],
+    "name:spa_x_preferred":[
         "Klarup"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":101805797,
-    "wof:lastmodified":1561777998,
+    "wof:lastmodified":1563319431,
     "wof:name":"Klarup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

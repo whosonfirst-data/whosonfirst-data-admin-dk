@@ -83,6 +83,9 @@
     "name:unk_x_variant":[
         "Ringkj\u00f6bing"
     ],
+    "name:zho_x_preferred":[
+        "\u9748\u514b\u8cd3"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805593,
-    "wof:lastmodified":1562796087,
+    "wof:lastmodified":1563319433,
     "wof:name":"Ringk\u00f8bing",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

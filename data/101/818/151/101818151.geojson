@@ -17,10 +17,16 @@
     "mps:longitude":11.462526,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u043b\u0435\u0431\u0439"
+    ],
     "name:ceb_x_preferred":[
         "Holeby"
     ],
     "name:dan_x_preferred":[
+        "Holeby"
+    ],
+    "name:deu_x_preferred":[
         "Holeby"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +35,16 @@
     "name:fao_x_preferred":[
         "Holeby"
     ],
+    "name:fra_x_preferred":[
+        "Holeby"
+    ],
     "name:ita_x_preferred":[
         "Holeby"
     ],
     "name:nld_x_preferred":[
+        "Holeby"
+    ],
+    "name:nob_x_preferred":[
         "Holeby"
     ],
     "name:nor_x_preferred":[
@@ -41,7 +53,13 @@
     "name:pol_x_preferred":[
         "Gmina Holeby"
     ],
+    "name:pol_x_variant":[
+        "Holeby"
+    ],
     "name:por_x_preferred":[
+        "Holeby"
+    ],
+    "name:spa_x_preferred":[
         "Holeby"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":101818151,
-    "wof:lastmodified":1562794995,
+    "wof:lastmodified":1563319372,
     "wof:name":"Holeby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

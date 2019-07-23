@@ -20,6 +20,12 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u043d\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00f8nne"
+    ],
     "name:ceb_x_preferred":[
         "R\u00f8nne"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "R\u00f8nne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bd\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "R\u00f8nne"
@@ -51,6 +60,9 @@
         "R\u00f8nne"
     ],
     "name:fra_x_preferred":[
+        "R\u00f8nne"
+    ],
+    "name:glg_x_preferred":[
         "R\u00f8nne"
     ],
     "name:heb_x_preferred":[
@@ -79,6 +91,9 @@
     ],
     "name:lit_x_preferred":[
         "Rion\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "R\u00f8nne"
     ],
     "name:msa_x_preferred":[
         "R\u00f8nne"
@@ -174,7 +189,7 @@
         }
     ],
     "wof:id":101818191,
-    "wof:lastmodified":1562794627,
+    "wof:lastmodified":1563319390,
     "wof:name":"R\u00f8nne",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

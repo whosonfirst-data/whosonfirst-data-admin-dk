@@ -47,7 +47,13 @@
     "name:ita_x_preferred":[
         "Hanstholm"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30b9\u30c8\u30db\u30eb\u30e0"
+    ],
     "name:nld_x_preferred":[
+        "Hanstholm"
+    ],
+    "name:nob_x_preferred":[
         "Hanstholm"
     ],
     "name:nor_x_preferred":[
@@ -59,8 +65,14 @@
     "name:por_x_preferred":[
         "Hanstholm"
     ],
+    "name:spa_x_preferred":[
+        "Hantsholm"
+    ],
     "name:swe_x_preferred":[
         "Hanstholm"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f22\u65af\u7d22\u52d2\u59c6"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101846119,
-    "wof:lastmodified":1562795428,
+    "wof:lastmodified":1563319525,
     "wof:name":"Hanstholm",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

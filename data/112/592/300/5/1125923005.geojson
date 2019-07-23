@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0442\u0438\u043d\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kettinge"
+    ],
     "name:dan_x_preferred":[
         "Kettinge"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125923005,
-    "wof:lastmodified":1561778011,
+    "wof:lastmodified":1563319617,
     "wof:name":"Kettinge",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

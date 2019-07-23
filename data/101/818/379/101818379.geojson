@@ -23,7 +23,19 @@
     "name:dan_x_preferred":[
         "Ejby"
     ],
+    "name:deu_x_preferred":[
+        "Ejby"
+    ],
+    "name:eng_x_preferred":[
+        "Ejby"
+    ],
     "name:nld_x_preferred":[
+        "Ejby"
+    ],
+    "name:nob_x_preferred":[
+        "Ejby"
+    ],
+    "name:spa_x_preferred":[
         "Ejby"
     ],
     "name:swe_x_preferred":[
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":101818379,
-    "wof:lastmodified":1562797176,
+    "wof:lastmodified":1563319382,
     "wof:name":"Ejby",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

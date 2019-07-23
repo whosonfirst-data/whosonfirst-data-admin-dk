@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Hasseris"
     ],
+    "name:fra_x_preferred":[
+        "Hasseris"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125950941,
-    "wof:lastmodified":1530290664,
+    "wof:lastmodified":1563319630,
     "wof:name":"Hasseris",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

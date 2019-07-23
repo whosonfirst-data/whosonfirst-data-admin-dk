@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Borup"
     ],
+    "name:spa_x_preferred":[
+        "Borup"
+    ],
     "name:swe_x_preferred":[
         "Borup"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101818381,
-    "wof:lastmodified":1562797173,
+    "wof:lastmodified":1563319413,
     "wof:name":"Borup",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

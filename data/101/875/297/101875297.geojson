@@ -50,6 +50,9 @@
     "name:nob_x_preferred":[
         "Hjortsh\u00f8j"
     ],
+    "name:spa_x_preferred":[
+        "Hjortsh\u00f8j"
+    ],
     "name:swe_x_preferred":[
         "Hjortsh\u00f8j"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101875297,
-    "wof:lastmodified":1562794967,
+    "wof:lastmodified":1563319430,
     "wof:name":"Hjortsh\u00f8j",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

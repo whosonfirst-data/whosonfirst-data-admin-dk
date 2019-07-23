@@ -20,6 +20,12 @@
     "name:afr_x_preferred":[
         "Thisted"
     ],
+    "name:ast_x_preferred":[
+        "Thisted"
+    ],
+    "name:bar_x_preferred":[
+        "Thisted"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u044b\u0441\u0442\u044d\u0434"
     ],
@@ -27,6 +33,9 @@
         "Thisted"
     ],
     "name:ceb_x_preferred":[
+        "Thisted"
+    ],
+    "name:ces_x_preferred":[
         "Thisted"
     ],
     "name:dan_x_preferred":[
@@ -47,6 +56,9 @@
     ],
     "name:fao_x_preferred":[
         "Thisted"
+    ],
+    "name:fao_x_variant":[
+        "Thisted kommuna"
     ],
     "name:fin_x_preferred":[
         "Thisted"
@@ -175,7 +187,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795446,
+    "wof:lastmodified":1563319475,
     "wof:name":"Thisted",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

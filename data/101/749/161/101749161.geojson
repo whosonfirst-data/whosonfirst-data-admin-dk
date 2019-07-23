@@ -47,6 +47,9 @@
     "name:csb_x_preferred":[
         "Randers"
     ],
+    "name:cym_x_preferred":[
+        "Randers"
+    ],
     "name:dan_x_preferred":[
         "Randers"
     ],
@@ -98,6 +101,9 @@
     "name:hye_x_preferred":[
         "\u054c\u0561\u0576\u0564\u0565\u0580\u057d"
     ],
+    "name:ido_x_preferred":[
+        "Randers"
+    ],
     "name:ile_x_preferred":[
         "Randers"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:lav_x_preferred":[
         "Randersa"
+    ],
+    "name:lav_x_variant":[
+        "Ranersa"
     ],
     "name:lit_x_preferred":[
         "Randersas"
@@ -197,6 +206,9 @@
     "name:tam_x_preferred":[
         "\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043d\u043d\u0435\u0440\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c30\u0c3e\u0c02\u0c21\u0c30\u0c4d\u0c38\u0c4d"
     ],
@@ -219,6 +231,9 @@
         "Randers"
     ],
     "name:vol_x_preferred":[
+        "Randers"
+    ],
+    "name:war_x_preferred":[
         "Randers"
     ],
     "name:yue_x_preferred":[
@@ -277,7 +292,7 @@
         }
     ],
     "wof:id":101749161,
-    "wof:lastmodified":1562796638,
+    "wof:lastmodified":1563319509,
     "wof:name":"Randers",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

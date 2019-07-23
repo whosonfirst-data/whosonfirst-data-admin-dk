@@ -16,6 +16,9 @@
     "mps:longitude":8.822275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Bredebro Kommune"
+    ],
     "name:dan_x_preferred":[
         "Bredebro Kommune"
     ],
@@ -37,11 +40,17 @@
     "name:fao_x_variant":[
         "Bredebro"
     ],
+    "name:fra_x_preferred":[
+        "Bredebro"
+    ],
     "name:ita_x_preferred":[
         "Bredebro"
     ],
     "name:nld_x_preferred":[
         "Bredebro"
+    ],
+    "name:nob_x_preferred":[
+        "Bredebro kommune"
     ],
     "name:nor_x_preferred":[
         "Bredebro kommune"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":101805537,
-    "wof:lastmodified":1562795979,
+    "wof:lastmodified":1563319465,
     "wof:name":"Bredebro",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

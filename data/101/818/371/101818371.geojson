@@ -38,11 +38,17 @@
     "name:fao_x_variant":[
         "Fuglebjerg"
     ],
+    "name:fra_x_preferred":[
+        "Fuglebjerg"
+    ],
     "name:ita_x_preferred":[
         "Fuglebjerg"
     ],
     "name:nld_x_preferred":[
         "Fuglebjerg"
+    ],
+    "name:nob_x_preferred":[
+        "Fuglebjerg kommune"
     ],
     "name:nor_x_preferred":[
         "Fuglebjerg kommune"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":101818371,
-    "wof:lastmodified":1562796906,
+    "wof:lastmodified":1563319385,
     "wof:name":"Fuglebjerg",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

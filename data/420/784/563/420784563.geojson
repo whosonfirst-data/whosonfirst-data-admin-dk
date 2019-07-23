@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6049404777,55.6808874305,12.6049404777,55.6808874305",
     "geom:latitude":55.680887,
     "geom:longitude":12.60494,
@@ -20,6 +21,24 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:dan_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:eng_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:nld_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:nob_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:swe_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":973,
     "wof:belongsto":[
@@ -48,7 +67,7 @@
         }
     ],
     "wof:id":420784563,
-    "wof:lastmodified":1530296495,
+    "wof:lastmodified":1563319585,
     "wof:name":"Frederiksholm",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

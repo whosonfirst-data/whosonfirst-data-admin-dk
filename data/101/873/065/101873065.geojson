@@ -22,7 +22,13 @@
     "name:dan_x_preferred":[
         "Gandrup"
     ],
+    "name:deu_x_preferred":[
+        "Gandrup"
+    ],
     "name:eng_x_preferred":[
+        "Gandrup"
+    ],
+    "name:fra_x_preferred":[
         "Gandrup"
     ],
     "name:nld_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101873065,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1563319417,
     "wof:name":"Gandrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

@@ -29,7 +29,13 @@
     "name:dan_x_preferred":[
         "Vadum"
     ],
+    "name:deu_x_preferred":[
+        "Vadum"
+    ],
     "name:eng_x_preferred":[
+        "Vadum"
+    ],
+    "name:fra_x_preferred":[
         "Vadum"
     ],
     "name:nld_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":101838607,
-    "wof:lastmodified":1561778006,
+    "wof:lastmodified":1563319546,
     "wof:name":"Vadum",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

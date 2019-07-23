@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Hvidbjerg"
     ],
+    "name:spa_x_preferred":[
+        "Hvidbjerg"
+    ],
     "name:swe_x_preferred":[
         "Hvidbjerg"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101873047,
-    "wof:lastmodified":1562795937,
+    "wof:lastmodified":1563319417,
     "wof:name":"Hvidbjerg",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

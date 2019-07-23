@@ -24,7 +24,13 @@
     "mz:min_zoom":20.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
+    "name:eng_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
+    "name:nob_x_preferred":[
         "Gr\u00e5br\u00f8dretorv"
     ],
     "name:unk_x_variant":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":85905929,
-    "wof:lastmodified":1530296537,
+    "wof:lastmodified":1563318852,
     "wof:name":"Gr\u00e5br\u00f8dretorv",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

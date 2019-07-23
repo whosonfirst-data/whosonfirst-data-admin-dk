@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Lystrup"
     ],
+    "name:fao_x_preferred":[
+        "Lystrup"
+    ],
     "name:nld_x_preferred":[
         "Lystrup"
     ],
@@ -39,6 +42,9 @@
         "Lystrup"
     ],
     "name:ron_x_preferred":[
+        "Lystrup"
+    ],
+    "name:spa_x_preferred":[
         "Lystrup"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101805657,
-    "wof:lastmodified":1562794968,
+    "wof:lastmodified":1563319457,
     "wof:name":"Lystrup",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

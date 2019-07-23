@@ -23,6 +23,9 @@
     "name:dan_x_preferred":[
         "Beder"
     ],
+    "name:deu_x_preferred":[
+        "Beder"
+    ],
     "name:eng_x_preferred":[
         "Beder"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101846077,
-    "wof:lastmodified":1562794956,
+    "wof:lastmodified":1563319520,
     "wof:name":"Beder",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

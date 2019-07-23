@@ -40,6 +40,9 @@
     "name:por_x_preferred":[
         "Them"
     ],
+    "name:spa_x_preferred":[
+        "Them"
+    ],
     "name:unk_x_variant":[
         "Tem"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805667,
-    "wof:lastmodified":1562794505,
+    "wof:lastmodified":1563319453,
     "wof:name":"Them",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

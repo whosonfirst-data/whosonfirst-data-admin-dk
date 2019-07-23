@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0440\u043b\u043e\u0442\u0435\u043d\u043b\u0443\u043d\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Charlottenlund"
+    ],
     "name:csb_x_preferred":[
         "Charlottenlund"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125780465,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1563319794,
     "wof:name":"Charlottenlund",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

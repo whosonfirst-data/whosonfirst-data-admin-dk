@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":17116.465194,
+    "geom:area_square_m":17116.465193,
     "geom:bbox":"12.5805493227,55.6793266124,12.5834655762,55.6809825432",
     "geom:latitude":55.680181,
     "geom:longitude":12.58218,
@@ -27,7 +27,10 @@
     "name:dan_x_preferred":[
         "Sv\u00e6rtegade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Sv\u00e6rtegade"
+    ],
+    "name:nld_x_preferred":[
         "Sv\u00e6rtegade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":85906213,
-    "wof:lastmodified":1530296589,
+    "wof:lastmodified":1563318837,
     "wof:name":"Sv\u00e6rtegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

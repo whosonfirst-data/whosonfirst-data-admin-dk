@@ -35,6 +35,12 @@
     "name:nld_x_preferred":[
         "Vestbjerg"
     ],
+    "name:nob_x_preferred":[
+        "Vestbjerg"
+    ],
+    "name:spa_x_preferred":[
+        "Vestbjerg"
+    ],
     "name:swe_x_preferred":[
         "Vestbjerg"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":101805847,
-    "wof:lastmodified":1561778002,
+    "wof:lastmodified":1563319481,
     "wof:name":"Vestbjerg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Birker\u00f8d"
     ],
+    "name:eng_x_variant":[
+        "Birker\u00f8d Municipality"
+    ],
     "name:fao_x_preferred":[
         "Birker\u00f8d kommuna"
     ],
@@ -44,11 +47,20 @@
     "name:fra_x_preferred":[
         "Birker\u00f8d"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8\u05d2\u05e8\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Birker\u00f8d"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30a2\u30b2\u30ec\u30ba"
+    ],
     "name:nld_x_preferred":[
         "Birker\u00f8d"
+    ],
+    "name:nob_x_preferred":[
+        "Birker\u00f8d kommune"
     ],
     "name:nor_x_preferred":[
         "Birker\u00f8d kommune"
@@ -70,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Birker\u00f8d"
+    ],
+    "name:swe_x_variant":[
+        "Birker\u00f8ds kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":101818427,
-    "wof:lastmodified":1562795689,
+    "wof:lastmodified":1563319401,
     "wof:name":"Birker\u00f8d",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

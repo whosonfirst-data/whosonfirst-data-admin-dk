@@ -27,6 +27,36 @@
     "name:dan_x_preferred":[
         "Snekkersten"
     ],
+    "name:deu_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:eng_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:fao_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:fra_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05e7\u05e8\u05e1\u05d8\u05df"
+    ],
+    "name:isl_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:kal_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:nld_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:nno_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:nob_x_preferred":[
+        "Snekkersten"
+    ],
     "name:swe_x_preferred":[
         "Snekkersten"
     ],
@@ -65,11 +95,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":646,
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014013,
         85633121,
-        101818397
+        101818397,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +126,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795297,
+    "wof:lastmodified":1563318902,
     "wof:name":"Snekkersten",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

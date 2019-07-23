@@ -21,6 +21,9 @@
     "name:dan_x_preferred":[
         "S\u00f8ller\u00f8d"
     ],
+    "name:dan_x_variant":[
+        "S\u00f8ller\u00f8d Kommune"
+    ],
     "name:deu_x_preferred":[
         "S\u00f8ller\u00f8d"
     ],
@@ -30,8 +33,14 @@
     "name:eng_x_preferred":[
         "S\u00f8ller\u00f8d"
     ],
+    "name:eng_x_variant":[
+        "S\u00f8ller\u00f8d Municipality"
+    ],
     "name:fao_x_preferred":[
         "S\u00f8ller\u00f8d"
+    ],
+    "name:fao_x_variant":[
+        "S\u00f8ller\u00f8d kommuna"
     ],
     "name:fin_x_preferred":[
         "S\u00f8ller\u00f8d"
@@ -62,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00f8ller\u00f8d"
+    ],
+    "name:swe_x_variant":[
+        "S\u00f8ller\u00f8ds kommun"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125787141,
-    "wof:lastmodified":1562795691,
+    "wof:lastmodified":1563319796,
     "wof:name":"S\u00f8ller\u00f8d",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Aarhus V"
+    ],
     "name:dan_x_colloquial":[
         "Aarhus V",
         "Arhus V"
@@ -36,7 +39,7 @@
         "Aarhus West"
     ],
     "name:eng_x_variant":[
-        "Aarhus West"
+        "Aarhus V"
     ],
     "name:unk_x_variant":[
         "\u00c5rhus V"
@@ -70,11 +73,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":926,
     "wof:belongsto":[
-        85682597,
         102191581,
         1394013977,
         85633121,
-        101749163
+        101749163,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562794983,
+    "wof:lastmodified":1563318830,
     "wof:name":"\u00c5rhus V",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

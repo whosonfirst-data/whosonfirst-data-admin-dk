@@ -19,10 +19,22 @@
     "name:dan_x_preferred":[
         "Fraugde"
     ],
+    "name:deu_x_preferred":[
+        "Fraugde"
+    ],
     "name:eng_x_preferred":[
         "Fraugde"
     ],
+    "name:fra_x_preferred":[
+        "Fraugde"
+    ],
     "name:nld_x_preferred":[
+        "Fraugde"
+    ],
+    "name:spa_x_preferred":[
+        "Fraugde"
+    ],
+    "name:swe_x_preferred":[
         "Fraugde"
     ],
     "name:unk_x_variant":[
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":101875291,
-    "wof:lastmodified":1562795753,
+    "wof:lastmodified":1563319430,
     "wof:name":"Fraugde",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

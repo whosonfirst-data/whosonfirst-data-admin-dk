@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "Tik\u00f8b"
     ],
+    "name:spa_x_preferred":[
+        "Tik\u00f8b"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125924473,
-    "wof:lastmodified":1562795292,
+    "wof:lastmodified":1563319618,
     "wof:name":"Tik\u00f8b",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

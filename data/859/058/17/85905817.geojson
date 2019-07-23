@@ -24,8 +24,20 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
         "Asiatisk Plads"
+    ],
+    "name:deu_x_preferred":[
+        "Asiatisk Plads"
+    ],
+    "name:eng_x_preferred":[
+        "Asiatisk Plads"
+    ],
+    "name:nld_x_preferred":[
+        "Asiatisk Plads"
+    ],
+    "name:nor_x_preferred":[
+        "Emiliegade"
     ],
     "name:unk_x_variant":[
         "Asiatisk Plads"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":85905817,
-    "wof:lastmodified":1530296517,
+    "wof:lastmodified":1563318864,
     "wof:name":"Asiatisk Plads",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

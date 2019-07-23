@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0435\u0431\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Muleby"
+    ],
     "name:dan_x_preferred":[
         "Sorthat-Muleby"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125999323,
-    "wof:lastmodified":1562794701,
+    "wof:lastmodified":1563319703,
     "wof:name":"Muleby",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

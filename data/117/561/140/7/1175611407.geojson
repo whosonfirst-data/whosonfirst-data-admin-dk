@@ -80,6 +80,9 @@
     "name:gsw_x_preferred":[
         "Slangerup"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e0\u05d2\u05e8\u05d5\u05e4"
+    ],
     "name:hrv_x_preferred":[
         "Slangerup"
     ],
@@ -87,6 +90,9 @@
         "Slangerup"
     ],
     "name:hun_x_preferred":[
+        "Slangerup"
+    ],
+    "name:ido_x_preferred":[
         "Slangerup"
     ],
     "name:ind_x_preferred":[
@@ -155,6 +161,9 @@
     "name:tur_x_preferred":[
         "Slangerup"
     ],
+    "name:zho_x_preferred":[
+        "\u65af\u6717\u5384\u9c81\u666e"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -203,7 +212,7 @@
         }
     ],
     "wof:id":1175611407,
-    "wof:lastmodified":1562793164,
+    "wof:lastmodified":1563319238,
     "wof:name":"Slangerup",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

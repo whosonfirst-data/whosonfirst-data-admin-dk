@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0441\u043a\u0456\u043b\u0435"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u043e\u0441\u043a\u0456\u043b\u0435"
+    ],
     "name:bre_x_preferred":[
         "Roskilde"
     ],
@@ -37,6 +40,9 @@
         "\u0420\u043e\u0441\u043a\u0438\u043b\u0435"
     ],
     "name:cat_x_preferred":[
+        "Roskilde"
+    ],
+    "name:ceb_x_preferred":[
         "Roskilde"
     ],
     "name:ces_x_preferred":[
@@ -102,6 +108,9 @@
     "name:hye_x_variant":[
         "\u054c\u0578\u057d\u056f\u056b\u056c\u0565"
     ],
+    "name:ido_x_preferred":[
+        "Roskilde"
+    ],
     "name:ina_x_preferred":[
         "Roskilde"
     ],
@@ -128,6 +137,9 @@
     ],
     "name:lat_x_preferred":[
         "Roschildia"
+    ],
+    "name:lat_x_variant":[
+        "Roskilde"
     ],
     "name:lav_x_preferred":[
         "Roskilde"
@@ -198,6 +210,9 @@
     "name:swe_x_preferred":[
         "Roskilde"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0441\u043a\u0438\u043b\u043b\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e2d\u0e2a\u0e01\u0e34\u0e25\u0e14\u0e4c"
     ],
@@ -214,6 +229,9 @@
         "Roskilde"
     ],
     "name:vol_x_preferred":[
+        "Roskilde"
+    ],
+    "name:war_x_preferred":[
         "Roskilde"
     ],
     "name:yue_x_preferred":[
@@ -369,7 +387,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562796269,
+    "wof:lastmodified":1563319400,
     "wof:name":"Roskilde",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

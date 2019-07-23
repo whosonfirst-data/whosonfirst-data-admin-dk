@@ -195,6 +195,9 @@
     "name:ron_x_preferred":[
         "\u00d8sterild"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u0440\u0438\u043b\u044c\u0434"
+    ],
     "name:scn_x_preferred":[
         "\u00d8sterild"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":1125815685,
-    "wof:lastmodified":1562795432,
+    "wof:lastmodified":1563319667,
     "wof:name":"\u00d8sterild",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

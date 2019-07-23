@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0434\u0435\u0440\u0443\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Guderup"
+    ],
     "name:dan_x_preferred":[
         "Guderup"
     ],
@@ -30,6 +33,12 @@
         "Guderup"
     ],
     "name:nld_x_preferred":[
+        "Guderup"
+    ],
+    "name:nob_x_preferred":[
+        "Guderup"
+    ],
+    "name:spa_x_preferred":[
         "Guderup"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":101805397,
-    "wof:lastmodified":1562796173,
+    "wof:lastmodified":1563319438,
     "wof:name":"Guderup",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mps:longitude":10.135851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vissenbjerg"
+    ],
     "name:dan_x_preferred":[
         "Vissenbjerg"
     ],
@@ -39,6 +42,12 @@
         "Vissenbjerg"
     ],
     "name:por_x_preferred":[
+        "Vissenbjerg"
+    ],
+    "name:spa_x_preferred":[
+        "Vissenbjerg"
+    ],
+    "name:swe_x_preferred":[
         "Vissenbjerg"
     ],
     "name:unk_x_variant":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":101805419,
-    "wof:lastmodified":1562796428,
+    "wof:lastmodified":1563319474,
     "wof:name":"Vissenbjerg",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

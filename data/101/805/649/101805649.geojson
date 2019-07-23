@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ast_x_preferred":[
+        "Viborg"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0438\u0431\u043e\u0440\u0433"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u0431\u0430\u0440\u0433"
     ],
@@ -31,6 +37,9 @@
         "\u0412\u0438\u0431\u043e\u0440"
     ],
     "name:cat_x_preferred":[
+        "Viborg"
+    ],
+    "name:ceb_x_preferred":[
         "Viborg"
     ],
     "name:ces_x_preferred":[
@@ -65,6 +74,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0628\u0648\u0631\u06af\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u06cc\u0628\u0648\u0631\u06af"
     ],
     "name:fin_x_preferred":[
         "Viborg"
@@ -135,6 +147,9 @@
     "name:por_x_preferred":[
         "Viburgo"
     ],
+    "name:por_x_variant":[
+        "Viborg"
+    ],
     "name:ron_x_preferred":[
         "Viborg"
     ],
@@ -170,6 +185,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0628\u0648\u060c \u0688\u0646\u0645\u0627\u0631\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc\u0628\u0648"
     ],
     "name:vep_x_preferred":[
         "Viborg"
@@ -324,7 +342,7 @@
         }
     ],
     "wof:id":101805649,
-    "wof:lastmodified":1562795364,
+    "wof:lastmodified":1563319476,
     "wof:name":"Viborg",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

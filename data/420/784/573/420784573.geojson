@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6070719409,55.6256498966,12.6070719409,55.6256498966",
     "geom:latitude":55.62565,
     "geom:longitude":12.607072,
@@ -23,14 +24,26 @@
     "name:ceb_x_preferred":[
         "T\u00e5rnby"
     ],
+    "name:ces_x_preferred":[
+        "T\u00e5rnby"
+    ],
     "name:csb_x_preferred":[
         "T\u00e5rnby"
     ],
     "name:dan_x_preferred":[
         "T\u00e5rnby"
     ],
+    "name:deu_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00e5rnby"
+    ],
     "name:frr_x_preferred":[
         "T\u00e5rnby"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30f3\u30d3\u30fc"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10e0\u10dc\u10d1\u10d8"
@@ -38,7 +51,19 @@
     "name:msa_x_preferred":[
         "T\u00e5rnby"
     ],
+    "name:nld_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:nob_x_preferred":[
+        "T\u00e5rnby"
+    ],
     "name:nor_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:sqi_x_preferred":[
         "T\u00e5rnby"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +98,7 @@
         }
     ],
     "wof:id":420784573,
-    "wof:lastmodified":1530296497,
+    "wof:lastmodified":1563319585,
     "wof:name":"T\u00e5rnby",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

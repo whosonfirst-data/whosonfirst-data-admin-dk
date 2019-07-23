@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0644\u064a\u0631\u0648\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:cat_x_preferred":[
         "Municipi de Hiller\u00f8d"
     ],
+    "name:cat_x_variant":[
+        "Hiller\u00f8d"
+    ],
     "name:ceb_x_preferred":[
         "Hiller\u00f8d Kommune"
+    ],
+    "name:ceb_x_variant":[
+        "Hiller\u00f8d"
     ],
     "name:ces_x_preferred":[
         "Hiller\u00f8d"
@@ -33,6 +42,9 @@
     ],
     "name:dan_x_preferred":[
         "Hiller\u00f8d Kommune"
+    ],
+    "name:dan_x_variant":[
+        "Hiller\u00f8d"
     ],
     "name:deu_x_preferred":[
         "Hiller\u00f8d Kommune"
@@ -44,6 +56,9 @@
         "\u03a7\u03af\u03bb\u03bb\u03b5\u03c1\u03bf\u03c4"
     ],
     "name:eng_x_preferred":[
+        "Hiller\u00f8d"
+    ],
+    "name:est_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:eus_x_preferred":[
@@ -58,11 +73,20 @@
     "name:fin_x_preferred":[
         "Hiller\u00f8din kunta"
     ],
+    "name:fin_x_variant":[
+        "Hiller\u00f8d"
+    ],
     "name:fra_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:frr_x_preferred":[
         "Hiller\u00f8d Komuun"
+    ],
+    "name:frr_x_variant":[
+        "Hiller\u00f8d"
+    ],
+    "name:fry_x_preferred":[
+        "Hiller\u00f8d"
     ],
     "name:glv_x_preferred":[
         "Hiller\u00f8d"
@@ -75,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "Hiller\u00f8d k\u00f6zs\u00e9g"
+    ],
+    "name:hun_x_variant":[
+        "Hiller\u00f8d"
     ],
     "name:ina_x_preferred":[
         "Hiller\u00f8d"
@@ -102,6 +129,9 @@
     ],
     "name:lit_x_preferred":[
         "Hileriodas"
+    ],
+    "name:ltz_x_preferred":[
+        "Hiller\u00f8d"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0438\u043b\u0435\u0440\u0435\u0434"
@@ -143,6 +173,9 @@
         "\u0425\u0438\u043b\u0435\u0440\u0435\u0434"
     ],
     "name:swe_x_preferred":[
+        "Hiller\u00f8d"
+    ],
+    "name:tur_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:ukr_x_preferred":[
@@ -200,7 +233,7 @@
         }
     ],
     "wof:id":101847775,
-    "wof:lastmodified":1562794614,
+    "wof:lastmodified":1563319539,
     "wof:name":"Tulstrup",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

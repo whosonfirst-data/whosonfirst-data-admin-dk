@@ -28,6 +28,12 @@
     "name:nld_x_preferred":[
         "Glums\u00f8"
     ],
+    "name:nob_x_preferred":[
+        "Glums\u00f8"
+    ],
+    "name:spa_x_preferred":[
+        "Glums\u00f8"
+    ],
     "name:swe_x_preferred":[
         "Glums\u00f8"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":101818297,
-    "wof:lastmodified":1562796927,
+    "wof:lastmodified":1563319405,
     "wof:name":"Glums\u00f8",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

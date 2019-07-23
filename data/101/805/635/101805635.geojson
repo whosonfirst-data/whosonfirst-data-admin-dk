@@ -34,8 +34,14 @@
     "name:nld_x_preferred":[
         "M\u00f8ldrup"
     ],
+    "name:nno_x_preferred":[
+        "M\u00f8ldrup kommune"
+    ],
     "name:nob_x_preferred":[
         "M\u00f8ldrup"
+    ],
+    "name:nob_x_variant":[
+        "M\u00f8ldrup kommune"
     ],
     "name:nor_x_preferred":[
         "M\u00f8ldrup"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101805635,
-    "wof:lastmodified":1562795343,
+    "wof:lastmodified":1563319456,
     "wof:name":"M\u00f8ldrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

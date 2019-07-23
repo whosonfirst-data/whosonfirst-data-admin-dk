@@ -27,8 +27,14 @@
     "name:dan_x_preferred":[
         "Store Strandstr\u00e6de"
     ],
+    "name:eng_x_preferred":[
+        "Store Strandstr\u00e6de"
+    ],
     "name:eng_x_variant":[
         "Strandstr\u00e6de"
+    ],
+    "name:nld_x_preferred":[
+        "Store Strandstr\u00e6de"
     ],
     "name:unk_x_variant":[
         "Strandstr\u00e6de"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":85906205,
-    "wof:lastmodified":1530296588,
+    "wof:lastmodified":1563318832,
     "wof:name":"Strandstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -39,6 +39,9 @@
     "name:nld_x_preferred":[
         "Herf\u00f8lge"
     ],
+    "name:nob_x_preferred":[
+        "Herf\u00f8lge"
+    ],
     "name:swe_x_preferred":[
         "Herf\u00f8lge"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125806789,
-    "wof:lastmodified":1562797174,
+    "wof:lastmodified":1563319692,
     "wof:name":"Herf\u00f8lge",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

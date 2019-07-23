@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
     ],
+    "name:dan_x_variant":[
+        "Biersted"
+    ],
     "name:deu_x_preferred":[
         "Biersted"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:spa_x_preferred":[
         "Jens-Kristian S\u00f8rensen"
+    ],
+    "name:spa_x_variant":[
+        "Biersted"
     ],
     "name:swe_x_preferred":[
         "Biersted"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101805837,
-    "wof:lastmodified":1562796812,
+    "wof:lastmodified":1563319490,
     "wof:name":"Biersted",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

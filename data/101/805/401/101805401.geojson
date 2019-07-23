@@ -23,6 +23,9 @@
     "name:dan_x_preferred":[
         "Nordborg"
     ],
+    "name:dan_x_variant":[
+        "Nordborg Kommune"
+    ],
     "name:deu_x_preferred":[
         "Nordborg Kommune"
     ],
@@ -38,11 +41,20 @@
     "name:fao_x_variant":[
         "Nordborg"
     ],
+    "name:fra_x_preferred":[
+        "Nordborg"
+    ],
+    "name:hun_x_preferred":[
+        "Nordborg"
+    ],
     "name:ita_x_preferred":[
         "Nordborg"
     ],
     "name:nld_x_preferred":[
         "Nordborg"
+    ],
+    "name:nob_x_preferred":[
+        "Nordborg kommune"
     ],
     "name:nor_x_preferred":[
         "Nordborg kommune"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":101805401,
-    "wof:lastmodified":1562796176,
+    "wof:lastmodified":1563319448,
     "wof:name":"Nordborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

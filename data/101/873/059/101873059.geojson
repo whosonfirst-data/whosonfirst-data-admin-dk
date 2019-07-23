@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Thorning"
     ],
+    "name:spa_x_preferred":[
+        "Thorning"
+    ],
     "name:swe_x_preferred":[
         "Thorning"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101873059,
-    "wof:lastmodified":1562794513,
+    "wof:lastmodified":1563319421,
     "wof:name":"Thorning",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

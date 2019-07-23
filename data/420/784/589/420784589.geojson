@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5488214844,55.6456748386,12.5488214844,55.6456748386",
     "geom:latitude":55.645675,
     "geom:longitude":12.548821,
@@ -20,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0443\u0441\u0435\u0445\u043e\u043b\u043c"
+    ],
     "name:ceb_x_preferred":[
         "Sluseholm"
     ],
@@ -29,8 +33,14 @@
     "name:deu_x_preferred":[
         "Sluseholmen"
     ],
+    "name:eng_x_preferred":[
+        "Sluseholmen"
+    ],
     "name:swe_x_preferred":[
         "Sluseholm"
+    ],
+    "name:swe_x_variant":[
+        "Sluseholmen"
     ],
     "wd:wordcount":500,
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":420784589,
-    "wof:lastmodified":1527726767,
+    "wof:lastmodified":1563319584,
     "wof:name":"Sluseholmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

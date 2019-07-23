@@ -27,11 +27,44 @@
     "name:dan_x_preferred":[
         "Gr\u00f8nningen"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:eng_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:fao_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:fin_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:fit_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:fra_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:isl_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:kal_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:lat_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:nno_x_preferred":[
+        "Gr\u00f8nningen"
+    ],
+    "name:nob_x_preferred":[
         "Gr\u00f8nningen"
     ],
     "name:swe_x_preferred":[
         "Kunstnersammenslutningen Gr\u00f8nningen"
+    ],
+    "name:swe_x_variant":[
+        "Gr\u00f8nningen"
     ],
     "name:unk_x_variant":[
         "Gr\u00f8nningen"
@@ -90,7 +123,7 @@
         }
     ],
     "wof:id":85905933,
-    "wof:lastmodified":1530296538,
+    "wof:lastmodified":1563318851,
     "wof:name":"Gr\u00f8nningen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

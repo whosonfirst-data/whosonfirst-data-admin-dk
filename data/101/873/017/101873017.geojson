@@ -17,6 +17,33 @@
     "mps:longitude":9.890808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:arg_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ast_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:bar_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:bre_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:cat_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ces_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:cos_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:cym_x_preferred":[
+        "Augustenborg"
+    ],
     "name:dan_x_preferred":[
         "Augustenborg"
     ],
@@ -26,22 +53,124 @@
     "name:eng_x_preferred":[
         "Augustenborg"
     ],
+    "name:epo_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:est_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:eus_x_preferred":[
+        "Augustenborg"
+    ],
     "name:fao_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:fin_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:fra_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:frp_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:fur_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:gla_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:gle_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:glg_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:gsw_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:hrv_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ido_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ile_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ina_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ind_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:isl_x_preferred":[
         "Augustenborg"
     ],
     "name:ita_x_preferred":[
         "Augustenborg"
     ],
+    "name:kon_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:lij_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:lim_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:ltz_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:min_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:mlg_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:msa_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:nap_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:nds_x_preferred":[
+        "Augustenborg"
+    ],
     "name:nld_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:nno_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:nob_x_preferred":[
         "Augustenborg"
     ],
     "name:nor_x_preferred":[
         "Augustenborg"
     ],
+    "name:nrm_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:oci_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:pcd_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:pms_x_preferred":[
+        "Augustenborg"
+    ],
     "name:pol_x_preferred":[
         "Gmina Augustenborg"
     ],
+    "name:pol_x_variant":[
+        "Augustenborg"
+    ],
     "name:por_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:roh_x_preferred":[
         "Augustenborg"
     ],
     "name:ron_x_preferred":[
@@ -50,7 +179,49 @@
     "name:rus_x_preferred":[
         "\u0410\u0443\u0433\u0443\u0441\u0442\u0435\u043d\u0431\u043e\u0440\u0433"
     ],
+    "name:scn_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:sco_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:slk_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:slv_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:spa_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:srd_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:swa_x_preferred":[
+        "Augustenborg"
+    ],
     "name:swe_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:vec_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:vie_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:vls_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:vol_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:wln_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:wol_x_preferred":[
+        "Augustenborg"
+    ],
+    "name:zul_x_preferred":[
         "Augustenborg"
     ],
     "qs:a0":"Danmark",
@@ -101,7 +272,7 @@
         }
     ],
     "wof:id":101873017,
-    "wof:lastmodified":1562796203,
+    "wof:lastmodified":1563319420,
     "wof:name":"Augustenborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0435\u043b\u0439\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Marielyst"
+    ],
     "name:dan_x_preferred":[
         "Marielyst"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125946839,
-    "wof:lastmodified":1561778009,
+    "wof:lastmodified":1563319599,
     "wof:name":"Marielyst",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

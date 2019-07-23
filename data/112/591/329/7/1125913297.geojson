@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "Buddinge"
     ],
+    "name:deu_x_preferred":[
+        "Buddinge"
+    ],
     "name:eng_x_preferred":[
         "Buddinge"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125913297,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1563319744,
     "wof:name":"Buddinge",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

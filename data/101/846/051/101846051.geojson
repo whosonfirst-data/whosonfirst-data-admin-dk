@@ -26,7 +26,13 @@
     "name:eng_x_preferred":[
         "Hjordk\u00e6r"
     ],
+    "name:fra_x_preferred":[
+        "Hjordk\u00e6r"
+    ],
     "name:nld_x_preferred":[
+        "Hjordk\u00e6r"
+    ],
+    "name:spa_x_preferred":[
         "Hjordk\u00e6r"
     ],
     "name:unk_x_variant":[
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":101846051,
-    "wof:lastmodified":1562794748,
+    "wof:lastmodified":1563319531,
     "wof:name":"Hjordk\u00e6r",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

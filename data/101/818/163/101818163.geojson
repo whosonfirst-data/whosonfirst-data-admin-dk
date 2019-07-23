@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1563051.539432,
+    "geom:area_square_m":1563051.539433,
     "geom:bbox":"12.0191678569,54.8818468094,12.0718842289,54.8925678103",
     "geom:latitude":54.887816,
     "geom:longitude":12.0411,
@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Stubbek\u00f8bing"
     ],
+    "name:ces_x_preferred":[
+        "Stubbek\u00f8bing"
+    ],
     "name:dan_x_preferred":[
         "Stubbek\u00f8bing"
     ],
@@ -32,7 +35,19 @@
     "name:fao_x_preferred":[
         "Stubbek\u00f8bing"
     ],
+    "name:fra_x_preferred":[
+        "Stubbek\u00f8bing"
+    ],
+    "name:hun_x_preferred":[
+        "Stubbek\u00f8bing"
+    ],
+    "name:ita_x_preferred":[
+        "Stubbek\u00f8bing"
+    ],
     "name:nld_x_preferred":[
+        "Stubbek\u00f8bing"
+    ],
+    "name:nob_x_preferred":[
         "Stubbek\u00f8bing"
     ],
     "name:nor_x_preferred":[
@@ -49,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0443\u0431\u0431\u0435\u043a\u0451\u0431\u0438\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Stubbek\u00f8bing"
     ],
     "name:swe_x_preferred":[
         "Stubbek\u00f8bing"
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":101818163,
-    "wof:lastmodified":1530296430,
+    "wof:lastmodified":1563319391,
     "wof:name":"Stubbek\u00f8bing",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

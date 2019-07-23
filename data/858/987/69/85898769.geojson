@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38999779.139509,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.457007,55.757696,12.457007,55.757696",
     "geom:latitude":55.757696,
     "geom:longitude":12.457007,
@@ -24,17 +24,53 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ces_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:cym_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
     "name:dan_x_colloquial":[
         "Bagsvaerd"
     ],
     "name:dan_x_preferred":[
         "Bagsv\u00e6rd"
     ],
+    "name:deu_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:eng_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:fao_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:fra_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:isl_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:kal_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
     "name:nld_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:nno_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:nob_x_preferred":[
         "Bagsv\u00e6rd"
     ],
     "name:nor_x_preferred":[
         "Bagsv\u00e6rd"
+    ],
+    "name:pol_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0441\u0432\u044d\u0440\u0434"
     ],
     "name:swe_x_preferred":[
         "Bagsv\u00e6rd"
@@ -74,11 +110,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":142,
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +141,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531932107,
+    "wof:lastmodified":1563318897,
     "wof:name":"Bagsv\u00e6rd",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

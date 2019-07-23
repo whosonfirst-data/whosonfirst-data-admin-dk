@@ -35,6 +35,9 @@
     "name:nor_x_preferred":[
         "L\u00f8gten"
     ],
+    "name:spa_x_preferred":[
+        "L\u00f8gten"
+    ],
     "name:swe_x_preferred":[
         "L\u00f8gten"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101873049,
-    "wof:lastmodified":1562794967,
+    "wof:lastmodified":1563319416,
     "wof:name":"L\u00f8gten",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

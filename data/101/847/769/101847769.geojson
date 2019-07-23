@@ -61,6 +61,9 @@
     "name:spa_x_preferred":[
         "H\u00f8je-Taastrup"
     ],
+    "name:spa_x_variant":[
+        "Sengel\u00f8se"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101847769,
-    "wof:lastmodified":1562795416,
+    "wof:lastmodified":1563319537,
     "wof:name":"Sengel\u00f8se",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

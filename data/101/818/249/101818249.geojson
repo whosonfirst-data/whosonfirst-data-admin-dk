@@ -26,7 +26,16 @@
     "name:eng_x_preferred":[
         "Gunds\u00f8magle"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0646\u062f\u0633\u0648\u0645\u0627\u06af\u0644"
+    ],
     "name:nld_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:nob_x_preferred":[
+        "Gunds\u00f8magle"
+    ],
+    "name:spa_x_preferred":[
         "Gunds\u00f8magle"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":101818249,
-    "wof:lastmodified":1562796263,
+    "wof:lastmodified":1563319399,
     "wof:name":"Gunds\u00f8magle",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

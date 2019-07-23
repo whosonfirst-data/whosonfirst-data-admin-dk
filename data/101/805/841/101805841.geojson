@@ -20,16 +20,28 @@
     "name:afr_x_preferred":[
         "Vodskov"
     ],
+    "name:ceb_x_preferred":[
+        "Vodskov"
+    ],
     "name:dan_x_preferred":[
         "Vodskov"
     ],
+    "name:deu_x_preferred":[
+        "Vodskov"
+    ],
     "name:eng_x_preferred":[
+        "Vodskov"
+    ],
+    "name:fra_x_preferred":[
         "Vodskov"
     ],
     "name:isl_x_preferred":[
         "Vodskov"
     ],
     "name:nld_x_preferred":[
+        "Vodskov"
+    ],
+    "name:spa_x_preferred":[
         "Vodskov"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":101805841,
-    "wof:lastmodified":1561778001,
+    "wof:lastmodified":1563319474,
     "wof:name":"Vodskov",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

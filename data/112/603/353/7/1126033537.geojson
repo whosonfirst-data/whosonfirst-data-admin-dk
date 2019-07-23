@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "B\u00e6lum"
     ],
+    "name:spa_x_preferred":[
+        "B\u00e6lum"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126033537,
-    "wof:lastmodified":1562796358,
+    "wof:lastmodified":1563319652,
     "wof:name":"B\u00e6lum",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

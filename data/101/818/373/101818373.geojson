@@ -28,10 +28,16 @@
     "name:eng_x_preferred":[
         "H\u00f8jby"
     ],
+    "name:fao_x_preferred":[
+        "H\u00f8jby"
+    ],
     "name:fra_x_preferred":[
         "H\u00f8jby"
     ],
     "name:hun_x_preferred":[
+        "H\u00f8jby"
+    ],
+    "name:kal_x_preferred":[
         "H\u00f8jby"
     ],
     "name:msa_x_preferred":[
@@ -41,6 +47,9 @@
         "H\u00f8jby"
     ],
     "name:nno_x_preferred":[
+        "H\u00f8jby"
+    ],
+    "name:nob_x_preferred":[
         "H\u00f8jby"
     ],
     "name:spa_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":101818373,
-    "wof:lastmodified":1562797187,
+    "wof:lastmodified":1563319410,
     "wof:name":"H\u00f8jby",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

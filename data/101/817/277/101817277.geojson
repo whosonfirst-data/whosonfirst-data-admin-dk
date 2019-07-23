@@ -29,7 +29,22 @@
     "name:deu_x_preferred":[
         "R\u00f8nde"
     ],
+    "name:eng_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00f8nde"
+    ],
     "name:nld_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8nde"
+    ],
+    "name:nob_x_preferred":[
         "R\u00f8nde"
     ],
     "name:nor_x_preferred":[
@@ -37,6 +52,9 @@
     ],
     "name:por_x_preferred":[
         "R\u00f8nde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0451\u043d\u043d\u0435"
     ],
     "name:spa_x_preferred":[
         "R\u00f8nde"
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":101817277,
-    "wof:lastmodified":1562795219,
+    "wof:lastmodified":1563319428,
     "wof:name":"R\u00f8nde",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

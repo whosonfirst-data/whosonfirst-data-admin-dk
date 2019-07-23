@@ -38,6 +38,12 @@
     "name:nld_x_preferred":[
         "Hjallerup"
     ],
+    "name:pol_x_preferred":[
+        "Hjallerup"
+    ],
+    "name:spa_x_preferred":[
+        "Hjallerup"
+    ],
     "name:swe_x_preferred":[
         "Hjallerup"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101805833,
-    "wof:lastmodified":1561778000,
+    "wof:lastmodified":1563319456,
     "wof:name":"Hjallerup",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

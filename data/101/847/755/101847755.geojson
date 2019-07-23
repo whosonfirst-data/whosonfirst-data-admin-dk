@@ -26,16 +26,37 @@
     "name:deu_x_preferred":[
         "Sk\u00e6lsk\u00f8r"
     ],
+    "name:eng_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
     "name:fin_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
+    "name:fra_x_preferred":[
         "Sk\u00e6lsk\u00f8r"
     ],
     "name:hun_x_preferred":[
         "Sk\u00e6lsk\u00f8r"
     ],
+    "name:ita_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
     "name:nld_x_preferred":[
         "Sk\u00e6lsk\u00f8r"
     ],
+    "name:nob_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
+    "name:pol_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
+    "name:por_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
     "name:ron_x_preferred":[
+        "Sk\u00e6lsk\u00f8r"
+    ],
+    "name:spa_x_preferred":[
         "Sk\u00e6lsk\u00f8r"
     ],
     "name:swe_x_preferred":[
@@ -90,7 +111,7 @@
         }
     ],
     "wof:id":101847755,
-    "wof:lastmodified":1562796519,
+    "wof:lastmodified":1563319533,
     "wof:name":"Sk\u00e6lsk\u00f8r",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

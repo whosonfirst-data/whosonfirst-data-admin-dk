@@ -39,6 +39,9 @@
     "name:rus_x_preferred":[
         "\u0424\u044c\u0435\u043d\u043d\u0435\u0441\u043b\u0435\u0432"
     ],
+    "name:spa_x_preferred":[
+        "Fjenneslev"
+    ],
     "name:swe_x_preferred":[
         "Fjenneslev"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126010985,
-    "wof:lastmodified":1562797004,
+    "wof:lastmodified":1563319765,
     "wof:name":"Kirke-Fjenneslev",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

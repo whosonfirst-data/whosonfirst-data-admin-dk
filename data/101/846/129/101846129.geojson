@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Vester Hassing"
     ],
+    "name:nob_x_preferred":[
+        "Vester Hassing"
+    ],
     "name:sco_x_preferred":[
         "Vester Hassing"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101846129,
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1563319523,
     "wof:name":"Vester Hassing",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

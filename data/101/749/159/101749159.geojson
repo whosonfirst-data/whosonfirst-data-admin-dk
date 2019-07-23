@@ -39,6 +39,9 @@
     "name:arc_x_preferred":[
         "\u071f\u0718\u0726\u0722\u0717\u0713\u0722"
     ],
+    "name:arc_x_variant":[
+        "\u0729\u0718\u0726\u0722\u0717\u0710\u0713\u0722"
+    ],
     "name:arg_x_preferred":[
         "Copenaguen"
     ],
@@ -48,6 +51,12 @@
     "name:ast_x_preferred":[
         "Copenhague"
     ],
+    "name:ast_x_variant":[
+        "Copen\u1e25ague"
+    ],
+    "name:ava_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u067e\u06cc\u0646\u0647\u0627\u06af"
     ],
@@ -56,6 +65,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u044d\u043d\u0433\u0430\u0433\u0435\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09aa\u09c7\u09a8\u09b9\u09be\u0997\u09c7\u09a8"
@@ -78,10 +90,16 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
     ],
+    "name:bxr_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u043d\u04bb\u0430\u0433\u0435\u043d"
+    ],
     "name:cat_x_preferred":[
         "Copenhaguen"
     ],
     "name:cdo_x_preferred":[
+        "Copenhagen"
+    ],
+    "name:ceb_x_preferred":[
         "Copenhagen"
     ],
     "name:ces_x_preferred":[
@@ -204,6 +222,9 @@
     "name:glg_x_preferred":[
         "Copenhaguen - K\u00f8benhavn"
     ],
+    "name:glg_x_variant":[
+        "Copenhague"
+    ],
     "name:glv_x_preferred":[
         "K\u00f8benhavn"
     ],
@@ -221,6 +242,9 @@
     ],
     "name:hat_x_preferred":[
         "Kop\u00e8nag"
+    ],
+    "name:hau_x_preferred":[
+        "Kwapanhagan"
     ],
     "name:hbs_x_preferred":[
         "Kopenhagen"
@@ -251,6 +275,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u057a\u0565\u0576\u0570\u0561\u0563\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0578\u0583\u0568\u0576\u0570\u0561\u056f\u0568\u0576"
     ],
     "name:ido_x_preferred":[
         "K\u00f8benhavn"
@@ -317,6 +344,9 @@
     ],
     "name:lav_x_preferred":[
         "Kopenh\u0101gena"
+    ],
+    "name:lfn_x_preferred":[
+        "Kobenhavn"
     ],
     "name:lij_x_preferred":[
         "Copenaghen"
@@ -499,6 +529,9 @@
     "name:sme_x_preferred":[
         "K\u00f8benh\u00e1mman"
     ],
+    "name:sme_x_variant":[
+        "K\u00f8benh\u00e1pman"
+    ],
     "name:sna_x_preferred":[
         "Copenhagen"
     ],
@@ -569,6 +602,9 @@
     "name:uig_x_preferred":[
         "\u0643\u0648\u067e\u06d0\u0646\u06be\u0627\u06af\u06d0\u0646"
     ],
+    "name:uig_x_variant":[
+        "Kop\u00e9nhag\u00e9n"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d"
     ],
@@ -610,6 +646,9 @@
     ],
     "name:wol_x_preferred":[
         "Kopenagen"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54e5\u672c\u54c8\u6839"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10de\u10d4\u10dc\u10f0\u10d0\u10d2\u10d4\u10dc\u10d8"
@@ -778,7 +817,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561778003,
+    "wof:lastmodified":1563319508,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

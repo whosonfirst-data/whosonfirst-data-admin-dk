@@ -27,10 +27,37 @@
     "name:dan_x_preferred":[
         "Dyrk\u00f8b"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:eng_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:fao_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:fra_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:isl_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:kal_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:nld_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:nno_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:nob_x_preferred":[
         "Dyrk\u00f8b"
     ],
     "name:nor_x_preferred":[
+        "Dyrk\u00f8b"
+    ],
+    "name:swe_x_preferred":[
         "Dyrk\u00f8b"
     ],
     "name:unk_x_variant":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":85905885,
-    "wof:lastmodified":1530296529,
+    "wof:lastmodified":1563318868,
     "wof:name":"Dyrk\u00f8b",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

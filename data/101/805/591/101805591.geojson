@@ -23,10 +23,22 @@
     "name:dan_x_preferred":[
         "Lang\u00e5"
     ],
+    "name:deu_x_preferred":[
+        "Lang\u00e5"
+    ],
+    "name:eng_x_preferred":[
+        "Lang\u00e5"
+    ],
     "name:nld_x_preferred":[
         "Lang\u00e5"
     ],
+    "name:nob_x_preferred":[
+        "Lang\u00e5"
+    ],
     "name:pol_x_preferred":[
+        "Lang\u00e5"
+    ],
+    "name:spa_x_preferred":[
         "Lang\u00e5"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":101805591,
-    "wof:lastmodified":1562796624,
+    "wof:lastmodified":1563319473,
     "wof:name":"Lang\u00e5",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

@@ -27,8 +27,35 @@
     "name:dan_x_preferred":[
         "Skydebanehaven"
     ],
+    "name:deu_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:eng_x_preferred":[
+        "Skydebanehaven"
+    ],
     "name:eng_x_variant":[
         "Skydebanegade"
+    ],
+    "name:fao_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:fra_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:isl_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:kal_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:nno_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:nob_x_preferred":[
+        "Skydebanehaven"
+    ],
+    "name:swe_x_preferred":[
+        "Skydebanehaven"
     ],
     "name:unk_x_variant":[
         "Skydebanegade"
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":85906175,
-    "wof:lastmodified":1530296582,
+    "wof:lastmodified":1563318845,
     "wof:name":"Skydebanegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

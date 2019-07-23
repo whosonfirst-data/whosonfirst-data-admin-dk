@@ -24,6 +24,18 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bel_x_preferred":[
+        "\u0425\u0440\u044b\u0441\u0446\u0456\u044f\u043d\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u044f\u043d\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Christiania"
+    ],
+    "name:ces_x_preferred":[
+        "Christi\u00e1nie"
+    ],
     "name:dan_x_preferred":[
         "Christiania"
     ],
@@ -42,20 +54,53 @@
     "name:epo_x_preferred":[
         "Christiania"
     ],
+    "name:est_x_preferred":[
+        "Christiania"
+    ],
+    "name:fao_x_preferred":[
+        "Fr\u00edsta\u00f0urin Christiania"
+    ],
+    "name:fas_x_preferred":[
+        "chiristiana kopenhagen"
+    ],
     "name:fin_x_preferred":[
         "Kristiania"
+    ],
+    "name:fin_x_variant":[
+        "Christiania"
     ],
     "name:fra_x_preferred":[
         "Christiania"
     ],
+    "name:glg_x_preferred":[
+        "Christiania"
+    ],
     "name:hbs_x_preferred":[
         "Kristijanija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05d9\u05e1\u05d8\u05d9\u05d0\u05e0\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Christiania"
     ],
     "name:isl_x_preferred":[
         "Kristjan\u00eda"
     ],
     "name:ita_x_preferred":[
         "Christiania"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30c1\u30e3\u30cb\u30a2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e0\u10d8\u10e1\u10e2\u10d8\u10d0\u10dc\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9ac\ud0c0\uc6b4 \ud06c\ub9ac\uc2a4\ud2f0\uc544\ub2c8\uc544"
+    ],
+    "name:lit_x_preferred":[
+        "Kristijanija"
     ],
     "name:nld_x_preferred":[
         "Vrijstad Christiania"
@@ -66,10 +111,16 @@
     "name:nno_x_variant":[
         "Fristaden Christiania"
     ],
+    "name:nob_x_preferred":[
+        "Christiania"
+    ],
     "name:nor_x_preferred":[
         "Christiania"
     ],
     "name:pol_x_preferred":[
+        "Christiania"
+    ],
+    "name:por_x_preferred":[
         "Christiania"
     ],
     "name:rus_x_preferred":[
@@ -83,6 +134,9 @@
     ],
     "name:swe_x_preferred":[
         "Christiania"
+    ],
+    "name:tur_x_preferred":[
+        "Hristiyanya"
     ],
     "name:unk_x_variant":[
         "Christiania"
@@ -120,11 +174,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[
         85898767
@@ -154,7 +208,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530290468,
+    "wof:lastmodified":1563318900,
     "wof:name":"Christiania",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

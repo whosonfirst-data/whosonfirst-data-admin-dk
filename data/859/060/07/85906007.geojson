@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
-    "geom:area_square_m":17590.986857,
+    "geom:area_square_m":17590.986858,
     "geom:bbox":"12.5800323486,55.6787435384,12.5828920469,55.6802944682",
     "geom:latitude":55.679517,
     "geom:longitude":12.581253,
@@ -27,7 +27,34 @@
     "name:dan_x_preferred":[
         "Kronprinsensgade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:eng_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:fao_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:fra_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:isl_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:kal_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:nld_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:nno_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:nob_x_preferred":[
+        "Kronprinsensgade"
+    ],
+    "name:swe_x_preferred":[
         "Kronprinsensgade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":85906007,
-    "wof:lastmodified":1530296552,
+    "wof:lastmodified":1563318874,
     "wof:name":"Kronprinsensgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

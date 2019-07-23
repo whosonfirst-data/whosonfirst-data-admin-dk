@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Sk\u00f8rping"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30b3\u30fc\u30d4\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Sk\u00f8rping"
     ],
@@ -45,6 +48,12 @@
         "Gmina Sk\u00f8rping"
     ],
     "name:por_x_preferred":[
+        "Sk\u00f8rping"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0451\u0440\u043f\u0438\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
         "Sk\u00f8rping"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":101805769,
-    "wof:lastmodified":1562796373,
+    "wof:lastmodified":1563319469,
     "wof:name":"Sk\u00f8rping",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

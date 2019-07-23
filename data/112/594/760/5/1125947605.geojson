@@ -21,7 +21,13 @@
     "name:dan_x_preferred":[
         "Agedrup"
     ],
+    "name:deu_x_preferred":[
+        "Agedrup"
+    ],
     "name:eng_x_preferred":[
+        "Agedrup"
+    ],
+    "name:fra_x_preferred":[
         "Agedrup"
     ],
     "qs_pg:aaroncc":"DK",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1125947605,
-    "wof:lastmodified":1562795755,
+    "wof:lastmodified":1563319596,
     "wof:name":"Agedrup",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

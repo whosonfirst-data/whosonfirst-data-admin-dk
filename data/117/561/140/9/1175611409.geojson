@@ -44,6 +44,9 @@
     "name:ron_x_preferred":[
         "Niv\u00e5"
     ],
+    "name:spa_x_preferred":[
+        "Niv\u00e5"
+    ],
     "name:swe_x_preferred":[
         "Niv\u00e5"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1175611409,
-    "wof:lastmodified":1562793601,
+    "wof:lastmodified":1563319238,
     "wof:name":"Niv\u00e5",
     "wof:parent_id":85682581,
     "wof:placetype":"locality",

@@ -35,8 +35,14 @@
     "name:nld_x_preferred":[
         "Gr\u00e6sted"
     ],
+    "name:spa_x_preferred":[
+        "Gr\u00e6sted"
+    ],
     "name:swe_x_preferred":[
         "Gr\u00e6sted"
+    ],
+    "name:swe_x_variant":[
+        "Helleb\u00e6k"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101817265,
-    "wof:lastmodified":1562795872,
+    "wof:lastmodified":1563319429,
     "wof:name":"Gr\u00e6sted",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

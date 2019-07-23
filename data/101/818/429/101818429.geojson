@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003724,
-    "geom:area_square_m":25759377.137034,
+    "geom:area_square_m":25759377.137035,
     "geom:bbox":"11.8960585593,55.9205618855,12.0833960657,56.0266406739",
     "geom:latitude":55.989807,
     "geom:longitude":12.011323,
@@ -29,11 +29,17 @@
     "name:deu_x_preferred":[
         "Frederiksv\u00e6rk"
     ],
+    "name:deu_x_variant":[
+        "Frederiksv\u00e6rk Kommune"
+    ],
     "name:eng_x_preferred":[
         "Frederiksv\u00e6rk"
     ],
     "name:fao_x_preferred":[
         "Frederiksv\u00e6rk"
+    ],
+    "name:fao_x_variant":[
+        "Frederiksv\u00e6rk kommuna"
     ],
     "name:fra_x_preferred":[
         "Frederiksv\u00e6rk"
@@ -46,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "Frederiksv\u00e6rk"
+    ],
+    "name:nob_x_preferred":[
+        "Frederiksv\u00e6rk kommune"
     ],
     "name:nor_x_preferred":[
         "Frederiksv\u00e6rk kommune"
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Frederiksv\u00e6rk"
+    ],
+    "name:swe_x_variant":[
+        "Frederiksv\u00e6rks kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":101818429,
-    "wof:lastmodified":1530296460,
+    "wof:lastmodified":1563319398,
     "wof:name":"Frederiksv\u00e6rk",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

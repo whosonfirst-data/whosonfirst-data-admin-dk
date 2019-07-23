@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":3821292.655611,
+    "geom:area_square_m":3821292.655612,
     "geom:bbox":"9.23962567597,56.9424580204,9.29041510079,56.9749814623",
     "geom:latitude":56.96238,
     "geom:longitude":9.261713,
@@ -32,8 +32,14 @@
     "name:deu_x_preferred":[
         "L\u00f8gst\u00f8r Kommune"
     ],
+    "name:deu_x_variant":[
+        "L\u00f8gst\u00f8r"
+    ],
     "name:eng_x_preferred":[
         "L\u00f8gst\u00f8r"
+    ],
+    "name:eng_x_variant":[
+        "L\u00f8gst\u00f8r Municipality"
     ],
     "name:fao_x_preferred":[
         "L\u00f8gst\u00f8r kommuna"
@@ -41,11 +47,17 @@
     "name:fao_x_variant":[
         "L\u00f8gst\u00f8r"
     ],
+    "name:fra_x_preferred":[
+        "L\u00f8gst\u00f8r"
+    ],
     "name:ita_x_preferred":[
         "L\u00f8gst\u00f8r"
     ],
     "name:nld_x_preferred":[
         "L\u00f8gst\u00f8r"
+    ],
+    "name:nob_x_preferred":[
+        "L\u00f8gst\u00f8r kommune"
     ],
     "name:nor_x_preferred":[
         "L\u00f8gst\u00f8r kommune"
@@ -62,8 +74,14 @@
     "name:ron_x_preferred":[
         "L\u00f8gst\u00f8r"
     ],
+    "name:spa_x_preferred":[
+        "L\u00f8gst\u00f8r"
+    ],
     "name:swe_x_preferred":[
         "L\u00f6gst\u00f6r"
+    ],
+    "name:swe_x_variant":[
+        "L\u00f8gst\u00f8rs kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":101805765,
-    "wof:lastmodified":1530296409,
+    "wof:lastmodified":1563319436,
     "wof:name":"L\u00f8gst\u00f8r",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

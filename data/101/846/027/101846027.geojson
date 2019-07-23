@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u043d\u0434\u0435\u0440\u0441\u043a\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Lunderskov"
+    ],
     "name:dan_x_preferred":[
         "Lunderskov"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101846027,
-    "wof:lastmodified":1562795305,
+    "wof:lastmodified":1563319527,
     "wof:name":"Lunderskov",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

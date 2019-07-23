@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":25764778.933173,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.509712,55.736774,12.509712,55.736774",
     "geom:latitude":55.736774,
     "geom:longitude":12.509712,
@@ -31,16 +31,40 @@
     "name:dan_x_preferred":[
         "S\u00f8borg"
     ],
+    "name:deu_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:fao_x_preferred":[
+        "S\u00f8borg"
+    ],
     "name:fra_x_preferred":[
         "S\u00f8borg"
     ],
+    "name:isl_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:kal_x_preferred":[
+        "S\u00f8borg"
+    ],
     "name:nld_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:nob_x_preferred":[
         "S\u00f8borg"
     ],
     "name:nor_x_preferred":[
         "S\u00f8borg"
     ],
     "name:pol_x_preferred":[
+        "S\u00f8borg"
+    ],
+    "name:swe_x_preferred":[
         "S\u00f8borg"
     ],
     "name:unk_x_variant":[
@@ -78,11 +102,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":59,
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +132,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531932112,
+    "wof:lastmodified":1563318903,
     "wof:name":"S\u00f8borg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

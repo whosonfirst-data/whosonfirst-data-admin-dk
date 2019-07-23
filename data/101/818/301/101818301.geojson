@@ -31,7 +31,16 @@
     "name:nld_x_preferred":[
         "R\u00f8rvig"
     ],
+    "name:nob_x_preferred":[
+        "R\u00f8rvig"
+    ],
     "name:ron_x_preferred":[
+        "R\u00f8rvig"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00f8rvig"
+    ],
+    "name:swe_x_preferred":[
         "R\u00f8rvig"
     ],
     "qs:a0":"Danmark",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":101818301,
-    "wof:lastmodified":1562797200,
+    "wof:lastmodified":1563319368,
     "wof:name":"R\u00f8rvig",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

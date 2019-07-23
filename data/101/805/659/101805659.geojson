@@ -43,6 +43,9 @@
     "name:nor_x_preferred":[
         "Frederiks"
     ],
+    "name:spa_x_preferred":[
+        "Frederiks"
+    ],
     "name:swe_x_preferred":[
         "Frederiks"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101805659,
-    "wof:lastmodified":1562795343,
+    "wof:lastmodified":1563319456,
     "wof:name":"Frederiks",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

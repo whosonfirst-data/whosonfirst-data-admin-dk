@@ -27,10 +27,37 @@
     "name:dan_x_preferred":[
         "Vester Voldgade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:eng_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:fao_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:fra_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:isl_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:kal_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:nld_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:nno_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:nob_x_preferred":[
         "Vester Voldgade"
     ],
     "name:nor_x_preferred":[
+        "Vester Voldgade"
+    ],
+    "name:swe_x_preferred":[
         "Vester Voldgade"
     ],
     "name:unk_x_variant":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":85906253,
-    "wof:lastmodified":1530296596,
+    "wof:lastmodified":1563318835,
     "wof:name":"Vester Voldgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

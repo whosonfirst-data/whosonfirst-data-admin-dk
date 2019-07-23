@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":1777254.328935,
+    "geom:area_square_m":1777254.328937,
     "geom:bbox":"12.5463867188,55.6480942626,12.5738525391,55.6651931844",
     "geom:latitude":55.656862,
     "geom:longitude":12.560714,
@@ -28,7 +28,13 @@
     "name:dan_x_preferred":[
         "Fisketorvet"
     ],
+    "name:eng_x_preferred":[
+        "Fisketorvet"
+    ],
     "name:est_x_preferred":[
+        "Fisketorvet"
+    ],
+    "name:nob_x_preferred":[
         "Fisketorvet"
     ],
     "name:nor_x_preferred":[
@@ -99,7 +105,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296533,
+    "wof:lastmodified":1563318851,
     "wof:name":"Fisketorvet",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

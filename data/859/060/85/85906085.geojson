@@ -24,7 +24,37 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
-    "name:eng_x_variant":[
+    "name:dan_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:deu_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:fao_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:isl_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:kal_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8ster Farimagsgade"
+    ],
+    "name:swe_x_preferred":[
         "\u00d8ster Farimagsgade"
     ],
     "name:unk_x_variant":[
@@ -84,7 +114,7 @@
         }
     ],
     "wof:id":85906085,
-    "wof:lastmodified":1530296566,
+    "wof:lastmodified":1563318879,
     "wof:name":"\u00d8ster Farimagsgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

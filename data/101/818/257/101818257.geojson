@@ -23,10 +23,22 @@
     "name:dan_x_preferred":[
         "Bj\u00e6verskov"
     ],
+    "name:deu_x_preferred":[
+        "Bj\u00e6verskov"
+    ],
     "name:eng_x_preferred":[
         "Bj\u00e6verskov"
     ],
+    "name:fra_x_preferred":[
+        "Bj\u00e6verskov"
+    ],
     "name:nld_x_preferred":[
+        "Bj\u00e6verskov"
+    ],
+    "name:nob_x_preferred":[
+        "Bj\u00e6verskov"
+    ],
+    "name:spa_x_preferred":[
         "Bj\u00e6verskov"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":101818257,
-    "wof:lastmodified":1562797173,
+    "wof:lastmodified":1563319378,
     "wof:name":"Bj\u00e6verskov",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

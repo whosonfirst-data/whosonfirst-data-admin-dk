@@ -47,6 +47,9 @@
     "name:rus_x_preferred":[
         "\u0414\u044e\u0431\u0431\u0451\u043b\u044c"
     ],
+    "name:spa_x_preferred":[
+        "Dybb\u00f8l"
+    ],
     "name:swe_x_preferred":[
         "Dybb\u00f8l"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101846033,
-    "wof:lastmodified":1562796202,
+    "wof:lastmodified":1563319531,
     "wof:name":"Dybb\u00f8l",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

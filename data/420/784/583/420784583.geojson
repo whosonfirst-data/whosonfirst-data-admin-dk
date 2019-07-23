@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4767236698,55.6444477978,12.4767236698,55.6444477978",
     "geom:latitude":55.644448,
     "geom:longitude":12.476724,
@@ -20,22 +21,55 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:bul_x_preferred":[
+        "\u0425\u0432\u0438\u0434\u043e\u0432\u0440\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Hvidovre"
     ],
     "name:dan_x_preferred":[
         "Hvidovre"
     ],
+    "name:deu_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:eng_x_preferred":[
+        "Hvidovre"
+    ],
     "name:eus_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:fao_x_preferred":[
         "Hvidovre"
     ],
     "name:fin_x_preferred":[
         "Hvidovre"
     ],
+    "name:fra_x_preferred":[
+        "Hvidovre"
+    ],
     "name:frr_x_preferred":[
         "Hvidovre"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30ba\u30aa\u30a6\u30a2"
+    ],
+    "name:kal_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:lit_x_preferred":[
+        "Vidovr\u0117"
+    ],
     "name:msa_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:nld_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:nno_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:nob_x_preferred":[
         "Hvidovre"
     ],
     "name:pol_x_preferred":[
@@ -43,6 +77,15 @@
     ],
     "name:ron_x_preferred":[
         "Hvidovre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u0432\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u7dad\u5fb7\u592b"
     ],
     "src:geom":"unknown",
     "wd:wordcount":440,
@@ -71,7 +114,7 @@
         }
     ],
     "wof:id":420784583,
-    "wof:lastmodified":1530296498,
+    "wof:lastmodified":1563319589,
     "wof:name":"Hvidovre",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

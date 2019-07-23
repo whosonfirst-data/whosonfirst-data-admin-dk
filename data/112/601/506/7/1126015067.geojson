@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "Jystrup"
     ],
+    "name:spa_x_preferred":[
+        "Jystrup"
+    ],
     "name:unk_x_variant":[
         "Jydstrup"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126015067,
-    "wof:lastmodified":1562794584,
+    "wof:lastmodified":1563319768,
     "wof:name":"Jystrup",
     "wof:parent_id":1394014123,
     "wof:placetype":"locality",

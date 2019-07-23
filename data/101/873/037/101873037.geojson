@@ -17,14 +17,20 @@
     "mps:longitude":12.096616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Faxe"
+    ],
+    "name:ast_x_preferred":[
+        "Faxe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043a\u0441\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Fakse"
     ],
     "name:dan_x_preferred":[
         "Fakse",
-        "Faxe"
-    ],
-    "name:dan_x_variant":[
         "Faxe"
     ],
     "name:deu_x_preferred":[
@@ -33,14 +39,32 @@
     "name:eng_x_preferred":[
         "Fakse"
     ],
+    "name:eng_x_variant":[
+        "Faxe"
+    ],
     "name:fao_x_preferred":[
         "Fakse"
+    ],
+    "name:fao_x_variant":[
+        "Faxe"
+    ],
+    "name:fra_x_preferred":[
+        "Faxe"
     ],
     "name:ita_x_preferred":[
         "Fakse"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30af\u30bb"
+    ],
     "name:nld_x_preferred":[
         "Fakse"
+    ],
+    "name:nno_x_preferred":[
+        "Faxe"
+    ],
+    "name:nob_x_preferred":[
+        "Faxe"
     ],
     "name:nor_x_preferred":[
         "Faxe"
@@ -124,7 +148,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795246,
+    "wof:lastmodified":1563319418,
     "wof:name":"Faxe",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

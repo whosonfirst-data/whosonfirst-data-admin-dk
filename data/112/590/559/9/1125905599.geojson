@@ -21,7 +21,16 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Sams\u00f8"
+    ],
+    "name:aze_x_preferred":[
+        "Samsyo adas\u0131"
+    ],
     "name:cat_x_preferred":[
+        "Sams\u00f8"
+    ],
+    "name:ceb_x_preferred":[
         "Sams\u00f8"
     ],
     "name:ces_x_preferred":[
@@ -60,6 +69,9 @@
     "name:frr_x_preferred":[
         "Sams\u00f8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05e1\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Sams\u00f8"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0bc\uc1e0 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\uc0bc\uc1e0\uc12c"
     ],
     "name:lit_x_preferred":[
         "Sams\u0117"
@@ -175,7 +190,7 @@
         }
     ],
     "wof:id":1125905599,
-    "wof:lastmodified":1561778018,
+    "wof:lastmodified":1563319710,
     "wof:name":"Sams\u00f8",
     "wof:parent_id":1159297735,
     "wof:placetype":"locality",

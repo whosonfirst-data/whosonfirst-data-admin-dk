@@ -39,6 +39,36 @@
         "Br\u00f8ndsh\u00f8j",
         "Br\u00f8nsh\u00f8j"
     ],
+    "name:deu_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:eng_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:fao_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:fin_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:fra_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:isl_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:kal_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:nld_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:nno_x_preferred":[
+        "Bellah\u00f8j"
+    ],
+    "name:nob_x_preferred":[
+        "Bellah\u00f8j"
+    ],
     "name:swe_x_preferred":[
         "Bellah\u00f8j"
     ],
@@ -107,7 +137,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296507,
+    "wof:lastmodified":1563318899,
     "wof:name":"Bellah\u00f8j",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

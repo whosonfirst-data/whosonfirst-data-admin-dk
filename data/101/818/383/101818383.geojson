@@ -26,7 +26,16 @@
     "name:deu_x_preferred":[
         "Faxe Ladeplads"
     ],
+    "name:eng_x_preferred":[
+        "Faxe Ladeplads"
+    ],
+    "name:fra_x_preferred":[
+        "Faxe Ladeplads"
+    ],
     "name:nld_x_preferred":[
+        "Faxe Ladeplads"
+    ],
+    "name:nob_x_preferred":[
         "Faxe Ladeplads"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":101818383,
-    "wof:lastmodified":1562795241,
+    "wof:lastmodified":1563319383,
     "wof:name":"Faxe Ladeplads",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

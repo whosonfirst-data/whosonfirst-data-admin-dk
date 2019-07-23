@@ -34,6 +34,9 @@
     "name:nor_x_preferred":[
         "N\u00f8rre Nebel"
     ],
+    "name:spa_x_preferred":[
+        "N\u00f8rre Nebel"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101805479,
-    "wof:lastmodified":1562797072,
+    "wof:lastmodified":1563319446,
     "wof:name":"N\u00f8rre Nebel",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

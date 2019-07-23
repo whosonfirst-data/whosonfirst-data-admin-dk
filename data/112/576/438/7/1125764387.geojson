@@ -48,6 +48,9 @@
     "name:nob_x_preferred":[
         "Hvalpsund"
     ],
+    "name:spa_x_preferred":[
+        "Hvalpsund"
+    ],
     "name:swe_x_preferred":[
         "Hvalpsund"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125764387,
-    "wof:lastmodified":1561778022,
+    "wof:lastmodified":1563319784,
     "wof:name":"Hvalpsund",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

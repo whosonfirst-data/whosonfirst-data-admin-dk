@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "R\u00f8dbyhavn"
     ],
+    "name:spa_x_preferred":[
+        "R\u00f8dbyhavn"
+    ],
     "name:swe_x_preferred":[
         "R\u00f8dbyhavn"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101818137,
-    "wof:lastmodified":1562794994,
+    "wof:lastmodified":1563319394,
     "wof:name":"R\u00f8dbyhavn",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

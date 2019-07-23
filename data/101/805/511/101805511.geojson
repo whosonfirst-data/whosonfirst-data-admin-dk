@@ -233,6 +233,9 @@
     "name:wol_x_preferred":[
         "Varde"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5fb7"
+    ],
     "name:zul_x_preferred":[
         "Varde"
     ],
@@ -290,7 +293,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562797076,
+    "wof:lastmodified":1563319463,
     "wof:name":"Varde",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

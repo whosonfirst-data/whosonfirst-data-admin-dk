@@ -26,6 +26,12 @@
     "name:deu_x_preferred":[
         "Helsinge"
     ],
+    "name:deu_x_variant":[
+        "Helsinge Kommune"
+    ],
+    "name:eng_x_preferred":[
+        "Helsinge"
+    ],
     "name:fao_x_preferred":[
         "Helsinge kommuna"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:msa_x_preferred":[
         "Helsinge"
+    ],
+    "name:nld_x_preferred":[
+        "Helsinge"
+    ],
+    "name:nob_x_preferred":[
+        "Helsinge kommune"
     ],
     "name:nor_x_preferred":[
         "Helsinge kommune"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":101817269,
-    "wof:lastmodified":1562795872,
+    "wof:lastmodified":1563319426,
     "wof:name":"Helsinge",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

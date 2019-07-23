@@ -27,7 +27,10 @@
     "name:dan_x_preferred":[
         "Jarmers Plads"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Jarmers Plads"
+    ],
+    "name:nob_x_preferred":[
         "Jarmers Plads"
     ],
     "name:spa_x_preferred":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":85905975,
-    "wof:lastmodified":1530296546,
+    "wof:lastmodified":1563318854,
     "wof:name":"Jarmers Plads",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

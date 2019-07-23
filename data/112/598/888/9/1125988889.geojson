@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "Oure"
     ],
+    "name:swe_x_preferred":[
+        "Oure"
+    ],
     "name:unk_x_variant":[
         "Ovre"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125988889,
-    "wof:lastmodified":1562795840,
+    "wof:lastmodified":1563319749,
     "wof:name":"Oure",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

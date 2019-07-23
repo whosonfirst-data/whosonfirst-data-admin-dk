@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Taastrup"
     ],
+    "name:fin_x_preferred":[
+        "Taastrup"
+    ],
     "name:fra_x_preferred":[
         "Taastrup"
     ],
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101754101,
-    "wof:lastmodified":1562795415,
+    "wof:lastmodified":1563319363,
     "wof:name":"Taastrup",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

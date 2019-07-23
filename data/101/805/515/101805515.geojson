@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "T\u00f8nder"
     ],
+    "name:ast_x_preferred":[
+        "T\u00f8nder"
+    ],
     "name:cat_x_preferred":[
         "T\u00f8nder"
     ],
@@ -59,6 +62,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0646\u062f\u0631\u060c \u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u062f\u0631"
+    ],
     "name:fra_x_preferred":[
         "T\u00f8nder"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Wikip\u00e9dia:Feljav\u00edt\u00e1sra v\u00e1r\u00f3 cikkjel\u00f6ltek/T\u00f8nder"
+    ],
+    "name:hun_x_variant":[
+        "T\u00f8nder"
     ],
     "name:ita_x_preferred":[
         "T\u00f8nder"
@@ -180,7 +189,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795979,
+    "wof:lastmodified":1563319503,
     "wof:name":"T\u00f8nder",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

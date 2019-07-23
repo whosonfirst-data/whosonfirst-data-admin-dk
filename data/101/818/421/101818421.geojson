@@ -47,6 +47,9 @@
     "name:nld_x_preferred":[
         "\u00d8lstykke"
     ],
+    "name:nno_x_preferred":[
+        "\u00d8lstykke kommune"
+    ],
     "name:nob_x_preferred":[
         "\u00d8lstykke kommune"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101818421,
-    "wof:lastmodified":1562795817,
+    "wof:lastmodified":1563319395,
     "wof:name":"\u00d8lstykke",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

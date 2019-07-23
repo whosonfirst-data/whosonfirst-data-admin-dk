@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Langeb\u00e6k Kommune"
+    ],
     "name:dan_x_preferred":[
         "Langeb\u00e6k"
+    ],
+    "name:dan_x_variant":[
+        "Langeb\u00e6k Kommune"
     ],
     "name:deu_x_preferred":[
         "Langeb\u00e6k Kommune"
@@ -30,6 +36,9 @@
     "name:fao_x_preferred":[
         "Langeb\u00e6k"
     ],
+    "name:fao_x_variant":[
+        "Langeb\u00e6k kommuna"
+    ],
     "name:fra_x_preferred":[
         "Langeb\u00e6k"
     ],
@@ -39,8 +48,14 @@
     "name:nld_x_preferred":[
         "Langeb\u00e6k"
     ],
+    "name:nno_x_preferred":[
+        "Langeb\u00e6k kommune"
+    ],
     "name:nob_x_preferred":[
         "Langeb\u00e6k"
+    ],
+    "name:nob_x_variant":[
+        "Langeb\u00e6k kommune"
     ],
     "name:nor_x_preferred":[
         "Langeb\u00e6k"
@@ -56,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Langeb\u00e6k"
+    ],
+    "name:swe_x_variant":[
+        "Langeb\u00e6ks kommun"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -107,7 +125,7 @@
         }
     ],
     "wof:id":1125916709,
-    "wof:lastmodified":1562796702,
+    "wof:lastmodified":1563319742,
     "wof:name":"Langeb\u00e6k",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

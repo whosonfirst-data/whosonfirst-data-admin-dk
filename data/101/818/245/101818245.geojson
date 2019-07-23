@@ -49,6 +49,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0439\u043b\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Vejle"
+    ],
     "name:swe_x_preferred":[
         "Vejle"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101818245,
-    "wof:lastmodified":1562796302,
+    "wof:lastmodified":1563319375,
     "wof:name":"Vejle",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

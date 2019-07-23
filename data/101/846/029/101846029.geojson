@@ -17,6 +17,42 @@
     "mps:longitude":9.309556,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Egtved"
+    ],
+    "name:arg_x_preferred":[
+        "Egtved"
+    ],
+    "name:ast_x_preferred":[
+        "Egtved"
+    ],
+    "name:bam_x_preferred":[
+        "Egtved"
+    ],
+    "name:bar_x_preferred":[
+        "Egtved"
+    ],
+    "name:bre_x_preferred":[
+        "Egtved"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0433\u0442\u0432\u0435\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Egtved"
+    ],
+    "name:ceb_x_preferred":[
+        "Egtved"
+    ],
+    "name:ces_x_preferred":[
+        "Egtved"
+    ],
+    "name:cos_x_preferred":[
+        "Egtved"
+    ],
+    "name:cym_x_preferred":[
+        "Egtved"
+    ],
     "name:dan_x_preferred":[
         "Egtved"
     ],
@@ -26,7 +62,13 @@
     "name:eng_x_preferred":[
         "Egtved"
     ],
+    "name:epo_x_preferred":[
+        "Egtved"
+    ],
     "name:est_x_preferred":[
+        "Egtved"
+    ],
+    "name:eus_x_preferred":[
         "Egtved"
     ],
     "name:fao_x_preferred":[
@@ -35,28 +77,199 @@
     "name:fao_x_variant":[
         "Egtved"
     ],
+    "name:fin_x_preferred":[
+        "Egtved"
+    ],
+    "name:fra_x_preferred":[
+        "Egtved"
+    ],
+    "name:frc_x_preferred":[
+        "Egtved"
+    ],
+    "name:frp_x_preferred":[
+        "Egtved"
+    ],
+    "name:fur_x_preferred":[
+        "Egtved"
+    ],
+    "name:gla_x_preferred":[
+        "Egtved"
+    ],
+    "name:gle_x_preferred":[
+        "Egtved"
+    ],
+    "name:glg_x_preferred":[
+        "Egtved"
+    ],
+    "name:gsw_x_preferred":[
+        "Egtved"
+    ],
+    "name:hrv_x_preferred":[
+        "Egtved"
+    ],
+    "name:hun_x_preferred":[
+        "Egtved"
+    ],
+    "name:ido_x_preferred":[
+        "Egtved"
+    ],
+    "name:ile_x_preferred":[
+        "Egtved"
+    ],
+    "name:ina_x_preferred":[
+        "Egtved"
+    ],
+    "name:ind_x_preferred":[
+        "Egtved"
+    ],
     "name:ita_x_preferred":[
+        "Egtved"
+    ],
+    "name:jam_x_preferred":[
+        "Egtved"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30af\u30c8\u30f4\u30a3\u30ba"
+    ],
+    "name:kab_x_preferred":[
+        "Egtved"
+    ],
+    "name:kon_x_preferred":[
+        "Egtved"
+    ],
+    "name:lav_x_preferred":[
+        "Egtved"
+    ],
+    "name:lij_x_preferred":[
+        "Egtved"
+    ],
+    "name:lim_x_preferred":[
+        "Egtved"
+    ],
+    "name:lit_x_preferred":[
+        "Egtved"
+    ],
+    "name:ltz_x_preferred":[
+        "Egtved"
+    ],
+    "name:min_x_preferred":[
+        "Egtved"
+    ],
+    "name:mlg_x_preferred":[
+        "Egtved"
+    ],
+    "name:msa_x_preferred":[
+        "Egtved"
+    ],
+    "name:nap_x_preferred":[
+        "Egtved"
+    ],
+    "name:nds_x_preferred":[
         "Egtved"
     ],
     "name:nld_x_preferred":[
         "Egtved"
     ],
+    "name:nno_x_preferred":[
+        "Egtved"
+    ],
+    "name:nob_x_preferred":[
+        "Egtved"
+    ],
     "name:nor_x_preferred":[
+        "Egtved"
+    ],
+    "name:nrm_x_preferred":[
+        "Egtved"
+    ],
+    "name:oci_x_preferred":[
+        "Egtved"
+    ],
+    "name:pap_x_preferred":[
+        "Egtved"
+    ],
+    "name:pcd_x_preferred":[
+        "Egtved"
+    ],
+    "name:pms_x_preferred":[
         "Egtved"
     ],
     "name:pol_x_preferred":[
         "Gmina Egtved"
     ],
+    "name:pol_x_variant":[
+        "Egtved"
+    ],
     "name:por_x_preferred":[
+        "Egtved"
+    ],
+    "name:prg_x_preferred":[
+        "Egtved"
+    ],
+    "name:rgn_x_preferred":[
+        "Egtved"
+    ],
+    "name:roh_x_preferred":[
+        "Egtved"
+    ],
+    "name:ron_x_preferred":[
         "Egtved"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0433\u0442\u0432\u0435\u0434"
     ],
+    "name:scn_x_preferred":[
+        "Egtved"
+    ],
+    "name:sco_x_preferred":[
+        "Egtved"
+    ],
+    "name:slk_x_preferred":[
+        "Egtved"
+    ],
+    "name:slv_x_preferred":[
+        "Egtved"
+    ],
+    "name:spa_x_preferred":[
+        "Egtved"
+    ],
+    "name:srd_x_preferred":[
+        "Egtved"
+    ],
+    "name:swa_x_preferred":[
+        "Egtved"
+    ],
     "name:swe_x_preferred":[
         "Egtved kommun"
     ],
     "name:swe_x_variant":[
+        "Egtved"
+    ],
+    "name:tur_x_preferred":[
+        "Egtved"
+    ],
+    "name:vec_x_preferred":[
+        "Egtved"
+    ],
+    "name:vie_x_preferred":[
+        "Egtved"
+    ],
+    "name:vls_x_preferred":[
+        "Egtved"
+    ],
+    "name:vmf_x_preferred":[
+        "Egtved"
+    ],
+    "name:vol_x_preferred":[
+        "Egtved"
+    ],
+    "name:wln_x_preferred":[
+        "Egtved"
+    ],
+    "name:wol_x_preferred":[
+        "Egtved"
+    ],
+    "name:zul_x_preferred":[
         "Egtved"
     ],
     "qs:a0":"Danmark",
@@ -107,7 +320,7 @@
         }
     ],
     "wof:id":101846029,
-    "wof:lastmodified":1562796851,
+    "wof:lastmodified":1563319528,
     "wof:name":"Egtved",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

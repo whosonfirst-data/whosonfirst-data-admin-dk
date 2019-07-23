@@ -34,6 +34,9 @@
     "name:fao_x_preferred":[
         "N\u00f8rresundby"
     ],
+    "name:fin_x_preferred":[
+        "N\u00f8rresundby"
+    ],
     "name:fra_x_preferred":[
         "N\u00f8rresundby"
     ],
@@ -64,7 +67,13 @@
     "name:spa_x_preferred":[
         "N\u00f8rresundby"
     ],
+    "name:sqi_x_preferred":[
+        "N\u00f8rresundby"
+    ],
     "name:swe_x_preferred":[
+        "N\u00f8rresundby"
+    ],
+    "name:szl_x_preferred":[
         "N\u00f8rresundby"
     ],
     "qs:a0":"Danmark",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":101838611,
-    "wof:lastmodified":1561778006,
+    "wof:lastmodified":1563319545,
     "wof:name":"N\u00f8rresundby",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

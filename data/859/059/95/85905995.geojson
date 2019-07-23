@@ -32,6 +32,9 @@
     "name:dan_x_preferred":[
         "Klosterg\u00e5rden"
     ],
+    "name:eng_x_preferred":[
+        "Klosterg\u00e5rden"
+    ],
     "name:unk_x_variant":[
         "Klosterg\u00e5rden"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1530296550,
+    "wof:lastmodified":1563318849,
     "wof:name":"Klosterg\u00e5rden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

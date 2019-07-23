@@ -24,8 +24,14 @@
     "name:eng_x_preferred":[
         "Hesn\u00e6s"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0633\u0646\u0633"
+    ],
     "name:nld_x_preferred":[
         "Hesn\u00e6s"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00f8nstrup"
     ],
     "name:unk_x_variant":[
         "Hesn\u00e6s Havn"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1126056359,
-    "wof:lastmodified":1561778013,
+    "wof:lastmodified":1563319638,
     "wof:name":"Hesn\u00e6s",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

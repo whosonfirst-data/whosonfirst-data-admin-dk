@@ -38,6 +38,12 @@
     "name:nld_x_preferred":[
         "H\u00e5rlev"
     ],
+    "name:nob_x_preferred":[
+        "H\u00e5rlev"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00e5rlev"
+    ],
     "name:swe_x_preferred":[
         "H\u00e5rlev"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101818259,
-    "wof:lastmodified":1561777993,
+    "wof:lastmodified":1563319379,
     "wof:name":"H\u00e5rlev",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

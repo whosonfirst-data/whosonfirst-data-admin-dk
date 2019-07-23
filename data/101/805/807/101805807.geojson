@@ -19,10 +19,22 @@
     "name:afr_x_preferred":[
         "Ulsted"
     ],
+    "name:cat_x_preferred":[
+        "Ulsted"
+    ],
     "name:dan_x_preferred":[
         "Ulsted"
     ],
+    "name:deu_x_preferred":[
+        "Ulsted"
+    ],
     "name:eng_x_preferred":[
+        "Ulsted"
+    ],
+    "name:fra_x_preferred":[
+        "Ulsted"
+    ],
+    "name:glg_x_preferred":[
         "Ulsted"
     ],
     "name:heb_x_preferred":[
@@ -32,6 +44,9 @@
         "Ulsted"
     ],
     "name:nld_x_preferred":[
+        "Ulsted"
+    ],
+    "name:spa_x_preferred":[
         "Ulsted"
     ],
     "qs:a0":"Danmark",
@@ -74,7 +89,7 @@
         }
     ],
     "wof:id":101805807,
-    "wof:lastmodified":1561778002,
+    "wof:lastmodified":1563319487,
     "wof:name":"Ulsted",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

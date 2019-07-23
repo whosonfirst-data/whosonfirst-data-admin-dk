@@ -34,8 +34,14 @@
     "name:nld_x_preferred":[
         "N\u00f8rre-Snede"
     ],
+    "name:nno_x_preferred":[
+        "N\u00f8rre-Snede kommune"
+    ],
     "name:nob_x_preferred":[
         "N\u00f8rre-Snede"
+    ],
+    "name:nob_x_variant":[
+        "N\u00f8rre-Snede kommune"
     ],
     "name:nor_x_preferred":[
         "N\u00f8rre-Snede"
@@ -51,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "N\u00f8rre-Snede kommun"
+    ],
+    "name:swe_x_variant":[
+        "T\u00e5rs"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":101805623,
-    "wof:lastmodified":1562797152,
+    "wof:lastmodified":1563319480,
     "wof:name":"N\u00f8rre Snede",
     "wof:parent_id":1394014107,
     "wof:placetype":"locality",

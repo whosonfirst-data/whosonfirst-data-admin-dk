@@ -27,7 +27,34 @@
     "name:dan_x_preferred":[
         "Torvegade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Torvegade"
+    ],
+    "name:eng_x_preferred":[
+        "Torvegade"
+    ],
+    "name:fao_x_preferred":[
+        "Torvegade"
+    ],
+    "name:fra_x_preferred":[
+        "Torvegade"
+    ],
+    "name:isl_x_preferred":[
+        "Torvegade"
+    ],
+    "name:kal_x_preferred":[
+        "Torvegade"
+    ],
+    "name:nld_x_preferred":[
+        "Torvegade"
+    ],
+    "name:nno_x_preferred":[
+        "Torvegade"
+    ],
+    "name:nob_x_preferred":[
+        "Torvegade"
+    ],
+    "name:swe_x_preferred":[
         "Torvegade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":85906229,
-    "wof:lastmodified":1530296592,
+    "wof:lastmodified":1563318833,
     "wof:name":"Torvegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

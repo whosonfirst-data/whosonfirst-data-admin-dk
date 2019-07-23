@@ -35,10 +35,19 @@
     "name:fao_x_preferred":[
         "R\u00f8dby"
     ],
+    "name:fra_x_preferred":[
+        "R\u00f8dby"
+    ],
     "name:ita_x_preferred":[
         "R\u00f8dby"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30d3\u30e5"
+    ],
     "name:nld_x_preferred":[
+        "R\u00f8dby"
+    ],
+    "name:nob_x_preferred":[
         "R\u00f8dby"
     ],
     "name:nor_x_preferred":[
@@ -52,6 +61,9 @@
     ],
     "name:ron_x_preferred":[
         "R\u00f8dby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0451\u0434\u0431\u044e"
     ],
     "name:swe_x_preferred":[
         "R\u00f8dby"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":101818139,
-    "wof:lastmodified":1562794994,
+    "wof:lastmodified":1563319393,
     "wof:name":"R\u00f8dby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

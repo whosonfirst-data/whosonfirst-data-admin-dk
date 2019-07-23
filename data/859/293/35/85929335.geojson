@@ -44,6 +44,9 @@
     "name:hun_x_preferred":[
         "Vesterbro"
     ],
+    "name:ita_x_preferred":[
+        "Vesterbro"
+    ],
     "name:nld_x_preferred":[
         "Vesterbro"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561777957,
+    "wof:lastmodified":1563318838,
     "wof:name":"Vesterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

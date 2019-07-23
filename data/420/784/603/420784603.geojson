@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5177221493,55.7480454893,12.5177221493,55.7480454893",
     "geom:latitude":55.748045,
     "geom:longitude":12.517722,
@@ -20,7 +21,34 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u0643\u064a\u062f\u0629"
+    ],
     "name:dan_x_preferred":[
+        "Vangede"
+    ],
+    "name:deu_x_preferred":[
+        "Vangede"
+    ],
+    "name:eng_x_preferred":[
+        "Vangede"
+    ],
+    "name:fao_x_preferred":[
+        "Vangede"
+    ],
+    "name:fra_x_preferred":[
+        "Vangede"
+    ],
+    "name:isl_x_preferred":[
+        "Vangede"
+    ],
+    "name:kal_x_preferred":[
+        "Vangede"
+    ],
+    "name:nno_x_preferred":[
+        "Vangede"
+    ],
+    "name:nob_x_preferred":[
         "Vangede"
     ],
     "name:nor_x_preferred":[
@@ -56,7 +84,7 @@
         }
     ],
     "wof:id":420784603,
-    "wof:lastmodified":1530296500,
+    "wof:lastmodified":1563319584,
     "wof:name":"Vangede",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

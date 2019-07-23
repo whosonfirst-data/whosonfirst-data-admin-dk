@@ -12,6 +12,39 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skive Airport"
+    ],
+    "name:dan_x_preferred":[
+        "Skive Lufthavn"
+    ],
+    "name:eng_x_preferred":[
+        "Skive Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u06cc\u0648\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Skive"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ad\u30fc\u30f4\u30a7\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Skive"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Skive"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Skive"
+    ],
+    "name:swe_x_preferred":[
+        "Skive Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u043a\u044e\u04b3"
+    ],
     "oa:elevation_ft":"74",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -23,10 +56,10 @@
         "state_id":28362580
     },
     "wof:belongsto":[
-        85682597,
         102191581,
         1394014073,
-        85633121
+        85633121,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":102544221,
-    "wof:lastmodified":1562796608,
+    "wof:lastmodified":1563318741,
     "wof:name":"Skive Lufthavn",
     "wof:parent_id":1394014073,
     "wof:placetype":"campus",

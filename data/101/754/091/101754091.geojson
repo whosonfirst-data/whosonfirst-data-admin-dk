@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0438\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Stige"
+    ],
     "name:dan_x_preferred":[
         "Stige"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101754091,
-    "wof:lastmodified":1562795752,
+    "wof:lastmodified":1563319361,
     "wof:name":"Stige",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

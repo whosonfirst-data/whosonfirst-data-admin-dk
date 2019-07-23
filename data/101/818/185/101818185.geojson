@@ -17,7 +17,13 @@
     "mps:longitude":10.723696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0434\u043a\u0451\u0431\u0456\u043d\u0433"
+    ],
     "name:ceb_x_preferred":[
+        "Rudk\u00f8bing"
+    ],
+    "name:ces_x_preferred":[
         "Rudk\u00f8bing"
     ],
     "name:dan_x_preferred":[
@@ -26,14 +32,26 @@
     "name:deu_x_preferred":[
         "Rudk\u00f8bing"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03bd\u03c4\u03ba\u03b5\u03bc\u03c0\u03b9\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Rudk\u00f8bing"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u06a9\u0628\u06cc\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "Rudk\u00f8bing"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d3\u05e7\u05d5\u05d1\u05d9\u05e0\u05d2"
+    ],
     "name:hrv_x_preferred":[
         "Rudk\u00f8bing"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u0564\u056f\u0565\u0562\u056b\u0576\u0563"
     ],
     "name:ita_x_preferred":[
         "Rudk\u00f8bing"
@@ -47,13 +65,28 @@
     "name:nld_x_preferred":[
         "Rudk\u00f8bing"
     ],
+    "name:nob_x_preferred":[
+        "Rudk\u00f8bing"
+    ],
     "name:nor_x_preferred":[
         "Rudk\u00f8bing"
     ],
     "name:pol_x_preferred":[
         "Rudk\u00f8bing"
     ],
+    "name:por_x_preferred":[
+        "Rudk\u00f8bing"
+    ],
     "name:ron_x_preferred":[
+        "Rudk\u00f8bing"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043a\u0451\u0431\u0438\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Rudk\u00f8bing"
+    ],
+    "name:slv_x_preferred":[
         "Rudk\u00f8bing"
     ],
     "name:spa_x_preferred":[
@@ -62,8 +95,14 @@
     "name:swe_x_preferred":[
         "Rudk\u00f8bing"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0434\u043a\u04e9\u0431\u0438\u04a3"
+    ],
     "name:unk_x_variant":[
         "Rudkiobing"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u5fb7\u514b\u4e19"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -115,7 +154,7 @@
         }
     ],
     "wof:id":101818185,
-    "wof:lastmodified":1562795654,
+    "wof:lastmodified":1563319415,
     "wof:name":"Rudk\u00f8bing",
     "wof:parent_id":1394013991,
     "wof:placetype":"locality",

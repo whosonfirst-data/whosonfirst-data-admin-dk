@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5520258317,55.6504534729,12.5520258317,55.6504534729",
     "geom:latitude":55.650453,
     "geom:longitude":12.552026,
@@ -20,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0433\u043b\u0445\u043e\u043b\u043c\u0435\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Teglholmen"
     ],
@@ -27,6 +31,12 @@
         "Teglholmen"
     ],
     "name:deu_x_preferred":[
+        "Teglholmen"
+    ],
+    "name:eng_x_preferred":[
+        "Teglholmen"
+    ],
+    "name:nob_x_preferred":[
         "Teglholmen"
     ],
     "name:nor_x_preferred":[
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":420784591,
-    "wof:lastmodified":1530296499,
+    "wof:lastmodified":1563319586,
     "wof:name":"Teglholmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

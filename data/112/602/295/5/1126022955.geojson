@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0442\u0435\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Listed"
+    ],
     "name:dan_x_preferred":[
         "Listed"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126022955,
-    "wof:lastmodified":1562794675,
+    "wof:lastmodified":1563319634,
     "wof:name":"Listed",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

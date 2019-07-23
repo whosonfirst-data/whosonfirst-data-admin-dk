@@ -27,7 +27,10 @@
     "name:dan_x_preferred":[
         "Ny Vestergade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Ny Vestergade"
+    ],
+    "name:nld_x_preferred":[
         "Ny Vestergade"
     ],
     "name:unk_x_variant":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":85906075,
-    "wof:lastmodified":1530296564,
+    "wof:lastmodified":1563318873,
     "wof:name":"Ny Vestergade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

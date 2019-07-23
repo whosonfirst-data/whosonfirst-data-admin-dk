@@ -41,11 +41,17 @@
     "name:fao_x_variant":[
         "R\u00f8dekro"
     ],
+    "name:fra_x_preferred":[
+        "R\u00f8dekro"
+    ],
     "name:ita_x_preferred":[
         "R\u00f8dekro"
     ],
     "name:nld_x_preferred":[
         "R\u00f8dekro"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8dekro kommune"
     ],
     "name:nor_x_preferred":[
         "R\u00f8dekro kommune"
@@ -61,6 +67,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna R\u00f8dekro"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f8dekro kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101805509,
-    "wof:lastmodified":1562794748,
+    "wof:lastmodified":1563319472,
     "wof:name":"R\u00f8dekro",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

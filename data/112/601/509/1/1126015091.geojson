@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0431\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Toreby"
+    ],
     "name:dan_x_preferred":[
         "Toreby"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126015091,
-    "wof:lastmodified":1561778021,
+    "wof:lastmodified":1563319770,
     "wof:name":"Toreby",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

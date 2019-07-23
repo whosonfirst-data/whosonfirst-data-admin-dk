@@ -38,11 +38,17 @@
     "name:fao_x_variant":[
         "Videb\u00e6k"
     ],
+    "name:fra_x_preferred":[
+        "Videb\u00e6k"
+    ],
     "name:ita_x_preferred":[
         "Videb\u00e6k"
     ],
     "name:nld_x_preferred":[
         "Videb\u00e6k"
+    ],
+    "name:nob_x_preferred":[
+        "Videb\u00e6k kommune"
     ],
     "name:nor_x_preferred":[
         "Videb\u00e6k kommune"
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Videb\u00e4k"
+    ],
+    "name:swe_x_variant":[
+        "Videb\u00e6ks kommun"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":101805577,
-    "wof:lastmodified":1562796059,
+    "wof:lastmodified":1563319500,
     "wof:name":"Videb\u00e6k",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

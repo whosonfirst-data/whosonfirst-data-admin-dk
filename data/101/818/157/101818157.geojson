@@ -38,10 +38,19 @@
     "name:fao_x_preferred":[
         "\u00c6r\u00f8sk\u00f8bing"
     ],
+    "name:fra_x_preferred":[
+        "\u00c6r\u00f8sk\u00f8bing"
+    ],
     "name:ita_x_preferred":[
         "\u00c6r\u00f8sk\u00f8bing"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30fc\u30ed\u30b9\u30b1\u30fc\u30d3\u30f3"
+    ],
     "name:nld_x_preferred":[
+        "\u00c6r\u00f8sk\u00f8bing"
+    ],
+    "name:nob_x_preferred":[
         "\u00c6r\u00f8sk\u00f8bing"
     ],
     "name:nor_x_preferred":[
@@ -64,6 +73,9 @@
     ],
     "name:unk_x_variant":[
         "\u00c6roskiobing"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u52d2\u65af\u514b\u5bbe"
     ],
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":101818157,
-    "wof:lastmodified":1562795637,
+    "wof:lastmodified":1563319366,
     "wof:name":"\u00c6r\u00f8sk\u00f8bing",
     "wof:parent_id":1394014069,
     "wof:placetype":"locality",

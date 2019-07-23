@@ -200,6 +200,9 @@
     "name:tam_x_preferred":[
         "\u0b93\u0bb0\u0bcd\u0b9a\u0bc6\u0ba9\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u04ba\u043e\u0440\u0441\u0435\u043d\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c30\u0c4d\u0c38\u0c46\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -219,6 +222,9 @@
         "Horsens"
     ],
     "name:vol_x_preferred":[
+        "Horsens"
+    ],
+    "name:war_x_preferred":[
         "Horsens"
     ],
     "name:yue_x_preferred":[
@@ -275,7 +281,7 @@
         }
     ],
     "wof:id":101749165,
-    "wof:lastmodified":1562795897,
+    "wof:lastmodified":1563319513,
     "wof:name":"Horsens",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

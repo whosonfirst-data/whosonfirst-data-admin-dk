@@ -29,6 +29,12 @@
     "name:nld_x_preferred":[
         "Kib\u00e6k"
     ],
+    "name:nob_x_preferred":[
+        "Kib\u00e6k"
+    ],
+    "name:spa_x_preferred":[
+        "Kib\u00e6k"
+    ],
     "name:swe_x_preferred":[
         "Kib\u00e6k"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":101805581,
-    "wof:lastmodified":1561778000,
+    "wof:lastmodified":1563319460,
     "wof:name":"Kib\u00e6k",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

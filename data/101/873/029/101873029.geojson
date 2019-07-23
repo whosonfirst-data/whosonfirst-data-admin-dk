@@ -76,6 +76,9 @@
     "name:cdo_x_preferred":[
         "Outrup"
     ],
+    "name:ceb_x_preferred":[
+        "Outrup"
+    ],
     "name:ces_x_preferred":[
         "Outrup"
     ],
@@ -658,7 +661,7 @@
         }
     ],
     "wof:id":101873029,
-    "wof:lastmodified":1562797093,
+    "wof:lastmodified":1563319420,
     "wof:name":"Outrup",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

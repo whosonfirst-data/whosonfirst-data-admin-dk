@@ -21,6 +21,9 @@
     "name:afr_x_preferred":[
         "N\u00f8rre Vorup\u00f8r"
     ],
+    "name:ceb_x_preferred":[
+        "N\u00f8rre Vorup\u00f8r"
+    ],
     "name:dan_x_preferred":[
         "N\u00f8rre Vorup\u00f8r"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125998859,
-    "wof:lastmodified":1562795437,
+    "wof:lastmodified":1563319705,
     "wof:name":"N\u00f8rre Vorup\u00f8r",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

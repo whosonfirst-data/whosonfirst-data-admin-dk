@@ -30,10 +30,19 @@
     "name:deu_x_preferred":[
         "Istedgade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "Istedgade"
+    ],
+    "name:fra_x_preferred":[
         "Istedgade"
     ],
     "name:ita_x_preferred":[
+        "Istedgade"
+    ],
+    "name:nld_x_preferred":[
+        "Istedgade"
+    ],
+    "name:nob_x_preferred":[
         "Istedgade"
     ],
     "name:nor_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":85905971,
-    "wof:lastmodified":1530296545,
+    "wof:lastmodified":1563318857,
     "wof:name":"Istedgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

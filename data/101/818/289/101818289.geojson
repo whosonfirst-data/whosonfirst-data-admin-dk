@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "Martin \u00c5gerup"
     ],
+    "name:dan_x_variant":[
+        "\u00c5gerup"
+    ],
     "name:deu_x_preferred":[
         "\u00c5gerup"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101818289,
-    "wof:lastmodified":1562796263,
+    "wof:lastmodified":1563319375,
     "wof:name":"\u00c5gerup",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

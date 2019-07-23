@@ -23,10 +23,37 @@
     "name:dan_x_preferred":[
         "N\u00f8rre Aaby"
     ],
+    "name:deu_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
     "name:fao_x_preferred":[
         "N\u00f8rre Aaby kommuna"
     ],
+    "name:fao_x_variant":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:isl_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
     "name:ita_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:kal_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:nno_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
+    "name:nob_x_preferred":[
         "N\u00f8rre Aaby"
     ],
     "name:nor_x_preferred":[
@@ -38,8 +65,14 @@
     "name:por_x_preferred":[
         "N\u00f8rre Aaby"
     ],
+    "name:spa_x_preferred":[
+        "N\u00f8rre Aaby"
+    ],
     "name:swe_x_preferred":[
         "N\u00f8rre Aaby kommun"
+    ],
+    "name:swe_x_variant":[
+        "N\u00f8rre Aaby"
     ],
     "name:unk_x_variant":[
         "N\u00f8rre \u00c5by"
@@ -93,7 +126,7 @@
         }
     ],
     "wof:id":101846015,
-    "wof:lastmodified":1562794899,
+    "wof:lastmodified":1563319520,
     "wof:name":"N\u00f8rre Aaby",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

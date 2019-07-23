@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Askov"
     ],
+    "name:spa_x_preferred":[
+        "Askov"
+    ],
     "name:swe_x_preferred":[
         "Askov"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101838603,
-    "wof:lastmodified":1562794292,
+    "wof:lastmodified":1563319545,
     "wof:name":"Askov",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u062f\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Kolding"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u043b\u044c\u0434\u044b\u043d\u0433"
     ],
@@ -104,6 +107,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u056c\u0564\u056b\u0576\u0563"
     ],
+    "name:ido_x_preferred":[
+        "Kolding"
+    ],
     "name:ile_x_preferred":[
         "Kolding"
     ],
@@ -136,6 +142,9 @@
     ],
     "name:lit_x_preferred":[
         "Koldingas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kolding"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0949\u0932\u094d\u0921\u093f\u0902\u0917"
@@ -192,6 +201,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbd\u0dca\u0da9\u0dd2\u0db1\u0dca\u0d9c\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Kolding"
+    ],
     "name:slv_x_preferred":[
         "Kolding"
     ],
@@ -209,6 +221,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0bb2\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0b99\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043b\u043b\u0438\u04a3"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c32\u0c4d\u0c21\u0c3f\u0c02\u0c17\u0c4d"
@@ -229,6 +244,9 @@
         "Kolding"
     ],
     "name:vol_x_preferred":[
+        "Kolding"
+    ],
+    "name:war_x_preferred":[
         "Kolding"
     ],
     "name:yue_x_preferred":[
@@ -293,7 +311,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795314,
+    "wof:lastmodified":1563319505,
     "wof:name":"Kolding",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

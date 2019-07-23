@@ -30,6 +30,9 @@
     "name:nob_x_preferred":[
         "Hundige"
     ],
+    "name:spa_x_preferred":[
+        "Hundige"
+    ],
     "name:unk_x_variant":[
         "Hundige"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126057087,
-    "wof:lastmodified":1562794478,
+    "wof:lastmodified":1563319636,
     "wof:name":"Hundie",
     "wof:parent_id":1394014137,
     "wof:placetype":"locality",

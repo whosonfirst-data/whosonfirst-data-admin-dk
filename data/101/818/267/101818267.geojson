@@ -32,6 +32,12 @@
     "name:nld_x_preferred":[
         "H\u00f8rve"
     ],
+    "name:nob_x_preferred":[
+        "H\u00f8rve"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00f8rve"
+    ],
     "name:unk_x_variant":[
         "H\u00f8rv"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101818267,
-    "wof:lastmodified":1562797186,
+    "wof:lastmodified":1563319381,
     "wof:name":"H\u00f8rve",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

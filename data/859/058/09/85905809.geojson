@@ -27,14 +27,44 @@
     "name:dan_x_preferred":[
         "Amaliegade"
     ],
-    "name:eng_x_variant":[
+    "name:deu_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:eng_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:fao_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:fra_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:isl_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:kal_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:nld_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:nno_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:nob_x_preferred":[
         "Amaliegade"
     ],
     "name:nor_x_preferred":[
         "Amaliegade"
     ],
+    "name:swe_x_preferred":[
+        "Amaliegade"
+    ],
     "name:unk_x_variant":[
         "Amaliegade"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u99ac\u6797\u8857"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -90,7 +120,7 @@
         }
     ],
     "wof:id":85905809,
-    "wof:lastmodified":1530296515,
+    "wof:lastmodified":1563318865,
     "wof:name":"Amaliegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0622\u0644\u0628\u0648\u0631\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Aalborg"
+    ],
+    "name:bak_x_preferred":[
+        "\u041e\u043b\u044c\u0431\u043e\u0440\u0433"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u043b\u044c\u0431\u0430\u0440\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u041e\u043b\u044c\u0431\u0430\u0440\u0433"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09b2\u09ac\u09cb\u09b0\u09cd\u0997"
@@ -37,6 +46,9 @@
         "\u041e\u043b\u0431\u043e\u0440"
     ],
     "name:cat_x_preferred":[
+        "Aalborg"
+    ],
+    "name:ceb_x_preferred":[
         "Aalborg"
     ],
     "name:ces_x_preferred":[
@@ -68,6 +80,9 @@
     ],
     "name:est_x_preferred":[
         "Aalborg"
+    ],
+    "name:est_x_variant":[
+        "\u00c5lborg"
     ],
     "name:eus_x_preferred":[
         "Aalborg"
@@ -116,6 +131,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u056c\u0562\u0578\u0580\u0563"
+    ],
+    "name:ido_x_preferred":[
+        "Aalborg"
     ],
     "name:ile_x_preferred":[
         "Aalborg"
@@ -174,6 +192,9 @@
     "name:lmo_x_preferred":[
         "\u00c5lborg"
     ],
+    "name:ltz_x_preferred":[
+        "Aalborg"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u092c\u094b\u0930\u094d\u0917"
     ],
@@ -185,6 +206,9 @@
     ],
     "name:msa_x_preferred":[
         "Aalborg"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u102c\u1038\u101c\u103a\u1018\u1031\u102c\u1037\u1001\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nld_x_preferred":[
         "Aalborg"
@@ -218,6 +242,9 @@
     ],
     "name:por_x_preferred":[
         "Alborg"
+    ],
+    "name:por_x_variant":[
+        "Aalborg"
     ],
     "name:ron_x_preferred":[
         "Aalborg"
@@ -267,6 +294,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb3\u0bcd\u0baa\u0bcb\u0bb1\u0bcd\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u043b\u044c\u0431\u043e\u0440\u0433"
+    ],
     "name:tel_x_preferred":[
         "\u0c0f\u0c2f\u0c3e\u0c32\u0c4d\u0c2c\u0c3e\u0c2f\u0c30\u0c4d\u0c17\u0c4d"
     ],
@@ -284,6 +314,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0628\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0644\u0628\u0648\u0631\u06af"
     ],
     "name:uzb_x_preferred":[
         "Olborg"
@@ -452,7 +485,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1561778004,
+    "wof:lastmodified":1563319512,
     "wof:name":"Aalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

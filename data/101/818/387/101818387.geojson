@@ -35,6 +35,9 @@
     "name:nor_x_preferred":[
         "Jyderup"
     ],
+    "name:spa_x_preferred":[
+        "Jyderup"
+    ],
     "name:swe_x_preferred":[
         "Jyderup"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101818387,
-    "wof:lastmodified":1561777996,
+    "wof:lastmodified":1563319410,
     "wof:name":"Jyderup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

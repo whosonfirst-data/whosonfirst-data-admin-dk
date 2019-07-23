@@ -30,10 +30,34 @@
     "name:deu_x_preferred":[
         "K\u00f8bmagergade"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:fao_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:kal_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:nob_x_preferred":[
         "K\u00f8bmagergade"
     ],
     "name:nor_x_preferred":[
+        "K\u00f8bmagergade"
+    ],
+    "name:swe_x_preferred":[
         "K\u00f8bmagergade"
     ],
     "name:unk_x_variant":[
@@ -93,7 +117,7 @@
         }
     ],
     "wof:id":85906003,
-    "wof:lastmodified":1530296551,
+    "wof:lastmodified":1563318870,
     "wof:name":"K\u00f8bmagergade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,9 @@
     "name:bar_x_preferred":[
         "B\u00f8jden"
     ],
+    "name:ceb_x_preferred":[
+        "Bojden Port"
+    ],
     "name:dan_x_preferred":[
         "B\u00f8jden"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126040549,
-    "wof:lastmodified":1562796308,
+    "wof:lastmodified":1563319645,
     "wof:name":"B\u00f8jden",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

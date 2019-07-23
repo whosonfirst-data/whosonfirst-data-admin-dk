@@ -32,6 +32,9 @@
     "name:dan_x_preferred":[
         "Aabybro"
     ],
+    "name:deu_x_preferred":[
+        "Aabybro"
+    ],
     "name:eng_x_preferred":[
         "Aabybro"
     ],
@@ -41,13 +44,28 @@
     "name:fao_x_preferred":[
         "Aabybro"
     ],
+    "name:fra_x_preferred":[
+        "Aabybro"
+    ],
     "name:ita_x_preferred":[
         "\u00c5bybro"
+    ],
+    "name:ita_x_variant":[
+        "Aabybro"
+    ],
+    "name:kal_x_preferred":[
+        "Aabybro"
     ],
     "name:msa_x_preferred":[
         "Aabybro"
     ],
     "name:nld_x_preferred":[
+        "Aabybro"
+    ],
+    "name:nno_x_preferred":[
+        "Aabybro"
+    ],
+    "name:nob_x_preferred":[
         "Aabybro"
     ],
     "name:nor_x_preferred":[
@@ -61,6 +79,9 @@
     ],
     "name:ron_x_preferred":[
         "Aabybro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u044e\u0431\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "Aabybro"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":101805835,
-    "wof:lastmodified":1562796812,
+    "wof:lastmodified":1563319453,
     "wof:name":"Aabybro",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

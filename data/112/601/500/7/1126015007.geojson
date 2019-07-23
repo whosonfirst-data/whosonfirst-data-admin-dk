@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Aalsgaarde"
     ],
+    "name:nld_x_preferred":[
+        "\u00c5lsg\u00e5rde"
+    ],
     "name:nob_x_preferred":[
         "\u00c5lsg\u00e5rde"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126015007,
-    "wof:lastmodified":1562795293,
+    "wof:lastmodified":1563319769,
     "wof:name":"\u00c5lsg\u00e5rde",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

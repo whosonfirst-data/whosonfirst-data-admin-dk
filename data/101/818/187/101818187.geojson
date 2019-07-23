@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "En\u00f8"
     ],
+    "name:dan_x_variant":[
+        "Karreb\u00e6ksminde"
+    ],
     "name:deu_x_preferred":[
         "En\u00f8"
     ],
@@ -58,8 +61,17 @@
     "name:nob_x_preferred":[
         "Karreb\u00e6ksminde"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0431\u0435\u043a\u0441\u043c\u0438\u043d\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Karreb\u00e6ksminde"
+    ],
     "name:swe_x_preferred":[
         "En\u00f8"
+    ],
+    "name:swe_x_variant":[
+        "Karreb\u00e6ksminde"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5cf6"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":101818187,
-    "wof:lastmodified":1562796905,
+    "wof:lastmodified":1563319382,
     "wof:name":"Karreb\u00e6ksminde",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",
