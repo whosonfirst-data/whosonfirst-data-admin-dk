@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Gellerup"
+    ],
+    "name:est_x_preferred":[
+        "Gellerup"
+    ],
+    "name:swe_x_preferred":[
+        "Gellerup"
+    ],
     "name:und_x_variant":[
         "Gjellerup",
         "Gellerup"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226516303,
-    "wof:lastmodified":1562797091,
+    "wof:lastmodified":1564129243,
     "wof:name":"Gellerup",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Hastrup"
+    ],
     "name:und_x_variant":[
         "Haastrup",
         "H\u00e5strup"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327108593,
-    "wof:lastmodified":1562796878,
+    "wof:lastmodified":1564128028,
     "wof:name":"Hastrup",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u043e\u045e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30fc\u30a6"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0142ow"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u0432"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1260351543,
-    "wof:lastmodified":1562795472,
+    "wof:lastmodified":1564128516,
     "wof:name":"Klov",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

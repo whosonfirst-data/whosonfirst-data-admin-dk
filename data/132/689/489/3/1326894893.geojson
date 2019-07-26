@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Hoje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326894893,
-    "wof:lastmodified":1562795852,
+    "wof:lastmodified":1564127965,
     "wof:name":"Hoje",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

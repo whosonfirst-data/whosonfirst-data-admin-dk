@@ -38,11 +38,119 @@
     "mps:longitude":10.451791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u0643\u0634\u0647\u0627\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:bre_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:cat_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:ceb_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:ces_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:cym_x_preferred":[
+        "Frederikshavn"
+    ],
     "name:dan_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:deu_x_preferred":[
         "Frederikshavn"
     ],
     "name:eng_x_preferred":[
         "Frederikshavn"
+    ],
+    "name:est_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:eus_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:fao_x_preferred":[
+        "Frederikshavn kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:fra_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:frr_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:hun_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:isl_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30bc\u30ea\u30af\u30b9\u30cf\u30a6\u30f3"
+    ],
+    "name:kal_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d4\u10d3\u10d4\u10e0\u10d8\u10e5\u10e1\u10f0\u10d0\u10d5\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub808\ub370\ub9ad\uc2a4\ud558\uc6b4"
+    ],
+    "name:lit_x_preferred":[
+        "Frederikshaunas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:nld_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:nno_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:nor_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:pol_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:por_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:ron_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0441\u0445\u0430\u0432\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0456\u043a\u0441\u0433\u0430\u0432\u043d"
+    ],
+    "name:vol_x_preferred":[
+        "Frederikshavn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8153\u7279\u70c8\u6e2f"
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
@@ -69,7 +177,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562797901,
+    "wof:lastmodified":1564128696,
     "wof:name":"Frederikshavn",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

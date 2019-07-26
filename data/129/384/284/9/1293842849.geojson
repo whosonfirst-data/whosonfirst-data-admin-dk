@@ -26,6 +26,60 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Faaborg"
+    ],
+    "name:ces_x_preferred":[
+        "Faaborg"
+    ],
+    "name:dan_x_preferred":[
+        "Faaborg"
+    ],
+    "name:deu_x_preferred":[
+        "Faaborg"
+    ],
+    "name:epo_x_preferred":[
+        "Faaborg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0628\u0648\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00e5borg"
+    ],
+    "name:fry_x_preferred":[
+        "Faaborg"
+    ],
+    "name:hun_x_preferred":[
+        "Faaborg"
+    ],
+    "name:ind_x_preferred":[
+        "F\u00e5borg"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ubcf4\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Faaborg"
+    ],
+    "name:nor_x_preferred":[
+        "Faaborg"
+    ],
+    "name:pol_x_preferred":[
+        "Faaborg"
+    ],
+    "name:ron_x_preferred":[
+        "Faaborg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0431\u043e\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Faaborg"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00e5borg"
+    ],
     "name:und_x_variant":[
         "Fabberg",
         "F\u00e5borg"
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1293842849,
-    "wof:lastmodified":1562796328,
+    "wof:lastmodified":1564128195,
     "wof:name":"Faaborg",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

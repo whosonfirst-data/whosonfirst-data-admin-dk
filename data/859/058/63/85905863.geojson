@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":49544.860671,
+    "geom:area_square_m":49544.86067,
     "geom:bbox":"12.5834655762,55.6713892859,12.5878117008,55.6737125743",
     "geom:latitude":55.672475,
     "geom:longitude":12.585789,
@@ -26,6 +26,9 @@
     "mz:tier_metro":1,
     "name:dan_x_preferred":[
         "S\u00f8ren Kierkegaards Plads"
+    ],
+    "name:dan_x_variant":[
+        "Christians Brygge"
     ],
     "name:eng_x_variant":[
         "Christians Brygge"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":85905863,
-    "wof:lastmodified":1530296525,
+    "wof:lastmodified":1564128155,
     "wof:name":"Christians Brygge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

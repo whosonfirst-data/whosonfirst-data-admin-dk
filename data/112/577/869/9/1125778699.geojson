@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Vigerslev"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vigerslev",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125778699,
-    "wof:lastmodified":1530290413,
+    "wof:lastmodified":1564128964,
     "wof:name":"Vigerslev",
     "wof:parent_id":1159297727,
     "wof:placetype":"locality",

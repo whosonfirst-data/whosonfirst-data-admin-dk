@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Havredal"
+    ],
+    "name:dan_x_preferred":[
+        "Havredal"
+    ],
+    "name:swe_x_preferred":[
+        "Havredal"
+    ],
     "name:und_x_variant":[
         "Frederikshede",
         "Havredal"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309881777,
-    "wof:lastmodified":1562795377,
+    "wof:lastmodified":1564128790,
     "wof:name":"Havredal",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

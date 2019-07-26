@@ -41,7 +41,22 @@
     "name:dan_x_preferred":[
         "Odsherred"
     ],
+    "name:deu_x_preferred":[
+        "Odsherred"
+    ],
     "name:eng_x_preferred":[
+        "Odsherred"
+    ],
+    "name:epo_x_preferred":[
+        "Odsherred"
+    ],
+    "name:fra_x_preferred":[
+        "Odsherred"
+    ],
+    "name:nld_x_preferred":[
+        "Ods Herred"
+    ],
+    "name:swe_x_preferred":[
         "Odsherred"
     ],
     "src:geom":"dk-geodk",
@@ -69,7 +84,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798078,
+    "wof:lastmodified":1564128662,
     "wof:name":"Odsherred",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

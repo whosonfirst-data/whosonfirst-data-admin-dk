@@ -26,8 +26,113 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Haithabu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0435\u0434\u044d\u0431\u044e"
+    ],
+    "name:cat_x_preferred":[
+        "Hedeby"
+    ],
+    "name:ces_x_preferred":[
+        "Hedeby"
+    ],
+    "name:cym_x_preferred":[
+        "Hedeby"
+    ],
+    "name:dan_x_preferred":[
+        "Hedeby"
+    ],
+    "name:deu_x_preferred":[
+        "Haithabu"
+    ],
+    "name:epo_x_preferred":[
+        "Haithabu"
+    ],
+    "name:est_x_preferred":[
+        "Hedeby"
+    ],
+    "name:fin_x_preferred":[
+        "Hedeby"
+    ],
+    "name:fra_x_preferred":[
+        "Hedeby"
+    ],
+    "name:frr_x_preferred":[
+        "Haithabu"
+    ],
+    "name:fry_x_preferred":[
+        "Hedeby"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d3\u05d1\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Hedeby"
+    ],
+    "name:hun_x_preferred":[
+        "Haithabu"
+    ],
+    "name:isl_x_preferred":[
+        "Hei\u00f0ab\u00e6r"
+    ],
+    "name:ita_x_preferred":[
+        "Hedeby"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30fc\u30bc\u30d3\u30e5\u30fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10d3\u10d4\u10d1\u10d8\u10e3"
+    ],
+    "name:lat_x_preferred":[
+        "Heidiba"
+    ],
+    "name:lav_x_preferred":[
+        "Hedebija"
+    ],
+    "name:nld_x_preferred":[
+        "Hedeby"
+    ],
+    "name:nno_x_preferred":[
+        "Hedeby"
+    ],
+    "name:nor_x_preferred":[
+        "Hedeby"
+    ],
+    "name:pol_x_preferred":[
+        "Hedeby"
+    ],
+    "name:por_x_preferred":[
+        "Hedeby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0434\u0435\u0431\u044e"
+    ],
+    "name:slv_x_preferred":[
+        "Hedeby"
+    ],
+    "name:spa_x_preferred":[
+        "Hedeby"
+    ],
+    "name:swe_x_preferred":[
+        "Hedeby"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0435\u0434\u0435\u0431\u044e"
+    ],
+    "name:tur_x_preferred":[
+        "Hedeby"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0434\u0435\u0431\u044e"
+    ],
     "name:und_x_variant":[
         "Hedeboryde",
+        "Hedeby"
+    ],
+    "name:vie_x_preferred":[
         "Hedeby"
     ],
     "src:geom":"geonames",
@@ -55,7 +160,7 @@
         }
     ],
     "wof:id":1226216611,
-    "wof:lastmodified":1562796866,
+    "wof:lastmodified":1564129228,
     "wof:name":"Hedeby",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

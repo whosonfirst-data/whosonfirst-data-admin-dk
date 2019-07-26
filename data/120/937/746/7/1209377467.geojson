@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rydal"
+    ],
+    "name:deu_x_preferred":[
+        "Rydal"
+    ],
+    "name:fra_x_preferred":[
+        "Rydal"
+    ],
+    "name:sco_x_preferred":[
+        "Rydal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209377467,
-    "wof:lastmodified":1562796389,
+    "wof:lastmodified":1564128380,
     "wof:name":"Rydal",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

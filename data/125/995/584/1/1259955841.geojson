@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Siim"
+    ],
+    "name:fin_x_preferred":[
+        "Siim"
+    ],
     "name:und_x_variant":[
         "Sim",
         "Siim"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259955841,
-    "wof:lastmodified":1537619816,
+    "wof:lastmodified":1564129169,
     "wof:name":"Siim",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

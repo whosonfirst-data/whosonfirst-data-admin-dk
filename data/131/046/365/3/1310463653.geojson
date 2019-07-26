@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Torpe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310463653,
-    "wof:lastmodified":1562794403,
+    "wof:lastmodified":1564128525,
     "wof:name":"Torpe",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

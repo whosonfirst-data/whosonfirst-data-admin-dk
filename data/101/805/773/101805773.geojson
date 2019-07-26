@@ -16,6 +16,15 @@
     "mps:longitude":10.064802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Assens"
+    ],
+    "name:ceb_x_preferred":[
+        "Assens"
+    ],
+    "name:dan_x_preferred":[
+        "Assens"
+    ],
     "name:deu_x_preferred":[
         "Assens"
     ],
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":101805773,
-    "wof:lastmodified":1562795578,
+    "wof:lastmodified":1564128749,
     "wof:name":"Assens",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

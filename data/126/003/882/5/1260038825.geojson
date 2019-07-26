@@ -26,8 +26,35 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ringe Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Ringe Kommune"
+    ],
+    "name:fao_x_preferred":[
+        "Ringe kommuna"
+    ],
+    "name:ita_x_preferred":[
+        "Ringe"
+    ],
+    "name:nor_x_preferred":[
+        "Ringe kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ringe"
+    ],
+    "name:por_x_preferred":[
+        "Ringe"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ringe"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043d\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ringe kommun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260038825,
-    "wof:lastmodified":1562794866,
+    "wof:lastmodified":1564128508,
     "wof:name":"Ringe",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

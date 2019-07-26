@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Boller"
+    ],
+    "name:deu_x_preferred":[
+        "Boller"
+    ],
+    "name:fra_x_preferred":[
+        "Boller"
+    ],
+    "name:nds_x_preferred":[
+        "Boller"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1327496585,
-    "wof:lastmodified":1562795913,
+    "wof:lastmodified":1564127990,
     "wof:name":"Boller",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

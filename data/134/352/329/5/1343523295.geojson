@@ -29,11 +29,20 @@
     "name:dan_x_preferred":[
         "Bjergsted"
     ],
+    "name:dan_x_variant":[
+        "Bjergsted Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Bjergsted Kommune"
+    ],
     "name:eng_x_preferred":[
         "Bjergsted"
     ],
     "name:fao_x_preferred":[
         "Bjergsted"
+    ],
+    "name:fao_x_variant":[
+        "Bjergsted kommuna"
     ],
     "name:ita_x_preferred":[
         "Bjergsted"
@@ -44,14 +53,23 @@
     "name:nor_x_preferred":[
         "Bjergsted"
     ],
+    "name:nor_x_variant":[
+        "Bjergsted kommune"
+    ],
     "name:pol_x_preferred":[
         "Gmina Bjergsted"
     ],
     "name:por_x_preferred":[
         "Bjergsted"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Bjergsted"
+    ],
     "name:swe_x_preferred":[
         "Bjergsted"
+    ],
+    "name:swe_x_variant":[
+        "Bjergsteds kommun"
     ],
     "name:und_x_variant":[
         "Bj\u00e6rgsted",
@@ -81,7 +99,7 @@
         }
     ],
     "wof:id":1343523295,
-    "wof:lastmodified":1562794414,
+    "wof:lastmodified":1564128056,
     "wof:name":"Bjergsted",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

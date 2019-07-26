@@ -26,6 +26,24 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tanum"
+    ],
+    "name:deu_x_preferred":[
+        "Tanum"
+    ],
+    "name:fra_x_preferred":[
+        "Tanum"
+    ],
+    "name:nno_x_preferred":[
+        "Tanum"
+    ],
+    "name:nor_x_preferred":[
+        "Tanum"
+    ],
+    "name:swe_x_preferred":[
+        "Tanum"
+    ],
     "name:und_x_variant":[
         "Taanum",
         "T\u00e5num"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209277625,
-    "wof:lastmodified":1562796631,
+    "wof:lastmodified":1564128426,
     "wof:name":"Tanum",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Ny Adelgade"
+    ],
     "name:eng_x_variant":[
         "Ny Adelgade"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906073,
-    "wof:lastmodified":1530296564,
+    "wof:lastmodified":1564128158,
     "wof:name":"Ny Adelgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

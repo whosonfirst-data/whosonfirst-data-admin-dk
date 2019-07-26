@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Varo"
+    ],
+    "name:epo_x_preferred":[
+        "Varo"
+    ],
+    "name:fra_x_preferred":[
+        "Varo"
+    ],
+    "name:ita_x_preferred":[
+        "Varo"
+    ],
     "name:und_x_variant":[
         "Vaar\u00f8",
         "V\u00e5r\u00f8"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243428495,
-    "wof:lastmodified":1562795862,
+    "wof:lastmodified":1564129133,
     "wof:name":"Varo",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

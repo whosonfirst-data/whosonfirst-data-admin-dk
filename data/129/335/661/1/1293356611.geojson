@@ -26,6 +26,39 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vile"
+    ],
+    "name:deu_x_preferred":[
+        "Vile"
+    ],
+    "name:fra_x_preferred":[
+        "Vile"
+    ],
+    "name:hun_x_preferred":[
+        "Vile"
+    ],
+    "name:ita_x_preferred":[
+        "Vile"
+    ],
+    "name:nds_x_preferred":[
+        "Vile"
+    ],
+    "name:por_x_preferred":[
+        "Vile"
+    ],
+    "name:rus_x_preferred":[
+        "Vile"
+    ],
+    "name:spa_x_preferred":[
+        "Vile"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vile"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1293356611,
-    "wof:lastmodified":1562796559,
+    "wof:lastmodified":1564128212,
     "wof:name":"Vile",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

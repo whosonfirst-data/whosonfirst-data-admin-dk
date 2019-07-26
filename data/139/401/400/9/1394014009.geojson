@@ -38,10 +38,82 @@
     "mps:longitude":8.523195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Thisted"
+    ],
+    "name:ast_x_preferred":[
+        "Thisted"
+    ],
+    "name:bar_x_preferred":[
+        "Thisted"
+    ],
+    "name:cat_x_preferred":[
+        "Thisted"
+    ],
+    "name:ceb_x_preferred":[
+        "Thisted"
+    ],
+    "name:ces_x_preferred":[
+        "Thisted"
+    ],
     "name:dan_x_preferred":[
         "Thisted"
     ],
+    "name:deu_x_preferred":[
+        "Thisted"
+    ],
     "name:eng_x_preferred":[
+        "Thisted"
+    ],
+    "name:fao_x_preferred":[
+        "Thisted"
+    ],
+    "name:fin_x_preferred":[
+        "Thisted"
+    ],
+    "name:hrv_x_preferred":[
+        "Thisted"
+    ],
+    "name:isl_x_preferred":[
+        "Thisted"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\uc2a4\ud14c\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "Tistedas"
+    ],
+    "name:msa_x_preferred":[
+        "Thisted"
+    ],
+    "name:nld_x_preferred":[
+        "Thisted"
+    ],
+    "name:nno_x_preferred":[
+        "Thisted"
+    ],
+    "name:nor_x_preferred":[
+        "Thisted"
+    ],
+    "name:pol_x_preferred":[
+        "Thisted"
+    ],
+    "name:ron_x_preferred":[
+        "Thisted"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0441\u0442\u0435\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Thisted"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0441\u0442\u0435\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Thisted"
+    ],
+    "name:vie_x_preferred":[
         "Thisted"
     ],
     "src:geom":"dk-geodk",
@@ -69,7 +141,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798006,
+    "wof:lastmodified":1564128692,
     "wof:name":"Thisted",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

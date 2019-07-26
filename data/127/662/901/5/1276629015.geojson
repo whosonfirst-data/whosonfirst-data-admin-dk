@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Uggerslev"
+    ],
+    "name:nld_x_preferred":[
+        "Uggerslev"
+    ],
+    "name:spa_x_preferred":[
+        "Uggerslev"
+    ],
+    "name:swe_x_preferred":[
+        "Uggerslev"
+    ],
     "name:und_x_variant":[
         "Ugerslev",
         "Uggerslev"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1276629015,
-    "wof:lastmodified":1562794869,
+    "wof:lastmodified":1564128357,
     "wof:name":"Uggerslev",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

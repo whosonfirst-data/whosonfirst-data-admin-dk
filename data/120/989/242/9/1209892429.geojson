@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lobb\u00e6k"
+    ],
+    "name:dan_x_preferred":[
+        "Lobb\u00e6k"
+    ],
+    "name:deu_x_preferred":[
+        "Lobb\u00e6k"
+    ],
+    "name:nld_x_preferred":[
+        "Lobb\u00e6k"
+    ],
+    "name:swe_x_preferred":[
+        "Lobb\u00e6k"
+    ],
     "name:und_x_variant":[
         "Lobb\u00e6k"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209892429,
-    "wof:lastmodified":1562794679,
+    "wof:lastmodified":1564128439,
     "wof:name":"Lobbaek",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Solbcerq"
+    ],
+    "name:ceb_x_preferred":[
+        "Solbjerg"
+    ],
+    "name:dan_x_preferred":[
+        "Solbjerg"
+    ],
+    "name:fra_x_preferred":[
+        "Solbjerg"
+    ],
+    "name:nld_x_preferred":[
+        "Solbjerg"
+    ],
+    "name:spa_x_preferred":[
+        "Solbjerg"
+    ],
+    "name:swe_x_preferred":[
+        "Solbjerg"
+    ],
     "name:und_x_variant":[
         "Solbj\u00e6rg"
     ],
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1209178991,
-    "wof:lastmodified":1562794395,
+    "wof:lastmodified":1564128447,
     "wof:name":"Solbjerg",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

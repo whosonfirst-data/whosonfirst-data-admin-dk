@@ -26,6 +26,24 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lyng"
+    ],
+    "name:deu_x_preferred":[
+        "Lyng"
+    ],
+    "name:ita_x_preferred":[
+        "Lyng"
+    ],
+    "name:nld_x_preferred":[
+        "Lyng"
+    ],
+    "name:pol_x_preferred":[
+        "Lyng"
+    ],
+    "name:swe_x_preferred":[
+        "Lyng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1260256579,
-    "wof:lastmodified":1562794493,
+    "wof:lastmodified":1564128500,
     "wof:name":"Lyng",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

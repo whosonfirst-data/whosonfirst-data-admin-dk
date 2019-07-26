@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Brandsby"
+    ],
+    "name:pol_x_preferred":[
+        "Brandsby"
+    ],
+    "name:swe_x_preferred":[
+        "Brandsby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360143751,
-    "wof:lastmodified":1562794848,
+    "wof:lastmodified":1564128601,
     "wof:name":"Brandsby",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tommerup"
+    ],
+    "name:dan_x_preferred":[
+        "Tommerup"
+    ],
+    "name:fra_x_preferred":[
+        "Tommerup"
+    ],
+    "name:nld_x_preferred":[
+        "Tommerup"
+    ],
+    "name:nor_x_preferred":[
+        "Tommerup"
+    ],
+    "name:swe_x_preferred":[
+        "Tommerup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209376739,
-    "wof:lastmodified":1562793688,
+    "wof:lastmodified":1564128378,
     "wof:name":"Tommerup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Exercisheden"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1277037395,
-    "wof:lastmodified":1562796403,
+    "wof:lastmodified":1564128318,
     "wof:name":"Heden",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

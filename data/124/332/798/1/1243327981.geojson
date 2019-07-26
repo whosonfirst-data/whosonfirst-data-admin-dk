@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Vejlby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243327981,
-    "wof:lastmodified":1562794915,
+    "wof:lastmodified":1564129095,
     "wof:name":"Vejlby",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

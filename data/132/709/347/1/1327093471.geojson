@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:chv_x_preferred":[
+        "\u0425\u0435\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:deu_x_preferred":[
+        "Hessel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0633\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Hessel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0441\u0441\u0435\u043b\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1327093471,
-    "wof:lastmodified":1562794777,
+    "wof:lastmodified":1564127953,
     "wof:name":"Hessel",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

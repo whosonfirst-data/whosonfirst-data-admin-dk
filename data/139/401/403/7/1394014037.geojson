@@ -38,10 +38,139 @@
     "mps:longitude":9.686171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Fredericia"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0440\u044d\u0434\u044d\u0440\u044b\u0441\u0456\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Fredericia"
+    ],
+    "name:ceb_x_preferred":[
+        "Fredericia"
+    ],
+    "name:csb_x_preferred":[
+        "Fredericia"
+    ],
     "name:dan_x_preferred":[
         "Fredericia"
     ],
+    "name:deu_x_preferred":[
+        "Fredericia"
+    ],
     "name:eng_x_preferred":[
+        "Fredericia"
+    ],
+    "name:epo_x_preferred":[
+        "Fredericia"
+    ],
+    "name:est_x_preferred":[
+        "Fredericia"
+    ],
+    "name:fao_x_preferred":[
+        "Fredericia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u062f\u0631\u06cc\u0633\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Fredericia"
+    ],
+    "name:fra_x_preferred":[
+        "Fredericia"
+    ],
+    "name:frr_x_preferred":[
+        "Fredericia"
+    ],
+    "name:gla_x_preferred":[
+        "Fredericia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d3\u05e8\u05d9\u05e1\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Fredericia"
+    ],
+    "name:hun_x_preferred":[
+        "Fredericia"
+    ],
+    "name:isl_x_preferred":[
+        "Fredericia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30bc\u30ea\u30b7\u30a2"
+    ],
+    "name:kal_x_preferred":[
+        "Fredericia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d4\u10d3\u10d4\u10e0\u10d8\u10e1\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0441\u0438\u044f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub808\ub370\ub9ac\uc2dc\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Fredericia"
+    ],
+    "name:lit_x_preferred":[
+        "Frederisija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0446\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Fredericia"
+    ],
+    "name:nds_x_preferred":[
+        "Fredericia"
+    ],
+    "name:nld_x_preferred":[
+        "Fredericia"
+    ],
+    "name:nor_x_preferred":[
+        "Fredericia"
+    ],
+    "name:pol_x_preferred":[
+        "Fredericia"
+    ],
+    "name:por_x_preferred":[
+        "Fredericia"
+    ],
+    "name:ron_x_preferred":[
+        "Fredericia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0441\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Fredericia"
+    ],
+    "name:spa_x_preferred":[
+        "Fredericia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0446\u0438\u0458\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Fredericia"
+    ],
+    "name:swe_x_preferred":[
+        "Fredericia"
+    ],
+    "name:tur_x_preferred":[
+        "Fredericia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0456\u0441\u0456\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Fredericia"
+    ],
+    "name:vol_x_preferred":[
         "Fredericia"
     ],
     "src:geom":"dk-geodk",
@@ -71,7 +200,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798319,
+    "wof:lastmodified":1564128717,
     "wof:name":"Fredericia",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

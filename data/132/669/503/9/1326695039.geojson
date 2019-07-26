@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Horreby"
+    ],
+    "name:dan_x_preferred":[
+        "Horreby"
+    ],
+    "name:nld_x_preferred":[
+        "Horreby"
+    ],
+    "name:swe_x_preferred":[
+        "Horreby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326695039,
-    "wof:lastmodified":1537504213,
+    "wof:lastmodified":1564127968,
     "wof:name":"Horreby",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

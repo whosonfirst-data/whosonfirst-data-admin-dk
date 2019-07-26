@@ -18,6 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:fin_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:fra_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:hun_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:nno_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:nor_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:pol_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:spa_x_preferred":[
+        "Klampenborg"
+    ],
+    "name:swe_x_preferred":[
+        "Klampenborg"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1125943439,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1564128804,
     "wof:name":"Klampenborg",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

@@ -27,6 +27,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skibby"
+    ],
+    "name:dan_x_preferred":[
+        "Skibby"
+    ],
+    "name:nor_x_preferred":[
+        "Skibby"
+    ],
+    "name:spa_x_preferred":[
+        "Skibby"
+    ],
+    "name:swe_x_preferred":[
+        "Skibby"
+    ],
     "name:und_x_variant":[
         "Skiby"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310676803,
-    "wof:lastmodified":1562794981,
+    "wof:lastmodified":1564128587,
     "wof:name":"Skibby",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

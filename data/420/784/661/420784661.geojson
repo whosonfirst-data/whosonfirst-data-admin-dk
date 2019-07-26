@@ -21,6 +21,36 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d\u0431\u043e\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:deu_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:ita_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:nld_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:nno_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:nor_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:por_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:spa_x_preferred":[
+        "Rosenborg"
+    ],
+    "name:swe_x_preferred":[
+        "Rosenborg"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":420784661,
-    "wof:lastmodified":1530296504,
+    "wof:lastmodified":1564128794,
     "wof:name":"Rosenborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

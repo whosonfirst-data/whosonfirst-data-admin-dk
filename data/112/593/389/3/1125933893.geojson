@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Sandved"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125933893,
-    "wof:lastmodified":1562796913,
+    "wof:lastmodified":1564128814,
     "wof:name":"Sandved",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

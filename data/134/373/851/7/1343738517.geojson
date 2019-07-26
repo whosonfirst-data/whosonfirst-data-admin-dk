@@ -26,8 +26,41 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Helsinge Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Helsinge"
+    ],
+    "name:fao_x_preferred":[
+        "Helsinge kommuna"
+    ],
+    "name:fra_x_preferred":[
+        "Helsinge"
+    ],
+    "name:ita_x_preferred":[
+        "Helsinge"
+    ],
+    "name:msa_x_preferred":[
+        "Helsinge"
+    ],
+    "name:nor_x_preferred":[
+        "Helsinge kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Helsinge"
+    ],
+    "name:por_x_preferred":[
+        "Helsinge"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Helsinge"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u043b\u044c\u0441\u0438\u043d\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Helsinge kommun"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1343738517,
-    "wof:lastmodified":1562795878,
+    "wof:lastmodified":1564128118,
     "wof:name":"Helsinge",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

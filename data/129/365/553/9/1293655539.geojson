@@ -30,6 +30,9 @@
     "name:dan_x_preferred":[
         "Paris"
     ],
+    "name:deu_x_preferred":[
+        "Paris"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293655539,
-    "wof:lastmodified":1562796986,
+    "wof:lastmodified":1564128177,
     "wof:name":"Paris",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

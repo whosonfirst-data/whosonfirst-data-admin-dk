@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Debel"
+    ],
+    "name:swe_x_preferred":[
+        "Debel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260365933,
-    "wof:lastmodified":1562796605,
+    "wof:lastmodified":1564128502,
     "wof:name":"Debel",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

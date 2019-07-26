@@ -38,10 +38,94 @@
     "mps:longitude":9.37495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Haderslev"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0434\u044d\u0440\u0441\u043b\u0435\u045e"
+    ],
+    "name:cat_x_preferred":[
+        "Haderslev"
+    ],
+    "name:ceb_x_preferred":[
+        "Haderslev"
+    ],
     "name:dan_x_preferred":[
         "Haderslev"
     ],
+    "name:deu_x_preferred":[
+        "Haderslev"
+    ],
     "name:eng_x_preferred":[
+        "Haderslev"
+    ],
+    "name:epo_x_preferred":[
+        "Haderslevo"
+    ],
+    "name:fin_x_preferred":[
+        "Haderslev"
+    ],
+    "name:frr_x_preferred":[
+        "Haderslev"
+    ],
+    "name:isl_x_preferred":[
+        "Haderslev"
+    ],
+    "name:ita_x_preferred":[
+        "Haderslev"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d3\u10d4\u10e0\u10e1\u10da\u10d4\u10d5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub370\ub974\uc2ac\ub808\uc6b0"
+    ],
+    "name:lit_x_preferred":[
+        "Haderslevas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Haderslev"
+    ],
+    "name:nld_x_preferred":[
+        "Haderslev"
+    ],
+    "name:nor_x_preferred":[
+        "Haderslev"
+    ],
+    "name:pol_x_preferred":[
+        "Haderslev"
+    ],
+    "name:por_x_preferred":[
+        "Haderslev"
+    ],
+    "name:ron_x_preferred":[
+        "Haderslev"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Haderslev"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Haderslev"
+    ],
+    "name:szl_x_preferred":[
+        "Haderslev"
+    ],
+    "name:tur_x_preferred":[
+        "Haderslev"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0434\u0435\u0440\u0441\u043b\u0435\u0432"
+    ],
+    "name:vol_x_preferred":[
         "Haderslev"
     ],
     "src:geom":"dk-geodk",
@@ -74,7 +158,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562794274,
+    "wof:lastmodified":1564129019,
     "wof:name":"Haderslev",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

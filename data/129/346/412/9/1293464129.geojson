@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Sankt J\u00f8rgensbjerg Sogn"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt J\u00f8rgensbjerg Sogn"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt J\u00f8rgensbjerg"
+    ],
     "name:und_x_variant":[
         "Sankt J\u00f8rgensbj\u00e6rg",
         "Sankt J\u00f8rgensbjerg"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293464129,
-    "wof:lastmodified":1562796272,
+    "wof:lastmodified":1564128189,
     "wof:name":"Sankt Jorgensbjerg",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

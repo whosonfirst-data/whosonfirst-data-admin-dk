@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Havbro"
+    ],
+    "name:deu_x_preferred":[
+        "Havbro"
+    ],
+    "name:nld_x_preferred":[
+        "Havbro"
+    ],
     "name:und_x_variant":[
         "S\u00f8nder Havbro",
         "Havbro"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1193243993,
-    "wof:lastmodified":1537619866,
+    "wof:lastmodified":1564128455,
     "wof:name":"Havbro",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

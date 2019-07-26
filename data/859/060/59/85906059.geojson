@@ -24,7 +24,13 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Niels Hemmingsens Gade"
+    ],
     "name:eng_x_variant":[
+        "Niels Hemmingsens Gade"
+    ],
+    "name:nor_x_preferred":[
         "Niels Hemmingsens Gade"
     ],
     "name:unk_x_variant":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":85906059,
-    "wof:lastmodified":1530296562,
+    "wof:lastmodified":1564128157,
     "wof:name":"Niels Hemmingsens Gade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

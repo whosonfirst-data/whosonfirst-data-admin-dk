@@ -26,6 +26,33 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kastrup"
+    ],
+    "name:dan_x_preferred":[
+        "Kastrup"
+    ],
+    "name:deu_x_preferred":[
+        "Kastrup"
+    ],
+    "name:fra_x_preferred":[
+        "Kastrup"
+    ],
+    "name:isl_x_preferred":[
+        "Kastrup"
+    ],
+    "name:nor_x_preferred":[
+        "Kastrup"
+    ],
+    "name:pol_x_preferred":[
+        "Kastrup"
+    ],
+    "name:ron_x_preferred":[
+        "Kastrup"
+    ],
+    "name:sco_x_preferred":[
+        "Kastrup"
+    ],
     "name:und_x_variant":[
         "Kaastrup",
         "K\u00e5strup"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1243031201,
-    "wof:lastmodified":1562796584,
+    "wof:lastmodified":1564129091,
     "wof:name":"Kastrup",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

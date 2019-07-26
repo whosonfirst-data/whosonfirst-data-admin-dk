@@ -29,14 +29,23 @@
     "name:dan_x_preferred":[
         "Lundtoft"
     ],
+    "name:dan_x_variant":[
+        "Lundtoft Kommune"
+    ],
     "name:deu_x_preferred":[
         "Lundtoft"
+    ],
+    "name:deu_x_variant":[
+        "Lundtoft Kommune"
     ],
     "name:eng_x_preferred":[
         "Lundtoft"
     ],
     "name:fao_x_preferred":[
         "Lundtoft"
+    ],
+    "name:fao_x_variant":[
+        "Lundtoft kommuna"
     ],
     "name:ita_x_preferred":[
         "Lundtoft"
@@ -47,14 +56,23 @@
     "name:nor_x_preferred":[
         "Lundtoft"
     ],
+    "name:nor_x_variant":[
+        "Lundtoft kommune"
+    ],
     "name:pol_x_preferred":[
         "Gmina Lundtoft"
     ],
     "name:por_x_preferred":[
         "Lundtoft"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Lundtoft"
+    ],
     "name:swe_x_preferred":[
         "Lundtoft"
+    ],
+    "name:swe_x_variant":[
+        "Lundtofts kommun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +100,7 @@
         }
     ],
     "wof:id":1343320949,
-    "wof:lastmodified":1562794781,
+    "wof:lastmodified":1564128094,
     "wof:name":"Lundtoft",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

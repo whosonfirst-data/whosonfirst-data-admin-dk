@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Asp"
+    ],
+    "name:heb_x_preferred":[
+        "Asp"
+    ],
+    "name:nno_x_preferred":[
+        "Asp"
+    ],
+    "name:nor_x_preferred":[
+        "Asp"
+    ],
+    "name:swe_x_preferred":[
+        "Asp"
+    ],
     "name:und_x_variant":[
         "Aspe",
         "Asp"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209875087,
-    "wof:lastmodified":1562797088,
+    "wof:lastmodified":1564128438,
     "wof:name":"Asp",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

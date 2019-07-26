@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Vester Nordlunde"
+    ],
     "name:und_x_variant":[
         "Nordlunde",
         "Vester Nordlunde"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309767941,
-    "wof:lastmodified":1562795027,
+    "wof:lastmodified":1564128776,
     "wof:name":"Vester Nordlunde",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

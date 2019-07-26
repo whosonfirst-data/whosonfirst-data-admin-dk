@@ -18,6 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ove"
+    ],
+    "name:deu_x_preferred":[
+        "Ove"
+    ],
+    "name:fin_x_preferred":[
+        "Ove"
+    ],
+    "name:ita_x_preferred":[
+        "Ove"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f4\u30a7"
+    ],
+    "name:nno_x_preferred":[
+        "Ove"
+    ],
+    "name:nor_x_preferred":[
+        "Ove"
+    ],
+    "name:swe_x_preferred":[
+        "Ove"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +93,7 @@
         }
     ],
     "wof:id":1125937247,
-    "wof:lastmodified":1562795585,
+    "wof:lastmodified":1564128809,
     "wof:name":"Ove",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "H\u00f8sterk\u00f8b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u0631\u06a9\u0648\u0628"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00f8sterk\u00f8b"
+    ],
     "name:und_x_variant":[
         "H\u00f6sterkj\u00f6b",
         "H\u00f8sterk\u00f8b"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360056935,
-    "wof:lastmodified":1562795690,
+    "wof:lastmodified":1564128611,
     "wof:name":"Hosterkob",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

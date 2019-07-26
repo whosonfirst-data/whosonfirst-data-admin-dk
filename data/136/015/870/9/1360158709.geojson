@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Norby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360158709,
-    "wof:lastmodified":1562796031,
+    "wof:lastmodified":1564128595,
     "wof:name":"Norby",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

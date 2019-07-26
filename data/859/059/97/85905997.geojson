@@ -24,6 +24,9 @@
     "mz:min_zoom":19.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Knabrostr\u00e6de"
+    ],
     "name:eng_x_variant":[
         "Knabrostr\u00e6de"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905997,
-    "wof:lastmodified":1530296550,
+    "wof:lastmodified":1564128150,
     "wof:name":"Knabrostr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

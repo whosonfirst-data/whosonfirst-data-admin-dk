@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ulriksdal"
+    ],
+    "name:deu_x_preferred":[
+        "Ulriksdal"
+    ],
+    "name:swe_x_preferred":[
+        "Ulriksdal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243146659,
-    "wof:lastmodified":1536740692,
+    "wof:lastmodified":1564129078,
     "wof:name":"Ulriksdal",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

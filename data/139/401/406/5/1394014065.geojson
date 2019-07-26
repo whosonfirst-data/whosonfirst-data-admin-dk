@@ -38,10 +38,163 @@
     "mps:longitude":8.422977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Fano"
+    ],
+    "name:ceb_x_preferred":[
+        "Fano"
+    ],
+    "name:ces_x_preferred":[
+        "Fano"
+    ],
     "name:dan_x_preferred":[
         "Fan\u00f8"
     ],
+    "name:deu_x_preferred":[
+        "Fano"
+    ],
     "name:eng_x_preferred":[
+        "Fano"
+    ],
+    "name:epo_x_preferred":[
+        "Fano"
+    ],
+    "name:eus_x_preferred":[
+        "Fano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Fano"
+    ],
+    "name:fra_x_preferred":[
+        "Fano"
+    ],
+    "name:gla_x_preferred":[
+        "Fano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Fano"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0576\u0578"
+    ],
+    "name:ina_x_preferred":[
+        "Fano"
+    ],
+    "name:ind_x_preferred":[
+        "Fano"
+    ],
+    "name:ita_x_preferred":[
+        "Fano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30fc\u30ce"
+    ],
+    "name:lat_x_preferred":[
+        "Fanum Fortunae"
+    ],
+    "name:lit_x_preferred":[
+        "Fanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Fano"
+    ],
+    "name:msa_x_preferred":[
+        "Fano"
+    ],
+    "name:nap_x_preferred":[
+        "Fano"
+    ],
+    "name:nld_x_preferred":[
+        "Fano"
+    ],
+    "name:nno_x_preferred":[
+        "Fano"
+    ],
+    "name:nor_x_preferred":[
+        "Fano"
+    ],
+    "name:oci_x_preferred":[
+        "Fano"
+    ],
+    "name:pms_x_preferred":[
+        "Fano"
+    ],
+    "name:pol_x_preferred":[
+        "Fano"
+    ],
+    "name:por_x_preferred":[
+        "Fano"
+    ],
+    "name:ron_x_preferred":[
+        "Fano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043d\u043e"
+    ],
+    "name:san_x_preferred":[
+        "\u092b\u093e\u0928\u094b"
+    ],
+    "name:scn_x_preferred":[
+        "Fanu"
+    ],
+    "name:sco_x_preferred":[
+        "Fano"
+    ],
+    "name:spa_x_preferred":[
+        "Fano"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Fano"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0430\u043d\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Fano"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e32\u0e42\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Fano"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u043d\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0646\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Fano"
+    ],
+    "name:vec_x_preferred":[
+        "Fam"
+    ],
+    "name:vie_x_preferred":[
+        "Fano"
+    ],
+    "name:vol_x_preferred":[
+        "Fano"
+    ],
+    "name:war_x_preferred":[
         "Fano"
     ],
     "src:geom":"dk-geodk",
@@ -71,7 +224,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798661,
+    "wof:lastmodified":1564128673,
     "wof:name":"Fano",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

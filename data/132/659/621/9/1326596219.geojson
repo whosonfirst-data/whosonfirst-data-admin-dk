@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Fuglsang"
+    ],
+    "name:deu_x_preferred":[
+        "Fuglsang"
+    ],
+    "name:fra_x_preferred":[
+        "Fuglsang"
+    ],
+    "name:nld_x_preferred":[
+        "Fuglsang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1326596219,
-    "wof:lastmodified":1562794805,
+    "wof:lastmodified":1564127976,
     "wof:name":"Fuglsang",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

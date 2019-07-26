@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jav_x_preferred":[
+        "Tiset"
+    ],
+    "name:msa_x_preferred":[
+        "Tiset"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327208069,
-    "wof:lastmodified":1562794250,
+    "wof:lastmodified":1564128040,
     "wof:name":"Tiset",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

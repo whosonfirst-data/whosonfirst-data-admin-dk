@@ -38,10 +38,34 @@
     "mps:longitude":12.469279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hvidovre"
+    ],
     "name:dan_x_preferred":[
         "Hvidovre"
     ],
     "name:eng_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:eus_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:fin_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:frr_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:msa_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:pol_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:ron_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:swe_x_preferred":[
         "Hvidovre"
     ],
     "src:geom":"dk-geodk",
@@ -69,7 +93,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798188,
+    "wof:lastmodified":1564128715,
     "wof:name":"Hvidovre",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
