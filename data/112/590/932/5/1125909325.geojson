@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bl\u00e5vands Huk"
+    ],
+    "name:ceb_x_preferred":[
+        "Bl\u00e5vands Huk"
+    ],
+    "name:dan_x_preferred":[
+        "Bl\u00e5vands Huk"
+    ],
+    "name:deu_x_preferred":[
+        "Bl\u00e5vands Huk"
+    ],
+    "name:fin_x_preferred":[
+        "Bl\u00e5vands Huk"
+    ],
+    "name:swe_x_preferred":[
+        "Bl\u00e5vandshuk"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:name":"Bl\u00e5vandshuk",
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1125909325,
-    "wof:lastmodified":1562797083,
+    "wof:lastmodified":1564128884,
     "wof:name":"Bl\u00e5vandshuk",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

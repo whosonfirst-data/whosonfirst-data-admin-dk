@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hvidovre"
+    ],
     "name:dan_x_preferred":[
         "Hvidovre"
     ],
@@ -28,13 +31,25 @@
     "name:eng_x_preferred":[
         "Hvidovre"
     ],
+    "name:eus_x_preferred":[
+        "Hvidovre"
+    ],
     "name:fao_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:fin_x_preferred":[
         "Hvidovre"
     ],
     "name:fra_x_preferred":[
         "Hvidovre"
     ],
+    "name:frr_x_preferred":[
+        "Hvidovre"
+    ],
     "name:ita_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:msa_x_preferred":[
         "Hvidovre"
     ],
     "name:nld_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1125775733,
-    "wof:lastmodified":1562796664,
+    "wof:lastmodified":1564128965,
     "wof:name":"Hvidovre",
     "wof:parent_id":1394014025,
     "wof:placetype":"locality",

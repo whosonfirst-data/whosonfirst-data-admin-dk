@@ -16,6 +16,48 @@
     "mps:longitude":8.413506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lem"
+    ],
+    "name:dan_x_preferred":[
+        "Lem"
+    ],
+    "name:deu_x_preferred":[
+        "Lem"
+    ],
+    "name:fin_x_preferred":[
+        "Lem"
+    ],
+    "name:hun_x_preferred":[
+        "Lem"
+    ],
+    "name:lav_x_preferred":[
+        "Lem"
+    ],
+    "name:nld_x_preferred":[
+        "Lem"
+    ],
+    "name:nno_x_preferred":[
+        "Lem"
+    ],
+    "name:nor_x_preferred":[
+        "Lem"
+    ],
+    "name:pol_x_preferred":[
+        "Lem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Lem"
+    ],
+    "name:swe_x_preferred":[
+        "Lem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043c"
+    ],
     "name:unk_x_variant":[
         "Lem Stationsby"
     ],
@@ -62,7 +104,7 @@
         }
     ],
     "wof:id":101873057,
-    "wof:lastmodified":1562796088,
+    "wof:lastmodified":1564128737,
     "wof:name":"Lem",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

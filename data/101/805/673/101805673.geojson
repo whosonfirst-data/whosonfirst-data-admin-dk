@@ -16,6 +16,30 @@
     "mps:longitude":10.252084,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hov"
+    ],
+    "name:dan_x_preferred":[
+        "Hov"
+    ],
+    "name:deu_x_preferred":[
+        "Hov"
+    ],
+    "name:fin_x_preferred":[
+        "Hov"
+    ],
+    "name:fra_x_preferred":[
+        "Hov"
+    ],
+    "name:nld_x_preferred":[
+        "Hov"
+    ],
+    "name:nor_x_preferred":[
+        "Hov"
+    ],
+    "name:swe_x_preferred":[
+        "Hov"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":101805673,
-    "wof:lastmodified":1562795277,
+    "wof:lastmodified":1564128741,
     "wof:name":"Hov",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karup"
+    ],
+    "name:dan_x_preferred":[
+        "Karup"
+    ],
+    "name:deu_x_preferred":[
+        "Karup"
+    ],
+    "name:isl_x_preferred":[
+        "Karup"
+    ],
     "name:und_x_variant":[
         "Kaarup",
         "K\u00e5rup"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309968505,
-    "wof:lastmodified":1562795724,
+    "wof:lastmodified":1564128762,
     "wof:name":"Karup",
     "wof:parent_id":1394014007,
     "wof:placetype":"locality",

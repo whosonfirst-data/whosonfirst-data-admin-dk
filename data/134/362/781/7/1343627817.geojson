@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "\u00d8 Bakker"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8"
+    ],
     "name:und_x_variant":[
         "\u00d8",
         "\u00d8by"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343627817,
-    "wof:lastmodified":1562795390,
+    "wof:lastmodified":1564128048,
     "wof:name":"Oby",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hvam"
+    ],
+    "name:nor_x_preferred":[
+        "Hvam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259559385,
-    "wof:lastmodified":1562795083,
+    "wof:lastmodified":1564129152,
     "wof:name":"Hvam",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":2677677.013907,
+    "geom:area_square_m":2677677.013906,
     "geom:bbox":"11.7519343444,55.6038748775,11.7953350341,55.6319224565",
     "geom:latitude":55.613582,
     "geom:longitude":11.769308,
@@ -21,6 +21,12 @@
         "T\u00f8ll\u00f8se"
     ],
     "name:dan_x_preferred":[
+        "T\u00f8ll\u00f8se"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0648\u0633"
+    ],
+    "name:spa_x_preferred":[
         "T\u00f8ll\u00f8se"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":101818275,
-    "wof:lastmodified":1530296443,
+    "wof:lastmodified":1564128732,
     "wof:name":"T\u00f8ll\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

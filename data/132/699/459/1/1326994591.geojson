@@ -26,6 +26,33 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sig"
+    ],
+    "name:dan_x_preferred":[
+        "Sig"
+    ],
+    "name:deu_x_preferred":[
+        "Sig"
+    ],
+    "name:fra_x_preferred":[
+        "Sig"
+    ],
+    "name:ind_x_preferred":[
+        "Sig"
+    ],
+    "name:pol_x_preferred":[
+        "Sig"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Sig"
+    ],
+    "name:swe_x_preferred":[
+        "Sig"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1326994591,
-    "wof:lastmodified":1562797118,
+    "wof:lastmodified":1564128013,
     "wof:name":"Sig",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

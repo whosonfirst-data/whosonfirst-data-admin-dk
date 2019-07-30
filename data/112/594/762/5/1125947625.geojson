@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Ordrup"
+    ],
+    "name:fra_x_preferred":[
+        "Ordrup"
+    ],
+    "name:nor_x_preferred":[
+        "Ordrup"
+    ],
+    "name:swe_x_preferred":[
+        "Ordrup"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1125947625,
-    "wof:lastmodified":1562797192,
+    "wof:lastmodified":1564128795,
     "wof:name":"Ordrup",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

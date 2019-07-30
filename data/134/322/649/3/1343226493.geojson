@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Hunderup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343226493,
-    "wof:lastmodified":1562797040,
+    "wof:lastmodified":1564128085,
     "wof:name":"Hunderup",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

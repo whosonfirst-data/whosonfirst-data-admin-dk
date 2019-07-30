@@ -18,6 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Holmen"
+    ],
+    "name:dan_x_preferred":[
+        "Holmen"
+    ],
+    "name:deu_x_preferred":[
+        "Holmen"
+    ],
+    "name:est_x_preferred":[
+        "Holmen"
+    ],
+    "name:fra_x_preferred":[
+        "Holmen"
+    ],
+    "name:nld_x_preferred":[
+        "Holmen"
+    ],
+    "name:nor_x_preferred":[
+        "Holmen"
+    ],
+    "name:swe_x_preferred":[
+        "Holmen"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1125916197,
-    "wof:lastmodified":1562794852,
+    "wof:lastmodified":1564128903,
     "wof:name":"Holmen",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

@@ -26,6 +26,72 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Malle"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Malle"
+    ],
+    "name:ceb_x_preferred":[
+        "Malle"
+    ],
+    "name:deu_x_preferred":[
+        "Malle"
+    ],
+    "name:epo_x_preferred":[
+        "Malle"
+    ],
+    "name:eus_x_preferred":[
+        "Malle"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Malle"
+    ],
+    "name:ita_x_preferred":[
+        "Malle"
+    ],
+    "name:lij_x_preferred":[
+        "Malle"
+    ],
+    "name:nld_x_preferred":[
+        "Malle"
+    ],
+    "name:nor_x_preferred":[
+        "Malle"
+    ],
+    "name:oci_x_preferred":[
+        "Malle"
+    ],
+    "name:por_x_preferred":[
+        "Malle"
+    ],
+    "name:ron_x_preferred":[
+        "Malle"
+    ],
+    "name:slk_x_preferred":[
+        "Malle"
+    ],
+    "name:spa_x_preferred":[
+        "Malle"
+    ],
+    "name:swe_x_preferred":[
+        "Malle"
+    ],
+    "name:vie_x_preferred":[
+        "Malle"
+    ],
+    "name:vol_x_preferred":[
+        "Malle"
+    ],
+    "name:war_x_preferred":[
+        "Malle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +117,7 @@
         }
     ],
     "wof:id":1259757179,
-    "wof:lastmodified":1562797108,
+    "wof:lastmodified":1564129205,
     "wof:name":"Malle",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

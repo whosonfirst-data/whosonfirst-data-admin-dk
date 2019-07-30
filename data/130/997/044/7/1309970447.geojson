@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Daler"
+    ],
+    "name:ita_x_preferred":[
+        "Daler"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u0435\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309970447,
-    "wof:lastmodified":1562796003,
+    "wof:lastmodified":1564128767,
     "wof:name":"Daler",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

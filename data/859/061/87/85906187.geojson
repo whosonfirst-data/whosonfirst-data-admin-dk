@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
-    "geom:area_square_m":150871.338546,
+    "geom:area_square_m":150871.338545,
     "geom:bbox":"12.6040649414,55.6682727381,12.6123046875,55.6729474837",
     "geom:latitude":55.670325,
     "geom:longitude":12.608761,
@@ -24,6 +24,9 @@
     "mz:min_zoom":20.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Sofiegade"
+    ],
     "name:eng_x_variant":[
         "Sofiegade"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906187,
-    "wof:lastmodified":1530296584,
+    "wof:lastmodified":1564128143,
     "wof:name":"Sofiegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

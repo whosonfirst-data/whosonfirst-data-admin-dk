@@ -29,11 +29,20 @@
     "name:dan_x_preferred":[
         "Sejlflod"
     ],
+    "name:dan_x_variant":[
+        "Sejlflod Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Sejlflod Kommune"
+    ],
     "name:eng_x_preferred":[
         "Sejlflod"
     ],
     "name:fao_x_preferred":[
         "Sejlflod"
+    ],
+    "name:fao_x_variant":[
+        "Sejlflod kommuna"
     ],
     "name:ita_x_preferred":[
         "Sejlflod"
@@ -44,14 +53,23 @@
     "name:nor_x_preferred":[
         "Sejlflod"
     ],
+    "name:nor_x_variant":[
+        "Sejlflod kommune"
+    ],
     "name:pol_x_preferred":[
         "Gmina Sejlflod"
     ],
     "name:por_x_preferred":[
         "Sejlflod"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Sejlflod"
+    ],
     "name:swe_x_preferred":[
         "Sejlflod"
+    ],
+    "name:swe_x_variant":[
+        "Sejlflods kommun"
     ],
     "name:und_x_variant":[
         "Seglflod",
@@ -82,7 +100,7 @@
         }
     ],
     "wof:id":1326905557,
-    "wof:lastmodified":1537619817,
+    "wof:lastmodified":1564128016,
     "wof:name":"Sejlflod",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "S\u00e6rslev"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e6rslev"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e6rslev"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e6rslev"
+    ],
     "name:und_x_variant":[
         "S\u00e6rslev"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1309676377,
-    "wof:lastmodified":1562794865,
+    "wof:lastmodified":1564128783,
     "wof:name":"Saerslev",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

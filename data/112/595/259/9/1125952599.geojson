@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hundested"
+    ],
+    "name:dan_x_preferred":[
+        "Hundested"
+    ],
+    "name:deu_x_preferred":[
+        "Hundested"
+    ],
+    "name:fin_x_preferred":[
+        "Hundested"
+    ],
+    "name:fra_x_preferred":[
+        "Hundested"
+    ],
+    "name:nld_x_preferred":[
+        "Hundested"
+    ],
+    "name:nor_x_preferred":[
+        "Hundested"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Hundested"
+    ],
+    "name:por_x_preferred":[
+        "Hundested"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043d\u043d\u0435\u0441\u0442\u0435\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Hundested"
+    ],
+    "name:swe_x_preferred":[
+        "Hundested"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hundested",
@@ -63,7 +99,7 @@
         }
     ],
     "wof:id":1125952599,
-    "wof:lastmodified":1562796072,
+    "wof:lastmodified":1564128820,
     "wof:name":"Hundested",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

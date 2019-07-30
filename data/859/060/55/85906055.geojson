@@ -24,7 +24,13 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Nabol\u00f8s"
+    ],
     "name:eng_x_variant":[
+        "Nabol\u00f8s"
+    ],
+    "name:nor_x_preferred":[
         "Nabol\u00f8s"
     ],
     "name:unk_x_variant":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":85906055,
-    "wof:lastmodified":1530296561,
+    "wof:lastmodified":1564128159,
     "wof:name":"Nabol\u00f8s",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

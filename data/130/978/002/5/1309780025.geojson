@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Mellerup"
+    ],
+    "name:nld_x_preferred":[
+        "Mellerup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309780025,
-    "wof:lastmodified":1562794772,
+    "wof:lastmodified":1564128774,
     "wof:name":"Mellerup",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

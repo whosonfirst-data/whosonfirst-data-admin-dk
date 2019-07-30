@@ -26,6 +26,24 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballum"
+    ],
+    "name:deu_x_preferred":[
+        "Ballum"
+    ],
+    "name:fra_x_preferred":[
+        "Ballum"
+    ],
+    "name:fry_x_preferred":[
+        "Ballum"
+    ],
+    "name:nld_x_preferred":[
+        "Ballum"
+    ],
+    "name:ron_x_preferred":[
+        "Ballum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1242833421,
-    "wof:lastmodified":1562795978,
+    "wof:lastmodified":1564129119,
     "wof:name":"Ballum",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

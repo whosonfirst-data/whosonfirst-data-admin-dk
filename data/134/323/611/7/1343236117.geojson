@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lunge"
+    ],
+    "name:dan_x_preferred":[
+        "Lunge"
+    ],
+    "name:deu_x_preferred":[
+        "Lunge"
+    ],
+    "name:ita_x_preferred":[
+        "Lunge"
+    ],
+    "name:swe_x_preferred":[
+        "Lunge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343236117,
-    "wof:lastmodified":1562794909,
+    "wof:lastmodified":1564128077,
     "wof:name":"Lunge",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

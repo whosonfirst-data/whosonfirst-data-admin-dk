@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Foulum"
+    ],
+    "name:deu_x_preferred":[
+        "Foulum"
+    ],
+    "name:fra_x_preferred":[
+        "Foulum"
+    ],
     "name:und_x_variant":[
         "Fovlum",
         "Foulum"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209277657,
-    "wof:lastmodified":1562795355,
+    "wof:lastmodified":1564128426,
     "wof:name":"Foulum",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Silkegade"
+    ],
     "name:eng_x_variant":[
         "Silkegade"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906167,
-    "wof:lastmodified":1530296581,
+    "wof:lastmodified":1564128142,
     "wof:name":"Silkegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

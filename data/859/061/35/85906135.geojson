@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000013,
-    "geom:area_square_m":87726.666407,
+    "geom:area_square_m":87726.666408,
     "geom:bbox":"12.5807189941,55.6806768953,12.5862121582,55.6876493911",
     "geom:latitude":55.683971,
     "geom:longitude":12.583565,
@@ -24,6 +24,9 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Rigensgade"
+    ],
     "name:eng_x_variant":[
         "Rigensgade"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":85906135,
-    "wof:lastmodified":1530296575,
+    "wof:lastmodified":1564128141,
     "wof:name":"Rigensgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

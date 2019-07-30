@@ -26,6 +26,45 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0644\u062a\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0644\u062a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Salten"
+    ],
+    "name:dan_x_preferred":[
+        "Salten"
+    ],
+    "name:deu_x_preferred":[
+        "Salten"
+    ],
+    "name:jav_x_preferred":[
+        "Salten"
+    ],
+    "name:msa_x_preferred":[
+        "Salten"
+    ],
+    "name:nno_x_preferred":[
+        "Salten"
+    ],
+    "name:nor_x_preferred":[
+        "Salten"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0644\u0679\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0442\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "S\u00e1llto"
+    ],
+    "name:swe_x_preferred":[
+        "Salten"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1344033605,
-    "wof:lastmodified":1562794518,
+    "wof:lastmodified":1564128109,
     "wof:name":"Salten",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

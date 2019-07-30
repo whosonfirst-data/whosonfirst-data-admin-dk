@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Tarup"
+    ],
     "name:und_x_variant":[
         "Taarup",
         "T\u00e5rup"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326804467,
-    "wof:lastmodified":1562794353,
+    "wof:lastmodified":1564127967,
     "wof:name":"Tarup",
     "wof:parent_id":1159297755,
     "wof:placetype":"locality",

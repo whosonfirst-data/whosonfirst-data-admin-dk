@@ -38,10 +38,103 @@
     "mps:longitude":11.349646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Slagelse"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0433\u0435\u043b\u044c\u0441\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Slagelse"
+    ],
+    "name:ceb_x_preferred":[
+        "Slagelse"
+    ],
     "name:dan_x_preferred":[
         "Slagelse"
     ],
+    "name:deu_x_preferred":[
+        "Slagelse"
+    ],
     "name:eng_x_preferred":[
+        "Slagelse"
+    ],
+    "name:fin_x_preferred":[
+        "Slagelse"
+    ],
+    "name:fra_x_preferred":[
+        "Slagelse"
+    ],
+    "name:frr_x_preferred":[
+        "Slagelse"
+    ],
+    "name:fry_x_preferred":[
+        "Slagelse"
+    ],
+    "name:hun_x_preferred":[
+        "Slagelse"
+    ],
+    "name:isl_x_preferred":[
+        "Slagelse"
+    ],
+    "name:ita_x_preferred":[
+        "Slagelse"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10da\u10d0\u10d2\u10d4\u10da\u10e1\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2ac\ub77c\uac94\uc138"
+    ],
+    "name:lit_x_preferred":[
+        "Slagels\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0430\u0433\u0435\u043b\u0441\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Slagelse"
+    ],
+    "name:nld_x_preferred":[
+        "Slagelse"
+    ],
+    "name:nno_x_preferred":[
+        "Slagelse"
+    ],
+    "name:nor_x_preferred":[
+        "Slagelse"
+    ],
+    "name:pol_x_preferred":[
+        "Slagelse"
+    ],
+    "name:por_x_preferred":[
+        "Slagelse"
+    ],
+    "name:ron_x_preferred":[
+        "Slagelse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0433\u0435\u043b\u044c\u0441\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Slagelse"
+    ],
+    "name:spa_x_preferred":[
+        "Slagelse"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0433\u0435\u043b\u0441\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slagelse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0433\u0435\u043b\u044c\u0441\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Slagelse"
+    ],
+    "name:vol_x_preferred":[
         "Slagelse"
     ],
     "src:geom":"dk-geodk",
@@ -69,7 +162,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562797392,
+    "wof:lastmodified":1564128616,
     "wof:name":"Slagelse",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

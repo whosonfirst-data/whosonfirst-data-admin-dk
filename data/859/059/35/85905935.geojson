@@ -24,7 +24,13 @@
     "mz:min_zoom":20.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Gyldenl\u00f8vesgade"
+    ],
     "name:eng_x_variant":[
+        "Gyldenl\u00f8vesgade"
+    ],
+    "name:nor_x_preferred":[
         "Gyldenl\u00f8vesgade"
     ],
     "name:unk_x_variant":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":85905935,
-    "wof:lastmodified":1530296539,
+    "wof:lastmodified":1564128147,
     "wof:name":"Gyldenl\u00f8vesgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

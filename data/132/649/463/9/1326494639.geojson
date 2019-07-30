@@ -26,6 +26,21 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Farris"
+    ],
+    "name:epo_x_preferred":[
+        "Farris"
+    ],
+    "name:nno_x_preferred":[
+        "Farris"
+    ],
+    "name:nor_x_preferred":[
+        "Farris"
+    ],
+    "name:swe_x_preferred":[
+        "Farris"
+    ],
     "name:und_x_variant":[
         "Farris Stationsby",
         "Farris"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326494639,
-    "wof:lastmodified":1562794303,
+    "wof:lastmodified":1564127994,
     "wof:name":"Farris",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

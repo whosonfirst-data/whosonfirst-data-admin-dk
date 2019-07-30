@@ -26,6 +26,36 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grindsted"
+    ],
+    "name:dan_x_preferred":[
+        "Grindsted"
+    ],
+    "name:deu_x_preferred":[
+        "Grindsted"
+    ],
+    "name:fra_x_preferred":[
+        "Grindsted"
+    ],
+    "name:msa_x_preferred":[
+        "Grindsted"
+    ],
+    "name:nor_x_preferred":[
+        "Grindsted"
+    ],
+    "name:pol_x_preferred":[
+        "Grindsted"
+    ],
+    "name:ron_x_preferred":[
+        "Grindsted"
+    ],
+    "name:spa_x_preferred":[
+        "Grindsted"
+    ],
+    "name:swe_x_preferred":[
+        "Grindsted"
+    ],
     "name:und_x_variant":[
         "Grinsted",
         "Grindsted"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1293746169,
-    "wof:lastmodified":1537619870,
+    "wof:lastmodified":1564128239,
     "wof:name":"Grindsted",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

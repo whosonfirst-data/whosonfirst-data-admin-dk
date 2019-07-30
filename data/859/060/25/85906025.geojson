@@ -27,11 +27,17 @@
     "name:dan_x_preferred":[
         "Sankt Peders Str\u00e6de"
     ],
+    "name:dan_x_variant":[
+        "Larsbj\u00f8rnsstr\u00e6de"
+    ],
     "name:eng_x_variant":[
         "Larsbj\u00f8rnsstr\u00e6de"
     ],
     "name:nor_x_preferred":[
         "Sankt Peders Str\u00e6de"
+    ],
+    "name:nor_x_variant":[
+        "Larsbj\u00f8rnsstr\u00e6de"
     ],
     "name:unk_x_variant":[
         "Larsbj\u00f8rnsstr\u00e6de"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":85906025,
-    "wof:lastmodified":1530296556,
+    "wof:lastmodified":1564128160,
     "wof:name":"Larsbj\u00f8rnsstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

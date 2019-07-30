@@ -24,7 +24,13 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Bernstorffsgade"
+    ],
     "name:eng_x_variant":[
+        "Bernstorffsgade"
+    ],
+    "name:nor_x_preferred":[
         "Bernstorffsgade"
     ],
     "name:unk_x_variant":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":85905833,
-    "wof:lastmodified":1530296519,
+    "wof:lastmodified":1564128153,
     "wof:name":"Bernstorffsgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

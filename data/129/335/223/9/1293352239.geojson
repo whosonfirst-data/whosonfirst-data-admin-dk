@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Eskilstrup"
+    ],
+    "name:nld_x_preferred":[
+        "Eskilstrup"
+    ],
+    "name:spa_x_preferred":[
+        "Eskilstrup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293352239,
-    "wof:lastmodified":1562795247,
+    "wof:lastmodified":1564128214,
     "wof:name":"Eskilstrup",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

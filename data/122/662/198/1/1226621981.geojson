@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Bjerre"
+    ],
     "name:und_x_variant":[
         "Bj\u00e6rge",
         "Bjerge",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226621981,
-    "wof:lastmodified":1562796635,
+    "wof:lastmodified":1564129301,
     "wof:name":"Bjerre",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

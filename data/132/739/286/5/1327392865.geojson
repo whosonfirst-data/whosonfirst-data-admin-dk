@@ -26,6 +26,39 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Aller"
+    ],
+    "name:ceb_x_preferred":[
+        "Aller"
+    ],
+    "name:dan_x_preferred":[
+        "Aller"
+    ],
+    "name:deu_x_preferred":[
+        "Aller"
+    ],
+    "name:fra_x_preferred":[
+        "Aller"
+    ],
+    "name:ita_x_preferred":[
+        "Aller"
+    ],
+    "name:nld_x_preferred":[
+        "Aller"
+    ],
+    "name:pol_x_preferred":[
+        "Aller"
+    ],
+    "name:ron_x_preferred":[
+        "Aller"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043b\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Aller"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1327392865,
-    "wof:lastmodified":1562795322,
+    "wof:lastmodified":1564127939,
     "wof:name":"Aller",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u767d"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc31"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226201385,
-    "wof:lastmodified":1562794232,
+    "wof:lastmodified":1564129234,
     "wof:name":"Baek",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

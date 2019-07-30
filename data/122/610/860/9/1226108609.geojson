@@ -26,6 +26,75 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Thise"
+    ],
+    "name:ceb_x_preferred":[
+        "Thise"
+    ],
+    "name:dan_x_preferred":[
+        "Thise"
+    ],
+    "name:deu_x_preferred":[
+        "Thise"
+    ],
+    "name:eus_x_preferred":[
+        "Thise"
+    ],
+    "name:fra_x_preferred":[
+        "Thise"
+    ],
+    "name:hun_x_preferred":[
+        "Thise"
+    ],
+    "name:ita_x_preferred":[
+        "Thise"
+    ],
+    "name:lat_x_preferred":[
+        "Thise"
+    ],
+    "name:msa_x_preferred":[
+        "Thise"
+    ],
+    "name:nld_x_preferred":[
+        "Thise"
+    ],
+    "name:oci_x_preferred":[
+        "Thise"
+    ],
+    "name:pms_x_preferred":[
+        "Thise"
+    ],
+    "name:pol_x_preferred":[
+        "Thise"
+    ],
+    "name:por_x_preferred":[
+        "Thise"
+    ],
+    "name:slk_x_preferred":[
+        "Thise"
+    ],
+    "name:spa_x_preferred":[
+        "Thise"
+    ],
+    "name:swe_x_preferred":[
+        "Thise"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0456\u0437"
+    ],
+    "name:uzb_x_preferred":[
+        "Thise"
+    ],
+    "name:vie_x_preferred":[
+        "Thise"
+    ],
+    "name:vol_x_preferred":[
+        "Thise"
+    ],
+    "name:war_x_preferred":[
+        "Thise"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +118,7 @@
         }
     ],
     "wof:id":1226108609,
-    "wof:lastmodified":1562796576,
+    "wof:lastmodified":1564129218,
     "wof:name":"Thise",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

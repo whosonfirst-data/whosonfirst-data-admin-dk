@@ -26,6 +26,51 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Terp"
+    ],
+    "name:dan_x_preferred":[
+        "V\u00e6rft"
+    ],
+    "name:deu_x_preferred":[
+        "Warft"
+    ],
+    "name:epo_x_preferred":[
+        "Rifu\u011dmonteto"
+    ],
+    "name:fra_x_preferred":[
+        "Terp"
+    ],
+    "name:frr_x_preferred":[
+        "Werew"
+    ],
+    "name:fry_x_preferred":[
+        "Terp"
+    ],
+    "name:lim_x_preferred":[
+        "Terp"
+    ],
+    "name:lit_x_preferred":[
+        "Terpai"
+    ],
+    "name:nds_x_preferred":[
+        "Warft"
+    ],
+    "name:nld_x_preferred":[
+        "Terp"
+    ],
+    "name:nor_x_preferred":[
+        "Verft"
+    ],
+    "name:pol_x_preferred":[
+        "Terp"
+    ],
+    "name:swe_x_preferred":[
+        "Terp"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e15\u0e23\u0e4c\u0e1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1293455905,
-    "wof:lastmodified":1562796646,
+    "wof:lastmodified":1564128235,
     "wof:name":"Terp",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

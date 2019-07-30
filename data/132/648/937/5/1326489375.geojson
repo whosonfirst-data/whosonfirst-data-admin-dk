@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nolde"
+    ],
+    "name:fra_x_preferred":[
+        "Nolde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043b\u044c\u0434\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u043b\u044c\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1326489375,
-    "wof:lastmodified":1562794771,
+    "wof:lastmodified":1564128008,
     "wof:name":"Nolde",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

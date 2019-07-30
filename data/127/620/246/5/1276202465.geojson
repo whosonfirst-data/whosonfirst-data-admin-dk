@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Raadvad"
+    ],
     "name:und_x_variant":[
         "Raadvaddam",
         "R\u00e5dvaddam",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276202465,
-    "wof:lastmodified":1537619825,
+    "wof:lastmodified":1564128275,
     "wof:name":"Raadvad",
     "wof:parent_id":1159297723,
     "wof:placetype":"locality",

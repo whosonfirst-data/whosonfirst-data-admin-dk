@@ -26,14 +26,26 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Rudbjerg Kommune"
+    ],
     "name:dan_x_preferred":[
         "Rudbjerg"
+    ],
+    "name:dan_x_variant":[
+        "Rudbjerg Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Rudbjerg Kommune"
     ],
     "name:eng_x_preferred":[
         "Rudbjerg"
     ],
     "name:fao_x_preferred":[
         "Rudbjerg"
+    ],
+    "name:fao_x_variant":[
+        "Rudbjerg kommuna"
     ],
     "name:ita_x_preferred":[
         "Rudbjerg"
@@ -44,14 +56,23 @@
     "name:nor_x_preferred":[
         "Rudbjerg"
     ],
+    "name:nor_x_variant":[
+        "Rudbjerg kommune"
+    ],
     "name:pol_x_preferred":[
         "Gmina Rudbjerg"
     ],
     "name:por_x_preferred":[
         "Rudbjerg"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Rudbjerg"
+    ],
     "name:swe_x_preferred":[
         "Rudbjerg"
+    ],
+    "name:swe_x_variant":[
+        "Rudbjergs kommun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +98,7 @@
         }
     ],
     "wof:id":1327004453,
-    "wof:lastmodified":1562795034,
+    "wof:lastmodified":1564127959,
     "wof:name":"Rudbjerg",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

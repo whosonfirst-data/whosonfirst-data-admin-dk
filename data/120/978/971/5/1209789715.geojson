@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Anderup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209789715,
-    "wof:lastmodified":1562795313,
+    "wof:lastmodified":1564128397,
     "wof:name":"Anderup",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

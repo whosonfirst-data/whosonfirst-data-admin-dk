@@ -26,6 +26,15 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lysg\u00e5rd"
+    ],
+    "name:dan_x_preferred":[
+        "Lysg\u00e5rd"
+    ],
+    "name:swe_x_preferred":[
+        "Lysg\u00e5rd"
+    ],
     "name:und_x_variant":[
         "Lysgaard",
         "Lysg\u00e5rd"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226208653,
-    "wof:lastmodified":1562795362,
+    "wof:lastmodified":1564129235,
     "wof:name":"Lysgard",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

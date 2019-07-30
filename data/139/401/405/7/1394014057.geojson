@@ -38,10 +38,16 @@
     "mps:longitude":12.646375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dragor"
+    ],
     "name:dan_x_preferred":[
         "Drag\u00f8r"
     ],
     "name:eng_x_preferred":[
+        "Dragor"
+    ],
+    "name:swe_x_preferred":[
         "Dragor"
     ],
     "src:geom":"dk-geodk",
@@ -69,7 +75,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798611,
+    "wof:lastmodified":1564128707,
     "wof:name":"Dragor",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

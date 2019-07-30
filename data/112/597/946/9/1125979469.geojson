@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Pederstrup"
+    ],
+    "name:nor_x_preferred":[
+        "Pederstrup"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125979469,
-    "wof:lastmodified":1562796283,
+    "wof:lastmodified":1564128891,
     "wof:name":"Pederstrup",
     "wof:parent_id":1394014129,
     "wof:placetype":"locality",

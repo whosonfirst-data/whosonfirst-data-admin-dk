@@ -26,6 +26,18 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ollerup"
+    ],
+    "name:nld_x_preferred":[
+        "Ollerup"
+    ],
+    "name:spa_x_preferred":[
+        "Ollerup"
+    ],
+    "name:swe_x_preferred":[
+        "Ollerup"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209880925,
-    "wof:lastmodified":1562796920,
+    "wof:lastmodified":1564128452,
     "wof:name":"Ollerup",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Vive"
+    ],
+    "name:spa_x_preferred":[
+        "Vive"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1125837267,
-    "wof:lastmodified":1562795582,
+    "wof:lastmodified":1564128970,
     "wof:name":"Vive",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

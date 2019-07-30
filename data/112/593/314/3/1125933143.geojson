@@ -30,6 +30,9 @@
     "name:fao_x_preferred":[
         "Gudme"
     ],
+    "name:fra_x_preferred":[
+        "Gudme"
+    ],
     "name:ita_x_preferred":[
         "Gudme"
     ],
@@ -43,6 +46,9 @@
         "Gmina Gudme"
     ],
     "name:por_x_preferred":[
+        "Gudme"
+    ],
+    "name:spa_x_preferred":[
         "Gudme"
     ],
     "name:swe_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125933143,
-    "wof:lastmodified":1562795836,
+    "wof:lastmodified":1564128809,
     "wof:name":"Gudme",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

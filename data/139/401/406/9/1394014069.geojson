@@ -38,11 +38,74 @@
     "mps:longitude":10.385656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aero"
+    ],
+    "name:ces_x_preferred":[
+        "Aero"
+    ],
     "name:dan_x_preferred":[
         "\u00c6r\u00f8"
     ],
+    "name:dan_x_variant":[
+        "Aero"
+    ],
+    "name:deu_x_preferred":[
+        "Aero"
+    ],
     "name:eng_x_preferred":[
         "Aero"
+    ],
+    "name:est_x_preferred":[
+        "Aero"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0626\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Aero"
+    ],
+    "name:fra_x_preferred":[
+        "Aero"
+    ],
+    "name:hun_x_preferred":[
+        "Aero"
+    ],
+    "name:ita_x_preferred":[
+        "Aero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a2\u30ed"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u044d\u0440\u043e"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u044d\u0440\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc5b4\ub85c"
+    ],
+    "name:nld_x_preferred":[
+        "Aero"
+    ],
+    "name:pol_x_preferred":[
+        "Aero"
+    ],
+    "name:por_x_preferred":[
+        "Aero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Aero"
+    ],
+    "name:swe_x_preferred":[
+        "Aero"
+    ],
+    "name:uzb_x_preferred":[
+        "Aero..."
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
@@ -71,7 +134,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798689,
+    "wof:lastmodified":1564128667,
     "wof:name":"Aero",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

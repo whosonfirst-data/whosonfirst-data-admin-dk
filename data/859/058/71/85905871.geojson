@@ -24,6 +24,9 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:dan_x_preferred":[
+        "Dannebrogsgade"
+    ],
     "name:eng_x_variant":[
         "Dannebrogsgade"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905871,
-    "wof:lastmodified":1530296526,
+    "wof:lastmodified":1564128156,
     "wof:name":"Dannebrogsgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

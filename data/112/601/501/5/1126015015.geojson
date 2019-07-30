@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Aved\u00f8re"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126015015,
-    "wof:lastmodified":1562796664,
+    "wof:lastmodified":1564128927,
     "wof:name":"Aved\u00f8re",
     "wof:parent_id":1394014025,
     "wof:placetype":"locality",

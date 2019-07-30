@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Ravnsn\u00e6s"
+    ],
+    "name:spa_x_preferred":[
+        "Ravnsn\u00e6s"
+    ],
     "name:und_x_variant":[
         "Ravnsn\u00e6s"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310077083,
-    "wof:lastmodified":1562795693,
+    "wof:lastmodified":1564128541,
     "wof:name":"Ravnsnaes",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

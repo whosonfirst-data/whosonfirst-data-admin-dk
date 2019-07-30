@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "J\u00e6gersborg"
+    ],
+    "name:swe_x_preferred":[
+        "J\u00e6gersborg"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1126058955,
-    "wof:lastmodified":1562797132,
+    "wof:lastmodified":1564128829,
     "wof:name":"J\u00e6gersborg",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

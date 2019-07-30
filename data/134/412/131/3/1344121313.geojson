@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Stepping"
+    ],
+    "name:ita_x_preferred":[
+        "Stepping"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344121313,
-    "wof:lastmodified":1562795330,
+    "wof:lastmodified":1564128067,
     "wof:name":"Stepping",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

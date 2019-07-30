@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vinum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260256567,
-    "wof:lastmodified":1562796020,
+    "wof:lastmodified":1564128499,
     "wof:name":"Vinum",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

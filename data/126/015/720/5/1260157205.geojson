@@ -26,6 +26,9 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Rutsker"
+    ],
     "name:und_x_variant":[
         "Ruth",
         "Rutskirke",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260157205,
-    "wof:lastmodified":1562794702,
+    "wof:lastmodified":1564128492,
     "wof:name":"Rutsker",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

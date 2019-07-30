@@ -38,11 +38,149 @@
     "mps:longitude":11.277346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ang_x_preferred":[
+        "L\u00e6land"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0644\u0627\u0646\u062f"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u043b\u0430\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Lolland"
+    ],
+    "name:bre_x_preferred":[
+        "Lolland"
+    ],
+    "name:cat_x_preferred":[
+        "Lolland"
+    ],
+    "name:ceb_x_preferred":[
+        "Lolland"
+    ],
+    "name:ces_x_preferred":[
+        "Lolland"
+    ],
+    "name:cym_x_preferred":[
+        "Lolland"
+    ],
     "name:dan_x_preferred":[
         "Lolland"
     ],
+    "name:deu_x_preferred":[
+        "Lolland"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bb\u03bb\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Lolland"
+    ],
+    "name:epo_x_preferred":[
+        "Lolland"
+    ],
+    "name:est_x_preferred":[
+        "Lolland"
+    ],
+    "name:eus_x_preferred":[
+        "Lolland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Lolland"
+    ],
+    "name:fra_x_preferred":[
+        "Lolland"
+    ],
+    "name:glg_x_preferred":[
+        "Lolland"
+    ],
+    "name:hrv_x_preferred":[
+        "Lolland"
+    ],
+    "name:hun_x_preferred":[
+        "Lolland"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u056c\u056c\u0561\u0576\u0564"
+    ],
+    "name:ile_x_preferred":[
+        "Lolland"
+    ],
+    "name:ind_x_preferred":[
+        "Lolland"
+    ],
+    "name:isl_x_preferred":[
+        "L\u00e1land"
+    ],
+    "name:ita_x_preferred":[
+        "Lolland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30e9\u30f3\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub864\ub780\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Lalandia"
+    ],
+    "name:lit_x_preferred":[
+        "Lolandas"
+    ],
+    "name:lmo_x_preferred":[
+        "Lolland"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u043b\u0430\u043d\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Lolland"
+    ],
+    "name:nno_x_preferred":[
+        "Lolland"
+    ],
+    "name:nor_x_preferred":[
+        "Lolland"
+    ],
+    "name:pol_x_preferred":[
+        "Lolland"
+    ],
+    "name:por_x_preferred":[
+        "Lolland"
+    ],
+    "name:ron_x_preferred":[
+        "Lolland"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043b\u043b\u0430\u043d\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Lolland"
+    ],
+    "name:spa_x_preferred":[
+        "Lolandia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043b\u0430\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Lolland"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043b\u043b\u0430\u043d\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Lolland"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u5170\u5c9b"
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
@@ -69,7 +207,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562797447,
+    "wof:lastmodified":1564128620,
     "wof:name":"Lolland",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

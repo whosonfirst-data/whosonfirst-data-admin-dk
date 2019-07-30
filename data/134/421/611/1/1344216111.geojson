@@ -26,6 +26,60 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Langholm"
+    ],
+    "name:cym_x_preferred":[
+        "Langholm"
+    ],
+    "name:dan_x_preferred":[
+        "Langholm"
+    ],
+    "name:deu_x_preferred":[
+        "Langholm"
+    ],
+    "name:epo_x_preferred":[
+        "Langholm"
+    ],
+    "name:eus_x_preferred":[
+        "Langholm"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06af\u0647\u0648\u0644\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Langholm"
+    ],
+    "name:gla_x_preferred":[
+        "Langaim"
+    ],
+    "name:gle_x_preferred":[
+        "Langaim"
+    ],
+    "name:ita_x_preferred":[
+        "Langholm"
+    ],
+    "name:nno_x_preferred":[
+        "Langholm"
+    ],
+    "name:nor_x_preferred":[
+        "Langholm"
+    ],
+    "name:pol_x_preferred":[
+        "Langholm"
+    ],
+    "name:por_x_preferred":[
+        "Langholm"
+    ],
+    "name:sco_x_preferred":[
+        "Langholm"
+    ],
+    "name:spa_x_preferred":[
+        "Langholm"
+    ],
+    "name:swe_x_preferred":[
+        "Langholm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +105,7 @@
         }
     ],
     "wof:id":1344216111,
-    "wof:lastmodified":1562794913,
+    "wof:lastmodified":1564128100,
     "wof:name":"Langholm",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

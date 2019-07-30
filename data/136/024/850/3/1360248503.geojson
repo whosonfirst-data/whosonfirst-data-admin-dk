@@ -26,6 +26,12 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Sandbjerg Gods"
+    ],
+    "name:deu_x_preferred":[
+        "Schloss Sandbjerg"
+    ],
     "name:und_x_variant":[
         "Sandbj\u00e6rg",
         "Sandbjerg"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1360248503,
-    "wof:lastmodified":1562795692,
+    "wof:lastmodified":1564128591,
     "wof:name":"Sandbjerg",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

@@ -26,23 +26,83 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041e\u0434\u044d\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Municipi d'Odder"
+    ],
+    "name:ceb_x_preferred":[
+        "Odder Kommune"
+    ],
+    "name:ces_x_preferred":[
+        "Odder Kommune"
+    ],
     "name:dan_x_preferred":[
         "Odder"
     ],
+    "name:dan_x_variant":[
+        "Odder Kommune"
+    ],
+    "name:deu_x_preferred":[
+        "Odder Kommune"
+    ],
     "name:eng_x_preferred":[
+        "Odder"
+    ],
+    "name:epo_x_preferred":[
         "Odder"
     ],
     "name:fao_x_preferred":[
         "Odder"
     ],
+    "name:fao_x_variant":[
+        "Odder kommuna"
+    ],
+    "name:fin_x_preferred":[
+        "Odderin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Odder"
+    ],
+    "name:frr_x_preferred":[
+        "Odder Komuun"
+    ],
+    "name:fry_x_preferred":[
+        "Odder"
+    ],
+    "name:hrv_x_preferred":[
+        "Odder"
+    ],
+    "name:hun_x_preferred":[
+        "Odder k\u00f6zs\u00e9g"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Odder"
+    ],
     "name:ita_x_preferred":[
         "Odder"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub370\ub974 \uc2dc"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Odder"
     ],
     "name:nld_x_preferred":[
         "Odder"
     ],
+    "name:nno_x_preferred":[
+        "Odder kommune"
+    ],
     "name:nor_x_preferred":[
         "Odder"
+    ],
+    "name:nor_x_variant":[
+        "Odder kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Odder"
     ],
     "name:por_x_preferred":[
         "Odder"
@@ -50,11 +110,26 @@
     "name:ron_x_preferred":[
         "Odder"
     ],
+    "name:ron_x_variant":[
+        "Comuna Odder"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0434\u0434\u0435\u0440"
     ],
+    "name:sme_x_preferred":[
+        "Odder"
+    ],
+    "name:spa_x_preferred":[
+        "Odder"
+    ],
     "name:swe_x_preferred":[
         "Odder"
+    ],
+    "name:swe_x_variant":[
+        "Odders kommun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6fa4\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +156,7 @@
         }
     ],
     "wof:id":1260248203,
-    "wof:lastmodified":1562795276,
+    "wof:lastmodified":1564128485,
     "wof:name":"Odder",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",
