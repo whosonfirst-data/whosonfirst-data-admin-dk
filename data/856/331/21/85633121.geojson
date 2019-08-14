@@ -14,6 +14,9 @@
     "itu:country_code":[
         "45"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DK"
+    ],
     "lbl:latitude":55.966966,
     "lbl:longitude":9.018163,
     "mps:latitude":55.966966,
@@ -1138,9 +1141,6 @@
         }
     ],
     "wof:id":85633121,
-    "wof:lang":[
-        "dan"
-    ],
     "wof:lang_x_official":[
         "dan"
     ],
@@ -1149,7 +1149,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1563318884,
+    "wof:lastmodified":1565672889,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

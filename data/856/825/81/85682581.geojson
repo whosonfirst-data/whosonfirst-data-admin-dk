@@ -22,6 +22,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HS"
+    ],
     "lbl:latitude":55.921416,
     "lbl:longitude":12.31882,
     "mps:latitude":55.921416,
@@ -377,7 +380,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1563318896,
+    "wof:lastmodified":1565672894,
     "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

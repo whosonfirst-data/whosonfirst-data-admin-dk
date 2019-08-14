@@ -22,6 +22,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ND"
+    ],
     "lbl:latitude":57.301432,
     "lbl:longitude":10.188448,
     "mps:latitude":57.301432,
@@ -375,7 +378,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1563318892,
+    "wof:lastmodified":1565672893,
     "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

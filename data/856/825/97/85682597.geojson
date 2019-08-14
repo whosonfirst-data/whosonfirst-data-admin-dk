@@ -22,6 +22,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MJ"
+    ],
     "lbl:latitude":56.194412,
     "lbl:longitude":9.622835,
     "mps:latitude":56.194412,
@@ -414,7 +417,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1563318896,
+    "wof:lastmodified":1565672894,
     "wof:name":"Central Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
