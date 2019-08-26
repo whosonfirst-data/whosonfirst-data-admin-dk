@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.68107,
     "lbl:longitude":12.576127,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.680799,
     "mps:longitude":12.575693,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Peder Hvitfeldts Str\u00e6de"
     ],
     "name:nor_x_preferred":[
-        "Peder Hvitfeldts Str\u00e6de"
-    ],
-    "name:unk_x_variant":[
         "Peder Hvitfeldts Str\u00e6de"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -63,7 +61,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -90,7 +88,7 @@
         }
     ],
     "wof:id":85906105,
-    "wof:lastmodified":1564128142,
+    "wof:lastmodified":1566721556,
     "wof:name":"Peder Hvitfeldts Str\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

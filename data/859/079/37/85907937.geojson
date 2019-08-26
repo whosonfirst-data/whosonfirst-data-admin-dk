@@ -11,8 +11,10 @@
     "geom:longitude":10.495404,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"10.490404,55.337108,10.500404,55.347108",
     "lbl:latitude":55.342108,
     "lbl:longitude":10.495404,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.37375,
     "mps:longitude":10.475723,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Odense South East"
-    ],
-    "name:unk_x_variant":[
-        "Odense SO"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1394014029,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875625,
-        "qs:id":467164,
         "qs_pg:id":467164
     },
     "wof:country":"DK",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795767,
+    "wof:lastmodified":1566721551,
     "wof:name":"Odense SO",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

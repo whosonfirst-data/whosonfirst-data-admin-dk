@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.25715,
     "lbl:longitude":12.025929,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.25715,
     "mps:longitude":12.025929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00f8nnede"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":2614547,
         "gp:id":556706,
-        "qs:id":898507,
         "qs_pg:id":898507,
         "wd:id":"Q939817",
         "wk:page":"R\u00f8nnede"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101818265,
-    "wof:lastmodified":1563319404,
+    "wof:lastmodified":1566721978,
     "wof:name":"R\u00f8nnede",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

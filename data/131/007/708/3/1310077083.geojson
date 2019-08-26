@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.43575,55.84279,12.47575,55.88279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Ravnsn\u00e6s"
     ],
     "name:spa_x_preferred":[
-        "Ravnsn\u00e6s"
-    ],
-    "name:und_x_variant":[
         "Ravnsn\u00e6s"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1310077083,
-    "wof:lastmodified":1564128541,
+    "wof:lastmodified":1566721752,
     "wof:name":"Ravnsnaes",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

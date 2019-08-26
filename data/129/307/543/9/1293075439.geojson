@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.47878,55.53723,11.51878,55.57723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nidl\u00f8se",
         "Nil\u00f8se"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293075439,
-    "wof:lastmodified":1562797000,
+    "wof:lastmodified":1566721583,
     "wof:name":"Nilose",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

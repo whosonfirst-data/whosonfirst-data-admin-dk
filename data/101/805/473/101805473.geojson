@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.824555,
     "lbl:longitude":9.356399,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.824555,
     "mps:longitude":9.356399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0431\u043e\u0440\u0433"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.825,
     "wd:longitude":9.3522,
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2615242,
         "gp:id":556392,
-        "qs:id":1063434,
         "qs_pg:id":1063434,
         "wd:id":"Q707345",
         "wk:page":"Padborg"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101805473,
-    "wof:lastmodified":1562794764,
+    "wof:lastmodified":1566721996,
     "wof:name":"Padborg",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

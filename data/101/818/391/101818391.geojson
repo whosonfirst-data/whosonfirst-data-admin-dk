@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.414104,
     "lbl:longitude":11.566885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.414104,
     "mps:longitude":11.566885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Frederiksberg"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.6775,
     "wd:longitude":12.536389,
@@ -66,9 +69,11 @@
     "wof:concordances":{
         "gn:id":2621945,
         "gp:id":553306,
-        "qs:id":1176060,
         "qs_pg:id":470670,
         "wd:id":"Q5509820"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1176060
     },
     "wof:country":"DK",
     "wof:geomhash":"1a30cd6e6dff46387ba0d90ce301a9c2",
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101818391,
-    "wof:lastmodified":1563319366,
+    "wof:lastmodified":1566721969,
     "wof:name":"Frederiksberg",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":55.736774,
     "geom:longitude":12.509712,
     "iso:country":"DK",
+    "lbl:bbox":"12.504712,55.731774,12.514712,55.741774",
     "lbl:latitude":55.736774,
     "lbl:longitude":12.509712,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.74716,
     "mps:longitude":12.525314,
     "mz:hierarchy_label":0,
@@ -67,9 +69,6 @@
     "name:swe_x_preferred":[
         "S\u00f8borg"
     ],
-    "name:unk_x_variant":[
-        "S\u00f8borg"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2621395,
@@ -99,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -112,7 +111,6 @@
     "wof:concordances":{
         "gn:id":2613205,
         "gp:id":557272,
-        "qs:id":899626,
         "qs_pg:id":899626,
         "wd:id":"Q594807"
     },
@@ -132,7 +130,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318903,
+    "wof:lastmodified":1566721582,
     "wof:name":"S\u00f8borg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

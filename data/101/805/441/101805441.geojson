@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.427206,
     "lbl:longitude":9.288126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.427206,
     "mps:longitude":9.288126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vamdrup"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2610760,
         "gp:id":558466,
-        "qs:id":1312948,
         "qs_pg:id":1312948,
         "wd:id":"Q3547196",
         "wk:page":"Vamdrup"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101805441,
-    "wof:lastmodified":1563319446,
+    "wof:lastmodified":1566721988,
     "wof:name":"Vamdrup",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

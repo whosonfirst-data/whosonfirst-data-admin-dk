@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.56358,56.47688,9.60358,56.51688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Foulum"
     ],
@@ -36,8 +40,7 @@
         "Foulum"
     ],
     "name:und_x_variant":[
-        "Fovlum",
-        "Foulum"
+        "Fovlum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209277657,
-    "wof:lastmodified":1564128426,
+    "wof:lastmodified":1566721700,
     "wof:name":"Foulum",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

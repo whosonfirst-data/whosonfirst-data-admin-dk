@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.388889,
     "lbl:longitude":9.788151,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.388889,
     "mps:longitude":9.788151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0423\u043b\u0441\u0442\u0440\u0443\u043f"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Ulstrup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulstrupbro"
     ],
     "qs:a0":"Danmark",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":2610908,
         "gp:id":558413,
-        "qs:id":140570,
         "qs_pg:id":140570,
         "wd:id":"Q1942974"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101805663,
-    "wof:lastmodified":1563319488,
+    "wof:lastmodified":1566721997,
     "wof:name":"Ulstrup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

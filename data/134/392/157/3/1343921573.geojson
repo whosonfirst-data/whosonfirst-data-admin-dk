@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"14.82008,55.02568,14.86008,55.06568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "V\u00e6rmelandshuse"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343921573,
-    "wof:lastmodified":1562794691,
+    "wof:lastmodified":1566721529,
     "wof:name":"Vaermelandshuse",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

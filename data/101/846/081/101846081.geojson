@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.040436,
     "lbl:longitude":10.197396,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.040436,
     "mps:longitude":10.197396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malling"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":944,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2617114,
         "gp:id":555478,
-        "qs:id":472785,
         "qs_pg:id":472785,
         "wd:id":"Q1011688",
         "wk:page":"Malling, Denmark"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101846081,
-    "wof:lastmodified":1562794956,
+    "wof:lastmodified":1566722006,
     "wof:name":"Malling",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

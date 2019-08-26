@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.69667,55.04667,10.73667,55.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e6gaard",
         "M\u00e6g\u00e5rd"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209579983,
-    "wof:lastmodified":1562795843,
+    "wof:lastmodified":1566721690,
     "wof:name":"Maegard",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

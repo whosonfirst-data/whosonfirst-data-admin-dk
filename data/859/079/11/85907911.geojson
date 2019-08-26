@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38062792.915569,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.985856,57.045593,9.985856,57.045593",
     "geom:latitude":57.045593,
     "geom:longitude":9.985856,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"9.980856,57.040593,9.990856,57.050593",
     "lbl:latitude":57.045593,
     "lbl:longitude":9.985856,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.041003,
     "mps:longitude":9.984832,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Aalborg East"
-    ],
-    "name:unk_x_variant":[
-        "Aalborg O"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682593,
         102191581,
         1159297743,
-        85633121
+        85633121,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24867066,
-        "qs:id":1086069,
         "qs_pg:id":1086069
     },
     "wof:country":"DK",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936652,
+    "wof:lastmodified":1566721550,
     "wof:name":"Aalborg O",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

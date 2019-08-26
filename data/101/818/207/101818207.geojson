@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.437254,
     "lbl:longitude":10.313628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.437254,
     "mps:longitude":10.313628,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -44,7 +47,6 @@
     "wof:concordances":{
         "gn:id":2616052,
         "gp:id":555693,
-        "qs:id":1013838,
         "qs_pg:id":1013838
     },
     "wof:country":"DK",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":101818207,
-    "wof:lastmodified":1562795758,
+    "wof:lastmodified":1566721978,
     "wof:name":"N\u00e6sbyhoved-Broby",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

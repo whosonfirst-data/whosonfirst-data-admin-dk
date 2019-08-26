@@ -9,14 +9,18 @@
     "geom:bbox":"10.4213,55.07416,10.4213,55.07416",
     "geom:latitude":55.07416,
     "geom:longitude":10.4213,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"10.4013,55.05416,10.4413,55.09416",
     "lbl:latitude":55.07416,
     "lbl:longitude":10.4213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Ulb\u00f8lle"
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Ulb\u00f8lle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulleb\u00f6lle"
     ],
     "qs_pg:aaroncc":"DK",
@@ -49,7 +53,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":558381,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Syddanmark",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1125848927,
-    "wof:lastmodified":1564128958,
+    "wof:lastmodified":1566722118,
     "wof:name":"Ulb\u00f8lle",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

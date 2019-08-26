@@ -9,14 +9,18 @@
     "geom:bbox":"12.38522,56.09492,12.38522,56.09492",
     "geom:latitude":56.09492,
     "geom:longitude":12.38522,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"12.36522,56.07492,12.40522,56.11492",
     "lbl:latitude":56.09492,
     "lbl:longitude":12.38522,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Dronningm\u00f8lle"
@@ -34,9 +38,6 @@
         "Dronningm\u00f8lle"
     ],
     "name:swe_x_preferred":[
-        "Dronningm\u00f8lle"
-    ],
-    "name:unk_x_variant":[
         "Dronningm\u00f8lle"
     ],
     "qs_pg:aaroncc":"DK",
@@ -60,7 +61,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":552878,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Hovedstaden",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1125967647,
-    "wof:lastmodified":1562795873,
+    "wof:lastmodified":1566722087,
     "wof:name":"Dr\u00f8nningm\u00f8lle",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

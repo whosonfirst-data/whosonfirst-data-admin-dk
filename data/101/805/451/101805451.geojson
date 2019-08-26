@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.157598,
     "lbl:longitude":8.765688,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.157598,
     "mps:longitude":8.765688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sherrebek"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":291,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":2613539,
         "gp:id":556963,
-        "qs:id":140575,
+        "qs_pg:id":140575,
         "wd:id":"Q707307",
         "wk:page":"Sk\u00e6rb\u00e6k"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805451,
-    "wof:lastmodified":1563319488,
+    "wof:lastmodified":1566721998,
     "wof:name":"Sk\u00e6rb\u00e6k",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

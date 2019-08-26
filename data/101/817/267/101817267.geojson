@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.116011,
     "lbl:longitude":12.319737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.116011,
     "mps:longitude":12.319737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gilleleje"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Gilleleje"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gilleje"
     ],
     "qs:a0":"Danmark",
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1083,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":2621471,
         "gp:id":553518,
-        "qs:id":508186,
         "qs_pg:id":508186,
         "wd:id":"Q2687297",
         "wk:page":"Gilleleje"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101817267,
-    "wof:lastmodified":1563319425,
+    "wof:lastmodified":1566721983,
     "wof:name":"Gilleleje",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

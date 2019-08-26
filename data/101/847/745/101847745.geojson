@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.751147,
     "lbl:longitude":11.960165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.751147,
     "mps:longitude":11.960165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043a\u0438\u0431\u0439"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Skibby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skiby"
     ],
     "qs:a0":"Danmark",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.7531,
     "wd:longitude":11.9636,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2613766,
         "gp:id":557046,
-        "qs:id":1036697,
         "qs_pg:id":1036697,
         "wd:id":"Q12335622",
         "wk:page":"Skibby"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101847745,
-    "wof:lastmodified":1563319539,
+    "wof:lastmodified":1566722008,
     "wof:name":"Skibby",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

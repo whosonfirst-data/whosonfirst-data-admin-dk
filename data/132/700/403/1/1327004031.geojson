@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.41359,55.21853,9.45359,55.25853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327004031,
-    "wof:lastmodified":1562794243,
+    "wof:lastmodified":1566721469,
     "wof:name":"Fredsted",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":10.453511,
     "gn:population":4406,
     "iso:country":"DK",
+    "lbl:bbox":"10.433511,55.316018,10.473511,55.356018",
     "lbl:latitude":55.336018,
     "lbl:longitude":10.453511,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.336018,
     "mps:longitude":10.453511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "H\u00f8jby"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -67,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2619967,
         "gp:id":554170,
-        "qs:id":317302,
         "qs_pg:id":317302,
         "wd:id":"Q2634492"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101873019,
-    "wof:lastmodified":1563319420,
+    "wof:lastmodified":1566721982,
     "wof:name":"H\u00f8jby",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

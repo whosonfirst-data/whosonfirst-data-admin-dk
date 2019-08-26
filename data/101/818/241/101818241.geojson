@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.132875,
     "lbl:longitude":10.503653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.132875,
     "mps:longitude":10.503653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Stenstrup"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":2612594,
         "gp:id":557615,
-        "qs:id":182760,
         "qs_pg:id":182760
     },
     "wof:country":"DK",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":101818241,
-    "wof:lastmodified":1564128734,
+    "wof:lastmodified":1566721976,
     "wof:name":"Stenstrup",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.672652,
     "lbl:longitude":12.556829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.672747,
     "mps:longitude":12.556783,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "Bagerstr\u00e6de"
-    ],
-    "name:unk_x_variant":[
         "Bagerstr\u00e6de"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -57,7 +55,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -82,7 +80,7 @@
         }
     ],
     "wof:id":85905825,
-    "wof:lastmodified":1530296518,
+    "wof:lastmodified":1566721568,
     "wof:name":"Bagerstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

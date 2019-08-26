@@ -11,8 +11,10 @@
     "geom:longitude":10.339032,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"10.334032,55.399036,10.344032,55.409036",
     "lbl:latitude":55.404036,
     "lbl:longitude":10.339032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.393804,
     "mps:longitude":10.337559,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Odense West"
-    ],
-    "name:unk_x_variant":[
-        "Odense V"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1394014029,
         85633121,
         101749151,
-        136253045
+        136253045,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875627,
-        "qs:id":224817,
         "qs_pg:id":224817
     },
     "wof:country":"DK",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795768,
+    "wof:lastmodified":1566721551,
     "wof:name":"Odense V",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

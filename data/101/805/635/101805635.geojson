@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.616623,
     "lbl:longitude":9.500415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.616623,
     "mps:longitude":9.500415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "M\u00f8ldrup Kommune"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "M\u00f8ldrups kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00f6ldrup Stationsby"
     ],
     "qs:a0":"Danmark",
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014051,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2616821,
         "gp:id":555597,
-        "qs:id":235813,
         "qs_pg:id":235813,
         "wd:id":"Q953997",
         "wk:page":"M\u00f8ldrup Municipality"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101805635,
-    "wof:lastmodified":1563319456,
+    "wof:lastmodified":1566721990,
     "wof:name":"M\u00f8ldrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

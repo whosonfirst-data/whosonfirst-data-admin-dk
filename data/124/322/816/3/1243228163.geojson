@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.03906,55.13089,9.07906,55.17089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mandbj\u00e6rg",
         "Mandbjerg"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243228163,
-    "wof:lastmodified":1562796019,
+    "wof:lastmodified":1566722274,
     "wof:name":"Mandbjerg",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

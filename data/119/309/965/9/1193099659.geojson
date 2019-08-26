@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.99606,57.07216,9.03606,57.11216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kj\u00e6rup",
         "K\u00e6rup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193099659,
-    "wof:lastmodified":1562795434,
+    "wof:lastmodified":1566721713,
     "wof:name":"Kaerup",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

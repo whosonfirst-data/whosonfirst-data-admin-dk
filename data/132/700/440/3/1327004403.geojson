@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.29716,55.61679,11.33716,55.65679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sveb\u00f6lle",
         "Gammel Sveb\u00f8lle"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327004403,
-    "wof:lastmodified":1562794420,
+    "wof:lastmodified":1566721467,
     "wof:name":"Gammel Svebolle",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.72892,56.22009,10.76892,56.26009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holme"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1259358879,
-    "wof:lastmodified":1564129170,
+    "wof:lastmodified":1566722312,
     "wof:name":"Holme",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

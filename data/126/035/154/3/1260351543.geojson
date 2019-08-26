@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.78859,57.00477,8.82859,57.04477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043b\u043e\u045e"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1260351543,
-    "wof:lastmodified":1564128516,
+    "wof:lastmodified":1566721742,
     "wof:name":"Klov",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

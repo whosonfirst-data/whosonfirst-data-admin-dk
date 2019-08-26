@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.688923,
     "lbl:longitude":12.577769,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.688811,
     "mps:longitude":12.576712,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:swe_x_preferred":[
         "S\u00f8lvgade"
     ],
-    "name:unk_x_variant":[
-        "S\u00f8lvgade"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
     "qs:gn_local":2618425,
@@ -87,7 +85,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":657,
     "wof:belongsto":[
         102191581,
@@ -114,7 +112,7 @@
         }
     ],
     "wof:id":85906189,
-    "wof:lastmodified":1563318844,
+    "wof:lastmodified":1566721556,
     "wof:name":"S\u00f8lvgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

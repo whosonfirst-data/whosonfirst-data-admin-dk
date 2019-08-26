@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.2682,56.86268,9.3082,56.90268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Munke-Sj\u00f8rup",
         "Munksj\u00f8rup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243529587,
-    "wof:lastmodified":1537619838,
+    "wof:lastmodified":1566722253,
     "wof:name":"Munksjorup",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

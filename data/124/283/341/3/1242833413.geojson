@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.11332,55.23758,10.15332,55.27758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u52a0\u7f2a\u5c14\u666e"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242833413,
-    "wof:lastmodified":1564129117,
+    "wof:lastmodified":1566722289,
     "wof:name":"Gummerup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

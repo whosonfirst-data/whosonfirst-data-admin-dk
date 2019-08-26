@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.37104,55.83179,8.41104,55.87179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nordenaa",
         "Nordenge",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209277615,
-    "wof:lastmodified":1562796077,
+    "wof:lastmodified":1566721702,
     "wof:name":"Nordena",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

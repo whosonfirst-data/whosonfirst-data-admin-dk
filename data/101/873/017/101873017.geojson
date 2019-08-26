@@ -11,12 +11,16 @@
     "geom:longitude":9.890808,
     "gn:population":3132,
     "iso:country":"DK",
+    "lbl:bbox":"9.870808,54.924378,9.910808,54.964378",
     "lbl:latitude":54.944378,
     "lbl:longitude":9.890808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.944378,
     "mps:longitude":9.890808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Augustenborg"
     ],
@@ -241,7 +245,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17,
     "wof:belongsto":[
@@ -255,7 +259,6 @@
     "wof:concordances":{
         "gn:id":2624439,
         "gp:id":552130,
-        "qs:id":445844,
         "qs_pg:id":445844,
         "wd:id":"Q4821083"
     },
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":101873017,
-    "wof:lastmodified":1563319420,
+    "wof:lastmodified":1566721982,
     "wof:name":"Augustenborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

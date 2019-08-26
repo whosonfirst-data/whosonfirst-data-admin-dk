@@ -11,12 +11,16 @@
     "geom:longitude":9.432569,
     "gn:population":1975,
     "iso:country":"DK",
+    "lbl:bbox":"9.412569,55.071743,9.452569,55.111743",
     "lbl:latitude":55.091743,
     "lbl:longitude":9.432569,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.091743,
     "mps:longitude":9.432569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00f8jt Kirkeby"
     ],
@@ -32,7 +36,7 @@
     "name:swe_x_preferred":[
         "L\u00f8jt Kirkeby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loitkirkeby"
     ],
     "qs:a0":"Danmark",
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682575,
@@ -65,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2617450,
         "gp:id":555315,
-        "qs:id":23190,
         "qs_pg:id":23190,
         "wd:id":"Q1880927"
     },
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101873023,
-    "wof:lastmodified":1563319416,
+    "wof:lastmodified":1566721981,
     "wof:name":"L\u00f8jt Kirkeby",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

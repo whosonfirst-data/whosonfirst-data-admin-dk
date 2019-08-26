@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.489,56.92966,9.529,56.96966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aistrup",
         "Store Astrup",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259646149,
-    "wof:lastmodified":1537619804,
+    "wof:lastmodified":1566722303,
     "wof:name":"Store Ajstrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

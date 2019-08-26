@@ -13,8 +13,10 @@
     "gn:longitude":11.56934,
     "gn:population":3142,
     "iso:country":"DK",
+    "lbl:bbox":"12.53942,55.672926,12.54942,55.682926",
     "lbl:latitude":55.677926,
     "lbl:longitude":12.54442,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.677971,
     "mps:longitude":12.544469,
     "mz:hierarchy_label":0,
@@ -138,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0435\u0434\u0435\u0440\u0456\u043a\u0441\u0431\u0435\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Frederiksberg C"
-    ],
     "name:vie_x_preferred":[
         "Frederiksberg"
     ],
@@ -177,7 +176,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -190,7 +189,6 @@
     "wof:concordances":{
         "gn:id":2621945,
         "gp:id":24867069,
-        "qs:id":221221,
         "qs_pg:id":221221
     },
     "wof:country":"DK",
@@ -209,7 +207,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1564128137,
+    "wof:lastmodified":1566721552,
     "wof:name":"Frederiksberg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

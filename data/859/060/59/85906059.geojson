@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.678919,
     "lbl:longitude":12.579184,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.67898,
     "mps:longitude":12.579035,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Niels Hemmingsens Gade"
     ],
     "name:nor_x_preferred":[
-        "Niels Hemmingsens Gade"
-    ],
-    "name:unk_x_variant":[
         "Niels Hemmingsens Gade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -63,7 +61,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":85906059,
-    "wof:lastmodified":1564128157,
+    "wof:lastmodified":1566721568,
     "wof:name":"Niels Hemmingsens Gade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

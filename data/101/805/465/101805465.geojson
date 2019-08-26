@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.189399,
     "lbl:longitude":9.072779,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.189399,
     "mps:longitude":9.072779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "N\u00f8rre-Rangstrup Kommune"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682575,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2611565,
         "gp:id":558061,
-        "qs:id":901435,
         "qs_pg:id":901435
     },
     "wof:country":"DK",
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101805465,
-    "wof:lastmodified":1562795997,
+    "wof:lastmodified":1566721991,
     "wof:name":"Toftlund",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

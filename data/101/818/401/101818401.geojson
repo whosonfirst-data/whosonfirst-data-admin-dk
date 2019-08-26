@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.862576,
     "lbl:longitude":12.337212,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.862576,
     "mps:longitude":12.337212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Liller\u00f8d"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2617658,
         "gp:id":555257,
-        "qs:id":1059360,
         "qs_pg:id":1059360,
         "wd:id":"Q656234",
         "wk:page":"Liller\u00f8d"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101818401,
-    "wof:lastmodified":1563319379,
+    "wof:lastmodified":1566721972,
     "wof:name":"Liller\u00f8d",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

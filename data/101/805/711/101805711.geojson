@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.043921,
     "lbl:longitude":9.951817,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.043921,
     "mps:longitude":9.951817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Skanderborg"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.0458,
     "wd:longitude":9.92806,
@@ -138,10 +141,12 @@
     "wof:concordances":{
         "gn:id":2613887,
         "gp:id":556991,
-        "qs:id":474298,
-        "qs_pg:id":1079059,
+        "qs_pg:id":474298,
         "wd:id":"Q503379",
         "wk:page":"Skanderborg"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079059
     },
     "wof:country":"DK",
     "wof:geomhash":"b9fc5306b705a239878fedb3b39957f0",
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":101805711,
-    "wof:lastmodified":1563319501,
+    "wof:lastmodified":1566722000,
     "wof:name":"Skanderborg",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.268359,
     "lbl:longitude":9.725318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.268359,
     "mps:longitude":9.725318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "F\u00e5rvang"
     ],
@@ -220,7 +223,7 @@
     "name:tur_x_preferred":[
         "F\u00e5rvang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faarvang"
     ],
     "name:vec_x_preferred":[
@@ -263,7 +266,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014121,
@@ -274,7 +277,6 @@
     "wof:concordances":{
         "gn:id":2622291,
         "gp:id":553144,
-        "qs:id":182624,
         "qs_pg:id":182624,
         "wd:id":"Q1839780"
     },
@@ -290,7 +292,7 @@
         }
     ],
     "wof:id":101805645,
-    "wof:lastmodified":1562794514,
+    "wof:lastmodified":1566721988,
     "wof:name":"F\u00e5rvang",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

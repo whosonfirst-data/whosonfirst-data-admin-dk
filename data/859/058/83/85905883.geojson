@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.683473,
     "lbl:longitude":12.589506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.68371,
     "mps:longitude":12.589245,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Dronningens Tv\u00e6rgade"
     ],
     "name:nor_x_preferred":[
-        "Dronningens Tv\u00e6rgade"
-    ],
-    "name:unk_x_variant":[
         "Dronningens Tv\u00e6rgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -69,7 +67,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":370,
     "wof:belongsto":[
         102191581,
@@ -96,7 +94,7 @@
         }
     ],
     "wof:id":85905883,
-    "wof:lastmodified":1563318867,
+    "wof:lastmodified":1566721567,
     "wof:name":"Dronningens Tv\u00e6rgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

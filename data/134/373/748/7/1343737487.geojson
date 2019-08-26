@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.48689,56.90207,9.52689,56.94207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borup"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343737487,
-    "wof:lastmodified":1564128119,
+    "wof:lastmodified":1566721544,
     "wof:name":"Borup",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

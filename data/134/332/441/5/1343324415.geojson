@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.95936,56.70755,9.99936,56.74755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vraa",
         "Vr\u00e5"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343324415,
-    "wof:lastmodified":1562795616,
+    "wof:lastmodified":1566721531,
     "wof:name":"Vra",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

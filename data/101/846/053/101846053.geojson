@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.997081,
     "lbl:longitude":9.428539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.997081,
     "mps:longitude":9.428539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":2612167,
         "gp:id":557766,
-        "qs:id":927787
+        "qs_pg:id":927787
     },
     "wof:country":"DK",
     "wof:geomhash":"cb030f8079d020ebca68d94b5af505b5",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101846053,
-    "wof:lastmodified":1562794745,
+    "wof:lastmodified":1566722004,
     "wof:name":"Stubb\u00e6k",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

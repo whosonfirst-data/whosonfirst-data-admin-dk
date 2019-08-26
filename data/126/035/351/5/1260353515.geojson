@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.2618,54.99728,9.3018,55.03728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260353515,
-    "wof:lastmodified":1562794762,
+    "wof:lastmodified":1566721742,
     "wof:name":"Soderup",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

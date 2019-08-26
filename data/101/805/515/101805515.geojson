@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.942627,
     "lbl:longitude":8.869778,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.942627,
     "mps:longitude":8.869778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "T\u00f8nder"
     ],
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.942778,
     "wd:longitude":8.863889,
@@ -168,7 +171,6 @@
         "fct:id":"07c68762-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2611497,
         "gp:id":558107,
-        "qs:id":1079068,
         "qs_pg:id":1079068,
         "wd:id":"Q3223979",
         "wk:page":"T\u00f8nder"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319503,
+    "wof:lastmodified":1566722001,
     "wof:name":"T\u00f8nder",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

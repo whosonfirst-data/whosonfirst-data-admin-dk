@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.93218,55.44028,11.97218,55.48028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226019355,
-    "wof:lastmodified":1562797177,
+    "wof:lastmodified":1566722364,
     "wof:name":"Bogede",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

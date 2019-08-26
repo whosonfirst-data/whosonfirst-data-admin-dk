@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.481946,
     "lbl:longitude":9.017069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.481946,
     "mps:longitude":9.017069,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Br\u00f8rup Kommune"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":195,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2623321,
         "gp:id":552685,
-        "qs:id":1245644,
         "qs_pg:id":1245644,
         "wd:id":"Q995933",
         "wk:page":"Br\u00f8rup"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101805447,
-    "wof:lastmodified":1563319440,
+    "wof:lastmodified":1566721987,
     "wof:name":"Br\u00f8rup",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

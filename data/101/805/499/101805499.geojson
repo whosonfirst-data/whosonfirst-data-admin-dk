@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.469265,
     "lbl:longitude":8.699621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.469265,
     "mps:longitude":8.699621,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Bramming Kommune"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_variant":[
         "Bramming"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bramminge"
     ],
     "qs:a0":"Danmark",
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2623570,
         "gp:id":552562,
-        "qs:id":968205,
         "qs_pg:id":968205,
         "wd:id":"Q897597",
         "wk:page":"Bramming"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101805499,
-    "wof:lastmodified":1563319453,
+    "wof:lastmodified":1566721990,
     "wof:name":"Bramming",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

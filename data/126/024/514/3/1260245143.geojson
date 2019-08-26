@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.33777,56.38595,10.37777,56.42595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0644\u0642\u0629"
     ],
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":1260245143,
-    "wof:lastmodified":1564128489,
+    "wof:lastmodified":1566721729,
     "wof:name":"Ring",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

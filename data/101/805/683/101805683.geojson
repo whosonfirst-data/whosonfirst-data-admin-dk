@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.769481,
     "lbl:longitude":9.708408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.769481,
     "mps:longitude":9.708408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Hedensted"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":181,
     "wof:belongsto":[
@@ -106,10 +109,12 @@
     "wof:concordances":{
         "gn:id":2622478,
         "gp:id":553945,
-        "qs:id":1251838,
         "qs_pg:id":1165934,
         "wd:id":"Q3500912",
         "wk:page":"Hedensted"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1251838
     },
     "wof:country":"DK",
     "wof:geomhash":"fd8d16da0a0d47f40bc05cdfb48de6fd",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101805683,
-    "wof:lastmodified":1563319484,
+    "wof:lastmodified":1566721997,
     "wof:name":"Hedensted",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"10.01444,56.65586,10.01444,56.65586",
     "geom:latitude":56.65586,
     "geom:longitude":10.01444,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"9.99444,56.63586,10.03444,56.67586",
     "lbl:latitude":56.65586,
     "lbl:longitude":10.01444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Hou"
@@ -30,7 +34,7 @@
     "name:nld_x_preferred":[
         "Hou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hov"
     ],
     "qs_pg:aaroncc":"DK",
@@ -50,7 +54,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":554342,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Nordjylland",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1125933301,
-    "wof:lastmodified":1564128804,
+    "wof:lastmodified":1566722035,
     "wof:name":"Hou",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

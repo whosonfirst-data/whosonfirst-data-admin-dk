@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.6618,
     "lbl:longitude":11.409439,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.6618,
     "mps:longitude":11.409439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jyderup"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2619221,
         "gp:id":554578,
-        "qs:id":1231235,
         "qs_pg:id":1231235,
         "wd:id":"Q1769354",
         "wk:page":"Jyderup"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101818387,
-    "wof:lastmodified":1563319410,
+    "wof:lastmodified":1566721980,
     "wof:name":"Jyderup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.617277,
     "lbl:longitude":8.181243,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.617277,
     "mps:longitude":8.181243,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Thybor\u00f8n-Harbo\u00f8re Kommune"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Thybor\u00f8n-Harbo\u00f8re kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Harbo\u00f8r"
     ],
     "qs:a0":"Danmark",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2620767,
         "gp:id":553847,
-        "qs:id":1036731,
         "qs_pg:id":1036731
     },
     "wof:country":"DK",
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101805619,
-    "wof:lastmodified":1562796984,
+    "wof:lastmodified":1566721988,
     "wof:name":"Harbo\u00f8re",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

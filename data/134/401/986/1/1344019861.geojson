@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.77209,54.66259,11.81209,54.70259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Raagelund B\u00e6kkeskov",
         "R\u00e5gelunde B\u00e6kkeskov"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344019861,
-    "wof:lastmodified":1537619825,
+    "wof:lastmodified":1566721522,
     "wof:name":"Ragelunde Baekkeskov",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"DK",
     "lbl:latitude":56.269556,
     "lbl:longitude":8.99407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.269556,
     "mps:longitude":8.99407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Over Simmelkj\u00e6r"
     ],
     "qs:a0":"Danmark",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297725,
@@ -46,7 +49,9 @@
     "wof:concordances":{
         "gn:id":2614017,
         "gp:id":556920,
-        "qs:id":470684,
+        "qs_pg:id":470684
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":982942
     },
     "wof:country":"DK",
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":101912899,
-    "wof:lastmodified":1530290395,
+    "wof:lastmodified":1566722001,
     "wof:name":"Over Simmelk\u00e6r",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

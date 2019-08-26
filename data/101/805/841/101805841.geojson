@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.109962,
     "lbl:longitude":10.027717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.109962,
     "mps:longitude":10.027717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Vodskov"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2610095,
         "gp:id":558820,
-        "qs:id":238234,
         "qs_pg:id":238234,
         "wd:id":"Q2205752",
         "wk:page":"Vodskov"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101805841,
-    "wof:lastmodified":1563319474,
+    "wof:lastmodified":1566721995,
     "wof:name":"Vodskov",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

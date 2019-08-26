@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.266332,
     "lbl:longitude":9.902857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.266332,
     "mps:longitude":9.902857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Assens"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.266667,
     "wd:longitude":9.9,
@@ -110,7 +113,6 @@
         "fct:id":"07c4efa6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2624502,
         "gp:id":552089,
-        "qs:id":1079040,
         "qs_pg:id":1079040,
         "wd:id":"Q741067",
         "wk:page":"Assens, Denmark"
@@ -131,7 +133,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562796425,
+    "wof:lastmodified":1566721990,
     "wof:name":"Assens",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

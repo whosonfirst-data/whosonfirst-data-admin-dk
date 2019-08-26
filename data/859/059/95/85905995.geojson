@@ -13,6 +13,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.677588,
     "lbl:longitude":12.57982,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.677562,
     "mps:longitude":12.579848,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
         "Klosterg\u00e5rden"
     ],
     "name:eng_x_preferred":[
-        "Klosterg\u00e5rden"
-    ],
-    "name:unk_x_variant":[
         "Klosterg\u00e5rden"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -65,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":362,
     "wof:belongsto":[
         102191581,
@@ -77,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20229273,
-        "qs:id":1196437,
         "qs_pg:id":1196437,
         "wd:id":"Q20732213"
     },
@@ -97,7 +94,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318849,
+    "wof:lastmodified":1566721560,
     "wof:name":"Klosterg\u00e5rden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

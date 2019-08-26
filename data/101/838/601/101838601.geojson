@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.474088,
     "lbl:longitude":9.138198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.474088,
     "mps:longitude":9.138198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Vejen"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"07c50dd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2610634,
         "gp:id":558529,
-        "qs:id":1059512,
         "qs_pg:id":1059512,
         "wd:id":"Q1016313",
         "wk:page":"Vejen"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319546,
+    "wof:lastmodified":1566722010,
     "wof:name":"Vejen",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

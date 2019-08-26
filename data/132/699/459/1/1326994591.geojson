@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.55531,55.64461,8.59531,55.68461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sig"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1326994591,
-    "wof:lastmodified":1564128013,
+    "wof:lastmodified":1566721494,
     "wof:name":"Sig",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

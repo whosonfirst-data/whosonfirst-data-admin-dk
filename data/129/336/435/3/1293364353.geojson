@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.50084,55.54226,9.54084,55.58226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00f8svraa",
         "M\u00f8svr\u00e5"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293364353,
-    "wof:lastmodified":1562795324,
+    "wof:lastmodified":1566721585,
     "wof:name":"Mosvra",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

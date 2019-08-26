@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.0139,
     "lbl:longitude":12.115157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.0139,
     "mps:longitude":12.115157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Raml\u00f8se"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":433,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2615023,
         "gp:id":556485,
-        "qs:id":993190,
         "qs_pg:id":993190,
         "wd:id":"Q2608666"
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101818415,
-    "wof:lastmodified":1563319377,
+    "wof:lastmodified":1566721972,
     "wof:name":"Raml\u00f8se",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

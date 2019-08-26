@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":56.452023,
     "lbl:longitude":10.765887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.452023,
     "mps:longitude":10.765887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Norddjurs"
     ],
@@ -69,7 +72,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798029,
+    "wof:lastmodified":1566721859,
     "wof:name":"Norddjurs",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

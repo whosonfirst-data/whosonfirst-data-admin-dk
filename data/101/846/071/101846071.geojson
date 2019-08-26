@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.285908,
     "lbl:longitude":9.435566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.285908,
     "mps:longitude":9.435566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kjellerup"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Kjellerup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kellerup"
     ],
     "qs:a0":"Danmark",
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2618814,
         "gp:id":554798,
-        "qs:id":1312912,
         "qs_pg:id":1312912,
         "wd:id":"Q2302168",
         "wk:page":"Kjellerup Municipality"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101846071,
-    "wof:lastmodified":1563319521,
+    "wof:lastmodified":1566722003,
     "wof:name":"Kjellerup",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

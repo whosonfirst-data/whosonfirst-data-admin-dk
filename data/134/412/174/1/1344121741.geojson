@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.60486,55.6905,11.64486,55.7305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tudse",
         "Tuse"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344121741,
-    "wof:lastmodified":1537619794,
+    "wof:lastmodified":1566721519,
     "wof:name":"Tuse",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

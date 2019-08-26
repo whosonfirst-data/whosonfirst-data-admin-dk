@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":54.987092,
     "lbl:longitude":9.293399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.987092,
     "mps:longitude":9.293399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Aabenraa"
     ],
@@ -176,7 +179,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1564128682,
+    "wof:lastmodified":1566721889,
     "wof:name":"Aabenraa",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

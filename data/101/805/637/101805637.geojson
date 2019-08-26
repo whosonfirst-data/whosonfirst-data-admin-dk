@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.351006,
     "lbl:longitude":9.502983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.351006,
     "mps:longitude":9.502983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "R\u00f8dk\u00e6rsbro Station"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014051,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":2614602,
         "gp:id":556662,
-        "qs:id":1013843,
         "qs_pg:id":1013843
     },
     "wof:country":"DK",
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":101805637,
-    "wof:lastmodified":1562795341,
+    "wof:lastmodified":1566721998,
     "wof:name":"R\u00f8dk\u00e6rsbro",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

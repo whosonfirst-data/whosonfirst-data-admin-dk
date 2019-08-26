@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.95895,57.04184,9.99895,57.08184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00f6rdal By",
         "R\u00f8rdal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260365037,
-    "wof:lastmodified":1537619820,
+    "wof:lastmodified":1566721735,
     "wof:name":"Rordal",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

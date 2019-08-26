@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.802079,
     "lbl:longitude":9.51447,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.802079,
     "mps:longitude":9.51447,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0441"
     ],
@@ -95,9 +98,6 @@
     "name:swe_x_variant":[
         "Aars"
     ],
-    "name:unk_x_variant":[
-        "\u00c5rs"
-    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
     "qs:a1r":"0",
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -127,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2624602,
         "gp:id":552033,
-        "qs:id":1079046,
         "qs_pg:id":356182,
         "wd:id":"Q303066",
         "wk:page":"Aars"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079046
     },
     "wof:country":"DK",
     "wof:geomhash":"149468b1b29acf6773a42554b39221ae",
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101805775,
-    "wof:lastmodified":1563319497,
+    "wof:lastmodified":1566722000,
     "wof:name":"Aars",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

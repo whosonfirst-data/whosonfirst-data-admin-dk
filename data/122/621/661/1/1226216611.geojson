@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.16938,55.79376,9.20938,55.83376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Haithabu"
     ],
@@ -129,8 +133,7 @@
         "\u0425\u0435\u0434\u0435\u0431\u044e"
     ],
     "name:und_x_variant":[
-        "Hedeboryde",
-        "Hedeby"
+        "Hedeboryde"
     ],
     "name:vie_x_preferred":[
         "Hedeby"
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1226216611,
-    "wof:lastmodified":1564129228,
+    "wof:lastmodified":1566722335,
     "wof:name":"Hedeby",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.687051,
     "lbl:longitude":12.535347,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.689971,
     "mps:longitude":12.532437,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
         "Hostrups Have"
     ],
     "name:eng_x_variant":[
-        "Hostrups Have"
-    ],
-    "name:unk_x_variant":[
         "Hostrups Have"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -62,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":85905965,
-    "wof:lastmodified":1564128149,
+    "wof:lastmodified":1566721562,
     "wof:name":"Hostrups Have",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

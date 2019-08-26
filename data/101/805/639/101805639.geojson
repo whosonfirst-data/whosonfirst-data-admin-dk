@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.480625,
     "lbl:longitude":9.627081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.480625,
     "mps:longitude":9.627081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00d8rum"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014051,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2615644,
         "gp:id":556188,
-        "qs:id":322655,
         "qs_pg:id":322655,
         "wd:id":"Q2389623",
         "wk:page":"\u00d8rum (S\u00f8nderlyng)"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101805639,
-    "wof:lastmodified":1563319489,
+    "wof:lastmodified":1566721998,
     "wof:name":"\u00d8rum",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

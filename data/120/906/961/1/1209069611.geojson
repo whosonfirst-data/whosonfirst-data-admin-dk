@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.89901,56.64737,8.93901,56.68737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209069611,
-    "wof:lastmodified":1562796567,
+    "wof:lastmodified":1566721675,
     "wof:name":"Frammerslev",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

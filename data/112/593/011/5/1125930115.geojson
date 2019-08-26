@@ -9,14 +9,18 @@
     "geom:bbox":"10.52275,57.72818,10.52275,57.72818",
     "geom:latitude":57.72818,
     "geom:longitude":10.52275,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"10.50275,57.70818,10.54275,57.74818",
     "lbl:latitude":57.72818,
     "lbl:longitude":10.52275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Gammel Skagen"
@@ -26,9 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "H\u00f8jen"
-    ],
-    "name:unk_x_variant":[
-        "Gammel Skagen"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -51,7 +52,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":554178,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Nordjylland",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1125930115,
-    "wof:lastmodified":1564128812,
+    "wof:lastmodified":1566722038,
     "wof:name":"H\u00f8jen",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

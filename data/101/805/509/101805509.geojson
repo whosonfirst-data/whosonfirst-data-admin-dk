@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.066151,
     "lbl:longitude":9.335524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.066151,
     "mps:longitude":9.335524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00f8dekro"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":2614611,
         "gp:id":556656,
-        "qs:id":895763,
         "qs_pg:id":895763,
         "wd:id":"Q836132",
         "wk:page":"R\u00f8dekro"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101805509,
-    "wof:lastmodified":1563319472,
+    "wof:lastmodified":1566721994,
     "wof:name":"R\u00f8dekro",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.089146,
     "lbl:longitude":8.625084,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.089146,
     "mps:longitude":8.625084,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Videb\u00e6k"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":406,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2610307,
         "gp:id":558717,
-        "qs:id":680739,
         "qs_pg:id":680739,
         "wd:id":"Q949552",
         "wk:page":"Videb\u00e6k"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101805577,
-    "wof:lastmodified":1563319500,
+    "wof:lastmodified":1566722000,
     "wof:name":"Videb\u00e6k",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.587963,
     "lbl:longitude":9.963841,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.587963,
     "mps:longitude":9.963841,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u0440\u0446\u0445\u0430\u043b\u0441"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Hirtshals"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lilleheden Hornsn\u00e6s"
     ],
     "name:zho_x_preferred":[
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":853,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2620279,
         "gp:id":554083,
-        "qs:id":1334465,
         "qs_pg:id":1334465,
         "wd:id":"Q846052",
         "wk:page":"Hirtshals"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101805821,
-    "wof:lastmodified":1563319446,
+    "wof:lastmodified":1566721988,
     "wof:name":"Hirtshals",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

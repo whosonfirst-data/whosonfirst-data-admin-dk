@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.893359,
     "lbl:longitude":9.558842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.893359,
     "mps:longitude":9.558842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Rinken\u00e6s"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         85682575,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2614758,
         "gp:id":556623,
-        "qs:id":987497,
         "qs_pg:id":987497,
         "wd:id":"Q3977699"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101805493,
-    "wof:lastmodified":1562796202,
+    "wof:lastmodified":1566721997,
     "wof:name":"Rinken\u00e6s",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

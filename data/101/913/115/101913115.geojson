@@ -12,11 +12,14 @@
     "iso:country":"DK",
     "lbl:latitude":55.000615,
     "lbl:longitude":15.088897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.000615,
     "mps:longitude":15.088897,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Strandby Gaarde"
     ],
     "qs:a0":"Danmark",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394013995,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2612270,
         "gp:id":557738,
-        "qs:id":977255,
         "qs_pg:id":977255
     },
     "wof:country":"DK",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101913115,
-    "wof:lastmodified":1562794665,
+    "wof:lastmodified":1566722002,
     "wof:name":"Strandby G\u00e5rde",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

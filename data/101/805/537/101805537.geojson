@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.056908,
     "lbl:longitude":8.822275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.056908,
     "mps:longitude":8.822275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bredebro Kommune"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         85682575,
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":2623505,
         "gp:id":552600,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q707320",
         "wk:page":"Bredebro"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101805537,
-    "wof:lastmodified":1563319465,
+    "wof:lastmodified":1566721992,
     "wof:name":"Bredebro",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

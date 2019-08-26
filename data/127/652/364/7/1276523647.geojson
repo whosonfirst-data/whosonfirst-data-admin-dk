@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.53035,56.52054,8.57035,56.56054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Humlum Stationsby",
         "Humlum"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276523647,
-    "wof:lastmodified":1562795946,
+    "wof:lastmodified":1566721664,
     "wof:name":"Humlum",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

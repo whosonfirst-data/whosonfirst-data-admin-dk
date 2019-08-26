@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.10894,55.20457,12.14894,55.24457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242937947,
-    "wof:lastmodified":1562795257,
+    "wof:lastmodified":1566722262,
     "wof:name":"Vallebo",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

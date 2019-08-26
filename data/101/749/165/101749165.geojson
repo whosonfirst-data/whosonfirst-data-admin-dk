@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.851318,
     "lbl:longitude":9.836971,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.851318,
     "mps:longitude":9.836971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0633\u064a\u0646\u0633"
     ],
@@ -249,7 +252,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.861944,
     "wd:longitude":9.851944,
@@ -264,10 +267,12 @@
     "wof:concordances":{
         "gn:id":2619771,
         "gp:id":554309,
-        "qs:id":290375,
-        "qs_pg:id":472501,
+        "qs_pg:id":290375,
         "wd:id":"Q190235",
         "wk:page":"Horsens"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":472501
     },
     "wof:country":"DK",
     "wof:geomhash":"ecb70796d7cea8ea7396b84c9c591fd5",
@@ -281,7 +286,7 @@
         }
     ],
     "wof:id":101749165,
-    "wof:lastmodified":1563319513,
+    "wof:lastmodified":1566722002,
     "wof:name":"Horsens",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

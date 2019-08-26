@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.79967,55.74884,9.83967,55.78884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bra"
     ],
@@ -296,7 +300,7 @@
         }
     ],
     "wof:id":1193103365,
-    "wof:lastmodified":1564128479,
+    "wof:lastmodified":1566721724,
     "wof:name":"Bra",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

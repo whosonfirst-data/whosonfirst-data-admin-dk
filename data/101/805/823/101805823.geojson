@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.96146,
     "lbl:longitude":8.698119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.96146,
     "mps:longitude":8.698119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Thisted"
     ],
@@ -126,9 +129,6 @@
     "name:swe_x_preferred":[
         "Thisted"
     ],
-    "name:unk_x_variant":[
-        "Tisted"
-    ],
     "name:vie_x_preferred":[
         "Thisted"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.9539,
     "wd:longitude":8.6903,
@@ -167,7 +167,6 @@
         "fct:id":"07c4231e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2611755,
         "gp:id":557976,
-        "qs:id":472931,
         "qs_pg:id":472931,
         "wd:id":"Q1008152",
         "wk:page":"Thisted"
@@ -187,7 +186,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319475,
+    "wof:lastmodified":1566721995,
     "wof:name":"Thisted",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

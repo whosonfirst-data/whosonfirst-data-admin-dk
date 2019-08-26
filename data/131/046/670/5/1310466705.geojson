@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.23316,55.33275,12.27316,55.37275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310466705,
-    "wof:lastmodified":1536972575,
+    "wof:lastmodified":1566721748,
     "wof:name":"Ammerup",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

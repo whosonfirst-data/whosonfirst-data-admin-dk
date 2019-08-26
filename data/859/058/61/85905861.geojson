@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":969449.144088,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.525869,55.683909,12.525869,55.683909",
     "geom:latitude":55.683909,
     "geom:longitude":12.525869,
     "iso:country":"DK",
     "lbl:latitude":55.683909,
     "lbl:longitude":12.525869,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.686101,
     "mps:longitude":12.524103,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "Christian Richardts Vej"
-    ],
-    "name:unk_x_variant":[
         "Christian Richardts Vej"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -59,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":85905861,
-    "wof:lastmodified":1531936404,
+    "wof:lastmodified":1566721564,
     "wof:name":"Christian Richardts Vej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

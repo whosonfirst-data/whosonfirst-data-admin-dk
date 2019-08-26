@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.239392,
     "lbl:longitude":10.531448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.239392,
     "mps:longitude":10.531448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Ryslinge"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         85682575,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2614349,
         "gp:id":556783,
-        "qs:id":1156383,
         "qs_pg:id":1156383,
         "wd:id":"Q3415617",
         "wk:page":"Ryslinge"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101818237,
-    "wof:lastmodified":1563319405,
+    "wof:lastmodified":1566721978,
     "wof:name":"Ryslinge",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

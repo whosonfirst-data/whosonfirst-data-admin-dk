@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.663057,
     "lbl:longitude":12.585308,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.663643,
     "mps:longitude":12.579283,
     "mz:hierarchy_label":1,
@@ -138,9 +139,6 @@
     "name:tur_x_preferred":[
         "Hristiyanya"
     ],
-    "name:unk_x_variant":[
-        "Christiania"
-    ],
     "name:vec_x_preferred":[
         "Christiania"
     ],
@@ -172,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -187,7 +185,6 @@
         "gn:id":2623186,
         "gp:id":552757,
         "loc:id":"n96044181",
-        "qs:id":1263100,
         "qs_pg:id":1263100,
         "wd:id":"Q202206",
         "wk:page":"Freetown Christiania"
@@ -208,7 +205,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318900,
+    "wof:lastmodified":1566721581,
     "wof:name":"Christiania",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

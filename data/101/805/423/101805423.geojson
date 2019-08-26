@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.346149,
     "lbl:longitude":10.182801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.346149,
     "mps:longitude":10.182801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tommerup Stationsby"
     ],
@@ -35,7 +38,7 @@
     "name:swe_x_preferred":[
         "Tommerup Stationsby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tommerup"
     ],
     "qs:a0":"Danmark",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":186,
     "wof:belongsto":[
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2611518,
         "gp:id":558105,
-        "qs:id":23226,
         "qs_pg:id":23226,
         "wd:id":"Q4358920",
         "wk:page":"Tommerup Stationsby"
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101805423,
-    "wof:lastmodified":1563319448,
+    "wof:lastmodified":1566721989,
     "wof:name":"Tommerup Stationsby",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

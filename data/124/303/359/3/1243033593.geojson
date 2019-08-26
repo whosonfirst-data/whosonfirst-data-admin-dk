@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.81995,57.34405,9.85995,57.38405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u00f8rglum"
     ],
@@ -36,9 +40,6 @@
         "B\u00f8rglum"
     ],
     "name:spa_x_preferred":[
-        "B\u00f8rglum"
-    ],
-    "name:und_x_variant":[
         "B\u00f8rglum"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1243033593,
-    "wof:lastmodified":1564129091,
+    "wof:lastmodified":1566722279,
     "wof:name":"Borglum",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

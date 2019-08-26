@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.61349,56.21655,10.65349,56.25655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Handrup"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1327297097,
-    "wof:lastmodified":1564128032,
+    "wof:lastmodified":1566721502,
     "wof:name":"Handrup",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

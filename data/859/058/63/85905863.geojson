@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.672648,
     "lbl:longitude":12.585888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.672427,
     "mps:longitude":12.585831,
     "mz:hierarchy_label":1,
@@ -31,9 +32,6 @@
         "Christians Brygge"
     ],
     "name:eng_x_variant":[
-        "Christians Brygge"
-    ],
-    "name:unk_x_variant":[
         "Christians Brygge"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -63,7 +61,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":85905863,
-    "wof:lastmodified":1564128155,
+    "wof:lastmodified":1566721567,
     "wof:name":"Christians Brygge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

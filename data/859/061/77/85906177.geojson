@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":32393.071848,
+    "geom:area_square_m":32393.071849,
     "geom:bbox":"12.5597802359,55.6675168346,12.564239502,55.669070509",
     "geom:latitude":55.668189,
     "geom:longitude":12.562216,
     "iso:country":"DK",
     "lbl:latitude":55.668196,
     "lbl:longitude":12.561584,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.668098,
     "mps:longitude":12.562216,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "K\u00f8dbyen"
     ],
     "name:eng_x_variant":[
-        "Slagtehusgade"
-    ],
-    "name:unk_x_variant":[
         "Slagtehusgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -60,7 +58,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -85,7 +83,7 @@
         }
     ],
     "wof:id":85906177,
-    "wof:lastmodified":1530296583,
+    "wof:lastmodified":1566721559,
     "wof:name":"Slagtehusgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

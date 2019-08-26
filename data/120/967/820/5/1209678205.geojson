@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.12086,56.7893,10.16086,56.8293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Solbcerq"
     ],
@@ -48,8 +52,7 @@
         "Solbjerg"
     ],
     "name:und_x_variant":[
-        "Solbj\u00e6rg",
-        "Solbjerg"
+        "Solbj\u00e6rg"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209678205,
-    "wof:lastmodified":1564128415,
+    "wof:lastmodified":1566721695,
     "wof:name":"Solbjerg",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

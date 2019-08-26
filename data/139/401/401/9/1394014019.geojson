@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":56.020608,
     "lbl:longitude":8.50303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.020608,
     "mps:longitude":8.50303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Ringk\u00f8bing-Skjern"
     ],
@@ -69,7 +72,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562798177,
+    "wof:lastmodified":1566721852,
     "wof:name":"Ringkobing-Skjern",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

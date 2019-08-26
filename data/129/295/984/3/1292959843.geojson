@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.1666,55.76873,9.2066,55.80873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Uve"
     ],
     "name:und_x_variant":[
-        "Uhe",
-        "Uve"
+        "Uhe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1292959843,
-    "wof:lastmodified":1564128188,
+    "wof:lastmodified":1566721592,
     "wof:name":"Uve",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

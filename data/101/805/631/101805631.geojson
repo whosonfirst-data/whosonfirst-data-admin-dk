@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.5507,
     "lbl:longitude":9.111415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.5507,
     "mps:longitude":9.111415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "H\u00f8jslev"
     ],
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "H\u00f8jslev"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00f6islev"
     ],
     "qs:a0":"Danmark",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014073,
@@ -61,9 +64,11 @@
     "wof:concordances":{
         "gn:id":2619908,
         "gp:id":554195,
-        "qs:id":1221351,
         "qs_pg:id":489585,
         "wd:id":"Q2932083"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1221351
     },
     "wof:country":"DK",
     "wof:geomhash":"f87b58a8b214387c44ad466a44cc359d",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101805631,
-    "wof:lastmodified":1563319495,
+    "wof:lastmodified":1566721999,
     "wof:name":"H\u00f8jslev Stationsby",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":56.637428,
     "geom:longitude":8.505653,
     "iso:country":"DK",
+    "lbl:bbox":"8.485653,56.617428,8.525653,56.657428",
     "lbl:latitude":56.637428,
     "lbl:longitude":8.505653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.637428,
     "mps:longitude":8.505653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Hvidbjerg"
     ],
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Hvidbjerg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hvidbierg"
     ],
     "qs:a0":"Danmark",
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014047,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":2619551,
         "gp:id":553252,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2658123"
     },
     "wof:country":"DK",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101873047,
-    "wof:lastmodified":1563319417,
+    "wof:lastmodified":1566721981,
     "wof:name":"Hvidbjerg",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

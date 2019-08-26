@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.98976,
     "lbl:longitude":9.287226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.98976,
     "mps:longitude":9.287226,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -44,7 +47,6 @@
     "wof:concordances":{
         "gn:id":2623837,
         "gp:id":552443,
-        "qs:id":265670,
         "qs_pg:id":265670
     },
     "wof:country":"DK",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":101805541,
-    "wof:lastmodified":1562794748,
+    "wof:lastmodified":1566722000,
     "wof:name":"Bolderslev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

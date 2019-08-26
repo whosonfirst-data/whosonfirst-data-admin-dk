@@ -13,6 +13,8 @@
     "iso:country":"DK",
     "lbl:latitude":57.034773,
     "lbl:longitude":9.902536,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":57.034773,
     "mps:longitude":9.902536,
     "mz:hierarchy_label":1,
@@ -309,9 +311,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u044c\u0431\u043e\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "\u00c5lborg"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0628\u0648"
     ],
@@ -447,7 +446,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":5.0,
     "wd:latitude":57.05,
@@ -465,7 +464,6 @@
         "fct:id":"07c3ba78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2624886,
         "gp:id":551890,
-        "qs:id":239765,
         "qs_pg:id":239765,
         "wd:id":"Q25410",
         "wk:page":"Aalborg"
@@ -485,7 +483,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319512,
+    "wof:lastmodified":1566722001,
     "wof:name":"Aalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

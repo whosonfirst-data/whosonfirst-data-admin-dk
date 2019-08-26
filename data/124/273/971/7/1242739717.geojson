@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.9503,54.7106,11.9903,54.7506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00f8nder Taastrup",
         "S\u00f8nder T\u00e5strup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242739717,
-    "wof:lastmodified":1537619806,
+    "wof:lastmodified":1566722256,
     "wof:name":"Sonder Tastrup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

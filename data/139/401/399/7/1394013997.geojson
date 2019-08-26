@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":55.599736,
     "lbl:longitude":12.595438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.599736,
     "mps:longitude":12.595438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "T\u00e5rnby"
     ],
@@ -69,7 +72,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562797848,
+    "wof:lastmodified":1566721809,
     "wof:name":"Tarnby",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

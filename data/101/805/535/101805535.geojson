@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.516303,
     "lbl:longitude":9.634457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.516303,
     "mps:longitude":9.634457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Sk\u00e6rb\u00e6k"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Sk\u00e6rb\u00e6k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skj\u00e6rb\u00e6k"
     ],
     "qs:a0":"Danmark",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":291,
     "wof:belongsto":[
         85682575,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2613538,
         "gp:id":556962,
-        "qs:id":1329409,
         "qs_pg:id":1329409,
         "wd:id":"Q2516418"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101805535,
-    "wof:lastmodified":1563319438,
+    "wof:lastmodified":1566721986,
     "wof:name":"Sk\u00e6rb\u00e6k",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

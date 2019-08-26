@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.343708,
     "lbl:longitude":8.341439,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.343708,
     "mps:longitude":8.341439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vemb"
     ],
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Vemb"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vem"
     ],
     "qs:a0":"Danmark",
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":397,
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2610543,
         "gp:id":558576,
-        "qs:id":1012327,
+        "qs_pg:id":1012327,
         "wd:id":"Q455311",
         "wk:page":"Vemb"
     },
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101805729,
-    "wof:lastmodified":1562795065,
+    "wof:lastmodified":1566722000,
     "wof:name":"Vemb",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

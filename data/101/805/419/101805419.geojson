@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.387347,
     "lbl:longitude":10.135851,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.387347,
     "mps:longitude":10.135851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vissenbjerg"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Vissenbjerg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vissenbjerg Kirke"
     ],
     "qs:a0":"Danmark",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2610140,
         "gp:id":558798,
-        "qs:id":247448,
         "qs_pg:id":247448,
         "wd:id":"Q3547096",
         "wk:page":"Vissenbjerg"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101805419,
-    "wof:lastmodified":1563319474,
+    "wof:lastmodified":1566721995,
     "wof:name":"Vissenbjerg",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

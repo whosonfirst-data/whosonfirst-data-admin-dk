@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.457147,
     "lbl:longitude":9.99343,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.457147,
     "mps:longitude":9.99343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Hj\u00f8rring"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":50.0,
     "wd:latitude":57.46,
@@ -179,7 +182,6 @@
         "fct:id":"07c44b14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2620214,
         "gp:id":554122,
-        "qs:id":903019,
         "qs_pg:id":903019,
         "wd:id":"Q21185",
         "wk:page":"Hj\u00f8rring"
@@ -199,7 +201,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319484,
+    "wof:lastmodified":1566721997,
     "wof:name":"Hj\u00f8rring",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.703894,
     "lbl:longitude":12.500613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.702073,
     "mps:longitude":12.499721,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     "name:swe_x_preferred":[
         "Bellah\u00f8j"
     ],
-    "name:unk_x_variant":[
-        "Bellah\u00f8j"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2618425,
@@ -103,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":306,
     "wof:belongsto":[
         102191581,
@@ -116,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2624197,
         "gp:id":552678,
-        "qs:id":240542,
         "qs_pg:id":240542,
         "wd:id":"Q4883422",
         "wk:page":"Bellah\u00f8j"
@@ -137,7 +134,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318899,
+    "wof:lastmodified":1566721580,
     "wof:name":"Bellah\u00f8j",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

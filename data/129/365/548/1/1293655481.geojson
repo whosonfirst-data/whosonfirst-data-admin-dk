@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.60371,55.83248,9.64371,55.87248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293655481,
-    "wof:lastmodified":1562795140,
+    "wof:lastmodified":1566721588,
     "wof:name":"Kalhave",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.17216,56.1969,10.21216,56.2369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Terp",
         "Lisbjerg-Terp"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259446215,
-    "wof:lastmodified":1562794966,
+    "wof:lastmodified":1566722323,
     "wof:name":"Lisbjerg-Terp",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

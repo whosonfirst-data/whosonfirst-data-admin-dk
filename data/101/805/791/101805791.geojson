@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.982105,
     "lbl:longitude":9.638889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.982105,
     "mps:longitude":9.638889,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Nibe"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2616483,
         "gp:id":555757,
-        "qs:id":224335,
         "qs_pg:id":224335,
         "wd:id":"Q1019502",
         "wk:page":"Nibe"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101805791,
-    "wof:lastmodified":1563319436,
+    "wof:lastmodified":1566721986,
     "wof:name":"Nibe",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

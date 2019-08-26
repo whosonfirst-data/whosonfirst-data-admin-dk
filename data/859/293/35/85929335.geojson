@@ -14,6 +14,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.668359,
     "lbl:longitude":12.557074,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.661333,
     "mps:longitude":12.549693,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:swe_x_preferred":[
         "Vesterbro"
     ],
-    "name:unk_x_variant":[
-        "Vesterbro"
-    ],
     "name:zho_x_preferred":[
         "\u97cb\u65af\u7279\u5e03\u7f85"
     ],
@@ -93,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":55.66713,
     "wd:longitude":12.55506,
     "wd:wordcount":783,
@@ -108,7 +106,6 @@
     "wof:concordances":{
         "gn:id":6615302,
         "gp:id":55862991,
-        "qs:id":488948,
         "qs_pg:id":488948,
         "wd:id":"Q521187",
         "wk:page":"Vesterbro, Copenhagen"
@@ -129,7 +126,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318838,
+    "wof:lastmodified":1566721554,
     "wof:name":"Vesterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

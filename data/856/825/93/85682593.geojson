@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":57.301432,
     "lbl:longitude":10.188448,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.301432,
     "mps:longitude":10.188448,
     "mz:hierarchy_label":1,
@@ -231,7 +232,7 @@
         "Region Nordjylland"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0422\u04e9\u043d\u044c\u044f\u043a \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
@@ -330,9 +331,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-01-01",
+    "src:population_date":"2005-01-01",
     "statoids:area_km":"8,020",
     "statoids:area_mi":"3,097",
     "statoids:as_of_date":"2005-01-01",
@@ -378,7 +379,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1565672893,
+    "wof:lastmodified":1566721579,
     "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

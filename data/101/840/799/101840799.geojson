@@ -9,14 +9,17 @@
     "geom:bbox":"11.8743784613,54.9881748423,11.9391630489,55.0355773631",
     "geom:latitude":55.007191,
     "geom:longitude":11.904445,
-    "geonames:id":"2610020,2610021",
+    "gn:id":"2610020,2610021",
     "iso:country":"DK",
     "lbl:latitude":55.010111,
     "lbl:longitude":11.907218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.010111,
     "mps:longitude":11.907218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Vordingborg"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.008333,
     "wd:longitude":11.910278,
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2610020,
         "gp:id":558863,
-        "qs:id":1060446,
         "qs_pg:id":1060446,
         "wd:id":"Q2608258"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101840799,
-    "wof:lastmodified":1563319540,
+    "wof:lastmodified":1566722009,
     "wof:name":"Vordingborg",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

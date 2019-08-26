@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.8539,55.34198,9.8939,55.38198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00f8nder Aaby",
         "S\u00f8nder \u00c5by"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310364381,
-    "wof:lastmodified":1562794907,
+    "wof:lastmodified":1566721754,
     "wof:name":"Sonder Aby",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
+    "geom:area_square_m":865991.965315,
     "geom:bbox":"11.5399122988,55.7244832314,11.5560983103,55.7388781016",
     "geom:latitude":55.73266,
     "geom:longitude":11.546171,
     "iso:country":"DK",
     "lbl:latitude":55.733155,
     "lbl:longitude":11.545374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.733155,
     "mps:longitude":11.545374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
     "qs:a1r":"0",
@@ -31,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297717,
@@ -42,7 +46,6 @@
     "wof:concordances":{
         "gn:id":2621456,
         "gp:id":553527,
-        "qs:id":266556,
         "qs_pg:id":266556
     },
     "wof:country":"DK",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101818365,
-    "wof:lastmodified":1530289994,
+    "wof:lastmodified":1566721969,
     "wof:name":"Gislinge",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

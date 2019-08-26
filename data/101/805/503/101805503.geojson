@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.724992,
     "lbl:longitude":9.121099,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.724992,
     "mps:longitude":9.121099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Billund"
     ],
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -171,7 +174,6 @@
         "fct:id":"07c51f3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2624144,
         "gp:id":552282,
-        "qs:id":1074196,
         "qs_pg:id":1074196,
         "wd:id":"Q1701099"
     },
@@ -191,7 +193,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319438,
+    "wof:lastmodified":1566721986,
     "wof:name":"Billund",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

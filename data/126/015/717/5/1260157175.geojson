@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"14.82445,55.02879,14.86445,55.06879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sose"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260157175,
-    "wof:lastmodified":1564128492,
+    "wof:lastmodified":1566721730,
     "wof:name":"Sose",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

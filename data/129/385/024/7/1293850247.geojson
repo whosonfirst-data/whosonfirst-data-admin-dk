@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.91314,56.51401,8.95314,56.55401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00f6nbj\u00e6rg",
         "R\u00f8nbjerg"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293850247,
-    "wof:lastmodified":1562796591,
+    "wof:lastmodified":1566721596,
     "wof:name":"Ronbjerg",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

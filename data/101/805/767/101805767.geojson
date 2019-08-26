@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.770996,
     "lbl:longitude":9.338258,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.770996,
     "mps:longitude":9.338258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Fars\u00f8"
     ],
@@ -297,7 +300,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -310,7 +313,6 @@
     "wof:concordances":{
         "gn:id":2622310,
         "gp:id":553131,
-        "qs:id":278963,
         "qs_pg:id":278963,
         "wd:id":"Q3413045",
         "wk:page":"Fars\u00f8"
@@ -327,7 +329,7 @@
         }
     ],
     "wof:id":101805767,
-    "wof:lastmodified":1563319467,
+    "wof:lastmodified":1566721993,
     "wof:name":"Fars\u00f8",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

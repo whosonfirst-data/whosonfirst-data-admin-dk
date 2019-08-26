@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.1781,
     "lbl:longitude":9.776027,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.1781,
     "mps:longitude":9.776027,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014121,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2612861,
         "gp:id":556943,
-        "qs:id":182735
+        "qs_pg:id":182735
     },
     "wof:country":"DK",
     "wof:geomhash":"5261316337be41d61ff4304c1e633e94",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101805721,
-    "wof:lastmodified":1562794505,
+    "wof:lastmodified":1566722000,
     "wof:name":"Sorring",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.10271,55.33766,12.14271,55.37766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Skrosbj\u00e6rg",
         "Skrosbjerg"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310367215,
-    "wof:lastmodified":1537619811,
+    "wof:lastmodified":1566721755,
     "wof:name":"Skrosbjerg",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

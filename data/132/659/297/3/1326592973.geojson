@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.55371,56.57475,9.59371,56.61475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lund"
     ],
@@ -283,7 +287,7 @@
         }
     ],
     "wof:id":1326592973,
-    "wof:lastmodified":1564127980,
+    "wof:lastmodified":1566721478,
     "wof:name":"Lund",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"12.21903,54.93931,12.21903,54.93931",
     "geom:latitude":54.93931,
     "geom:longitude":12.21903,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"12.19903,54.91931,12.23903,54.95931",
     "lbl:latitude":54.93931,
     "lbl:longitude":12.21903,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Damsholte"
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Damsholte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dainsholte"
     ],
     "qs_pg:aaroncc":"DK",
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":552797,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Sj\u00e6lland",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1125807591,
-    "wof:lastmodified":1563319691,
+    "wof:lastmodified":1566722072,
     "wof:name":"Damsholte",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

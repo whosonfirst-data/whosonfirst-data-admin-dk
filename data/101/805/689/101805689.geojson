@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.256508,
     "lbl:longitude":10.0751,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.256508,
     "mps:longitude":10.0751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u043d\u0435\u0440\u0443\u043f"
     ],
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Hinnerup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hinnerup-Broby"
     ],
     "qs:a0":"Danmark",
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":309,
     "wof:belongsto":[
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2617551,
         "gp:id":554080,
-        "qs:id":140598,
-        "qs_pg:id":228795,
+        "qs_pg:id":140598,
         "wd:id":"Q3175755",
         "wk:page":"Hinnerup"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":228795
     },
     "wof:country":"DK",
     "wof:geomhash":"201e6c33f4af06971e4b24477f5228f9",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101805689,
-    "wof:lastmodified":1563319445,
+    "wof:lastmodified":1566721988,
     "wof:name":"Hinnerup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

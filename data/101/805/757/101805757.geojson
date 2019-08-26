@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.799201,
     "lbl:longitude":8.851106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.799201,
     "mps:longitude":8.851106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014007,
@@ -40,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29306367,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"DK",
     "wof:geomhash":"8b6f7b71f3a8ac96533421ee999ed9a0",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":101805757,
-    "wof:lastmodified":1562795713,
+    "wof:lastmodified":1566721994,
     "wof:name":"Nyk\u00f8bing M",
     "wof:parent_id":1394014007,
     "wof:placetype":"locality",

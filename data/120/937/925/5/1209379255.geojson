@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.19778,55.45364,10.23778,55.49364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vigerslev"
     ],
     "name:und_x_variant":[
-        "Vigslev",
-        "Vigerslev"
+        "Vigslev"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209379255,
-    "wof:lastmodified":1564128380,
+    "wof:lastmodified":1566721679,
     "wof:name":"Vigerslev",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

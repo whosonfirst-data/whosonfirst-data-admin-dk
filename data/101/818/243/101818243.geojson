@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.037574,
     "lbl:longitude":10.540925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.037574,
     "mps:longitude":10.540925,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Rantzausminde"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -56,7 +59,6 @@
     "wof:concordances":{
         "gn:id":2614978,
         "gp:id":556501,
-        "qs:id":994173,
         "qs_pg:id":994173
     },
     "wof:country":"DK",
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101818243,
-    "wof:lastmodified":1564128732,
+    "wof:lastmodified":1566721972,
     "wof:name":"Rantzausminde",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

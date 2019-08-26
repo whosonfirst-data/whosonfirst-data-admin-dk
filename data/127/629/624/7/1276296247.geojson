@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.14332,55.14587,10.18332,55.18587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276296247,
-    "wof:lastmodified":1562796325,
+    "wof:lastmodified":1566721634,
     "wof:name":"Halsmose",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

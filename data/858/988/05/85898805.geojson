@@ -10,8 +10,10 @@
     "geom:latitude":55.954421,
     "geom:longitude":12.529407,
     "iso:country":"DK",
+    "lbl:bbox":"12.524407,55.949421,12.534407,55.959421",
     "lbl:latitude":55.954421,
     "lbl:longitude":12.529407,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.941299,
     "mps:longitude":12.5155,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":1,
     "name:dan_x_preferred":[
-        "Sletten"
-    ],
-    "name:unk_x_variant":[
         "Sletten"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014013,
         85633121,
-        101818407
+        101818407,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2613436,
         "gp:id":557188,
-        "qs:id":221904,
         "qs_pg:id":221904
     },
     "wof:country":"DK",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562799325,
+    "wof:lastmodified":1566721581,
     "wof:name":"Sletten",
     "wof:parent_id":101818407,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.72497,56.34689,10.76497,56.38689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209591581,
-    "wof:lastmodified":1562794811,
+    "wof:lastmodified":1566721694,
     "wof:name":"Lyngby",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

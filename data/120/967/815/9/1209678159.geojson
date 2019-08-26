@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.29054,57.24209,10.33054,57.28209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gaardsholt",
         "Vester Gaardsholt",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209678159,
-    "wof:lastmodified":1562794328,
+    "wof:lastmodified":1566721696,
     "wof:name":"Vester Gardsholt",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

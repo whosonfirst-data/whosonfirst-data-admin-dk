@@ -9,14 +9,18 @@
     "geom:bbox":"11.73921,54.86786,11.73921,54.86786",
     "geom:latitude":54.86786,
     "geom:longitude":11.73921,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"11.71921,54.84786,11.75921,54.88786",
     "lbl:latitude":54.86786,
     "lbl:longitude":11.73921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0413\u0443\u043b\u0434\u0431\u043e\u0440\u0433"
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Guldborg"
     ],
-    "name:unk_x_variant":[
-        "Guldborg"
-    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -66,7 +67,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":29306236,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Sj\u00e6lland",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1125993053,
-    "wof:lastmodified":1563319704,
+    "wof:lastmodified":1566722077,
     "wof:name":"Guldborgsund",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

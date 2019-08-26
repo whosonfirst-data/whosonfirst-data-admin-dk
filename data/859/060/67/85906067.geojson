@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.681344,
     "lbl:longitude":12.571504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.681416,
     "mps:longitude":12.571265,
     "mz:hierarchy_label":1,
@@ -60,9 +61,6 @@
     "name:swe_x_preferred":[
         "N\u00f8rre Voldgade"
     ],
-    "name:unk_x_variant":[
-        "N\u00f8rre Voldgade"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
     "qs:gn_local":2618425,
@@ -90,7 +88,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":554,
     "wof:belongsto":[
         102191581,
@@ -117,7 +115,7 @@
         }
     ],
     "wof:id":85906067,
-    "wof:lastmodified":1563318871,
+    "wof:lastmodified":1566721568,
     "wof:name":"N\u00f8rre Voldgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

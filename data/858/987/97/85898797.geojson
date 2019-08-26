@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.963129,
     "lbl:longitude":12.532347,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.976865,
     "mps:longitude":12.53902,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
         "Ny Humlebaek"
     ],
     "name:dan_x_preferred":[
-        "Ny Humleb\u00e6k"
-    ],
-    "name:unk_x_variant":[
         "Ny Humleb\u00e6k"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -62,19 +60,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014013,
         85633121,
-        101818407
+        101818407,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2615973,
         "gp:id":555966,
-        "qs:id":238494,
         "qs_pg:id":238494
     },
     "wof:country":"DK",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562799325,
+    "wof:lastmodified":1566721581,
     "wof:name":"Ny Humleb\u00e6k",
     "wof:parent_id":101818407,
     "wof:placetype":"neighbourhood",

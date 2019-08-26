@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.38808,57.42204,10.42808,57.46204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aasted",
         "\u00c5sted"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209390071,
-    "wof:lastmodified":1562796388,
+    "wof:lastmodified":1566721674,
     "wof:name":"Asted",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.066684,
     "lbl:longitude":12.103696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.066684,
     "mps:longitude":12.103696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Tisvilde"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1027,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2611651,
         "gp:id":558021,
-        "qs:id":1014026,
         "qs_pg:id":1014026,
         "wd:id":"Q656733",
         "wk:page":"Tisvilde"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101840811,
-    "wof:lastmodified":1563319541,
+    "wof:lastmodified":1566722009,
     "wof:name":"Tisvilde",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

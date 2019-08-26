@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.309545,
     "lbl:longitude":9.586981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.309545,
     "mps:longitude":9.586981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ans"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2624679,
         "gp:id":551999,
-        "qs:id":1343728,
         "qs_pg:id":1343728,
         "wd:id":"Q1873492",
         "wk:page":"Ans, Denmark"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101805661,
-    "wof:lastmodified":1563319457,
+    "wof:lastmodified":1566721991,
     "wof:name":"Ans",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

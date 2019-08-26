@@ -10,8 +10,10 @@
     "geom:latitude":55.757696,
     "geom:longitude":12.457007,
     "iso:country":"DK",
+    "lbl:bbox":"12.452007,55.752696,12.462007,55.762696",
     "lbl:latitude":55.757696,
     "lbl:longitude":12.457007,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.76847,
     "mps:longitude":12.460134,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Bagsv\u00e6rd"
     ],
-    "name:unk_x_variant":[
-        "Bagsv\u00e6rd"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2621395,
@@ -107,7 +106,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191581,
@@ -120,7 +119,6 @@
     "wof:concordances":{
         "gn:id":2624388,
         "gp:id":552168,
-        "qs:id":243131,
         "qs_pg:id":243131,
         "wd:id":"Q2509805",
         "wk:page":"Bagsv\u00e6rd"
@@ -141,7 +139,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318897,
+    "wof:lastmodified":1566721580,
     "wof:name":"Bagsv\u00e6rd",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

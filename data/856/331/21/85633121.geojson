@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":55.966966,
     "lbl:longitude":9.018163,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":55.966966,
     "mps:longitude":9.018163,
     "mz:hierarchy_label":1,
@@ -916,15 +918,9 @@
         "Danmork",
         "Dhania"
     ],
-    "name:und_x_preferred":[
-        "Danija",
-        "Danm\u00f6rk",
-        "Danska",
+    "name:und_x_variant":[
         "Dhan\u00eda",
         "Kraljevina Danska"
-    ],
-    "name:unk_x_variant":[
-        "Danemark"
     ],
     "name:urd_x_preferred":[
         "\u0688\u0646\u0645\u0627\u0631\u06a9"
@@ -1080,7 +1076,7 @@
         "naturalearth"
     ],
     "src:geom_via":"dk-geodk",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"45",
     "statoids:ds":"DK",
@@ -1125,7 +1121,7 @@
         "mzb:id":"denmark",
         "ne:adm0_a3":"DNK",
         "nyt:id":"61300278787894872961",
-        "qs:id":356181,
+        "qs_pg:id":356181,
         "uncrt:id":"DK",
         "wd:id":"Q35",
         "wmo:id":"DN"
@@ -1149,7 +1145,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1565672889,
+    "wof:lastmodified":1566721572,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

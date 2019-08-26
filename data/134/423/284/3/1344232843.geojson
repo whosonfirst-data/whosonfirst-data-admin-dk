@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.18711,56.18016,8.22711,56.22016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Skjelmose",
         "Skelmose"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344232843,
-    "wof:lastmodified":1562796137,
+    "wof:lastmodified":1566721521,
     "wof:name":"Skelmose",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

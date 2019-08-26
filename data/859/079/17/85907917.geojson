@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":41572989.539464,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.906393,57.041527,9.906393,57.041527",
     "geom:latitude":57.041527,
     "geom:longitude":9.906393,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"9.901393,57.036527,9.911393,57.046527",
     "lbl:latitude":57.041527,
     "lbl:longitude":9.906393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.024958,
     "mps:longitude":9.879003,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Aalborg South West"
-    ],
-    "name:unk_x_variant":[
-        "Aalborg SV"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682593,
         102191581,
         1159297743,
         85633121,
-        101749169
+        101749169,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875613,
-        "qs:id":1115819,
         "qs_pg:id":1115819
     },
     "wof:country":"DK",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1531936654,
+    "wof:lastmodified":1566721551,
     "wof:name":"Aalborg SV",
     "wof:parent_id":101749169,
     "wof:placetype":"neighbourhood",

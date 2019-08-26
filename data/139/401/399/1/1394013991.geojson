@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":54.919245,
     "lbl:longitude":10.768816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.919245,
     "mps:longitude":10.768816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "Langaland"
     ],
@@ -179,7 +182,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1564128630,
+    "wof:lastmodified":1566721813,
     "wof:name":"Langeland",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

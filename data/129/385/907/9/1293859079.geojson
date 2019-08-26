@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.10345,56.70437,10.14345,56.74437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "S\u00f8nderg\u00e5rde"
     ],
@@ -39,8 +43,7 @@
         "S\u00f8nderg\u00e5rde"
     ],
     "name:und_x_variant":[
-        "S\u00f8ndergaarde",
-        "S\u00f8nderg\u00e5rde"
+        "S\u00f8ndergaarde"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293859079,
-    "wof:lastmodified":1564128199,
+    "wof:lastmodified":1566721596,
     "wof:name":"Sondergarde",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

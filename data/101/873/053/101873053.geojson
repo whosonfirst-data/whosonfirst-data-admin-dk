@@ -10,12 +10,16 @@
     "geom:latitude":55.855042,
     "geom:longitude":9.74316,
     "iso:country":"DK",
+    "lbl:bbox":"9.72316,55.835042,9.76316,55.875042",
     "lbl:latitude":55.855042,
     "lbl:longitude":9.74316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.855042,
     "mps:longitude":9.74316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Hatting"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2620676,
         "gp:id":553900,
-        "qs:id":1032398,
         "qs_pg:id":1032398,
         "wd:id":"Q2686468",
         "wk:page":"Hatting, Denmark"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101873053,
-    "wof:lastmodified":1563319418,
+    "wof:lastmodified":1566721981,
     "wof:name":"Hatting",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

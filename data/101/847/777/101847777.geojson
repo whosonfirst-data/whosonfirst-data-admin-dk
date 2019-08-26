@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.861629,
     "lbl:longitude":12.074533,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.861629,
     "mps:longitude":12.074533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gr\u00e6se Bakkeby"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297729,
@@ -49,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20098789,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"DK",
     "wof:geomhash":"a948033116becbfdf50aaa9debb80285",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101847777,
-    "wof:lastmodified":1564128756,
+    "wof:lastmodified":1566722007,
     "wof:name":"Gr\u00e6se Bakkeby",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

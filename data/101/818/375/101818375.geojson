@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.635783,
     "lbl:longitude":12.016211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.635783,
     "mps:longitude":12.016211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u043e\u0433\u0435\u0440\u0441\u043b\u0435\u0432"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":333,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2611982,
         "gp:id":557859,
-        "qs:id":224576,
         "qs_pg:id":224576,
         "wd:id":"Q2217489"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101818375,
-    "wof:lastmodified":1563319413,
+    "wof:lastmodified":1566721980,
     "wof:name":"Svogerslev",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

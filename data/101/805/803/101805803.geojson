@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.769965,
     "lbl:longitude":9.862021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.769965,
     "mps:longitude":9.862021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Arden"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Arden"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arden Stationsby"
     ],
     "qs:a0":"Danmark",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2624660,
         "gp:id":552009,
-        "qs:id":860817,
         "qs_pg:id":860817,
         "wd:id":"Q10417379",
         "wk:page":"Arden Municipality"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101805803,
-    "wof:lastmodified":1563319452,
+    "wof:lastmodified":1566721990,
     "wof:name":"Arden",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

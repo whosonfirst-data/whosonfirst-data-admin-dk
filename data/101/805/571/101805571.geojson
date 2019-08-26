@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.154003,
     "lbl:longitude":9.919231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.154003,
     "mps:longitude":9.919231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Galten"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Galten"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sonder Galten"
     ],
     "qs:a0":"Danmark",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":2621710,
         "gp:id":553405,
-        "qs:id":1224370,
         "qs_pg:id":1224370,
         "wd:id":"Q2372527",
         "wk:page":"Galten Municipality"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101805571,
-    "wof:lastmodified":1563319496,
+    "wof:lastmodified":1566721999,
     "wof:name":"Galten",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

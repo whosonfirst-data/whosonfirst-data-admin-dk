@@ -13,6 +13,8 @@
     "iso:country":"DK",
     "lbl:latitude":55.065579,
     "lbl:longitude":10.60726,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.065579,
     "mps:longitude":10.60726,
     "mz:hierarchy_label":1,
@@ -135,9 +137,6 @@
     "name:swe_x_preferred":[
         "Svendborg"
     ],
-    "name:unk_x_variant":[
-        "Svenborg"
-    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Denmark",
     "ne:ADM0_A3":"DNK",
@@ -246,7 +245,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.059722,
     "wd:longitude":10.61,
@@ -263,7 +262,6 @@
         "fct:id":"07c5af40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2612045,
         "gp:id":557827,
-        "qs:id":1079065,
         "qs_pg:id":1079065,
         "wd:id":"Q28031",
         "wk:page":"Svendborg"
@@ -284,7 +282,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319380,
+    "wof:lastmodified":1566721973,
     "wof:name":"Svendborg",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"15.01247,55.14067,15.01247,55.14067",
     "geom:latitude":55.14067,
     "geom:longitude":15.01247,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"14.99247,55.12067,15.03247,55.16067",
     "lbl:latitude":55.14067,
     "lbl:longitude":15.01247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aar_x_preferred":[
         "\u00d8stermarie"
@@ -561,7 +565,7 @@
     "name:tur_x_preferred":[
         "\u00d8stermarie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Godthaab"
     ],
     "name:uzb_x_preferred":[
@@ -636,7 +640,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":556311,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Hovedstaden",
@@ -667,7 +671,7 @@
         }
     ],
     "wof:id":1126001887,
-    "wof:lastmodified":1563319777,
+    "wof:lastmodified":1566722106,
     "wof:name":"\u00d8stermarie",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

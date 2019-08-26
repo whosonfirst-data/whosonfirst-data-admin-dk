@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
+    "geom:area_square_m":1074705.059415,
     "geom:bbox":"10.3894557599,57.1434885895,10.4142582466,57.1534074456",
     "geom:latitude":57.148009,
     "geom:longitude":10.403697,
     "iso:country":"DK",
     "lbl:latitude":57.147551,
     "lbl:longitude":10.403697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.147551,
     "mps:longitude":10.403697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Asaaby"
     ],
     "qs:a0":"Danmark",
@@ -32,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297753,
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2624568,
         "gp:id":552050,
-        "qs:id":271707
+        "qs_pg:id":271707
     },
     "wof:country":"DK",
     "wof:geomhash":"90e937919aeb1c56a31ef32930214692",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101817305,
-    "wof:lastmodified":1530290841,
+    "wof:lastmodified":1566721983,
     "wof:name":"Asaa",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

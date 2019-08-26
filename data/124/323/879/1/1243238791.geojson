@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.94175,57.23401,10.98175,57.27401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tyrkeriet",
         "T\u00f8rkeriet"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243238791,
-    "wof:lastmodified":1562796471,
+    "wof:lastmodified":1566722268,
     "wof:name":"Torkeriet",
     "wof:parent_id":1394013989,
     "wof:placetype":"locality",

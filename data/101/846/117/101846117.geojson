@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.991304,
     "lbl:longitude":9.988492,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.991304,
     "mps:longitude":9.988492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Gistrup"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.9964,
     "wd:longitude":9.9906,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2621449,
         "gp:id":553529,
-        "qs:id":508185,
         "qs_pg:id":508185,
         "wd:id":"Q1936506",
         "wk:page":"Gistrup"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101846117,
-    "wof:lastmodified":1563319525,
+    "wof:lastmodified":1566722005,
     "wof:name":"Gistrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

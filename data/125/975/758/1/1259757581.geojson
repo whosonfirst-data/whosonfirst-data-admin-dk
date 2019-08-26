@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.13637,54.90293,11.17637,54.94293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vindeby"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259757581,
-    "wof:lastmodified":1564129204,
+    "wof:lastmodified":1566722326,
     "wof:name":"Vindeby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

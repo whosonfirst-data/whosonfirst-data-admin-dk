@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.935425,
     "lbl:longitude":9.254685,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.935425,
     "mps:longitude":9.254685,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tinglev"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":289,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":2611684,
         "gp:id":558001,
-        "qs:id":968275,
         "qs_pg:id":968275,
         "wd:id":"Q558546",
         "wk:page":"Tinglev"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101805467,
-    "wof:lastmodified":1563319486,
+    "wof:lastmodified":1566721997,
     "wof:name":"Tinglev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

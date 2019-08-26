@@ -11,8 +11,10 @@
     "geom:longitude":10.203124,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"10.198124,56.151388,10.208124,56.161388",
     "lbl:latitude":56.156388,
     "lbl:longitude":10.203124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.14476,
     "mps:longitude":10.199604,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:swe_x_preferred":[
         "Midtbyen"
     ],
-    "name:unk_x_variant":[
-        "\u00c5rhus C"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":22782,
@@ -70,19 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1058,
     "wof:belongsto":[
-        85682597,
         102191581,
         1394013977,
         85633121,
-        101749163
+        101749163,
+        85682597
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875614,
-        "qs:id":562444,
         "qs_pg:id":562444,
         "wd:id":"Q4661709"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562794983,
+    "wof:lastmodified":1566721551,
     "wof:name":"\u00c5rhus C",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

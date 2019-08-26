@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.79421,56.42658,10.83421,56.46658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villersl\u00f6",
         "Villers\u00f8"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343427283,
-    "wof:lastmodified":1562794827,
+    "wof:lastmodified":1566721542,
     "wof:name":"Villerso",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

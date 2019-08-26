@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.679773,
     "lbl:longitude":12.590996,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.67933,
     "mps:longitude":12.590691,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     ],
     "name:nld_x_preferred":[
         "Store Strandstr\u00e6de"
-    ],
-    "name:unk_x_variant":[
-        "Strandstr\u00e6de"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -66,7 +64,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":410,
     "wof:belongsto":[
         102191581,
@@ -93,7 +91,7 @@
         }
     ],
     "wof:id":85906205,
-    "wof:lastmodified":1563318832,
+    "wof:lastmodified":1566721552,
     "wof:name":"Strandstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -9,15 +9,18 @@
     "geom:bbox":"11.67109,55.92491,11.67109,55.92491",
     "geom:latitude":55.92491,
     "geom:longitude":11.67109,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":5596,
+    "gn:country":"DK",
+    "gn:fcode":"PPLA2",
     "gn:population":5596,
     "iso:country":"DK",
+    "lbl:bbox":"11.65109,55.90491,11.69109,55.94491",
     "lbl:latitude":55.92491,
     "lbl:longitude":11.67109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Nyk\u00f8bing Sj\u00e6lland"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Nyk\u00f8bing Sj\u00e6lland"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyki\u00f6bing"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":140578,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125869619,
-    "wof:lastmodified":1563319663,
+    "wof:lastmodified":1566722060,
     "wof:name":"Nyk\u00f8bing Sj\u00e6lland",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

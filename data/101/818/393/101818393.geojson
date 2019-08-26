@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.791882,
     "lbl:longitude":12.268686,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.791882,
     "mps:longitude":12.268686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2621614,
         "gp:id":553457,
-        "qs:id":1036738,
         "qs_pg:id":1036738
     },
     "wof:country":"DK",
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":101818393,
-    "wof:lastmodified":1562795815,
+    "wof:lastmodified":1566721976,
     "wof:name":"Ganl\u00f8se",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

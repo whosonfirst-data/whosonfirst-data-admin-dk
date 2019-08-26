@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.668918,
     "lbl:longitude":12.557902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.669051,
     "mps:longitude":12.558284,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:swe_x_preferred":[
         "Istedgade"
     ],
-    "name:unk_x_variant":[
-        "Istedgade"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
     "qs:gn_local":2618425,
@@ -81,7 +79,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":275,
     "wof:belongsto":[
         102191581,
@@ -108,7 +106,7 @@
         }
     ],
     "wof:id":85905971,
-    "wof:lastmodified":1563318857,
+    "wof:lastmodified":1566721563,
     "wof:name":"Istedgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

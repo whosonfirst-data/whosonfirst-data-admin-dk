@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.46675,55.35343,10.50675,55.39343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e6rby",
         "Fraugde K\u00e6rby"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260353505,
-    "wof:lastmodified":1562795765,
+    "wof:lastmodified":1566721742,
     "wof:name":"Fraugde Kaerby",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

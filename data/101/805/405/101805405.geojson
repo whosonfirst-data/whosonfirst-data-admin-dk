@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.483054,
     "lbl:longitude":10.255208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.483054,
     "mps:longitude":10.255208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00f8nders\u00f8"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "S\u00f8nders\u00f8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00f6nderse"
     ],
     "qs:a0":"Danmark",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.483333,
     "wd:longitude":10.266667,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2612955,
         "gp:id":557460,
-        "qs:id":243252,
         "qs_pg:id":243252,
         "wd:id":"Q3531267",
         "wk:page":"S\u00f8nders\u00f8"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101805405,
-    "wof:lastmodified":1563319489,
+    "wof:lastmodified":1566721998,
     "wof:name":"S\u00f8nders\u00f8",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

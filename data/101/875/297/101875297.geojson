@@ -11,12 +11,16 @@
     "geom:longitude":10.256189,
     "gn:population":2515,
     "iso:country":"DK",
+    "lbl:bbox":"10.236189,56.228314,10.276189,56.268314",
     "lbl:latitude":56.248314,
     "lbl:longitude":10.256189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.248314,
     "mps:longitude":10.256189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hjortsh\u00f8j"
     ],
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.2492,
     "wd:longitude":10.2656,
@@ -88,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2620186,
         "gp:id":554135,
-        "qs:id":900921,
         "qs_pg:id":900921,
         "wd:id":"Q2692491",
         "wk:page":"Hjortsh\u00f8j"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101875297,
-    "wof:lastmodified":1563319430,
+    "wof:lastmodified":1566721984,
     "wof:name":"Hjortsh\u00f8j",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

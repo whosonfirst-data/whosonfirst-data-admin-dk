@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.53813,56.23908,10.57813,56.27908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Skaarup",
         "Sk\u00e5rup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1192984849,
-    "wof:lastmodified":1562795206,
+    "wof:lastmodified":1566721720,
     "wof:name":"Skarup",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

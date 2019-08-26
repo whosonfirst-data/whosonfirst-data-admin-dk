@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.01213,56.17829,9.05213,56.21829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344120079,
-    "wof:lastmodified":1536790112,
+    "wof:lastmodified":1566721519,
     "wof:name":"Torup",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",
