@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.0711,54.88508,11.1111,54.92508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243328421,
-    "wof:lastmodified":1562795051,
+    "wof:lastmodified":1566722281,
     "wof:name":"Skovbolle",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

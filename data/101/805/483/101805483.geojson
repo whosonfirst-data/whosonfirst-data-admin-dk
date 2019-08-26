@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.600579,
     "lbl:longitude":8.799698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.600579,
     "mps:longitude":8.799698,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "\u00d8lstykke Fodbold Club"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2624986,
         "gp:id":551845,
-        "qs:id":244277,
         "qs_pg:id":244277
     },
     "wof:country":"DK",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101805483,
-    "wof:lastmodified":1562797073,
+    "wof:lastmodified":1566721988,
     "wof:name":"Agerb\u00e6k",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

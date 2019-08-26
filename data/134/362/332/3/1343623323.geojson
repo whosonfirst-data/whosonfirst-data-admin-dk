@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.7148,54.81338,11.7548,54.85338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maib\u00f6lle",
         "Majb\u00f8lle"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343623323,
-    "wof:lastmodified":1537619841,
+    "wof:lastmodified":1566721509,
     "wof:name":"Majbolle",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"8.76901,55.15735,8.76901,55.15735",
     "geom:latitude":55.15735,
     "geom:longitude":8.76901,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3174,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
     "gn:population":3174,
     "iso:country":"DK",
+    "lbl:bbox":"8.74901,55.13735,8.78901,55.17735",
     "lbl:latitude":55.15735,
     "lbl:longitude":8.76901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sherrebek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sk\u00e6rb\u00e6k"
     ],
     "qs_pg:aaroncc":"DK",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":140575,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85682575,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125841353,
-    "wof:lastmodified":1562795980,
+    "wof:lastmodified":1566722117,
     "wof:name":"Sherrebek",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

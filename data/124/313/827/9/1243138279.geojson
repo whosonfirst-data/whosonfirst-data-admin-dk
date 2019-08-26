@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.97979,55.83659,9.01979,55.87659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Blaah\u00f6j",
         "Gammel Blaah\u00f6j",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243138279,
-    "wof:lastmodified":1562797159,
+    "wof:lastmodified":1566722269,
     "wof:name":"Gammel Blahoj",
     "wof:parent_id":1394014107,
     "wof:placetype":"locality",

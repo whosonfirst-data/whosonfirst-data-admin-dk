@@ -11,12 +11,16 @@
     "geom:longitude":12.12598,
     "gn:population":2045,
     "iso:country":"DK",
+    "lbl:bbox":"12.10598,55.602521,12.14598,55.642521",
     "lbl:latitude":55.622521,
     "lbl:longitude":12.12598,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.622521,
     "mps:longitude":12.12598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0434\u0438\u043d\u0433\u0435"
     ],
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2610189,
         "gp:id":558771,
-        "qs:id":246148,
         "qs_pg:id":246148,
         "wd:id":"Q16325016"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101873035,
-    "wof:lastmodified":1563319421,
+    "wof:lastmodified":1566721982,
     "wof:name":"Vindinge",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

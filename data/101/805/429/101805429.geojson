@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.398832,
     "lbl:longitude":9.973146,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.398832,
     "mps:longitude":9.973146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gelsted"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Gelsted"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torp"
     ],
     "qs:a0":"Danmark",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.3981,
     "wd:longitude":9.97139,
     "wd:wordcount":127,
@@ -68,9 +71,11 @@
     "wof:concordances":{
         "gn:id":2621522,
         "gp:id":553488,
-        "qs:id":1012139,
-        "qs_pg:id":1155346,
+        "qs_pg:id":1012139,
         "wd:id":"Q12313590"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1155346
     },
     "wof:country":"DK",
     "wof:geomhash":"527239b3fda0eacedbdfc1d045e98e81",
@@ -85,7 +90,7 @@
         }
     ],
     "wof:id":101805429,
-    "wof:lastmodified":1563319481,
+    "wof:lastmodified":1566721996,
     "wof:name":"Gelsted",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

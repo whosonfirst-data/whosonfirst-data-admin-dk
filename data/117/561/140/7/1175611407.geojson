@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.845954,
     "lbl:longitude":12.172466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.845954,
     "mps:longitude":12.172466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Slangerup"
     ],
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.8467,
     "wd:longitude":12.1761,
@@ -195,7 +198,6 @@
     "wof:concordances":{
         "gn:id":2613451,
         "gp:id":557183,
-        "qs:id":1263117,
         "qs_pg:id":1263117,
         "wd:id":"Q3617406",
         "wk:page":"Slangerup"
@@ -212,7 +214,7 @@
         }
     ],
     "wof:id":1175611407,
-    "wof:lastmodified":1563319238,
+    "wof:lastmodified":1566721745,
     "wof:name":"Slangerup",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

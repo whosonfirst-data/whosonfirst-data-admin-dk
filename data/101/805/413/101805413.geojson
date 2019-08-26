@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.562365,
     "lbl:longitude":10.09138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.562365,
     "mps:longitude":10.09138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0435\u043d\u0441\u0435"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.566667,
     "wd:longitude":10.088889,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2623857,
         "gp:id":552423,
-        "qs:id":1077563,
-        "qs_pg:id":1238073,
+        "qs_pg:id":1077563,
         "wd:id":"Q890536",
         "wk:page":"Bogense"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1238073
     },
     "wof:country":"DK",
     "wof:geomhash":"81c7e6119e5a2e565cd879a7e7b45984",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101805413,
-    "wof:lastmodified":1563319443,
+    "wof:lastmodified":1566721988,
     "wof:name":"Bogense",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

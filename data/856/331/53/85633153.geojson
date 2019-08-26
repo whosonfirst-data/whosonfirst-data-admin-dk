@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":62.185604,
     "lbl:longitude":-7.058429,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":62.185604,
     "mps:longitude":-7.058429,
     "mz:hierarchy_label":1,
@@ -652,20 +654,12 @@
         "Foroyar",
         "Nisoi Feroes"
     ],
-    "name:und_x_preferred":[
-        "F\u00e6reyjar",
-        "F\u00f8royar"
-    ],
     "name:und_x_variant":[
-        "Faersk\u00e9 ostrovy",
         "Farers'ki ostrovy",
         "Farerskie ostrova",
         "F\u00e4\u00e4rsaaret",
         "Illes Faroe",
         "N\u00edsoi Fer\u00f3es",
-        "Wyspy Owcze"
-    ],
-    "name:unk_x_variant":[
         "Faroerne"
     ],
     "name:urd_x_preferred":[
@@ -799,7 +793,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "statoids:dial":"298",
     "statoids:ds":"FO",
@@ -815,11 +809,6 @@
     "statoids:marc":"fa",
     "statoids:name":"Faroe Islands",
     "statoids:wmo":"FA",
-    "wof:belongs":[
-        102191581,
-        85633121,
-        136253045
-    ],
     "wof:belongsto":[
         102191581,
         136253045
@@ -853,7 +842,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1565672893,
+    "wof:lastmodified":1566721579,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",

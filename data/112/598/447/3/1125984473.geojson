@@ -9,15 +9,18 @@
     "geom:bbox":"8.79256,56.26539,8.79256,56.26539",
     "geom:latitude":56.26539,
     "geom:longitude":8.79256,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2875,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
     "gn:population":2875,
     "iso:country":"DK",
+    "lbl:bbox":"8.77256,56.24539,8.81256,56.28539",
     "lbl:latitude":56.26539,
     "lbl:longitude":8.79256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0432\u043b\u0443\u043c"
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Avlum"
     ],
-    "name:unk_x_variant":[
-        "Aulum"
-    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -81,7 +81,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":551943,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125984473,
-    "wof:lastmodified":1563319748,
+    "wof:lastmodified":1566722095,
     "wof:name":"Alrum",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

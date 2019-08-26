@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
+    "geom:area_square_m":498004.427509,
     "geom:bbox":"9.87838928123,56.9867581131,9.89154151575,56.9961092715",
     "geom:latitude":56.990845,
     "geom:longitude":9.884801,
     "iso:country":"DK",
     "lbl:latitude":56.990678,
     "lbl:longitude":9.884926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.990678,
     "mps:longitude":9.884926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
     "qs:a1r":"0",
@@ -29,7 +33,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297743,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":552784,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"DK",
     "wof:geomhash":"ea843f20f55b0f898755957f77330a2e",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101758497,
-    "wof:lastmodified":1530290663,
+    "wof:lastmodified":1566722003,
     "wof:name":"Dall Villaby",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

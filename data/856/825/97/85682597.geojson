@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":56.194412,
     "lbl:longitude":9.622835,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.194412,
     "mps:longitude":9.622835,
     "mz:hierarchy_label":1,
@@ -270,7 +271,7 @@
         "Region Mittjylland"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u04ae\u0437\u04d9\u043a \u042e\u0442\u043b\u0430\u043d\u0434\u0438\u044f"
@@ -369,9 +370,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-01-01",
+    "src:population_date":"2005-01-01",
     "statoids:area_km":"13,053",
     "statoids:area_mi":"5,040",
     "statoids:as_of_date":"2005-01-01",
@@ -417,7 +418,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1565672894,
+    "wof:lastmodified":1566721580,
     "wof:name":"Central Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

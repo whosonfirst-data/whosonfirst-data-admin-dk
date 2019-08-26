@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.484547,
     "lbl:longitude":9.978074,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.484547,
     "mps:longitude":9.978074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0434\u0435\u0440\u0443\u043f"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Brenderup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u00e6nderup"
     ],
     "qs:a0":"Danmark",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682575,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2623432,
         "gp:id":552629,
-        "qs:id":247438,
+        "qs_pg:id":247438,
         "wd:id":"Q1923876"
     },
     "wof:country":"DK",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101846017,
-    "wof:lastmodified":1563319529,
+    "wof:lastmodified":1566722006,
     "wof:name":"Brenderup",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

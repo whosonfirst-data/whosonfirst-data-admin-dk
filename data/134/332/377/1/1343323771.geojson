@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.43435,54.97354,12.47435,55.01354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343323771,
-    "wof:lastmodified":1562796690,
+    "wof:lastmodified":1566721531,
     "wof:name":"Ny Borre",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

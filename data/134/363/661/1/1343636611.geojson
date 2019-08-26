@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.17624,56.96205,10.21624,57.00205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Skelhuse",
         "Skellet"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343636611,
-    "wof:lastmodified":1537619814,
+    "wof:lastmodified":1566721515,
     "wof:name":"Skellet",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

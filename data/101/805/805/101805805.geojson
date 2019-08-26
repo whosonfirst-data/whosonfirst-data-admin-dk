@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.751153,
     "lbl:longitude":8.422381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.751153,
     "mps:longitude":8.422381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hurup"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Hurup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thy"
     ],
     "qs:a0":"Danmark",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2619624,
         "gp:id":554403,
-        "qs:id":140595,
         "qs_pg:id":140595,
         "wd:id":"Q1879794",
         "wk:page":"Hurup Thy"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101805805,
-    "wof:lastmodified":1563319458,
+    "wof:lastmodified":1566721991,
     "wof:name":"Hurup",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

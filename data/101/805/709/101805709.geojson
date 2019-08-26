@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.572811,
     "lbl:longitude":9.037557,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.572811,
     "mps:longitude":9.037557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Skive"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.5664,
     "wd:longitude":9.0219,
@@ -138,10 +141,12 @@
     "wof:concordances":{
         "gn:id":2613616,
         "gp:id":557067,
-        "qs:id":474310,
         "qs_pg:id":281970,
         "wd:id":"Q1019470",
         "wk:page":"Skive, Denmark"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":474310
     },
     "wof:country":"DK",
     "wof:geomhash":"ff21712bf05859c468845b94a2cdc4fa",
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":101805709,
-    "wof:lastmodified":1563319437,
+    "wof:lastmodified":1566721986,
     "wof:name":"Skive",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

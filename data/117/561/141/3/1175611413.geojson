@@ -15,6 +15,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.666083,
     "lbl:longitude":12.583143,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.664418,
     "mps:longitude":12.585339,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:tat_x_preferred":[
         "\u0410\u043c\u0430\u0433\u0435\u0440\u0431\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Amagerbro"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2618425,
@@ -80,7 +78,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
@@ -94,9 +92,11 @@
         "fct:id":"07c87c3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2624739,
         "gp:id":551972,
-        "qs:id":1079038,
         "qs_pg:id":23874,
         "wd:id":"Q3375590"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079038
     },
     "wof:country":"DK",
     "wof:geomhash":"4e01199b7a6bc2b1f945d83fb275c2dd",
@@ -114,7 +114,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319237,
+    "wof:lastmodified":1566721745,
     "wof:name":"Amagerbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":56.973578,
     "lbl:longitude":9.924653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.973578,
     "mps:longitude":9.924653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0644\u0628\u0648\u0631\u063a"
     ],
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1564129025,
+    "wof:lastmodified":1566722242,
     "wof:name":"Aalborg",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

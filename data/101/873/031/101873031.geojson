@@ -10,13 +10,17 @@
     "geom:latitude":55.679192,
     "geom:longitude":12.097986,
     "iso:country":"DK",
+    "lbl:bbox":"12.077986,55.659192,12.117986,55.699192",
     "lbl:latitude":55.679192,
     "lbl:longitude":12.097986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.679192,
     "mps:longitude":12.097986,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Vedelev"
     ],
     "qs:a0":"Danmark",
@@ -36,7 +40,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394013999,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":2610671,
         "gp:id":558505,
-        "qs:id":1312952,
         "qs_pg:id":1312952
     },
     "wof:country":"DK",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101873031,
-    "wof:lastmodified":1562796268,
+    "wof:lastmodified":1566721981,
     "wof:name":"Veddelev",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

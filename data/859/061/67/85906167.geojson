@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.678655,
     "lbl:longitude":12.581952,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.678723,
     "mps:longitude":12.582093,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Silkegade"
     ],
     "name:eng_x_variant":[
-        "Silkegade"
-    ],
-    "name:unk_x_variant":[
         "Silkegade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -60,7 +58,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -85,7 +83,7 @@
         }
     ],
     "wof:id":85906167,
-    "wof:lastmodified":1564128142,
+    "wof:lastmodified":1566721556,
     "wof:name":"Silkegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

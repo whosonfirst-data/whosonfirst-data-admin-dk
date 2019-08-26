@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.677075,
     "lbl:longitude":12.571413,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.677004,
     "mps:longitude":12.571552,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Sankt Peders Str\u00e6de"
     ],
     "name:nor_x_variant":[
-        "Larsbj\u00f8rnsstr\u00e6de"
-    ],
-    "name:unk_x_variant":[
         "Larsbj\u00f8rnsstr\u00e6de"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -69,7 +67,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -94,7 +92,7 @@
         }
     ],
     "wof:id":85906025,
-    "wof:lastmodified":1564128160,
+    "wof:lastmodified":1566721571,
     "wof:name":"Larsbj\u00f8rnsstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

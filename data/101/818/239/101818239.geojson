@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.216611,
     "lbl:longitude":10.595908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.216611,
     "mps:longitude":10.595908,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":2621458,
         "gp:id":553525,
-        "qs:id":960530
+        "qs_pg:id":960530
     },
     "wof:country":"DK",
     "wof:geomhash":"e63f45298a9eabf562af8c930f08f0f9",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101818239,
-    "wof:lastmodified":1562796300,
+    "wof:lastmodified":1566721978,
     "wof:name":"Gislev",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

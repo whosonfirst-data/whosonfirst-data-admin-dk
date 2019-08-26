@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.682309,
     "lbl:longitude":12.596453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.682262,
     "mps:longitude":12.596616,
     "mz:hierarchy_label":1,
@@ -57,9 +58,6 @@
     "name:swe_x_preferred":[
         "Holmen"
     ],
-    "name:unk_x_variant":[
-        "Holmen"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2618425,
@@ -88,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2620086,
         "gp:id":554234,
-        "qs:id":1082928,
         "qs_pg:id":1082928,
         "wd:id":"Q761716",
         "wk:page":"Holmen, Copenhagen"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318899,
+    "wof:lastmodified":1566721581,
     "wof:name":"Holmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

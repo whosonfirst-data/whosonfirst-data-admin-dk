@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":142806.044227,
+    "geom:area_square_m":142806.044228,
     "geom:bbox":"12.5820922852,55.6907457862,12.5880378443,55.6946159408",
     "geom:latitude":55.692792,
     "geom:longitude":12.585131,
     "iso:country":"DK",
     "lbl:latitude":55.692815,
     "lbl:longitude":12.585669,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.692919,
     "mps:longitude":12.585329,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "Vildandegade"
-    ],
-    "name:unk_x_variant":[
         "Vildandegade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -57,7 +55,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -82,7 +80,7 @@
         }
     ],
     "wof:id":85906257,
-    "wof:lastmodified":1530296597,
+    "wof:lastmodified":1566721552,
     "wof:name":"Vildandegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

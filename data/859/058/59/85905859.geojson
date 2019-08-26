@@ -15,6 +15,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.671612,
     "lbl:longitude":12.593629,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.67139,
     "mps:longitude":12.593702,
     "mz:hierarchy_label":1,
@@ -93,10 +94,6 @@
     "name:swe_x_preferred":[
         "Christianshavn"
     ],
-    "name:unk_x_variant":[
-        "Christianshavn",
-        "Chistianshavn Torv"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2618425,
@@ -125,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":55.673611,
     "wd:longitude":12.593056,
@@ -142,7 +139,6 @@
         "gn:id":2623181,
         "gp:id":20229121,
         "loc:id":"n80028051",
-        "qs:id":1181888,
         "qs_pg:id":1181888,
         "wd:id":"Q861363",
         "wk:page":"Christianshavn"
@@ -163,7 +159,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318860,
+    "wof:lastmodified":1566721564,
     "wof:name":"Chistianshavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

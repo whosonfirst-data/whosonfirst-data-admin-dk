@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.93414,57.32001,9.97414,57.36001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00f8nder Vraa",
         "S\u00f8nder Vr\u00e5"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276939693,
-    "wof:lastmodified":1562794568,
+    "wof:lastmodified":1566721640,
     "wof:name":"Sonder Vra",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

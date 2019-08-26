@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.805922,
     "lbl:longitude":8.618247,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.805922,
     "mps:longitude":8.618247,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "\u00d8lgod Kommune"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":2615749,
         "gp:id":556080,
-        "qs:id":182708,
         "qs_pg:id":182708,
         "wd:id":"Q308130",
         "wk:page":"\u00d8lgod"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101805445,
-    "wof:lastmodified":1563319485,
+    "wof:lastmodified":1566721997,
     "wof:name":"\u00d8lgod",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

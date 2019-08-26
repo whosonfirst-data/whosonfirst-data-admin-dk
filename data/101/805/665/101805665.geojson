@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.212445,
     "lbl:longitude":10.033533,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.212445,
     "mps:longitude":10.033533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0431\u0440\u043e"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.2125,
     "wd:longitude":10.0333,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2614343,
         "gp:id":556785,
-        "qs:id":1036698,
         "qs_pg:id":1036698,
         "wd:id":"Q7396449"
     },
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101805665,
-    "wof:lastmodified":1563319491,
+    "wof:lastmodified":1566721998,
     "wof:name":"Sabro",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

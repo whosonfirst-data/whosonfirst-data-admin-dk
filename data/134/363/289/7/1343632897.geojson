@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.18515,55.65661,12.22515,55.69661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vadsby",
         "Vasby"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343632897,
-    "wof:lastmodified":1562795414,
+    "wof:lastmodified":1566721515,
     "wof:name":"Vasby",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

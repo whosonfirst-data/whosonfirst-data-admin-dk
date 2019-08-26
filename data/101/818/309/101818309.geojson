@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.545239,
     "lbl:longitude":11.7145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.545239,
     "mps:longitude":11.7145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Store Merl\u00f8se"
     ],
@@ -28,7 +31,7 @@
     "name:spa_x_preferred":[
         "Store Merl\u00f8se"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merl\u00f6se"
     ],
     "qs:a0":"Danmark",
@@ -46,7 +49,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":99,
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2612381,
         "gp:id":557686,
-        "qs:id":58778,
+        "qs_pg:id":58778,
         "wd:id":"Q2225982",
         "wk:page":"Store Merl\u00f8se"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101818309,
-    "wof:lastmodified":1563319365,
+    "wof:lastmodified":1566721969,
     "wof:name":"Store Merl\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

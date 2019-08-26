@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.914606,
     "lbl:longitude":9.721556,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.914606,
     "mps:longitude":9.721556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dybb\u00f8l"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.914722,
     "wd:longitude":9.724444,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2622854,
         "gp:id":552892,
-        "qs:id":968204,
         "qs_pg:id":968204,
         "wd:id":"Q2567585",
         "wk:page":"Dybb\u00f8l"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101846033,
-    "wof:lastmodified":1563319531,
+    "wof:lastmodified":1566722006,
     "wof:name":"Dybb\u00f8l",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

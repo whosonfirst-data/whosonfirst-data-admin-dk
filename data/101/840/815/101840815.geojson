@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.102895,
     "lbl:longitude":12.196327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.102895,
     "mps:longitude":12.196327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014111,
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":2613356,
         "gp:id":557219,
-        "qs:id":182744,
         "qs_pg:id":182744
     },
     "wof:country":"DK",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":101840815,
-    "wof:lastmodified":1562795876,
+    "wof:lastmodified":1566722009,
     "wof:name":"Smidstrup",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

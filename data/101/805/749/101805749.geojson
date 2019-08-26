@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.203208,
     "lbl:longitude":9.018315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.203208,
     "mps:longitude":9.018315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u043d\u0434\u0441"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Sunds"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sunde"
     ],
     "qs:a0":"Danmark",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2612107,
         "gp:id":557807,
-        "qs:id":976298,
         "qs_pg:id":976298,
         "wd:id":"Q2788609"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101805749,
-    "wof:lastmodified":1563319461,
+    "wof:lastmodified":1566721992,
     "wof:name":"Sunds",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.837227,
     "lbl:longitude":9.893238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.837227,
     "mps:longitude":9.893238,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sk\u00f8rping"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_variant":[
         "Sk\u00f6rping"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sk\u00f6rping Stationsby"
     ],
     "qs:a0":"Danmark",
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":437,
     "wof:belongsto":[
@@ -94,10 +97,12 @@
     "wof:concordances":{
         "gn:id":2613672,
         "gp:id":557094,
-        "qs:id":1079060,
         "qs_pg:id":1036696,
         "wd:id":"Q3413549",
         "wk:page":"Sk\u00f8rping"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079060
     },
     "wof:country":"DK",
     "wof:geomhash":"2d875d928a8fd35cb55c884eed5f4e96",
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101805769,
-    "wof:lastmodified":1563319469,
+    "wof:lastmodified":1566721993,
     "wof:name":"Sk\u00f8rping",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

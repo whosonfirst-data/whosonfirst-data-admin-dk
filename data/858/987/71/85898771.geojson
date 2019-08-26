@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.715149,
     "lbl:longitude":12.536884,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.759894,
     "mps:longitude":12.58852,
     "mz:hierarchy_label":1,
@@ -63,10 +64,6 @@
     "name:swe_x_preferred":[
         "Bispebjerg"
     ],
-    "name:unk_x_variant":[
-        "Bispebj\u00e6rg",
-        "Bispebjerg"
-    ],
     "name:zho_x_preferred":[
         "\u6bd4\u65af\u4f69\u5e03\u6770\u683c"
     ],
@@ -98,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191581,
@@ -111,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2624090,
         "gp:id":552311,
-        "qs:id":900917,
         "qs_pg:id":900917,
         "wd:id":"Q339420"
     },
@@ -131,7 +127,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318901,
+    "wof:lastmodified":1566721581,
     "wof:name":"Bispebjerg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

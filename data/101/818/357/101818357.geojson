@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.312036,
     "lbl:longitude":12.059896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.312036,
     "mps:longitude":12.059896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Dalby"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2623134,
         "gp:id":552779,
-        "qs:id":963970,
+        "qs_pg:id":963970,
         "wd:id":"Q1157819"
     },
     "wof:country":"DK",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101818357,
-    "wof:lastmodified":1563319389,
+    "wof:lastmodified":1566721975,
     "wof:name":"Dalby",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

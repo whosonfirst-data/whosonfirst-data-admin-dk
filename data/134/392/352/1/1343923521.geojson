@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.6992,57.06351,8.7392,57.10351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swe_x_preferred":[
         "Bjerre"
     ],
     "name:und_x_variant":[
-        "Bj\u00e6rge",
-        "Bjerre"
+        "Bj\u00e6rge"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343923521,
-    "wof:lastmodified":1564128086,
+    "wof:lastmodified":1566721529,
     "wof:name":"Bjerre",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

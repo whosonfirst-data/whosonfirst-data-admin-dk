@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.684766,
     "lbl:longitude":11.083663,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.684766,
     "mps:longitude":11.083663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kalundborg"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0443\u043d\u0434\u0431\u043e\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Kallundborg"
-    ],
     "name:vie_x_preferred":[
         "Kalundborg"
     ],
@@ -165,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":813,
     "wof:belongsto":[
@@ -179,9 +179,11 @@
         "fct:id":"07c4c4e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2619154,
         "gp:id":554636,
-        "qs:id":894439,
-        "qs_pg:id":1059333,
+        "qs_pg:id":894439,
         "wd:id":"Q204957"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059333
     },
     "wof:country":"DK",
     "wof:geomhash":"de4fd6ecddd00c475cc54224ae7a2fac",
@@ -198,7 +200,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319411,
+    "wof:lastmodified":1566721980,
     "wof:name":"Kalundborg",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

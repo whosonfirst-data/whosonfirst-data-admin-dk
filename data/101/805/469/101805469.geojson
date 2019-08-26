@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.888596,
     "lbl:longitude":9.673436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.888596,
     "mps:longitude":9.673436,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Broager"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":279,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2623394,
         "gp:id":552641,
-        "qs:id":247433,
         "qs_pg:id":247433,
         "wd:id":"Q682084",
         "wk:page":"Broager"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101805469,
-    "wof:lastmodified":1563319487,
+    "wof:lastmodified":1566721997,
     "wof:name":"Broager",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

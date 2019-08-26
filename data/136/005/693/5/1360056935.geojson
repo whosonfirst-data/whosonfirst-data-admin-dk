@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.46177,55.83643,12.50177,55.87643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "H\u00f8sterk\u00f8b"
     ],
@@ -36,8 +40,7 @@
         "H\u00f8sterk\u00f8b"
     ],
     "name:und_x_variant":[
-        "H\u00f6sterkj\u00f6b",
-        "H\u00f8sterk\u00f8b"
+        "H\u00f6sterkj\u00f6b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360056935,
-    "wof:lastmodified":1564128611,
+    "wof:lastmodified":1566721787,
     "wof:name":"Hosterkob",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

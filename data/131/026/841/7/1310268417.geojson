@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"15.07756,55.03254,15.11756,55.07254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310268417,
-    "wof:lastmodified":1562794697,
+    "wof:lastmodified":1566721767,
     "wof:name":"Langedeby",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

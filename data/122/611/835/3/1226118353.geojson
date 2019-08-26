@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.97047,56.23411,9.01047,56.27411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d8ster Snebtrup",
         "Snetrup Huse",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226118353,
-    "wof:lastmodified":1537619810,
+    "wof:lastmodified":1566722339,
     "wof:name":"Sneptrup",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

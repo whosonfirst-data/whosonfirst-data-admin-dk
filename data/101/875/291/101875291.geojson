@@ -10,12 +10,16 @@
     "geom:latitude":55.348075,
     "geom:longitude":10.492913,
     "iso:country":"DK",
+    "lbl:bbox":"10.472913,55.328075,10.512913,55.368075",
     "lbl:latitude":55.348075,
     "lbl:longitude":10.492913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.348075,
     "mps:longitude":10.492913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Fraugde"
     ],
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Fraugde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fravde"
     ],
     "qs:a0":"Danmark",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85682575,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101875291,
-    "wof:lastmodified":1563319430,
+    "wof:lastmodified":1566721984,
     "wof:name":"Fraugde",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.271545,
     "lbl:longitude":10.31577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.271545,
     "mps:longitude":10.31577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vejle"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Vejle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vejlev"
     ],
     "qs:a0":"Danmark",
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":8.0,
     "wd:latitude":55.708333,
     "wd:longitude":9.533333,
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":2610614,
         "gp:id":558545,
-        "qs:id":927845,
+        "qs_pg:id":927845,
         "wd:id":"Q12343757"
     },
     "wof:country":"DK",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101818245,
-    "wof:lastmodified":1563319375,
+    "wof:lastmodified":1566721972,
     "wof:name":"Vejle",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

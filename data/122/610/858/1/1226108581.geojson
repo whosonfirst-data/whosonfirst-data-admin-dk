@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.26945,56.13147,8.30945,56.17147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lilkj\u00e6r",
         "Lilk\u00e6r"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226108581,
-    "wof:lastmodified":1562796085,
+    "wof:lastmodified":1566722332,
     "wof:name":"Lilkaer",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

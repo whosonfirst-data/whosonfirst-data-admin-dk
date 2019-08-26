@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.37207,55.25239,12.41207,55.29239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lille Hedinge",
         "Lille Heddinge"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360050289,
-    "wof:lastmodified":1537619844,
+    "wof:lastmodified":1566721788,
     "wof:name":"Lille Heddinge",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

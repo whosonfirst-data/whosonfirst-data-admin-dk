@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.927747,
     "lbl:longitude":9.844599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.927747,
     "mps:longitude":9.844599,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Gedved"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Gedveds kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gjedved"
     ],
     "qs:a0":"Danmark",
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2621546,
         "gp:id":553480,
-        "qs:id":1013540,
         "qs_pg:id":1013540,
         "wd:id":"Q3413080",
         "wk:page":"Gedved"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101805737,
-    "wof:lastmodified":1563319435,
+    "wof:lastmodified":1566721986,
     "wof:name":"Gedved",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

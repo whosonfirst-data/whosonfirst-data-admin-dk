@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.64779,55.3634,10.68779,55.4034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fl\u00f8strup",
         "Fl\u00f8dstrup"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209589595,
-    "wof:lastmodified":1562794447,
+    "wof:lastmodified":1566721698,
     "wof:name":"Flodstrup",
     "wof:parent_id":1394014139,
     "wof:placetype":"locality",

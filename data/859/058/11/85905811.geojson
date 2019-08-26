@@ -13,6 +13,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.682642,
     "lbl:longitude":12.594044,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.682907,
     "mps:longitude":12.594403,
     "mz:hierarchy_label":1,
@@ -133,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u043b\u0456\u0454\u043d\u0431\u043e\u0440\u0433"
     ],
-    "name:unk_x_variant":[
-        "Amalienborg"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u9a6c\u6797\u5821\u5bab"
     ],
@@ -166,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2611,
     "wof:belongsto":[
         102191581,
@@ -178,7 +176,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20229066,
-        "qs:id":1121042,
         "qs_pg:id":1121042,
         "wd:id":"Q211053"
     },
@@ -198,7 +195,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318863,
+    "wof:lastmodified":1566721565,
     "wof:name":"Amalienborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

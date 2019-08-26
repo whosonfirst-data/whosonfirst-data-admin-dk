@@ -9,14 +9,18 @@
     "geom:bbox":"12.40996,55.65029,12.40996,55.65029",
     "geom:latitude":55.65029,
     "geom:longitude":12.40996,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"12.38996,55.63029,12.42996,55.67029",
     "lbl:latitude":55.65029,
     "lbl:longitude":12.40996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Br\u00f8ndbyvester"
@@ -75,7 +79,7 @@
     "name:tur_x_preferred":[
         "Br\u00f8ndbyvester"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Br\u00f6ndby"
     ],
     "qs_pg:aaroncc":"DK",
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":552663,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Hovedstaden",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1126060429,
-    "wof:lastmodified":1563319760,
+    "wof:lastmodified":1566722099,
     "wof:name":"Br\u00f8ndbyvester",
     "wof:parent_id":1394014151,
     "wof:placetype":"locality",

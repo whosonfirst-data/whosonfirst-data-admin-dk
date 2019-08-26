@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.65297,55.05697,8.69297,55.09697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Husum",
         "Husum-Ballum"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226216567,
-    "wof:lastmodified":1562795995,
+    "wof:lastmodified":1566722335,
     "wof:name":"Husum-Ballum",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

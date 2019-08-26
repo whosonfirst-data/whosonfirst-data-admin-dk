@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.21271,54.7185,11.25271,54.7585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hoby"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327096263,
-    "wof:lastmodified":1564127952,
+    "wof:lastmodified":1566721465,
     "wof:name":"Hoby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

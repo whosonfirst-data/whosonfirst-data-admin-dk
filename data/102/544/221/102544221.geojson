@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Skive Airport"
     ],
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":102544221,
-    "wof:lastmodified":1563318741,
+    "wof:lastmodified":1566721506,
     "wof:name":"Skive Lufthavn",
     "wof:parent_id":1394014073,
     "wof:placetype":"campus",

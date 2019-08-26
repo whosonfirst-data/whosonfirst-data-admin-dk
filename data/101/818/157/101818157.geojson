@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.890698,
     "lbl:longitude":10.405076,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.890698,
     "mps:longitude":10.405076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u00c6r\u00f8sk\u00f8bing"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "\u00c6r\u00f8sk\u00f8bing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c6roskiobing"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.8892,
     "wd:longitude":10.4081,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":2625001,
         "gp:id":551840,
-        "qs:id":1079037,
         "qs_pg:id":356199,
         "wd:id":"Q272129",
         "wk:page":"\u00c6r\u00f8sk\u00f8bing"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1079037
     },
     "wof:country":"DK",
     "wof:geomhash":"18d6621b04a17b6ff5dcd9332bdba56f",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101818157,
-    "wof:lastmodified":1563319366,
+    "wof:lastmodified":1566721969,
     "wof:name":"\u00c6r\u00f8sk\u00f8bing",
     "wof:parent_id":1394014069,
     "wof:placetype":"locality",

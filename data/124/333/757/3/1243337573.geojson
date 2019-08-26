@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.94935,54.87717,9.98935,54.91717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Viby",
         "Vib\u00f8ge"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243337573,
-    "wof:lastmodified":1562796197,
+    "wof:lastmodified":1566722286,
     "wof:name":"Viboge",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

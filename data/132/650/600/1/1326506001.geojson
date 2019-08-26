@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.66928,56.29354,9.70928,56.33354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borre"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1326506001,
-    "wof:lastmodified":1564127985,
+    "wof:lastmodified":1566721480,
     "wof:name":"Borre",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

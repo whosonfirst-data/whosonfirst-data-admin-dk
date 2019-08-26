@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.231776,
     "lbl:longitude":10.257838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.231776,
     "mps:longitude":10.257838,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062a\u0634\u0627\u0631\u062f \u0645\u0648\u0644\u0631 \u0646\u064a\u0644\u0633\u0648\u0646"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2623385,
         "gp:id":552645,
-        "qs:id":931056
+        "qs_pg:id":931056
     },
     "wof:country":"DK",
     "wof:geomhash":"b8f24a38ddc4872ac03ca5fd26467d37",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101805439,
-    "wof:lastmodified":1562796314,
+    "wof:lastmodified":1566721989,
     "wof:name":"Brobyv\u00e6rk",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

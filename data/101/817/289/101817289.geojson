@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.343296,
     "lbl:longitude":10.459091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.343296,
     "mps:longitude":10.459091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0445\u043e\u0440\u0441\u0430\u0433\u0435\u0440"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Thorsager"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torsager"
     ],
     "qs:a0":"Danmark",
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2611751,
         "gp:id":557977,
-        "qs:id":1156392,
         "qs_pg:id":1156392,
         "wd:id":"Q2187840",
         "wk:page":"Thorsager"
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101817289,
-    "wof:lastmodified":1563319424,
+    "wof:lastmodified":1566721982,
     "wof:name":"Thorsager",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.674906,
     "lbl:longitude":12.599779,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.67507,
     "mps:longitude":12.599377,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:sqi_x_preferred":[
         "Andreas Bj\u00f8rn"
     ],
-    "name:unk_x_variant":[
-        "Andreas Bj\u00f8rns Gade"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
     "qs:gn_local":2618425,
@@ -93,7 +91,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":344,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,7 @@
         }
     ],
     "wof:id":85905813,
-    "wof:lastmodified":1563318869,
+    "wof:lastmodified":1566721567,
     "wof:name":"Andreas Bj\u00f8rns Gade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

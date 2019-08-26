@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.680359,
     "lbl:longitude":12.573726,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.680567,
     "mps:longitude":12.573403,
     "mz:hierarchy_label":1,
@@ -48,9 +49,6 @@
     "name:swe_x_preferred":[
         "Krystalgade"
     ],
-    "name:unk_x_variant":[
-        "Krystalgade"
-    ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
     "qs:gn_local":2618425,
@@ -78,7 +76,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":652,
     "wof:belongsto":[
         102191581,
@@ -105,7 +103,7 @@
         }
     ],
     "wof:id":85906011,
-    "wof:lastmodified":1563318872,
+    "wof:lastmodified":1566721568,
     "wof:name":"Krystalgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

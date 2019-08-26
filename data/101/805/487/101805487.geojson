@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.711132,
     "lbl:longitude":9.455292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.711132,
     "mps:longitude":9.455292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -42,7 +45,7 @@
     "wof:concordances":{
         "gn:id":2613760,
         "gp:id":557050,
-        "qs:id":58538
+        "qs_pg:id":58538
     },
     "wof:country":"DK",
     "wof:geomhash":"7cb04fde76d0ca0ca14a1628e0fd78df",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101805487,
-    "wof:lastmodified":1562796852,
+    "wof:lastmodified":1566721996,
     "wof:name":"Skibet",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

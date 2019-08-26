@@ -13,6 +13,8 @@
     "iso:country":"DK",
     "lbl:latitude":55.477836,
     "lbl:longitude":8.448795,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.477836,
     "mps:longitude":8.448795,
     "mz:hierarchy_label":1,
@@ -259,7 +261,7 @@
     "name:ukr_x_variant":[
         "\u0415\u0441\u0431\u0454\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esbj\u00e6rg"
     ],
     "name:urd_x_preferred":[
@@ -389,7 +391,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.470833,
     "wd:longitude":8.451389,
@@ -407,7 +409,6 @@
         "fct:id":"07c416a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2622447,
         "gp:id":553065,
-        "qs:id":679658,
         "qs_pg:id":679658,
         "wd:id":"Q26234",
         "wk:page":"Esbjerg"
@@ -428,7 +429,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319516,
+    "wof:lastmodified":1566722002,
     "wof:name":"Esbjerg",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

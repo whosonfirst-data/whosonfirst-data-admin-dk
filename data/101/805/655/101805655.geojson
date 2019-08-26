@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.141957,
     "lbl:longitude":8.943268,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.141957,
     "mps:longitude":8.943268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0646\u064a\u0646\u063a"
     ],
@@ -204,7 +207,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":58.0,
     "wd:latitude":56.133333,
@@ -220,10 +223,12 @@
     "wof:concordances":{
         "gn:id":2620547,
         "gp:id":554015,
-        "qs:id":894451,
         "qs_pg:id":402316,
         "wd:id":"Q27393",
         "wk:page":"Herning"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":894451
     },
     "wof:country":"DK",
     "wof:geomhash":"926de05472485f7fc34544386d40bdf1",
@@ -237,7 +242,7 @@
         }
     ],
     "wof:id":101805655,
-    "wof:lastmodified":1563319486,
+    "wof:lastmodified":1566721997,
     "wof:name":"Herning",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

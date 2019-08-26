@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.56426,55.57517,12.60426,55.61517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226820617,
-    "wof:lastmodified":1562795550,
+    "wof:lastmodified":1566722354,
     "wof:name":"Viberup",
     "wof:parent_id":1394013997,
     "wof:placetype":"locality",

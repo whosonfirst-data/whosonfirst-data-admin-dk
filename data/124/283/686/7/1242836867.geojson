@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.47775,57.27431,10.51775,57.31431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dyrhede",
         "Dyrheden"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242836867,
-    "wof:lastmodified":1562796406,
+    "wof:lastmodified":1566722289,
     "wof:name":"Dyrheden",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

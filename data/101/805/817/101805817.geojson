@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.265244,
     "lbl:longitude":9.610408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.265244,
     "mps:longitude":9.610408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "L\u00f8kken"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "L\u00f8kken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lekken"
     ],
     "qs:a0":"Danmark",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":2617443,
         "gp:id":555320,
-        "qs:id":1165790,
         "qs_pg:id":1165790,
         "wd:id":"Q1021910"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101805817,
-    "wof:lastmodified":1563319445,
+    "wof:lastmodified":1566721988,
     "wof:name":"L\u00f8kken",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

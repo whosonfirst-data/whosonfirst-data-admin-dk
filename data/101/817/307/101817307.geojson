@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.996107,
     "lbl:longitude":10.308999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.996107,
     "mps:longitude":10.308999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u0441"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2620871,
         "gp:id":553809,
-        "qs:id":900923,
         "qs_pg:id":900923,
         "wd:id":"Q678119",
         "wk:page":"Hals Municipality"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101817307,
-    "wof:lastmodified":1563319422,
+    "wof:lastmodified":1566721982,
     "wof:name":"Hals",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.682707,
     "lbl:longitude":12.592018,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.682569,
     "mps:longitude":12.59188,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Frederiksgade"
     ],
     "name:nor_x_preferred":[
-        "Frederiksgade"
-    ],
-    "name:unk_x_variant":[
         "Frederiksgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -69,7 +67,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":262,
     "wof:belongsto":[
         102191581,
@@ -96,7 +94,7 @@
         }
     ],
     "wof:id":85905915,
-    "wof:lastmodified":1563318857,
+    "wof:lastmodified":1566721563,
     "wof:name":"Frederiksgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

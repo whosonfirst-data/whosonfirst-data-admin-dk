@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.94667,54.96333,9.98667,55.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Katr\u00f6d",
         "Katryde"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260246309,
-    "wof:lastmodified":1562796210,
+    "wof:lastmodified":1566721728,
     "wof:name":"Katryde",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

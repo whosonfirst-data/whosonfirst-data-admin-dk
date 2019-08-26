@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.843903,
     "lbl:longitude":9.229689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.843903,
     "mps:longitude":9.229689,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0438\u0432\u0435"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.8439,
     "wd:longitude":9.2383,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2621448,
         "gp:id":553530,
-        "qs:id":968087,
         "qs_pg:id":968087,
         "wd:id":"Q4994802",
         "wk:page":"Give (Denmark)"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101805443,
-    "wof:lastmodified":1563319477,
+    "wof:lastmodified":1566721995,
     "wof:name":"Give",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

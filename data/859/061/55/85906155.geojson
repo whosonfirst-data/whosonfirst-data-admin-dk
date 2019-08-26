@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":48004.850233,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.555697,55.679843,12.555697,55.679843",
     "geom:latitude":55.679843,
     "geom:longitude":12.555697,
     "iso:country":"DK",
     "lbl:latitude":55.679843,
     "lbl:longitude":12.555697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.680075,
     "mps:longitude":12.555337,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "St. Markus All\u00e9"
-    ],
-    "name:unk_x_variant":[
         "St. Markus All\u00e9"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -59,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":85906155,
-    "wof:lastmodified":1531936411,
+    "wof:lastmodified":1566721559,
     "wof:name":"St. Markus All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

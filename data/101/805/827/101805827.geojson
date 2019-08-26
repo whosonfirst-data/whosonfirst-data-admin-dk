@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.271606,
     "lbl:longitude":9.947896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.271606,
     "mps:longitude":9.947896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Br\u00f8nderslev"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.2661,
     "wd:longitude":9.94722,
@@ -120,10 +123,12 @@
     "wof:concordances":{
         "gn:id":2623337,
         "gp:id":552666,
-        "qs:id":1327337,
         "qs_pg:id":1238072,
         "wd:id":"Q995880",
         "wk:page":"Br\u00f8nderslev"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327337
     },
     "wof:country":"DK",
     "wof:geomhash":"9a673eb119355b6b2d653acbfaed34cc",
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":101805827,
-    "wof:lastmodified":1563319439,
+    "wof:lastmodified":1566721987,
     "wof:name":"Br\u00f8nderslev",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

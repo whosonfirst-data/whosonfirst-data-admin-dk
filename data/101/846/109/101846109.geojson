@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.64339,
     "lbl:longitude":8.811091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.64339,
     "mps:longitude":8.811091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "R\u00f8dding"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":254,
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2614620,
         "gp:id":556648,
-        "qs:id":927686
+        "qs_pg:id":927686
     },
     "wof:country":"DK",
     "wof:geomhash":"22dfb52954d1a10cb64059cf584eea83",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101846109,
-    "wof:lastmodified":1564128754,
+    "wof:lastmodified":1566722005,
     "wof:name":"R\u00f8dding",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

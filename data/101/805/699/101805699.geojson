@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.894366,
     "lbl:longitude":10.001525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.894366,
     "mps:longitude":10.001525,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014083,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2612871,
         "gp:id":557503,
-        "qs:id":931793
+        "qs_pg:id":931793
     },
     "wof:country":"DK",
     "wof:geomhash":"106015b6d186ba68aa3d0df7eff67099",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101805699,
-    "wof:lastmodified":1562795891,
+    "wof:lastmodified":1566721997,
     "wof:name":"S\u00f8vind",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

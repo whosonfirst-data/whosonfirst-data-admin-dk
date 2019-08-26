@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":758513.977375,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.529186,55.676225,12.529186,55.676225",
     "geom:latitude":55.676225,
     "geom:longitude":12.529186,
     "iso:country":"DK",
     "lbl:latitude":55.676225,
     "lbl:longitude":12.529186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.676035,
     "mps:longitude":12.52691,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
         "Falkonerg\u00e5rden"
     ],
     "name:eng_x_variant":[
-        "Dr.Priemes Vej"
-    ],
-    "name:unk_x_variant":[
         "Dr.Priemes Vej"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -62,13 +60,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":85905881,
-    "wof:lastmodified":1531936405,
+    "wof:lastmodified":1566721566,
     "wof:name":"Dr.Priemes Vej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

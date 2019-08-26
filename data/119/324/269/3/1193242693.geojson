@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.21741,55.02254,9.25741,55.06254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kass\u00f8 Kaadnergade",
         "Kaadnerhuse",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193242693,
-    "wof:lastmodified":1562794756,
+    "wof:lastmodified":1566721716,
     "wof:name":"Kasso Kadnergade",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

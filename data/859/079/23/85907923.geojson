@@ -11,8 +11,10 @@
     "geom:longitude":10.138414,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"10.133414,56.16117,10.143414,56.17117",
     "lbl:latitude":56.16617,
     "lbl:longitude":10.138414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.157783,
     "mps:longitude":10.132684,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:eng_x_variant":[
         "Aarhus V"
     ],
-    "name:unk_x_variant":[
-        "\u00c5rhus V"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":22782,
@@ -70,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":926,
     "wof:belongsto":[
         102191581,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875616,
-        "qs:id":891801,
         "qs_pg:id":891801,
         "wd:id":"Q4661724"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563318830,
+    "wof:lastmodified":1566721551,
     "wof:name":"\u00c5rhus V",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

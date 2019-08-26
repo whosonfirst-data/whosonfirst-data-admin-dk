@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.9857,55.02331,12.0257,55.06331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00f8dstofte",
         "R\u00f8stofte"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327109075,
-    "wof:lastmodified":1562796768,
+    "wof:lastmodified":1566721500,
     "wof:name":"Rostofte",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

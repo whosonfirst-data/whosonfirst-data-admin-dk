@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.14066,55.32536,12.18066,55.36536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vraaby",
         "Vr\u00e5by"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326892253,
-    "wof:lastmodified":1537619787,
+    "wof:lastmodified":1566721471,
     "wof:name":"Vraby",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

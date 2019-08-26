@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.60904,55.53223,8.64904,55.57223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Roust",
         "Rovst"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276306665,
-    "wof:lastmodified":1562797100,
+    "wof:lastmodified":1566721666,
     "wof:name":"Rovst",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.965639,
     "lbl:longitude":9.391156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.965639,
     "mps:longitude":9.391156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "N\u00f8rre-Snede Kommune"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014107,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":2616248,
         "gp:id":555891,
-        "qs:id":931510,
+        "qs_pg:id":931510,
         "wd:id":"Q1812841",
         "wk:page":"N\u00f8rre-Snede Municipality"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101805623,
-    "wof:lastmodified":1563319480,
+    "wof:lastmodified":1566721996,
     "wof:name":"N\u00f8rre Snede",
     "wof:parent_id":1394014107,
     "wof:placetype":"locality",

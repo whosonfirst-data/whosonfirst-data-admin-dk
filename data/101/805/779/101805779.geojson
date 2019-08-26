@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.887495,
     "lbl:longitude":9.832628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.887495,
     "mps:longitude":9.832628,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "St\u00f8vring"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -100,10 +103,12 @@
     "wof:concordances":{
         "gn:id":2612501,
         "gp:id":557725,
-        "qs:id":278948,
-        "qs_pg:id":901225,
+        "qs_pg:id":278948,
         "wd:id":"Q3413440",
         "wk:page":"St\u00f8vring"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":901225
     },
     "wof:country":"DK",
     "wof:geomhash":"e94dfc6690c311e4458202b7ea5694d0",
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101805779,
-    "wof:lastmodified":1563319464,
+    "wof:lastmodified":1566721992,
     "wof:name":"St\u00f8vring",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

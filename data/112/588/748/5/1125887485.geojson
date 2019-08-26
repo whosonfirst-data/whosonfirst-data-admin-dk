@@ -9,14 +9,18 @@
     "geom:bbox":"11.01963,54.81346,11.01963,54.81346",
     "geom:latitude":54.81346,
     "geom:longitude":11.01963,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"10.99963,54.79346,11.03963,54.83346",
     "lbl:latitude":54.81346,
     "lbl:longitude":11.01963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Lang\u00f8"
@@ -30,7 +34,7 @@
     "name:spa_x_preferred":[
         "Lang\u00f8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La\u201dng\u00f8"
     ],
     "qs_pg:aaroncc":"DK",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":555131,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Sj\u00e6lland",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1125887485,
-    "wof:lastmodified":1562795000,
+    "wof:lastmodified":1566722065,
     "wof:name":"Lang\u00f8",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

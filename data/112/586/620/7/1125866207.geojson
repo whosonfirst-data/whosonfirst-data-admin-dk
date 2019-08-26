@@ -9,15 +9,18 @@
     "geom:bbox":"8.91872,55.51086,8.91872,55.51086",
     "geom:latitude":55.51086,
     "geom:longitude":8.91872,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3096,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
     "gn:population":3096,
     "iso:country":"DK",
+    "lbl:bbox":"8.89872,55.49086,8.93872,55.53086",
     "lbl:latitude":55.51086,
     "lbl:longitude":8.91872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Horstedt"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0448\u0442\u0435\u0434\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Holsted"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +114,7 @@
     "qs_pg:woe_adm0":23424829,
     "qs_pg:woe_id":662462,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424829,
     "woe:name_adm0":"Deutschland",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1125866207,
-    "wof:lastmodified":1564128846,
+    "wof:lastmodified":1566722059,
     "wof:name":"Horstedt",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

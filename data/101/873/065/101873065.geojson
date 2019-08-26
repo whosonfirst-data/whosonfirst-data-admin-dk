@@ -10,12 +10,16 @@
     "geom:latitude":57.057373,
     "geom:longitude":10.190649,
     "iso:country":"DK",
+    "lbl:bbox":"10.170649,57.037373,10.210649,57.077373",
     "lbl:latitude":57.057373,
     "lbl:longitude":10.190649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.057373,
     "mps:longitude":10.190649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gandrup"
     ],
@@ -43,7 +47,7 @@
     "name:sco_x_preferred":[
         "Gandrup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ganderup"
     ],
     "qs:a0":"Danmark",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2621618,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2794037",
         "wk:page":"Gandrup"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101873065,
-    "wof:lastmodified":1563319417,
+    "wof:lastmodified":1566721981,
     "wof:name":"Gandrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

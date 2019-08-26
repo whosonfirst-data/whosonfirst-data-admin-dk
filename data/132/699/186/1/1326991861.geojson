@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.12539,55.25557,12.16539,55.29557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u00e6rl\u00f8se"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326991861,
-    "wof:lastmodified":1562795251,
+    "wof:lastmodified":1566721493,
     "wof:name":"Vaerlose",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

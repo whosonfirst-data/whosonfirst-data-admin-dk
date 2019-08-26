@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.91792,55.91675,8.95792,55.95675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karstoft",
         "S\u00f8nder Karstoft"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310468271,
-    "wof:lastmodified":1537619807,
+    "wof:lastmodified":1566721746,
     "wof:name":"Sonder Karstoft",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.27481,54.73944,11.31481,54.77944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aageby",
         "\u00c5geby"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260155245,
-    "wof:lastmodified":1562794996,
+    "wof:lastmodified":1566721730,
     "wof:name":"Ageby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

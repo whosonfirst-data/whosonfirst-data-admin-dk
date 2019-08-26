@@ -9,15 +9,18 @@
     "geom:bbox":"9.47183529951,55.8425152349,9.50065878095,55.8649574897",
     "geom:latitude":55.853588,
     "geom:longitude":9.486388,
-    "geonames:id":"2611485,2611486",
+    "gn:id":"2611485,2611486",
     "gn:population":2370,
     "iso:country":"DK",
     "lbl:latitude":55.860451,
     "lbl:longitude":9.48617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.860451,
     "mps:longitude":9.48617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00f8rring"
     ],
@@ -57,7 +60,7 @@
     "name:swe_x_preferred":[
         "T\u00f8rring"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nye T\u00f6rring"
     ],
     "qs:a0":"Danmark",
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,9 +91,11 @@
     "wof:concordances":{
         "gn:id":2611484,
         "gp:id":558148,
-        "qs:id":1036689,
-        "qs_pg:id":1288039,
+        "qs_pg:id":1036689,
         "wd:id":"Q2183058"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1288039
     },
     "wof:country":"DK",
     "wof:geomhash":"bedffc5579121a62115d97521cec126a",
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101805585,
-    "wof:lastmodified":1563319497,
+    "wof:lastmodified":1566721999,
     "wof:name":"T\u00f8rring",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

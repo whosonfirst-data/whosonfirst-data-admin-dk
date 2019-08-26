@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.069714,
     "lbl:longitude":10.158592,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.069714,
     "mps:longitude":10.158592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00e5rslet"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "M\u00e5rslet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maarslet"
     ],
     "qs:a0":"Danmark",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2617034,
         "gp:id":555502,
-        "qs:id":454624,
         "qs_pg:id":454624,
         "wd:id":"Q2038569",
         "wk:page":"M\u00e5rslet"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101805595,
-    "wof:lastmodified":1563319435,
+    "wof:lastmodified":1566721986,
     "wof:name":"M\u00e5rslet",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

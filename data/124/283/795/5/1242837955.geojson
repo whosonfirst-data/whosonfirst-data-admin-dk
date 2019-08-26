@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"14.91176,55.07291,14.95176,55.11291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sletenge",
         "Sletenge Huse",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242837955,
-    "wof:lastmodified":1562794704,
+    "wof:lastmodified":1566722289,
     "wof:name":"Sletteenge",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

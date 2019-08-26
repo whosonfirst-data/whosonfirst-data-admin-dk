@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":117460.606917,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.545724,55.67233,12.545724,55.67233",
     "geom:latitude":55.67233,
     "geom:longitude":12.545724,
     "iso:country":"DK",
     "lbl:latitude":55.67233,
     "lbl:longitude":12.545724,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.673713,
     "mps:longitude":12.544582,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
         "H.C. \u00d8rsteds Vej"
     ],
     "name:eng_x_variant":[
-        "Alhambravej"
-    ],
-    "name:unk_x_variant":[
         "Alhambravej"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -62,13 +60,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":85905799,
-    "wof:lastmodified":1531936402,
+    "wof:lastmodified":1566721564,
     "wof:name":"Alhambravej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

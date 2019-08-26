@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.53307,55.49499,11.57307,55.53499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rude Eskildstrup",
         "Rude-Eskilstrup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209376725,
-    "wof:lastmodified":1562797005,
+    "wof:lastmodified":1566721678,
     "wof:name":"Rude-Eskilstrup",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

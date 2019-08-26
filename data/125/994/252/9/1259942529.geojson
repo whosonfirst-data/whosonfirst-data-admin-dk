@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.75526,57.31897,9.79526,57.35897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259942529,
-    "wof:lastmodified":1562794556,
+    "wof:lastmodified":1566722315,
     "wof:name":"Vrensted",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

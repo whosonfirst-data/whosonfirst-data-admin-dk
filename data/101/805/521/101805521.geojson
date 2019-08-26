@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.527244,
     "lbl:longitude":8.461057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.527244,
     "mps:longitude":8.461057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tarp"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         85682575,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":2611859,
         "gp:id":557918,
-        "qs:id":931879
+        "qs_pg:id":931879
     },
     "wof:country":"DK",
     "wof:geomhash":"61954f799ee9b1b53e54900b767170a4",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101805521,
-    "wof:lastmodified":1564128743,
+    "wof:lastmodified":1566721991,
     "wof:name":"Tarp",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

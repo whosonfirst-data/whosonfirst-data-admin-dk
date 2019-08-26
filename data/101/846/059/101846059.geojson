@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.979335,
     "lbl:longitude":9.501164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.979335,
     "mps:longitude":9.501164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Felsted"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.856,
     "wd:longitude":0.436,
     "wd:wordcount":414,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2622239,
         "gp:id":553168,
-        "qs:id":270212,
         "qs_pg:id":270212,
         "wd:id":"Q12871664"
     },
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101846059,
-    "wof:lastmodified":1563319530,
+    "wof:lastmodified":1566722006,
     "wof:name":"Felsted",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13734.740651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.556767,55.674134,12.556767,55.674134",
     "geom:latitude":55.674134,
     "geom:longitude":12.556767,
     "iso:country":"DK",
     "lbl:latitude":55.674134,
     "lbl:longitude":12.556767,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.674098,
     "mps:longitude":12.556353,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:tier_locality":3,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "Prinsesse Maries All\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Prinsesse Maries All\u00e9"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -59,13 +57,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":85906117,
-    "wof:lastmodified":1531936410,
+    "wof:lastmodified":1566721557,
     "wof:name":"Prinsesse Maries All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

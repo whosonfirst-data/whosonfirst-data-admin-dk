@@ -9,14 +9,17 @@
     "geom:bbox":"12.3374994668,55.7716998795,12.3959567313,55.7954676011",
     "geom:latitude":55.78354,
     "geom:longitude":12.369827,
-    "geonames:id":"3337383,2617626",
+    "gn:id":"3337383,2617626",
     "iso:country":"DK",
     "lbl:latitude":55.784594,
     "lbl:longitude":12.372705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.784594,
     "mps:longitude":12.372705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00e6rl\u00f8se"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "V\u00e6rl\u00f8se"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lille V\u00e6rl\u00f8se"
     ],
     "qs:a0":"Danmark",
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.7828,
     "wd:longitude":12.37,
     "wd:wordcount":352,
@@ -92,9 +95,11 @@
     "wof:concordances":{
         "gn:id":2617626,
         "gp:id":557439,
-        "qs:id":1,
-        "qs_pg:id":1036702,
+        "qs_pg:id":1,
         "wd:id":"Q3171395"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1036702
     },
     "wof:country":"DK",
     "wof:geomhash":"264fd30f3f1474c3d0a6c9d5981b84a5",
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":101754113,
-    "wof:lastmodified":1563319364,
+    "wof:lastmodified":1566721969,
     "wof:name":"V\u00e6rl\u00f8se",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

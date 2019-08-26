@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.059539,
     "lbl:longitude":8.952963,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.059539,
     "mps:longitude":8.952963,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00f8gumkloster"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2617457,
         "gp:id":555312,
-        "qs:id":446053,
         "qs_pg:id":446053,
         "wd:id":"Q3172924",
         "wk:page":"L\u00f8gumkloster"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101805455,
-    "wof:lastmodified":1563319454,
+    "wof:lastmodified":1566721990,
     "wof:name":"L\u00f8gumkloster",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

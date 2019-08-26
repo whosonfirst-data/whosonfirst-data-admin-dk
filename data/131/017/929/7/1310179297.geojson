@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.43179,54.96872,9.47179,55.00872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00f8ndre Hostrup",
         "S\u00f8nder Hostrup"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310179297,
-    "wof:lastmodified":1562794786,
+    "wof:lastmodified":1566721765,
     "wof:name":"Sonder Hostrup",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

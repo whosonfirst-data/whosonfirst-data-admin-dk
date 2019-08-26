@@ -12,8 +12,10 @@
     "gn:latitude":55.56886,
     "gn:longitude":12.61608,
     "iso:country":"DK",
+    "lbl:bbox":"12.389581,55.816676,12.399581,55.826676",
     "lbl:latitude":55.821676,
     "lbl:longitude":12.394581,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.813279,
     "mps:longitude":12.387967,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:dan_x_preferred":[
-        "Sovang"
-    ],
-    "name:unk_x_variant":[
         "Sovang"
     ],
     "qs:gn_fcode":"PPL",
@@ -58,19 +57,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014061,
         85633121,
-        101818425
+        101818425,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2612876,
         "gp:id":20099629,
-        "qs:id":1085854,
         "qs_pg:id":1085854
     },
     "wof:country":"DK",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795489,
+    "wof:lastmodified":1566721555,
     "wof:name":"Sovang",
     "wof:parent_id":101818425,
     "wof:placetype":"neighbourhood",

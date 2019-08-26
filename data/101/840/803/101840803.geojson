@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.613888,
     "lbl:longitude":12.163924,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.613888,
     "mps:longitude":12.163924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tune"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":291,
     "wof:belongsto":[
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2611132,
         "gp:id":558293,
-        "qs:id":1312943,
         "qs_pg:id":1312943,
         "wd:id":"Q2505467",
         "wk:page":"Tune, Denmark"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101840803,
-    "wof:lastmodified":1563319542,
+    "wof:lastmodified":1566722009,
     "wof:name":"Tune",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

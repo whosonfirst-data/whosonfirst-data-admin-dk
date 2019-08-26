@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.42061,55.53347,11.46061,55.57347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taagerup",
         "T\u00e5gerup"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193101991,
-    "wof:lastmodified":1562794387,
+    "wof:lastmodified":1566721725,
     "wof:name":"Tagerup",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

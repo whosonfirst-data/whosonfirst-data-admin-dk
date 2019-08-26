@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.563413,
     "lbl:longitude":9.484245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.563413,
     "mps:longitude":9.484245,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Syddanmark",
     "qs:a1r":"0",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -45,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2624809,
         "gp:id":551931,
-        "qs:id":1186054,
         "qs_pg:id":1186054
     },
     "wof:country":"DK",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101805551,
-    "wof:lastmodified":1562795303,
+    "wof:lastmodified":1566721985,
     "wof:name":"Almind",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

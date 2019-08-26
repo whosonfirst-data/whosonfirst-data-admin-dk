@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.217416,
     "lbl:longitude":9.672658,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.217416,
     "mps:longitude":9.672658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0440\u0443\u043f"
     ],
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Pandrup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panderup"
     ],
     "qs:a0":"Danmark",
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":292,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2615222,
         "gp:id":556397,
-        "qs:id":140576,
         "qs_pg:id":140576,
         "wd:id":"Q3169598",
         "wk:page":"Pandrup"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101846125,
-    "wof:lastmodified":1563319532,
+    "wof:lastmodified":1566722007,
     "wof:name":"Pandrup",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

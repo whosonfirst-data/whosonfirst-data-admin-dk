@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.48164,56.1927,9.52164,56.2327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sk\u00e6rk\u00e6r",
         "Sk\u00e6gk\u00e6r"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209180473,
-    "wof:lastmodified":1562794509,
+    "wof:lastmodified":1566721704,
     "wof:name":"Skaegkaer",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

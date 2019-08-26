@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.42053,56.28804,10.46053,56.32804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "F\u00f8lle"
     ],
@@ -36,9 +40,6 @@
         "F\u00f8lle"
     ],
     "name:nld_x_preferred":[
-        "F\u00f8lle"
-    ],
-    "name:und_x_variant":[
         "F\u00f8lle"
     ],
     "src:geom":"geonames",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1276954327,
-    "wof:lastmodified":1564128303,
+    "wof:lastmodified":1566721644,
     "wof:name":"Folle",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

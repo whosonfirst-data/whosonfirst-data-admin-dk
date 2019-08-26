@@ -10,12 +10,16 @@
     "geom:latitude":56.064932,
     "geom:longitude":12.138902,
     "iso:country":"DK",
+    "lbl:bbox":"12.118902,56.044932,12.158902,56.084932",
     "lbl:latitude":56.064932,
     "lbl:longitude":12.138902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.064932,
     "mps:longitude":12.138902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Vejby"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014111,
@@ -56,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2610640,
         "gp:id":558527,
-        "qs:id":889417,
         "qs_pg:id":889417,
         "wd:id":"Q1876093"
     },
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101873039,
-    "wof:lastmodified":1563319419,
+    "wof:lastmodified":1566721981,
     "wof:name":"Vejby",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

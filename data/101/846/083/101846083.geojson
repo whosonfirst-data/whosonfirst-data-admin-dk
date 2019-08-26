@@ -12,11 +12,14 @@
     "iso:country":"DK",
     "lbl:latitude":56.671499,
     "lbl:longitude":9.013376,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.671499,
     "mps:longitude":9.013376,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Jebj\u00e6rg"
     ],
     "qs:a0":"Danmark",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014073,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2619353,
         "gp:id":554521,
-        "qs:id":1020447
+        "qs_pg:id":1020447
     },
     "wof:country":"DK",
     "wof:geomhash":"3c6133703248b7b63ad02dba1e815fdd",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101846083,
-    "wof:lastmodified":1562796556,
+    "wof:lastmodified":1566722003,
     "wof:name":"Jebjerg",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

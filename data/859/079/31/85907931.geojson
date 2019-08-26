@@ -11,8 +11,10 @@
     "geom:longitude":10.316552,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"10.311552,55.433498,10.321552,55.443498",
     "lbl:latitude":55.438498,
     "lbl:longitude":10.316552,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.439571,
     "mps:longitude":10.327847,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Odense North"
-    ],
-    "name:unk_x_variant":[
-        "Odense N"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -65,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1394014029,
         85633121,
         101818207,
-        136253045
+        136253045,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875621,
-        "qs:id":1263576,
         "qs_pg:id":1263576
     },
     "wof:country":"DK",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795768,
+    "wof:lastmodified":1566721551,
     "wof:name":"Odense N",
     "wof:parent_id":101818207,
     "wof:placetype":"neighbourhood",

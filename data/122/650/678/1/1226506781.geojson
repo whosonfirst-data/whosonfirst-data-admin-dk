@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.43654,55.16081,9.47654,55.20081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoptrup Kirkeby",
         "Hoptrup"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226506781,
-    "wof:lastmodified":1562794234,
+    "wof:lastmodified":1566722346,
     "wof:name":"Hoptrup",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

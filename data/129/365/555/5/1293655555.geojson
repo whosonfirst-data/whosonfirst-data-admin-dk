@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.32185,56.23859,10.36185,56.27859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Studstrup"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293655555,
-    "wof:lastmodified":1564128176,
+    "wof:lastmodified":1566721587,
     "wof:name":"Studstrup",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

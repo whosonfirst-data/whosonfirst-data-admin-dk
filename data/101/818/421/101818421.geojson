@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.790799,
     "lbl:longitude":12.149544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.790799,
     "mps:longitude":12.149544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00d8lstykke"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "\u00d8lstykke kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d8lstykke Stationsby"
     ],
     "qs:a0":"Danmark",
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -103,9 +106,11 @@
     "wof:concordances":{
         "gn:id":2615730,
         "gp:id":556101,
-        "qs:id":964078,
         "qs_pg:id":900929,
         "wd:id":"Q308180"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":964078
     },
     "wof:country":"DK",
     "wof:geomhash":"2e0c9fb7a8ab2f8088a164814e9a5f56",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101818421,
-    "wof:lastmodified":1563319395,
+    "wof:lastmodified":1566721976,
     "wof:name":"\u00d8lstykke",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

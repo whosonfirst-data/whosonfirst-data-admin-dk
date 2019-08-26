@@ -11,8 +11,10 @@
     "geom:longitude":8.410927,
     "gn:id":"",
     "iso:country":"DK",
+    "lbl:bbox":"8.405927,55.484134,8.415927,55.494134",
     "lbl:latitude":55.489134,
     "lbl:longitude":8.410927,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.500576,
     "mps:longitude":8.404322,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Esbjerg West"
-    ],
-    "name:unk_x_variant":[
-        "Esbjerg V"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -64,20 +63,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682575,
         102191581,
         1394014103,
         85633121,
         101749155,
-        136253045
+        136253045,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24875618,
-        "qs:id":1263574
+        "qs_pg:id":1263574
     },
     "wof:country":"DK",
     "wof:geomhash":"e6a671ce846f23fae69da9d5e8407ffa",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562797060,
+    "wof:lastmodified":1566721580,
     "wof:name":"Esbjerg V",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",

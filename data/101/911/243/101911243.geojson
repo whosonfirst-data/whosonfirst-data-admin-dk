@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.489016,
     "lbl:longitude":9.58278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.489016,
     "mps:longitude":9.58278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"8",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014051,
@@ -43,7 +46,6 @@
     "wof:concordances":{
         "gn:id":2611642,
         "gp:id":29306378,
-        "qs:id":363742,
         "qs_pg:id":363742
     },
     "wof:country":"DK",
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":101911243,
-    "wof:lastmodified":1562795350,
+    "wof:lastmodified":1566722011,
     "wof:name":"Tjele",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

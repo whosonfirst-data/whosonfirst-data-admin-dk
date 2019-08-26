@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.44996,55.6403,8.48996,55.6803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85682575,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243418649,
-    "wof:lastmodified":1562797096,
+    "wof:lastmodified":1566722266,
     "wof:name":"Tinghoj",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

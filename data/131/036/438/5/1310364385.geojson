@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.70881,55.25683,8.74881,55.29683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hvidding",
         "Hviding"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310364385,
-    "wof:lastmodified":1562797031,
+    "wof:lastmodified":1566721754,
     "wof:name":"Hviding",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.240544,
     "lbl:longitude":9.539223,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.240544,
     "mps:longitude":9.539223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0443\u043f"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85682575,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":2612730,
         "gp:id":557752,
-        "qs:id":1222171,
+        "qs_pg:id":1222171,
         "wd:id":"Q12336888"
     },
     "wof:country":"DK",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101805461,
-    "wof:lastmodified":1563319493,
+    "wof:lastmodified":1566721999,
     "wof:name":"Starup",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

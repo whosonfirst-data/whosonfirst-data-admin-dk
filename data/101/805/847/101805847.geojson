@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.131984,
     "lbl:longitude":9.962475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.131984,
     "mps:longitude":9.962475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Vestbjerg"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Vestbjerg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vestbj\u00e6rg"
     ],
     "qs:a0":"Danmark",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2610499,
         "gp:id":558599,
-        "qs:id":140567,
         "qs_pg:id":140567,
         "wd:id":"Q2458635",
         "wk:page":"Vestbjerg"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101805847,
-    "wof:lastmodified":1563319481,
+    "wof:lastmodified":1566721996,
     "wof:name":"Vestbjerg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

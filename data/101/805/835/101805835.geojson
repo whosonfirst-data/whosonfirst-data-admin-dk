@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.159598,
     "lbl:longitude":9.738931,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.159598,
     "mps:longitude":9.738931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Aabyro"
     ],
@@ -92,9 +95,6 @@
     "name:swe_x_variant":[
         "Aabybro"
     ],
-    "name:unk_x_variant":[
-        "\u00c5bybro"
-    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Nordjylland",
     "qs:a1r":"0",
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -124,7 +124,6 @@
     "wof:concordances":{
         "gn:id":2625037,
         "gp:id":551827,
-        "qs:id":1077480,
         "qs_pg:id":1077480,
         "wd:id":"Q3171757",
         "wk:page":"Aabybro"
@@ -141,7 +140,7 @@
         }
     ],
     "wof:id":101805835,
-    "wof:lastmodified":1563319453,
+    "wof:lastmodified":1566721990,
     "wof:name":"Aabybro",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.79047,55.32857,11.83047,55.36857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tybj\u00e6rg",
         "Tybjerg"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327308405,
-    "wof:lastmodified":1562796956,
+    "wof:lastmodified":1566721464,
     "wof:name":"Tybjerg",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

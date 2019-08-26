@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.681879,
     "lbl:longitude":12.568867,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.681843,
     "mps:longitude":12.569371,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "R\u00f8mersgade"
-    ],
-    "name:unk_x_variant":[
         "R\u00f8mersgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -57,7 +55,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -82,7 +80,7 @@
         }
     ],
     "wof:id":85906137,
-    "wof:lastmodified":1530296576,
+    "wof:lastmodified":1566721559,
     "wof:name":"R\u00f8mersgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.433096,
     "lbl:longitude":8.380411,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.433096,
     "mps:longitude":8.380411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nordby"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Nordby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Odden"
     ],
     "qs:a0":"Danmark",
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.433333,
     "wd:longitude":8.4,
@@ -100,10 +103,12 @@
     "wof:concordances":{
         "gn:id":2616172,
         "gp:id":555801,
-        "qs:id":278957,
-        "qs_pg:id":977243,
+        "qs_pg:id":278957,
         "wd:id":"Q2533977",
         "wk:page":"Nordby"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977243
     },
     "wof:country":"DK",
     "wof:geomhash":"ea5f411c30ae90f170585920b1a557da",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101805403,
-    "wof:lastmodified":1563319495,
+    "wof:lastmodified":1566721999,
     "wof:name":"Nordby",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

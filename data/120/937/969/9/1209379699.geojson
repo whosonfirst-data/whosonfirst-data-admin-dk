@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.98,54.99667,12.02,55.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stensved",
         "Nyraad Stensved",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209379699,
-    "wof:lastmodified":1562796712,
+    "wof:lastmodified":1566721679,
     "wof:name":"Nyrad-Stensved",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.69453,55.75678,11.73453,55.79678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243328417,
-    "wof:lastmodified":1536975333,
+    "wof:lastmodified":1566722282,
     "wof:name":"Kisserup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"14.97128,55.21047,14.97128,55.21047",
     "geom:latitude":55.21047,
     "geom:longitude":14.97128,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"14.95128,55.19047,14.99128,55.23047",
     "lbl:latitude":55.21047,
     "lbl:longitude":14.97128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Gudhjem"
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Gudhjem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gudhiem"
     ],
     "qs_pg:aaroncc":"DK",
@@ -87,7 +91,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":553699,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
     "woe:name_adm1":"Hovedstaden",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1125998849,
-    "wof:lastmodified":1563319704,
+    "wof:lastmodified":1566722078,
     "wof:name":"Gudhjem",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

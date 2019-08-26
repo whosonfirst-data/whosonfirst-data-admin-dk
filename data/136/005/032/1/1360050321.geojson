@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.99667,55.09667,12.03667,55.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360050321,
-    "wof:lastmodified":1562796682,
+    "wof:lastmodified":1566721788,
     "wof:name":"Rodeled",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.1987,55.51538,10.2387,55.55538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Melby"
     ],
@@ -36,8 +40,7 @@
         "Melby"
     ],
     "name:und_x_variant":[
-        "Meelby",
-        "Melby"
+        "Meelby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343419939,
-    "wof:lastmodified":1564128072,
+    "wof:lastmodified":1566721522,
     "wof:name":"Melby",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.10645,56.68342,9.14645,56.72342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Thise"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1226108609,
-    "wof:lastmodified":1564129218,
+    "wof:lastmodified":1566722332,
     "wof:name":"Thise",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5749998575,55.6919433259,12.5749998575,55.6919433259",
     "geom:latitude":55.691943,
     "geom:longitude":12.575,
     "iso:country":"DK",
+    "lbl:bbox":"12.5699998575,55.6869433259,12.5799998575,55.6969433259",
     "lbl:latitude":55.691943,
     "lbl:longitude":12.575,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,11 +24,11 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":420784657,
-    "wof:lastmodified":1530290437,
+    "wof:lastmodified":1566722028,
     "wof:name":"Kartoffelr\u00e6kkerne",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

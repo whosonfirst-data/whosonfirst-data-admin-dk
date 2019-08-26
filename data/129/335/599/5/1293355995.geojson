@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.26618,57.20257,10.30618,57.24257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jespergaarde",
         "Jesperg\u00e5rde"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293355995,
-    "wof:lastmodified":1537619856,
+    "wof:lastmodified":1566721602,
     "wof:name":"Jespergarde",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

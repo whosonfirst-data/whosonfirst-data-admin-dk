@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.37362,55.66577,11.41362,55.70577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Godthaab",
         "Godth\u00e5b"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242739679,
-    "wof:lastmodified":1537619871,
+    "wof:lastmodified":1566722256,
     "wof:name":"Godthab",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

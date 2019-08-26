@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.687843,
     "lbl:longitude":12.593589,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.687858,
     "mps:longitude":12.59337,
     "mz:hierarchy_label":1,
@@ -28,9 +29,6 @@
         "Gr\u00f8nningen"
     ],
     "name:eng_x_variant":[
-        "Hammerensgade"
-    ],
-    "name:unk_x_variant":[
         "Hammerensgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -60,7 +58,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -85,7 +83,7 @@
         }
     ],
     "wof:id":85905941,
-    "wof:lastmodified":1530296540,
+    "wof:lastmodified":1566721563,
     "wof:name":"Hammerensgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

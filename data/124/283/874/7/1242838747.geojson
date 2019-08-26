@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.34788,55.41503,8.38788,55.45503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fan\u00f6 Badested",
         "Fan\u00f8 Vesterhavsbad",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242838747,
-    "wof:lastmodified":1562796032,
+    "wof:lastmodified":1566722289,
     "wof:name":"Fano Vesterhavsbad",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

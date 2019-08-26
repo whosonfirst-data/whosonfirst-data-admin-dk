@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6070004153,55.6859682082,12.6070004153,55.6859682082",
     "geom:latitude":55.685968,
     "geom:longitude":12.607,
     "iso:country":"DK",
+    "lbl:bbox":"12.6020004153,55.6809682082,12.6120004153,55.6909682082",
     "lbl:latitude":55.685968,
     "lbl:longitude":12.607,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,11 +24,11 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":420784561,
-    "wof:lastmodified":1530290437,
+    "wof:lastmodified":1566722028,
     "wof:name":"Nyholm",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

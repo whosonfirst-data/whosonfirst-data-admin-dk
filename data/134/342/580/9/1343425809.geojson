@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.61424,55.67369,11.65424,55.71369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borup"
     ],
@@ -48,8 +52,7 @@
         "Borup"
     ],
     "name:und_x_variant":[
-        "Tingtved-Borup",
-        "Borup"
+        "Tingtved-Borup"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343425809,
-    "wof:lastmodified":1564128113,
+    "wof:lastmodified":1566721541,
     "wof:name":"Borup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

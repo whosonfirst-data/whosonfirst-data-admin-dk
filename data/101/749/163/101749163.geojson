@@ -13,6 +13,8 @@
     "iso:country":"DK",
     "lbl:latitude":56.142797,
     "lbl:longitude":10.178555,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.142797,
     "mps:longitude":10.178555,
     "mz:hierarchy_label":1,
@@ -335,9 +337,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0445\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Aarhus"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u06c1\u0633"
     ],
@@ -470,7 +469,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.15,
     "wd:longitude":10.216667,
@@ -485,10 +484,12 @@
     "wof:concordances":{
         "gn:id":2624652,
         "gp:id":552015,
-        "qs:id":140622,
-        "qs_pg:id":1059190,
+        "qs_pg:id":140622,
         "wd:id":"Q25319",
         "wk:page":"Aarhus"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059190
     },
     "wof:country":"DK",
     "wof:geomhash":"03eeee74966b6068fb7797ebb5f7a62d",
@@ -502,7 +503,7 @@
         }
     ],
     "wof:id":101749163,
-    "wof:lastmodified":1563319515,
+    "wof:lastmodified":1566722002,
     "wof:megacity":0,
     "wof:name":"\u00c5rhus",
     "wof:parent_id":1394013977,

@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.964095,
     "lbl:longitude":8.694734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.964095,
     "mps:longitude":8.694734,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "H\u00f8jer"
     ],
@@ -59,7 +62,7 @@
         "H\u00f6jer",
         "H\u00f8jer"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoyer"
     ],
     "qs:a0":"Danmark",
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.962222,
     "wd:longitude":8.696111,
     "wd:wordcount":219,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2619951,
         "gp:id":554181,
-        "qs:id":1165786,
         "qs_pg:id":1165786,
         "wd:id":"Q12317764",
         "wk:page":"H\u00f8jer"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101805485,
-    "wof:lastmodified":1563319441,
+    "wof:lastmodified":1566721987,
     "wof:name":"H\u00f8jer",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.44629,56.37296,9.48629,56.41296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rind",
         "S\u00f8nder Rind"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243239437,
-    "wof:lastmodified":1562795394,
+    "wof:lastmodified":1566722268,
     "wof:name":"Sonder Rind",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

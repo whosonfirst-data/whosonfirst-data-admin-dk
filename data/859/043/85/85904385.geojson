@@ -12,8 +12,10 @@
     "gn:latitude":55.78798,
     "gn:longitude":12.59328,
     "iso:country":"DK",
+    "lbl:bbox":"12.317867,55.651723,12.327867,55.661723",
     "lbl:latitude":55.656723,
     "lbl:longitude":12.322867,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.650433,
     "mps:longitude":12.340571,
     "mz:hierarchy_label":0,
@@ -56,9 +58,8 @@
     "name:spa_x_preferred":[
         "Lyngby-Taarb\u00e6k"
     ],
-    "name:unk_x_variant":[
-        "Taarb\u00e6k",
-        "Tarbaek"
+    "name:und_x_variant":[
+        "Taarb\u00e6k"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
@@ -89,19 +90,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682581,
         102191581,
         1394014125,
         85633121,
-        101754101
+        101754101,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2611867,
         "gp:id":20099703,
-        "qs:id":1085856,
         "qs_pg:id":1085856
     },
     "wof:country":"DK",
@@ -120,7 +120,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1562795417,
+    "wof:lastmodified":1566721555,
     "wof:name":"Tarbaek",
     "wof:parent_id":101754101,
     "wof:placetype":"neighbourhood",

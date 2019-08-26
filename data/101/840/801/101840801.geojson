@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.531234,
     "lbl:longitude":12.212824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.531234,
     "mps:longitude":12.212824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Solr\u00f8d Strand"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -79,10 +82,12 @@
     "wof:concordances":{
         "gn:id":2613233,
         "gp:id":557320,
-        "qs:id":1079061,
-        "qs_pg:id":1327385,
+        "qs_pg:id":1079061,
         "wd:id":"Q2229515",
         "wk:page":"Solr\u00f8d Strand"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327385
     },
     "wof:country":"DK",
     "wof:geomhash":"b0f66198ff47852fa1c1450a3b498266",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101840801,
-    "wof:lastmodified":1563319544,
+    "wof:lastmodified":1566722010,
     "wof:name":"Solr\u00f8d Strand",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

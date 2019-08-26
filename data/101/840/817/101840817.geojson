@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.645896,
     "lbl:longitude":12.184852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.645896,
     "mps:longitude":12.184852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Hedehusene"
     ],
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1033,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2620587,
         "gp:id":553942,
-        "qs:id":1135999,
         "qs_pg:id":1135999,
         "wd:id":"Q2248624",
         "wk:page":"Hedehusene"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101840817,
-    "wof:lastmodified":1563319541,
+    "wof:lastmodified":1566722009,
     "wof:name":"Hedehusene",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

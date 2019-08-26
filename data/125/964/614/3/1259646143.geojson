@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.70386,56.5998,9.74386,56.6398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ols"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259646143,
-    "wof:lastmodified":1564129149,
+    "wof:lastmodified":1566722303,
     "wof:name":"Ols",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

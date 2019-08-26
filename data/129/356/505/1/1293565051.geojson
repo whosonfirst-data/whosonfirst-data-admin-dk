@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.77541,55.69554,9.81541,55.73554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gammelby"
     ],
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1293565051,
-    "wof:lastmodified":1564128216,
+    "wof:lastmodified":1566721604,
     "wof:name":"Gammelby",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

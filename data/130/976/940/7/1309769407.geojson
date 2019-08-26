@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.65395,56.3804,10.69395,56.4204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309769407,
-    "wof:lastmodified":1562795219,
+    "wof:lastmodified":1566722019,
     "wof:name":"Skiffard",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

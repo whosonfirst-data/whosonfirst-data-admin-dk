@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":55.921416,
     "lbl:longitude":12.31882,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.921416,
     "mps:longitude":12.31882,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
         "Region Hovedstaden"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
+        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d \u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -330,9 +331,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-01-01",
+    "src:population_date":"2005-01-01",
     "statoids:area_km":"2,561",
     "statoids:area_mi":"989",
     "statoids:as_of_date":"2005-01-01",
@@ -380,7 +381,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1565672894,
+    "wof:lastmodified":1566721580,
     "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.019708,
     "lbl:longitude":12.197321,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.019708,
     "mps:longitude":12.197321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Helsinge"
     ],
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Helsinge kommun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hvissinge"
     ],
     "qs:a0":"Danmark",
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -100,10 +103,12 @@
     "wof:concordances":{
         "gn:id":2619554,
         "gp:id":553987,
-        "qs:id":140600,
-        "qs_pg:id":402317,
+        "qs_pg:id":140600,
         "wd:id":"Q852058",
         "wk:page":"Helsinge"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":402317
     },
     "wof:country":"DK",
     "wof:geomhash":"7ae5a572e8f5ba5b3efd6c826b8839d1",
@@ -117,7 +122,7 @@
         }
     ],
     "wof:id":101817269,
-    "wof:lastmodified":1563319426,
+    "wof:lastmodified":1566721983,
     "wof:name":"Helsinge",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

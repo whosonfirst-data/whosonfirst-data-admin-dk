@@ -9,15 +9,18 @@
     "geom:bbox":"11.54552,56.70362,11.54552,56.70362",
     "geom:latitude":56.70362,
     "geom:longitude":11.54552,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":160,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"11.52552,56.68362,11.56552,56.72362",
     "lbl:latitude":56.70362,
     "lbl:longitude":11.54552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Anholt"
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0445\u043e\u043b\u044c\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anholt By"
     ],
     "qs_pg:aaroncc":"DK",
@@ -64,7 +67,7 @@
     "qs_pg:woe_adm0":23424796,
     "qs_pg:woe_id":551995,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424796,
     "woe:name_adm0":"Danmark",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125868267,
-    "wof:lastmodified":1564128846,
+    "wof:lastmodified":1566722059,
     "wof:name":"Anholt",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

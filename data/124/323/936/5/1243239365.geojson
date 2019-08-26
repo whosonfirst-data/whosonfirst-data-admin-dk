@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.52458,56.63408,8.56458,56.67408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sem",
         "Semb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243239365,
-    "wof:lastmodified":1562795949,
+    "wof:lastmodified":1566722267,
     "wof:name":"Semb",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

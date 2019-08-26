@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.351714,
     "lbl:longitude":9.941361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.351714,
     "mps:longitude":9.941361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Vr\u00e5"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Vr\u00e5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vraa"
     ],
     "qs:a0":"Danmark",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":2609990,
         "gp:id":558875,
-        "qs:id":968318,
         "qs_pg:id":968318,
         "wd:id":"Q912141",
         "wk:page":"Vr\u00e5"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":101846121,
-    "wof:lastmodified":1563319524,
+    "wof:lastmodified":1566722005,
     "wof:name":"Vr\u00e5",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

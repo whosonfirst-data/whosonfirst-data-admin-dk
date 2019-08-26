@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.40967,54.70926,11.44967,54.74926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e6dingskov",
         "S\u00e6dingeskov"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259557979,
-    "wof:lastmodified":1562794997,
+    "wof:lastmodified":1566722304,
     "wof:name":"Saedingeskov",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

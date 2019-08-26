@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
+    "geom:area_square_m":1403654.910849,
     "geom:bbox":"12.3499773232,55.2454889362,12.3884761082,55.260225425",
     "geom:latitude":55.253273,
     "geom:longitude":12.366613,
     "iso:country":"DK",
     "lbl:latitude":55.250336,
     "lbl:longitude":12.3583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.250336,
     "mps:longitude":12.3583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0420\u0451\u0434\u0432\u0438\u0433"
     ],
@@ -34,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159297719,
@@ -45,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2614595,
         "gp:id":556669,
-        "qs:id":1211182,
         "qs_pg:id":1211182
     },
     "wof:country":"DK",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101818299,
-    "wof:lastmodified":1530290319,
+    "wof:lastmodified":1566721979,
     "wof:name":"R\u00f8dvig",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

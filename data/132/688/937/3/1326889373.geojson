@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.99226,55.43696,9.03226,55.47696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Folding"
     ],
@@ -39,8 +43,7 @@
         "\u0496\u044b\u0435\u0440\u0447\u044b\u043a"
     ],
     "name:und_x_variant":[
-        "Folding Kirke",
-        "Folding"
+        "Folding Kirke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326889373,
-    "wof:lastmodified":1564127960,
+    "wof:lastmodified":1566721469,
     "wof:name":"Folding",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

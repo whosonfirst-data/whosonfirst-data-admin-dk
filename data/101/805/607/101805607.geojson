@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.438074,
     "lbl:longitude":8.638313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.438074,
     "mps:longitude":8.638313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Hjerm"
     ],
@@ -34,7 +37,7 @@
     "name:spa_x_preferred":[
         "Hjerm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hjerm Stationsby"
     ],
     "qs:a0":"Danmark",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014047,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2620229,
         "gp:id":554109,
-        "qs:id":182663,
         "qs_pg:id":182663,
         "wd:id":"Q2356611"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101805607,
-    "wof:lastmodified":1563319495,
+    "wof:lastmodified":1566721999,
     "wof:name":"Hjerm",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

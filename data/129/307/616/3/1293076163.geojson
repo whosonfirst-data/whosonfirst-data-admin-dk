@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.60293,56.74588,8.64293,56.78588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Rakkeby Sogn"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293076163,
-    "wof:lastmodified":1564128166,
+    "wof:lastmodified":1566721583,
     "wof:name":"Rakkeby",
     "wof:parent_id":1394014007,
     "wof:placetype":"locality",

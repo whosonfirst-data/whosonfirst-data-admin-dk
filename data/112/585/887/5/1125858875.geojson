@@ -9,14 +9,18 @@
     "geom:bbox":"10.59723,55.8326,10.59723,55.8326",
     "geom:latitude":55.8326,
     "geom:longitude":10.59723,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":0,
+    "gn:country":"DK",
+    "gn:fcode":"PPLA2",
+    "gn:population":0,
     "iso:country":"DK",
+    "lbl:bbox":"10.57723,55.8126,10.61723,55.8526",
     "lbl:latitude":55.8326,
     "lbl:longitude":10.59723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Tranebjerg"
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Tranebjerg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tranebierg"
     ],
     "qs_pg:aaroncc":"DK",
@@ -75,7 +79,7 @@
     "qs_pg:qs_id":276915,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191581,
         1159297735,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1125858875,
-    "wof:lastmodified":1563319787,
+    "wof:lastmodified":1566722109,
     "wof:name":"Tranebjerg",
     "wof:parent_id":1159297735,
     "wof:placetype":"locality",

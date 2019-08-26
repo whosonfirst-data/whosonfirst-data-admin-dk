@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.97489,55.99388,9.01489,56.03388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Arnborg",
         "Gamle Arnborg"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243226843,
-    "wof:lastmodified":1537619874,
+    "wof:lastmodified":1566722276,
     "wof:name":"Gamle Arnborg",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

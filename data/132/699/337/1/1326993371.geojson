@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.51574,56.46912,10.55574,56.50912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326993371,
-    "wof:lastmodified":1562794829,
+    "wof:lastmodified":1566721492,
     "wof:name":"Tustrup",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

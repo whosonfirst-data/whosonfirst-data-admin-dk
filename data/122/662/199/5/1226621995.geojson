@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.08825,56.3089,10.12825,56.3489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hadbj\u00e6rg",
         "Hadbjerg"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226621995,
-    "wof:lastmodified":1537619868,
+    "wof:lastmodified":1566722365,
     "wof:name":"Hadbjerg",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

@@ -12,11 +12,14 @@
     "iso:country":"DK",
     "lbl:latitude":57.021384,
     "lbl:longitude":8.67851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.021384,
     "mps:longitude":8.67851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Norse"
     ],
     "qs:a0":"Danmark",
@@ -33,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014009,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2616090,
         "gp:id":555939,
-        "qs:id":1012195
+        "qs_pg:id":1012195
     },
     "wof:country":"DK",
     "wof:geomhash":"39d8ef52879999f547ce3284edfd1f9f",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101805809,
-    "wof:lastmodified":1562795445,
+    "wof:lastmodified":1566721998,
     "wof:name":"Nors",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

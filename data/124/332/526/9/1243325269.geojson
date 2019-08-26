@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.33452,55.42053,11.37452,55.46053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243325269,
-    "wof:lastmodified":1562796535,
+    "wof:lastmodified":1566722282,
     "wof:name":"Lille Valby",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

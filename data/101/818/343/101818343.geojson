@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.458935,
     "lbl:longitude":12.058892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.458935,
     "mps:longitude":12.058892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "K\u00f8gue"
     ],
@@ -180,7 +183,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014027,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2610542,
         "gp:id":558577,
-        "qs:id":197324,
+        "qs_pg:id":197324,
         "wd:id":"Q21184"
     },
     "wof:country":"DK",
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101818343,
-    "wof:lastmodified":1563319414,
+    "wof:lastmodified":1566721980,
     "wof:name":"Vemmedrup",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

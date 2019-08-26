@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.05152,55.62414,12.09152,55.66414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Sankt J\u00f8rgensbjerg Sogn"
     ],
@@ -36,8 +40,7 @@
         "Sankt J\u00f8rgensbjerg"
     ],
     "name:und_x_variant":[
-        "Sankt J\u00f8rgensbj\u00e6rg",
-        "Sankt J\u00f8rgensbjerg"
+        "Sankt J\u00f8rgensbj\u00e6rg"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293464129,
-    "wof:lastmodified":1564128189,
+    "wof:lastmodified":1566721592,
     "wof:name":"Sankt Jorgensbjerg",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

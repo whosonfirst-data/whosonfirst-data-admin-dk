@@ -12,6 +12,7 @@
     "iso:country":"DK",
     "lbl:latitude":55.664434,
     "lbl:longitude":12.569412,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.665193,
     "mps:longitude":12.56901,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "Kalvebod Brygge"
     ],
     "name:nor_x_preferred":[
-        "Kalvebod Brygge"
-    ],
-    "name:unk_x_variant":[
         "Kalvebod Brygge"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -69,7 +67,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":907,
     "wof:belongsto":[
         102191581,
@@ -96,7 +94,7 @@
         }
     ],
     "wof:id":85905983,
-    "wof:lastmodified":1563318856,
+    "wof:lastmodified":1566721563,
     "wof:name":"Kalvebod Brygge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

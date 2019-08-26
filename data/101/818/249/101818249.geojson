@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.73771,
     "lbl:longitude":12.150671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.73771,
     "mps:longitude":12.150671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gunds\u00f8magle"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.7361,
     "wd:longitude":12.1478,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2620997,
         "gp:id":553748,
-        "qs:id":1224375,
         "qs_pg:id":1224375,
         "wd:id":"Q2612301"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101818249,
-    "wof:lastmodified":1563319399,
+    "wof:lastmodified":1566721977,
     "wof:name":"Gunds\u00f8magle",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.853168,
     "lbl:longitude":11.990383,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.853168,
     "mps:longitude":11.990383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00e6gerspris"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.85,
     "wd:longitude":11.983333,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":2619287,
         "gp:id":554515,
-        "qs:id":445996,
         "qs_pg:id":445996,
         "wd:id":"Q852156",
         "wk:page":"J\u00e6gerspris"
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":101818247,
-    "wof:lastmodified":1563319398,
+    "wof:lastmodified":1566721977,
     "wof:name":"J\u00e6gerspris",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

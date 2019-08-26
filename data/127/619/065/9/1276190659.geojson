@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.69875,56.98825,9.73875,57.02825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Rimmen"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276190659,
-    "wof:lastmodified":1564128263,
+    "wof:lastmodified":1566721625,
     "wof:name":"Rimmen",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

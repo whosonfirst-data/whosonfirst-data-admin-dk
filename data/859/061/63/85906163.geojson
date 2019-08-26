@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":83769.115729,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.548916,55.67409,12.548916,55.67409",
     "geom:latitude":55.67409,
     "geom:longitude":12.548916,
     "iso:country":"DK",
     "lbl:latitude":55.67409,
     "lbl:longitude":12.548916,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.674309,
     "mps:longitude":12.548149,
     "mz:hierarchy_label":0,
@@ -28,9 +29,6 @@
         "Rosen\u00f8rns All\u00e9"
     ],
     "name:eng_x_variant":[
-        "St. Thomas All\u00e9"
-    ],
-    "name:unk_x_variant":[
         "St. Thomas All\u00e9"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -62,13 +60,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":85906163,
-    "wof:lastmodified":1531936413,
+    "wof:lastmodified":1566721559,
     "wof:name":"St. Thomas All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

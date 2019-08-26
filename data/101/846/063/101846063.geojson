@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.703145,
     "lbl:longitude":9.379332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.703145,
     "mps:longitude":9.379332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Bredsten"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         85682575,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2623486,
         "gp:id":552607,
-        "qs:id":338778,
         "qs_pg:id":338778,
         "wd:id":"Q1984534",
         "wk:page":"Bredsten"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101846063,
-    "wof:lastmodified":1563319523,
+    "wof:lastmodified":1566722004,
     "wof:name":"Bredsten",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

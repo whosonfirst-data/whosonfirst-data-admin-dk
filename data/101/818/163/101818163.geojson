@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.888224,
     "lbl:longitude":12.039302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.888224,
     "mps:longitude":12.039302,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stubbek\u00f8bing"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Stubbek\u00f8bing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stubbeki\u00f6bing"
     ],
     "qs:a0":"Danmark",
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":290,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":2612192,
         "gp:id":557768,
-        "qs:id":976299,
         "qs_pg:id":976299,
         "wd:id":"Q507747",
         "wk:page":"Stubbek\u00f8bing"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101818163,
-    "wof:lastmodified":1563319391,
+    "wof:lastmodified":1566721975,
     "wof:name":"Stubbek\u00f8bing",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

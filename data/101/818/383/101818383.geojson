@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.220538,
     "lbl:longitude":12.165184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.220538,
     "mps:longitude":12.165184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fakse Ladeplads"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Fakse Ladeplads"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faxe Havn"
     ],
     "qs:a0":"Danmark",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -76,10 +79,12 @@
     "wof:concordances":{
         "gn:id":2622372,
         "gp:id":553103,
-        "qs:id":860952,
-        "qs_pg:id":1231232,
+        "qs_pg:id":860952,
         "wd:id":"Q848213",
         "wk:page":"Faxe Ladeplads"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1231232
     },
     "wof:country":"DK",
     "wof:geomhash":"9164d8820cdc2f39c8a74a25f8b7a7b7",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101818383,
-    "wof:lastmodified":1563319383,
+    "wof:lastmodified":1566721974,
     "wof:name":"Faxe Ladeplads",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

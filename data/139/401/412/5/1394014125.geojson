@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":55.669518,
     "lbl:longitude":12.253765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.669518,
     "mps:longitude":12.253765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "H\u00f8je-Taastrup"
     ],
@@ -69,7 +72,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562799250,
+    "wof:lastmodified":1566721849,
     "wof:name":"Hoje-Taastrup",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

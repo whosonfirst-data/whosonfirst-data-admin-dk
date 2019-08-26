@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.87259,
     "lbl:longitude":9.610929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.87259,
     "mps:longitude":9.610929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Danmark",
     "qs:a1":"*Midtjylland",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1394014087,
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2614970,
         "gp:id":556508,
-        "qs:id":58425
+        "qs_pg:id":58425
     },
     "wof:country":"DK",
     "wof:geomhash":"f68998c3e9cf34ef74c910d174123e07",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101805697,
-    "wof:lastmodified":1562795118,
+    "wof:lastmodified":1566721997,
     "wof:name":"Rask M\u00f8lle",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

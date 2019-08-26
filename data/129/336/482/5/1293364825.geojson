@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.59873,55.64633,11.63873,55.68633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u00f8rre J\u00e6rnl\u00f6se",
         "N\u00f8rre Jernl\u00f8se"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293364825,
-    "wof:lastmodified":1537619835,
+    "wof:lastmodified":1566721584,
     "wof:name":"Norre Jernlose",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

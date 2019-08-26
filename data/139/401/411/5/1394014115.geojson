@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":55.748478,
     "lbl:longitude":12.547762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.748478,
     "mps:longitude":12.547762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Gentofte"
     ],
@@ -75,7 +78,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1564128707,
+    "wof:lastmodified":1566721922,
     "wof:name":"Gentofte",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

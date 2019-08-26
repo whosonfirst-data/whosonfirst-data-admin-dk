@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":328744.648643,
+    "geom:area_square_m":328744.648642,
     "geom:bbox":"12.5875854492,55.6884187669,12.5944519043,55.6977117768",
     "geom:latitude":55.693145,
     "geom:longitude":12.590804,
     "iso:country":"DK",
     "lbl:latitude":55.692309,
     "lbl:longitude":12.590677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.693264,
     "mps:longitude":12.590395,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_variant":[
-        "Svanegade"
-    ],
-    "name:unk_x_variant":[
         "Svanegade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -57,7 +55,7 @@
     "qs:woe_ver":"7.3.1",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159297727,
@@ -82,7 +80,7 @@
         }
     ],
     "wof:id":85906211,
-    "wof:lastmodified":1530296589,
+    "wof:lastmodified":1566721552,
     "wof:name":"Svanegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

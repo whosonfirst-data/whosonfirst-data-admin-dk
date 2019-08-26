@@ -24,8 +24,12 @@
     "gn:population":2000,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.1627,55.51628,12.2027,55.55628",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Solr\u00f8d Kommune"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1243228621,
-    "wof:lastmodified":1564129085,
+    "wof:lastmodified":1566722276,
     "wof:name":"Solrod",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

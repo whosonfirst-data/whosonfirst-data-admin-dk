@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.588228,
     "lbl:longitude":8.419911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.588228,
     "mps:longitude":8.419911,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "N\u00f8rre Alslev Kirke"
     ],
@@ -39,7 +42,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85682575,
         102191581,
@@ -51,7 +54,7 @@
     "wof:concordances":{
         "gn:id":2624777,
         "gp:id":551952,
-        "qs:id":1220869
+        "qs_pg:id":1220869
     },
     "wof:country":"DK",
     "wof:geomhash":"a0da20c59db391cdf52f23b6d179939d",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101805519,
-    "wof:lastmodified":1562797073,
+    "wof:lastmodified":1566721991,
     "wof:name":"Alslev",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

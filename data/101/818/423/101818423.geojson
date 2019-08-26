@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.838609,
     "lbl:longitude":12.066757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.838609,
     "mps:longitude":12.066757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Frederikssund"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Frederikssund"
     ],
-    "name:unk_x_variant":[
-        "Frederiksund"
-    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Hovedstaden",
     "qs:a1r":"0",
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.833333,
     "wd:longitude":12.05,
@@ -133,7 +133,6 @@
         "fct:id":"07c47116-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2621912,
         "gp:id":553318,
-        "qs:id":1291473,
         "qs_pg:id":1291473,
         "wd:id":"Q3223801",
         "wk:page":"Frederikssund"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1563319377,
+    "wof:lastmodified":1566721972,
     "wof:name":"Frederikssund",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

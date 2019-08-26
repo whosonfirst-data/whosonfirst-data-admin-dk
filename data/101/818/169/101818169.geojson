@@ -12,10 +12,13 @@
     "iso:country":"DK",
     "lbl:latitude":54.856933,
     "lbl:longitude":11.885149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.856933,
     "mps:longitude":11.885149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Eskilstrup"
     ],
@@ -31,7 +34,7 @@
     "name:spa_x_preferred":[
         "Eskilstrup"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eskildstrup"
     ],
     "qs:a0":"Danmark",
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":291,
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2622431,
         "gp:id":553076,
-        "qs:id":271708,
         "qs_pg:id":271708,
         "wd:id":"Q2703446",
         "wk:page":"Eskilstrup"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101818169,
-    "wof:lastmodified":1563319372,
+    "wof:lastmodified":1566721971,
     "wof:name":"Eskilstrup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

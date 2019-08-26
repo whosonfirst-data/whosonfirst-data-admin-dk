@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.85972,55.07863,11.89972,55.11863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u00d6ag\u00e6r",
         "\u00d8ager",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242642233,
-    "wof:lastmodified":1562796764,
+    "wof:lastmodified":1566722294,
     "wof:name":"Oager Huse",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

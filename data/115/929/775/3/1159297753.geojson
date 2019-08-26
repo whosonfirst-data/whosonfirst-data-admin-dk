@@ -34,10 +34,13 @@
     ],
     "lbl:latitude":57.234638,
     "lbl:longitude":10.128114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.234638,
     "mps:longitude":10.128114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Br\u00f8nderslev"
     ],
@@ -72,7 +75,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1562794340,
+    "wof:lastmodified":1566722195,
     "wof:name":"Bronderslev",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

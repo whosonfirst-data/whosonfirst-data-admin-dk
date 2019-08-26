@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.709151,
     "lbl:longitude":10.006724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.709151,
     "mps:longitude":10.006724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Juelsminde"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2619251,
         "gp:id":554571,
-        "qs:id":968218,
         "qs_pg:id":968218,
         "wd:id":"Q8743529",
         "wk:page":"Juelsminde Municipality"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101805599,
-    "wof:lastmodified":1562795128,
+    "wof:lastmodified":1566721993,
     "wof:name":"Juelsminde",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":57.509637,
     "lbl:longitude":10.470008,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.509637,
     "mps:longitude":10.470008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043d\u0434\u0431\u0439"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":317,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2612274,
         "gp:id":557736,
-        "qs:id":1036692,
         "qs_pg:id":1036692,
         "wd:id":"Q1999151"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101817293,
-    "wof:lastmodified":1563319426,
+    "wof:lastmodified":1566721983,
     "wof:name":"Strandby",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.26374,57.28969,10.30374,57.32969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Drie"
     ],
@@ -63,8 +67,7 @@
         "Try"
     ],
     "name:und_x_variant":[
-        "Trye",
-        "Try"
+        "Trye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1343627083,
-    "wof:lastmodified":1564128043,
+    "wof:lastmodified":1566721507,
     "wof:name":"Try",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

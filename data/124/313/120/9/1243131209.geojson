@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.53018,55.13168,8.57018,55.17168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Padborg",
         "N\u00f8rre Tvismark"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243131209,
-    "wof:lastmodified":1562795993,
+    "wof:lastmodified":1566722269,
     "wof:name":"Norre Tvismark",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

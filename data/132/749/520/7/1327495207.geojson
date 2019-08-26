@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.57997,55.64577,11.61997,55.68577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327495207,
-    "wof:lastmodified":1537084812,
+    "wof:lastmodified":1566721483,
     "wof:name":"Hanerup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

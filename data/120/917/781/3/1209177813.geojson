@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.1283,56.0313,12.1683,56.0713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Orby"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209177813,
-    "wof:lastmodified":1564128448,
+    "wof:lastmodified":1566721711,
     "wof:name":"Orby",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

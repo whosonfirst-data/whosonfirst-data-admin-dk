@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.35686,56.78951,8.39686,56.82951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Horsfeldt",
         "Horsfeld",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292963353,
-    "wof:lastmodified":1562795459,
+    "wof:lastmodified":1566721607,
     "wof:name":"Horsfelt",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

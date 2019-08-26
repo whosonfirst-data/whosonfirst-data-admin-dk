@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":55.550835,
     "lbl:longitude":12.02342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.550835,
     "mps:longitude":12.02342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Viby"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2610311,
         "gp:id":558712,
-        "qs:id":968319,
         "qs_pg:id":968319,
         "wd:id":"Q12340905"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101818333,
-    "wof:lastmodified":1563319393,
+    "wof:lastmodified":1566721976,
     "wof:name":"Viby",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"DK",
     "lbl:latitude":56.430755,
     "lbl:longitude":10.378153,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.430755,
     "mps:longitude":10.378153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0443\u043d\u0438\u043d\u0433"
     ],
@@ -38,7 +41,7 @@
     "name:swe_x_preferred":[
         "Auning"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Avning"
     ],
     "qs:a0":"Danmark",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2624435,
         "gp:id":552132,
-        "qs:id":1036753,
         "qs_pg:id":1036753,
         "wd:id":"Q2262931",
         "wk:page":"Auning"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101817275,
-    "wof:lastmodified":1563319424,
+    "wof:lastmodified":1566721983,
     "wof:name":"Auning",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

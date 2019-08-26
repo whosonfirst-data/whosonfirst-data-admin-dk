@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"8.50808,55.49303,8.54808,55.53303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oxvang",
         "Oksvang"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276952255,
-    "wof:lastmodified":1562797047,
+    "wof:lastmodified":1566721644,
     "wof:name":"Oksvang",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

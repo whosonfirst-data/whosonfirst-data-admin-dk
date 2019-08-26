@@ -9,17 +9,19 @@
     "geom:bbox":"15.115874326,55.0555833345,15.1440054156,55.0742073643",
     "geom:latitude":55.064644,
     "geom:longitude":15.128559,
-    "gn:gn_country":"DK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3841,
+    "gn:country":"DK",
+    "gn:fcode":"PPL",
     "gn:population":3841,
     "iso:country":"DK",
     "lbl:latitude":55.064629,
     "lbl:longitude":15.128346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.064629,
     "mps:longitude":15.128346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nex\u00f8"
     ],
@@ -68,7 +70,7 @@
     "name:swe_x_preferred":[
         "Nex\u00f8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neks\u00f8"
     ],
     "qs:a0":"Danmark",
@@ -96,7 +98,7 @@
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.0625,
     "wd:longitude":15.131944,
@@ -111,10 +113,12 @@
     "wof:concordances":{
         "gn:id":2616504,
         "gp:id":555755,
-        "qs:id":1077973,
         "qs_pg:id":278959,
         "wd:id":"Q643410",
         "wk:page":"Nex\u00f8"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1077973
     },
     "wof:country":"DK",
     "wof:geomhash":"fc7bf713de92bf0265fa5815774d4ac8",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101818189,
-    "wof:lastmodified":1563319384,
+    "wof:lastmodified":1566721974,
     "wof:name":"Nex\u00f8",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",
