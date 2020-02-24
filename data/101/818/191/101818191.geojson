@@ -180,6 +180,9 @@
         "wk:page":"R\u00f8nne"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2b547d4d708c4295d0a8f78167caea0",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101818191,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"R\u00f8nne",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

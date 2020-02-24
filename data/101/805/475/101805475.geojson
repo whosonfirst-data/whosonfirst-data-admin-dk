@@ -141,6 +141,9 @@
         "wk:page":"Jelling"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f96fa090cce68509c2d7e9e4735f5be",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101805475,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Jelling",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

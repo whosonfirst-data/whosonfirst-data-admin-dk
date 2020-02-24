@@ -50,6 +50,9 @@
         "qs_pg:id":270628
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4d8975e37d4292380ad1292f2178515",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101846021,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Ebberup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

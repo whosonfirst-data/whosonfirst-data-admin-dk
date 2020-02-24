@@ -103,6 +103,9 @@
         "wk:page":"L\u00f8gumkloster"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"061b8f3e8496aecb88929befc0a0acbe",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101805455,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"L\u00f8gumkloster",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

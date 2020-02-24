@@ -98,6 +98,9 @@
         "qs_pg:id":1288039
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bedffc5579121a62115d97521cec126a",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101805585,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"T\u00f8rring",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

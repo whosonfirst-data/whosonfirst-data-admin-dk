@@ -90,6 +90,9 @@
         "wd:id":"Q1809979"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3478e17a57e1b3ee9adc4f70820c0650",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101805837,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Biersted",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

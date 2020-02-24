@@ -96,6 +96,9 @@
         "wk:page":"Thybor\u00f8n"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d5afb6468919caf7d2c8e29e34f6b02",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805575,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Thybor\u00f8n",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

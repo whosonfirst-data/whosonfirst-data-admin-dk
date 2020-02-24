@@ -315,6 +315,9 @@
         "wk:page":"Hiller\u00f8d"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bcd6bbcbbfb1414a6ae92e07ee8d753",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Hiller\u00f8d",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

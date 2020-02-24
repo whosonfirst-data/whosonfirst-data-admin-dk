@@ -50,6 +50,9 @@
         "qs_pg:id":1014501
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b52421c0311f6b89706515d1cd05dc6c",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805407,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Morud",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

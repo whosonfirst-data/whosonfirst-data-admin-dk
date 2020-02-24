@@ -201,6 +201,9 @@
         "wk:page":"K\u00f8ge"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9afda74426b2f1efb56c8d52762aa1c7",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"K\u00f8ge",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

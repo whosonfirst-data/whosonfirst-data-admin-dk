@@ -73,6 +73,9 @@
         "wk:page":"Ranum"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"757a973af549bf32960e2635798127e3",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101846111,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Ranum",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

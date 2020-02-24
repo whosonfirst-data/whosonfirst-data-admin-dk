@@ -70,6 +70,9 @@
         "gp:id":20229164
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a57312b55be3c12240d0096a67365915",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905899,
-    "wof:lastmodified":1566721566,
+    "wof:lastmodified":1582331835,
     "wof:name":"Falkonerg\u00e5rdsvej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

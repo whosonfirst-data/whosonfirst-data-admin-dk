@@ -146,6 +146,9 @@
         "wd:id":"Q2608258"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05581bc5a8975fa003707de0b079d935",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101840799,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Vordingborg",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

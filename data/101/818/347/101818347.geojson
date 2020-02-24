@@ -65,6 +65,9 @@
         "wd:id":"Q2145682"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36551f6dda0fafc3e41116b209b9bd9d",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101818347,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Stensved",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

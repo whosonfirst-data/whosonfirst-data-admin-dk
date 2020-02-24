@@ -86,6 +86,9 @@
         "qs_pg:id":1013832
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33cb6d43667fe69ad376885d215936ea",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101805773,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Assens",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

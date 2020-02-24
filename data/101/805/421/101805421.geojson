@@ -113,6 +113,9 @@
         "wk:page":"Aarup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"746ec97978583232936b353e40545c24",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101805421,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Aarup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

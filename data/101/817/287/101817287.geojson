@@ -65,6 +65,9 @@
         "wd:id":"Q2612848"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3204ea8a3eec488b746f296ed365c0a6",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101817287,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Kolind",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

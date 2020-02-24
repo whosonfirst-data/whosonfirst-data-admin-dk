@@ -70,6 +70,9 @@
         "gp:id":20229321
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78926f6b0f9f5b5bdc13b92ea1bba8df",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906039,
-    "wof:lastmodified":1566721570,
+    "wof:lastmodified":1582331835,
     "wof:name":"Maglekildevej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

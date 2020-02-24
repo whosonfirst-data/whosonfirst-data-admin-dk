@@ -98,6 +98,9 @@
         "wd:id":"Q2345706"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83e2c46df3cdfa702a4d94dee4c6b0e5",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101847769,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331880,
     "wof:name":"Sengel\u00f8se",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

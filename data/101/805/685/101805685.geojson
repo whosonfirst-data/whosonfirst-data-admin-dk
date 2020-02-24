@@ -105,6 +105,9 @@
         "wd:id":"Q4919613"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75b7aa882a719dd2fffafe0acf159c57",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101805685,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331877,
     "wof:name":"Bjerringbro",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

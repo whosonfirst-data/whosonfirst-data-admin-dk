@@ -85,6 +85,9 @@
         "wk:page":"Husum (Copenhagen)"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8cef320e0288263e76ec328bf7ae4e6b",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721580,
+    "wof:lastmodified":1582331842,
     "wof:name":"Husum",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

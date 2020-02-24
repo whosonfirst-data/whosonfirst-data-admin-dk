@@ -66,6 +66,9 @@
         "qs_pg:id":244277
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2afe5176df20ec74c1c0af84d05c230d",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101805483,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Agerb\u00e6k",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "gp:id":20229085
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54abe07dc99047db8ec57a033782eeaf",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905827,
-    "wof:lastmodified":1566721565,
+    "wof:lastmodified":1582331835,
     "wof:name":"Bakkeg\u00e5rds All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -469,6 +469,9 @@
         "wk:page":"Aalborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7b6da7e4b32fdef83a94f1e36e68e2f",
     "wof:hierarchy":[
         {
@@ -483,7 +486,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331879,
     "wof:name":"Aalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

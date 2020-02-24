@@ -73,6 +73,9 @@
         "wd:id":"Q2441845"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37b4a49e30b817b56189842f713cea7c",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101805567,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"Virklund",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

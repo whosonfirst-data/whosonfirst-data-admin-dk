@@ -81,6 +81,9 @@
         "wd:id":"Q1286001"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5e6a6b6b518217c189b4bb63f1492ce",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101818181,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Vindeby",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

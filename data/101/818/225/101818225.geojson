@@ -97,6 +97,9 @@
         "wk:page":"Otterup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c1ddfd623b8e1d3e03547a94e9381c4",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101818225,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Otterup",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

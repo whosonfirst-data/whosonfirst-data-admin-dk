@@ -50,6 +50,9 @@
         "qs_pg:id":322679
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad7f298c3f85d02717e8b9aef732c43f",
     "wof:hierarchy":[
         {
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101805625,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"\u00d8stbirk",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

@@ -100,6 +100,9 @@
         "wk:page":"Bellinge, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c35c18e5dca332f3459d443339b80ce",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101754093,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Bellinge",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

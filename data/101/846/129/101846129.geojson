@@ -87,6 +87,9 @@
         "wk:page":"Vester Hassing"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"655b2b29b7e81c96273b839f44ac90d6",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101846129,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Vester Hassing",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

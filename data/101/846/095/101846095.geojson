@@ -65,6 +65,9 @@
         "qs_pg:id":380936
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85bc58c87c6ddb70baef5bd8f0c17f98",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101846095,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Egebjerg",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

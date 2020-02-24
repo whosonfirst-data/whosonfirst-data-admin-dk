@@ -87,6 +87,9 @@
         "wk:page":"Niv\u00e5"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d7d85caf82d530c24311a9410c58f13",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101847791,
-    "wof:lastmodified":1561778005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Niv\u00e5",
     "wof:parent_id":1159297817,
     "wof:placetype":"locality",

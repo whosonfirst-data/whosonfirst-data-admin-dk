@@ -124,6 +124,10 @@
         "wk:page":"Bagsv\u00e6rd"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39eb1478fbe6678219b5b815abad3691",
     "wof:hierarchy":[
         {
@@ -139,7 +143,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721580,
+    "wof:lastmodified":1582331842,
     "wof:name":"Bagsv\u00e6rd",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

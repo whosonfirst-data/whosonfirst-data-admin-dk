@@ -53,6 +53,9 @@
         "qs_pg:id":1237363
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77c5897f50ad5a31df0d7192f979d5ad",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101846047,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Thyregod",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

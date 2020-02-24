@@ -50,6 +50,9 @@
         "qs_pg:id":211273
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc653baa67de080876ab06cd428d849b",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805545,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"Kliplev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

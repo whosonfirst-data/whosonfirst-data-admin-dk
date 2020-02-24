@@ -93,6 +93,9 @@
         "wk:page":"Vr\u00e5"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b799c9e27268c4301ec73ce1dfa778fa",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101846121,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331879,
     "wof:name":"Vr\u00e5",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

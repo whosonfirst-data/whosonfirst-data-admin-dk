@@ -65,6 +65,9 @@
         "qs_pg:id":182760
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e0965e301fa72028db5eb9c97560205",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101818241,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Stenstrup",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

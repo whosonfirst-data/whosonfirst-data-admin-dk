@@ -52,6 +52,9 @@
         "qs_pg:id":216715
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72b31d3b17e8274f423698026dc16b2e",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101846091,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Daug\u00e5rd",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

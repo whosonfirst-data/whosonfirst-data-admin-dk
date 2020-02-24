@@ -75,6 +75,9 @@
         "qs_pg:id":240995
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"253b7af8a2a477696dac50a284808f9f",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721580,
+    "wof:lastmodified":1582331842,
     "wof:name":"Lers\u00f8en",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

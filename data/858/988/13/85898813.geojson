@@ -124,6 +124,9 @@
         "wk:page":"Vanl\u00f8se"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4f0885ef0816b0c9f87180e9238c0ca",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721582,
+    "wof:lastmodified":1582331843,
     "wof:name":"Vanl\u00f8se",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -79,6 +79,10 @@
         "qs_pg:id":224817
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c028a489b422ce2769c543a1eebcc518",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721551,
+    "wof:lastmodified":1582331834,
     "wof:name":"Odense V",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

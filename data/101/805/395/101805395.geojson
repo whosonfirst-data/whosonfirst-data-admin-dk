@@ -222,6 +222,9 @@
         "qs_pg:id":1079062
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11e4f752e68c0993764d29b7b8b12bfa",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"S\u00f8nderborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

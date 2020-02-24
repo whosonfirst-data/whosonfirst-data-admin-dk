@@ -68,6 +68,9 @@
         "wk:page":"Skodsborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05bfabcec435dec86918e082f0c54b31",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101754107,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Skodsborg",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

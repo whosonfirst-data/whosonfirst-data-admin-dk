@@ -71,6 +71,9 @@
         "wd:id":"Q2153431"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a306d0da8affb0c55a12db96c34d9bd",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101847749,
-    "wof:lastmodified":1566722007,
+    "wof:lastmodified":1582331880,
     "wof:name":"Regstrup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

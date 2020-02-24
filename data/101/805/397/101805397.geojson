@@ -80,6 +80,9 @@
         "wd:id":"Q821231"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8869358de73f7072e4d822173c56ebd",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101805397,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331874,
     "wof:name":"Guderup",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

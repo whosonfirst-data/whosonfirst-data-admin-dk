@@ -85,6 +85,9 @@
         "wk:page":"Hjallerup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f0a42424cfaff74cad0a4efb5c06cc4",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805833,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Hjallerup",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

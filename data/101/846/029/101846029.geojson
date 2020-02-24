@@ -310,6 +310,9 @@
         "wk:page":"Egtved"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"790272f45fc87add78f4a056c6853bdb",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":101846029,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Egtved",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

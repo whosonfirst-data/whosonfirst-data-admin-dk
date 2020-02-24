@@ -411,6 +411,9 @@
         "wd:id":"Q41803"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9a4cdc5443cec1e687b65f354c66b34",
     "wof:hierarchy":[
         {
@@ -423,7 +426,7 @@
         }
     ],
     "wof:id":101805463,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331875,
     "wof:name":"Gram",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

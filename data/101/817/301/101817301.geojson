@@ -314,6 +314,9 @@
         "wk:page":"Skagen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c8d8e10552f74309b2fc24d39165dd8",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":101817301,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Skagen",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

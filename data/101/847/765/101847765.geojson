@@ -95,6 +95,9 @@
         "wk:page":"Store Heddinge"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f0e9ea51678481e98372bada89fa793",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101847765,
-    "wof:lastmodified":1566722007,
+    "wof:lastmodified":1582331880,
     "wof:name":"Store Heddinge",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

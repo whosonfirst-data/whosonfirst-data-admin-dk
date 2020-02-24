@@ -95,6 +95,9 @@
         "wk:page":"Ejby, Lejre Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0eec2bb477a956448048748be9d5392",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101847759,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"Ejby",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

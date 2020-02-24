@@ -98,6 +98,9 @@
         "wk:page":"Kjellerup Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6177482e2d8ac6a9aa223e57f7c03843",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101846071,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Kjellerup",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

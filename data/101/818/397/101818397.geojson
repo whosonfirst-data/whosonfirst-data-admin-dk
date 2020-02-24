@@ -276,6 +276,9 @@
         "wk:page":"Helsing\u00f8r"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44ca07f74794981ecdfcd1a9fcb07b84",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Helsing\u00f8r",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

@@ -275,6 +275,9 @@
         "qs_pg:id":472501
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecb70796d7cea8ea7396b84c9c591fd5",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":101749165,
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Horsens",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

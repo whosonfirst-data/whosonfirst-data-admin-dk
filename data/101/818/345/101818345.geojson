@@ -87,6 +87,9 @@
         "wk:page":"Osted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0d98488096a4f9e32c5f0778291a722",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101818345,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Osted",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

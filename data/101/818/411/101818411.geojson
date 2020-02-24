@@ -257,6 +257,9 @@
         "wd:id":"Q3054896"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8877ed14a79b61e29f8d0f4041b5c215",
     "wof:hierarchy":[
         {
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":101818411,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Blovstr\u00f8d",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

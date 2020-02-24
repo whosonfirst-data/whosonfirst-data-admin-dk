@@ -70,6 +70,9 @@
         "gp:id":20229059
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39c4d4078a7aebdf425d26086bca3da1",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905795,
-    "wof:lastmodified":1566721563,
+    "wof:lastmodified":1582331835,
     "wof:name":"Adolph Steens All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -135,6 +135,9 @@
         "qs_pg:id":1079046
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"149468b1b29acf6773a42554b39221ae",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101805775,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Aars",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

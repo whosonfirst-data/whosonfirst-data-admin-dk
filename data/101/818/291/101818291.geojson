@@ -66,6 +66,9 @@
         "wd:id":"Q2367284"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4cfd41ccfaa1744f0d9ef578b5edc63",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101818291,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331870,
     "wof:name":"Gadstrup",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

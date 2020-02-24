@@ -86,6 +86,9 @@
         "wk:page":"\u00c5rslev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cafe58f35fc11a34f6436b3f305d2e97",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101818201,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331871,
     "wof:name":"\u00c5rslev",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

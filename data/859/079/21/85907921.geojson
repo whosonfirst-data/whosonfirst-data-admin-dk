@@ -82,6 +82,10 @@
         "wd:id":"Q4661715"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e26db61fd36e8f80ca54787b20a6026b",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721551,
+    "wof:lastmodified":1582331833,
     "wof:name":"\u00c5rhus N",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

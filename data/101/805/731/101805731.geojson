@@ -76,6 +76,9 @@
         "qs_pg:id":1014527
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ec6068c5f865b1c324594641ca3408e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101805731,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331874,
     "wof:name":"Engesvang",
     "wof:parent_id":1394014107,
     "wof:placetype":"locality",

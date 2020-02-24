@@ -85,6 +85,9 @@
         "wk:page":"Sundbyvester"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b843b225d4d2f52551e1f8480f389c2b",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721555,
+    "wof:lastmodified":1582331834,
     "wof:name":"Sundbyvester",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

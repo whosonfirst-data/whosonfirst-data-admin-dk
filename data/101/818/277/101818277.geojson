@@ -112,6 +112,9 @@
         "wk:page":"H\u00f8ng"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d194db6f43f94436a75771cde6f787bb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101818277,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"H\u00f8ng",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

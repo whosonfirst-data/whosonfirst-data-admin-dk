@@ -96,6 +96,9 @@
         "wk:page":"Br\u00e6dstrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a50828c0bfc5a7936c8c203e272f308",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805583,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Br\u00e6dstrup",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

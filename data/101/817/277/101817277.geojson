@@ -99,6 +99,9 @@
         "wk:page":"R\u00f8nde"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bcc74811c9ab3ea83476552e8b192cb",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101817277,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331873,
     "wof:name":"R\u00f8nde",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

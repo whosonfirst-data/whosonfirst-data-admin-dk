@@ -113,6 +113,9 @@
         "qs_pg:id":903013
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8cacc36cbc3843ee6064f6cf90727007",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101818187,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Karreb\u00e6ksminde",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

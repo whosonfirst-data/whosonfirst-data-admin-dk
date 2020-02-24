@@ -97,6 +97,10 @@
         "wk:page":"Hjortsh\u00f8j"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d8998cee59261d5b445486096dbc8c5",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101875297,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Hjortsh\u00f8j",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

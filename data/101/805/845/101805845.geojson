@@ -96,6 +96,9 @@
         "wk:page":"Brovst"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13baa0e7cf94156f32016a5d3e3c168f",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805845,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"Brovst",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

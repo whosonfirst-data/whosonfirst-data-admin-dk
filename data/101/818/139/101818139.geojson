@@ -108,6 +108,9 @@
         "wk:page":"R\u00f8dby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a641938fd7a034a9a6288b1453557ff",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101818139,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"R\u00f8dby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

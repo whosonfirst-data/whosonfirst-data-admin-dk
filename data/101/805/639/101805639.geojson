@@ -93,6 +93,9 @@
         "wk:page":"\u00d8rum (S\u00f8nderlyng)"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37ed25cb0f36eb76af62c95d054e6fef",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101805639,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"\u00d8rum",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

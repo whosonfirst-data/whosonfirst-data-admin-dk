@@ -68,6 +68,9 @@
         "wk:page":"Idestrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95c328e67c93c52d629e2cf178de2a8b",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101818173,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Idestrup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

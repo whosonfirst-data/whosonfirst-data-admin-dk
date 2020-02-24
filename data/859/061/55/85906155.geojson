@@ -70,6 +70,9 @@
         "gp:id":20229415
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42bc2eb6e75429bc870adc59bbcc20be",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906155,
-    "wof:lastmodified":1566721559,
+    "wof:lastmodified":1582331834,
     "wof:name":"St. Markus All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

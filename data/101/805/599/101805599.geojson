@@ -68,6 +68,9 @@
         "wk:page":"Juelsminde Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f79a770d8aab59770824ab25f77fa61",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101805599,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Juelsminde",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

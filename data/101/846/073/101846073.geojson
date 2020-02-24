@@ -75,6 +75,9 @@
         "wk:page":"Assentoft"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1aa4fe5bed09972ab4c82a4bb3ba6240",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101846073,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Assentoft",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

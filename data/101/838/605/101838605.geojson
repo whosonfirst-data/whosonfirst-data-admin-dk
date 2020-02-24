@@ -50,6 +50,9 @@
         "qs_pg:id":1013505
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3997f24011e1f3ea0c3c31205b82b17",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101838605,
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"Egernsund",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "qs_pg:id":1079056
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ae0187ba3881bb7173f126762404dba",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101818147,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Maribo",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

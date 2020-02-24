@@ -89,6 +89,9 @@
         "wk:page":"Dianalund Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6878986ddc68a6f618c9202dca3193f",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818389,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Dianalund",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

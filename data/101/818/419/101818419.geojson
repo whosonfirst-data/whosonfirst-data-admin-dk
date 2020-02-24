@@ -117,6 +117,9 @@
         "wk:page":"Fredensborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7312799ef58d8e3b1587c5872ea69047",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Fredensborg",
     "wof:parent_id":1394014147,
     "wof:placetype":"locality",

@@ -88,6 +88,9 @@
         "wk:page":"Munkebo"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93515298b9a909cc18dab9619566f0d0",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818221,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Munkebo",
     "wof:parent_id":1159297755,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Marstal"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"156ee07eb7ab5dff6dc5e76dc82ec054",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101818159,
-    "wof:lastmodified":1566721970,
+    "wof:lastmodified":1582331868,
     "wof:name":"Marstal",
     "wof:parent_id":1394014069,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wk:page":"Hornslet"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2624c668204f2d841d7fccfd41083651",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101817273,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Hornslet",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

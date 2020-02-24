@@ -88,6 +88,9 @@
         "wk:page":"Langeskov"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77f4b017001f8354b6b02d455eb6d6ed",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818227,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Langeskov",
     "wof:parent_id":1159297755,
     "wof:placetype":"locality",

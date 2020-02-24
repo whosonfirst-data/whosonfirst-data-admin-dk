@@ -101,6 +101,9 @@
         "wk:page":"H\u00f8jer"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ab98affba9b4bfac28869872b29101d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101805485,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"H\u00f8jer",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

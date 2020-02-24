@@ -87,6 +87,9 @@
         "wk:page":"H\u00e5rlev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69bdb37c469799df94c2b4a9aa9cb714",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101818259,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"H\u00e5rlev",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

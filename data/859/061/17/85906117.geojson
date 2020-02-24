@@ -70,6 +70,9 @@
         "gp:id":20229385
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"272a6bf8e89d71bab800ceb79d898826",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906117,
-    "wof:lastmodified":1566721557,
+    "wof:lastmodified":1582331834,
     "wof:name":"Prinsesse Maries All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

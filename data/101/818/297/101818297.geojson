@@ -73,6 +73,9 @@
         "wk:page":"Glums\u00f8"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"318f1dab808af562759472a9ee97e1b9",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101818297,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331871,
     "wof:name":"Glums\u00f8",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

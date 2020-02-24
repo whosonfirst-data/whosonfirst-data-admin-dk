@@ -74,6 +74,9 @@
         "wd:id":"Q2693795"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04f987b686ebac3108952861ca7d6d4d",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101846103,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Vildbjerg",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

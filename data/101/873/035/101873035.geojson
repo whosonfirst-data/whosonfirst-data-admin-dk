@@ -78,6 +78,10 @@
         "wd:id":"Q16325016"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a95103224ffca1309efd368962f9b340",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101873035,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Vindinge",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

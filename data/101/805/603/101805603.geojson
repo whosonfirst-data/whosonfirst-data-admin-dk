@@ -49,6 +49,9 @@
         "qs_pg:id":1165801
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"936b0536a26554ddfe9057f70d63403c",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101805603,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Voel",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

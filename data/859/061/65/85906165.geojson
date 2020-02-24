@@ -70,6 +70,9 @@
         "gp:id":20229424
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9eaebef86c1cbc1c6abf71ea9fa17afd",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906165,
-    "wof:lastmodified":1566721559,
+    "wof:lastmodified":1582331834,
     "wof:name":"Schlegels All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -102,6 +102,9 @@
         "wk:page":"Svaneke"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf965a38eec76c07bbd91619264efcac",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101818195,
-    "wof:lastmodified":1566721970,
+    "wof:lastmodified":1582331868,
     "wof:name":"Svaneke",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

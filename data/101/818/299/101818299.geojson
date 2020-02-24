@@ -52,6 +52,9 @@
         "qs_pg:id":1211182
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc46755460e33c28af85a38d84027608",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101818299,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"R\u00f8dvig",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

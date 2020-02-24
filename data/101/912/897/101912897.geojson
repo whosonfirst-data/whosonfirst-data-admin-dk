@@ -49,6 +49,9 @@
         "qs_pg:id":71128
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36ba8b6dc8079031de2008c6dbf60dbe",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101912897,
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:name":"Thyholm",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

@@ -77,6 +77,10 @@
         "wk:page":"\u00d8lsted, Halsn\u00e6s Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e9282fd0256a764155246031da45e61",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101873045,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"\u00d8lsted",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

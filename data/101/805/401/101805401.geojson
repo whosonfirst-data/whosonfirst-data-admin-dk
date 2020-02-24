@@ -124,6 +124,9 @@
         "wk:page":"Nordborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bd508a3e970a1676fc0f0144e6eedad",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101805401,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331874,
     "wof:name":"Nordborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

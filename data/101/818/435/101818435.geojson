@@ -74,6 +74,9 @@
         "wk:page":"Lynge, Allerod"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6971b408615d26e3b6aecefb6c33668e",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101818435,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331871,
     "wof:name":"Lynge",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

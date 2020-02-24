@@ -113,6 +113,9 @@
         "qs_pg:id":1003973
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8005614a67d637f706717c4887b367f2",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101846119,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Hanstholm",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

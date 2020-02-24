@@ -72,6 +72,9 @@
         "wd:id":"Q2608666"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5b813631920b7c01f0400b0c5bd853b",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101818415,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Raml\u00f8se",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
         "wd:id":"Q3977699"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c5206d9468945ed4799c55079067d36",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101805493,
-    "wof:lastmodified":1566721997,
+    "wof:lastmodified":1582331877,
     "wof:name":"Rinken\u00e6s",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
         "qs_pg:id":1077829
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e25514c793ccffb1592568f39dff5f2",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721581,
+    "wof:lastmodified":1582331842,
     "wof:name":"Inderhavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

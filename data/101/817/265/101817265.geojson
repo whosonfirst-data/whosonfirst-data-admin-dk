@@ -81,6 +81,9 @@
         "wk:page":"Gr\u00e6sted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0315f53bbe302a8035596eb9fcadda5",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101817265,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Gr\u00e6sted",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

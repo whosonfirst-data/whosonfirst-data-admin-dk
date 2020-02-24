@@ -88,6 +88,9 @@
         "wd:id":"Q1911961"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41fc6e6fa50cc8b3f2fc198490db2029",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101873059,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Thorning",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

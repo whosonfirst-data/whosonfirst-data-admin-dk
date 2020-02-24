@@ -93,6 +93,9 @@
         "wk:page":"Gistrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"864c27577ff9ec8d21a322401112b534",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101846117,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Gistrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

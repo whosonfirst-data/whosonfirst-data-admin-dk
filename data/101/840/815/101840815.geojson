@@ -49,6 +49,9 @@
         "qs_pg:id":182744
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8967ef7be36356724d604de05975cca3",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101840815,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Smidstrup",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

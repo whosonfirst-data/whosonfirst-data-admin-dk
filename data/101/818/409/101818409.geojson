@@ -75,6 +75,9 @@
         "wd:id":"Q1946281"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07a948f9d0285429e1469a619f58e7c6",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101818409,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"N\u00f8debo",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

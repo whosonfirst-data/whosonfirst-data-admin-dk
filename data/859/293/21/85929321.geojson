@@ -84,6 +84,9 @@
         "wd:id":"Q3430242"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8f4db2ca1db2ca25729a2340ee37c65",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721554,
+    "wof:lastmodified":1582331834,
     "wof:name":"Ydre N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -73,6 +73,9 @@
         "wk:page":"Tisvilde"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c75c9798f12ef8813c74295dbf828afb",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101840811,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Tisvilde",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

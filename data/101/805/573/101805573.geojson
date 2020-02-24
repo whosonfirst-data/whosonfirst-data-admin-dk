@@ -83,6 +83,9 @@
         "wd:id":"Q2382537"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"454b8b3801db22c3de04b42e4a6bcc19",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101805573,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"Stilling",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

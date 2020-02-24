@@ -163,6 +163,9 @@
         "wk:page":"Ringsted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f32376c8804a94613dcfc2acae33a14",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Ringsted",
     "wof:parent_id":1394014123,
     "wof:placetype":"locality",

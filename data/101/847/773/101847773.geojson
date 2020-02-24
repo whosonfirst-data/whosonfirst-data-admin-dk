@@ -49,6 +49,9 @@
         "qs_pg:id":182631
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd3313499e522c67c9a9dbfaa07b96e8",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101847773,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"Gadevang",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

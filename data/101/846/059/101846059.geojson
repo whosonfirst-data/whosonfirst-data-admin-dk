@@ -84,6 +84,9 @@
         "wd:id":"Q12871664"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b62e59f2cee6b8da7c6a83a3c622c9f4",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101846059,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Felsted",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

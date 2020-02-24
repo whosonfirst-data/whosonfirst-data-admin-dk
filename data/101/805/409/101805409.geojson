@@ -118,6 +118,9 @@
         "wk:page":"Assens, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b66f77fb65e937ea9c5a0301bba2d6f2",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Assens",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wd:id":"Q2555857"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c71db532722a3da33f42f9a210c84d47",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101817281,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331872,
     "wof:name":"Ryomg\u00e5rd",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

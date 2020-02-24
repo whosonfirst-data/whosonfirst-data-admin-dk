@@ -102,6 +102,9 @@
         "wk:page":"Hundested"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e614896ba3b8a09563e17e8f3e0e6e0c",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101818399,
-    "wof:lastmodified":1566721970,
+    "wof:lastmodified":1582331868,
     "wof:name":"Hundested",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

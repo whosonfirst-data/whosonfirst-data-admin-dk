@@ -114,6 +114,9 @@
         "wk:page":"Pandrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0d7f2b349eadaf987bc09e908498d66",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101846125,
-    "wof:lastmodified":1566722007,
+    "wof:lastmodified":1582331880,
     "wof:name":"Pandrup",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

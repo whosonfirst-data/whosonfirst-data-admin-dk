@@ -90,6 +90,9 @@
         "wk:page":"Lystrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13c980232ea58d79d88cc9fad4f65fc1",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101805657,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Lystrup",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

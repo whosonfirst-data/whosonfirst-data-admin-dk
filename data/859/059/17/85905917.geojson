@@ -70,6 +70,9 @@
         "gp:id":20229185
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3e85ea600be7d6b6548f5aae1245b60",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905917,
-    "wof:lastmodified":1566721561,
+    "wof:lastmodified":1582331835,
     "wof:name":"Fuglevangvej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -1128,6 +1128,11 @@
     },
     "wof:country":"DK",
     "wof:country_alpha3":"DNK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"5ba99424829f2770c66ef3d94c5c409c",
     "wof:hierarchy":[
         {
@@ -1145,7 +1150,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1566721572,
+    "wof:lastmodified":1582331837,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

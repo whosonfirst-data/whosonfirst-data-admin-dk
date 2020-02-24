@@ -276,6 +276,9 @@
         "wk:page":"Sor\u00f8"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"694bffc987901d7b3f9fb24c7c4d3061",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Sor\u00f8",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

@@ -146,6 +146,9 @@
         "qs_pg:id":1165793
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e777aeceddf81538f8975cb386f00797",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101754101,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Taastrup",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

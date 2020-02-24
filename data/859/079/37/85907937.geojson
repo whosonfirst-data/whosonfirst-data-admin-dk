@@ -78,6 +78,10 @@
         "qs_pg:id":467164
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95ef675332ee239c1f4283036f665fc4",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721551,
+    "wof:lastmodified":1582331834,
     "wof:name":"Odense SO",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

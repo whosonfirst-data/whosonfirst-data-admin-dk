@@ -97,6 +97,9 @@
         "wk:page":"Glamsbjerg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b410ae8f3b0cf82613fb1f9c71cf1ee",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101805427,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Glamsbjerg",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

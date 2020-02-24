@@ -70,6 +70,9 @@
         "gp:id":20229416
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6c43b060ef2265814fbc778fb9720e6",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906157,
-    "wof:lastmodified":1566721555,
+    "wof:lastmodified":1582331834,
     "wof:name":"St. Markus Plads",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -157,6 +157,9 @@
         "wk:page":"Nyborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a53b38a15db874d4e7b1504d09d74bb",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Nyborg",
     "wof:parent_id":1394014139,
     "wof:placetype":"locality",

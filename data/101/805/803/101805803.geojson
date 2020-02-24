@@ -80,6 +80,9 @@
         "wk:page":"Arden Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55bb938c4d75de4a472bbaba89e5cd38",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101805803,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Arden",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

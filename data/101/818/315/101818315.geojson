@@ -67,6 +67,9 @@
         "wk:page":"Undl\u00f8se"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"658e262c63e1400f44c1d9a081eebd29",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101818315,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Undl\u00f8se",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

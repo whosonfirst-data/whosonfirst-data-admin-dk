@@ -142,6 +142,9 @@
         "wk:page":"Christiansfeld"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ec2de5a4811576533bdeaca4ced42b9",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101805555,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Christiansfeld",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

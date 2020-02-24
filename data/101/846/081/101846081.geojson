@@ -81,6 +81,9 @@
         "wk:page":"Malling, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0ced191dfc63144074cf9692afb8f5e",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101846081,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Malling",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

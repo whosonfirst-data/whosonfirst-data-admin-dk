@@ -49,6 +49,9 @@
         "qs_pg:id":266556
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f92434e3e79ae4e550ecf879093af36",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101818365,
-    "wof:lastmodified":1566721969,
+    "wof:lastmodified":1582331868,
     "wof:name":"Gislinge",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wd:id":"Q2217489"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c89c38d6d6ac23e35a2fd4da9c370705",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101818375,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Svogerslev",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Ringk\u00f8bing"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ebc21f6a22e77441c6cda240b4ad365f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101805593,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"Ringk\u00f8bing",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "wk:page":"Skals"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b668e1e5c75a15ec3dadb602dbe12a9",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101846087,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Skals",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

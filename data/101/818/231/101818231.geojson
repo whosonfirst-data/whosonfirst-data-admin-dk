@@ -116,6 +116,9 @@
         "wk:page":"Ringe, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a91e7bbada2f3758e16a4a8b268f0ee9",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101818231,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Ringe",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

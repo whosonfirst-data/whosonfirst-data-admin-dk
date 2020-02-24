@@ -108,6 +108,9 @@
         "wk:page":"Liller\u00f8d"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d67e68875897a36cb31d5967b8085f7",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101818401,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331869,
     "wof:name":"Liller\u00f8d",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

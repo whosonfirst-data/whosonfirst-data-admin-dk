@@ -119,6 +119,9 @@
         "wk:page":"Kors\u00f8r"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b32a6183d10bc5633699e70ac5563825",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101818327,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Kors\u00f8r",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

@@ -102,6 +102,9 @@
         "wk:page":"Sk\u00e6lsk\u00f8r"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d23102e0275424a84311e88b0f444e35",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101847755,
-    "wof:lastmodified":1566722007,
+    "wof:lastmodified":1582331880,
     "wof:name":"Sk\u00e6lsk\u00f8r",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

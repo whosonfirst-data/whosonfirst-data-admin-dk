@@ -83,6 +83,10 @@
         "wk:page":"Liseleje"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"95fadd6a3e87c5942ce62acf70ae3930",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101875295,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Liseleje",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

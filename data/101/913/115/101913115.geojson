@@ -52,6 +52,9 @@
         "qs_pg:id":977255
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9bd5b24d7c105e67835626f8ec651a9",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101913115,
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Strandby G\u00e5rde",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

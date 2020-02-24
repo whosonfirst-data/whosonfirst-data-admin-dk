@@ -52,6 +52,9 @@
         "qs_pg:id":245748
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e5116797ec4c82dea26613b02562078",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101818293,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"Kirke S\u00e5by",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

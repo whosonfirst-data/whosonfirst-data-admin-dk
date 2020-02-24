@@ -102,6 +102,9 @@
         "qs_pg:id":1036702
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"264fd30f3f1474c3d0a6c9d5981b84a5",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101754113,
-    "wof:lastmodified":1566721969,
+    "wof:lastmodified":1582331867,
     "wof:name":"V\u00e6rl\u00f8se",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

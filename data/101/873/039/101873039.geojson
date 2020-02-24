@@ -64,6 +64,10 @@
         "wd:id":"Q1876093"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb787800bb730457829ed64fa104c4fa",
     "wof:hierarchy":[
         {
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101873039,
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331872,
     "wof:name":"Vejby",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

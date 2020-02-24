@@ -72,6 +72,10 @@
         "qs_pg:id":182628
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a57a4709d9b9fc6d4356f3071728e06",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101873051,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"F\u00e5rup",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

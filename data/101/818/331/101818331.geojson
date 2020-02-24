@@ -78,6 +78,9 @@
         "wk:page":"Havdrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5075bea5cccc13a32394807d8c11699e",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101818331,
-    "wof:lastmodified":1566721969,
+    "wof:lastmodified":1582331868,
     "wof:name":"Havdrup",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

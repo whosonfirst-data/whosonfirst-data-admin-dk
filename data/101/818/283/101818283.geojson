@@ -108,6 +108,9 @@
         "wd:id":"Q2689028"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"685e480f05d0c9816267c475e2458367",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101818283,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Lejre",
     "wof:parent_id":1394014067,
     "wof:placetype":"locality",

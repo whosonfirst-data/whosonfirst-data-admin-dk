@@ -113,6 +113,9 @@
         "wk:page":"N\u00f8rre Aaby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ab8bb359b9e133c704ea76fa663994e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101846015,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"N\u00f8rre Aaby",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

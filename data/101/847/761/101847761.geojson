@@ -90,6 +90,9 @@
         "wd:id":"Q2746204"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aae6c0c7f946a9d8e24eb51eb2ad25a4",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101847761,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"Vig",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

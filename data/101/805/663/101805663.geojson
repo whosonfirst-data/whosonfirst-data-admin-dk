@@ -76,6 +76,9 @@
         "wd:id":"Q1942974"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8b7502c4f95f0191f62a9dea7b2d286",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101805663,
-    "wof:lastmodified":1566721997,
+    "wof:lastmodified":1582331877,
     "wof:name":"Ulstrup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

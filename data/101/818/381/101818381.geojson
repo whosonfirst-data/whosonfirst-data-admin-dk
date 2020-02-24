@@ -74,6 +74,9 @@
         "wk:page":"Borup, K\u00f8ge Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0603440629287e728474383963d39299",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101818381,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Borup",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

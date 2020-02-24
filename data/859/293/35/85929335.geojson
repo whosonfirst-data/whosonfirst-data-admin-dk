@@ -111,6 +111,9 @@
         "wk:page":"Vesterbro, Copenhagen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"982a7d0f0e148644ada91f138523f4e7",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721554,
+    "wof:lastmodified":1582331834,
     "wof:name":"Vesterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

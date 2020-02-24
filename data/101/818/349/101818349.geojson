@@ -79,6 +79,9 @@
         "qs_pg:id":1156370
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c7dbbe100ea37c4cab4f31070fbf6dd",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101818349,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Mogenstrup",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

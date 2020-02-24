@@ -135,6 +135,9 @@
         "wk:page":"Faxe"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bcf75caec81df9c566df5314b6815de2",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331872,
     "wof:name":"Faxe",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

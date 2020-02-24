@@ -71,6 +71,9 @@
         "qs_pg:id":1221351
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f87b58a8b214387c44ad466a44cc359d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101805631,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"H\u00f8jslev Stationsby",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "qs_pg:id":140619
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8090f85978ebcc3e9e1ea923cb0e8b1",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101847793,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331880,
     "wof:name":"Alling\u00e5bro",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

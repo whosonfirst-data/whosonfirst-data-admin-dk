@@ -81,6 +81,9 @@
         "wk:page":"Tune, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8b475d37a47738202124c4dc339772d",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101840803,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Tune",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "qs_pg:id":1036731
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc5188052dbdb69113554f4801849d3f",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805619,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Harbo\u00f8re",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "qs_pg:id":1156387
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"420240400abe09be863ff4237c3fd10f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101818433,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331871,
     "wof:name":"Stenl\u00f8se",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

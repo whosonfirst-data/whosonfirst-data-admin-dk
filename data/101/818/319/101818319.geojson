@@ -186,6 +186,9 @@
         "qs_pg:id":1059333
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de4fd6ecddd00c475cc54224ae7a2fac",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Kalundborg",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

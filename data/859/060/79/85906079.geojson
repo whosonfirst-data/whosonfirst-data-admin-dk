@@ -172,6 +172,9 @@
         "wk:page":"Nyhavn"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ac53908d7beb9487d890a1a2bee8efc",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721570,
+    "wof:lastmodified":1582331835,
     "wof:name":"Nyhavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

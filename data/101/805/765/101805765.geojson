@@ -120,6 +120,9 @@
         "wk:page":"L\u00f8gst\u00f8r"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74e6b44ca844085c3421aba13d7d4481",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805765,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331873,
     "wof:name":"L\u00f8gst\u00f8r",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

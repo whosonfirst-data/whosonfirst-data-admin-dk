@@ -105,6 +105,9 @@
         "wk:page":"Hadsten"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"313c6c76f6371ff169f6cca361c0e466",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101805693,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Hadsten",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

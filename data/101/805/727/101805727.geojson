@@ -77,6 +77,9 @@
         "wd:id":"Q2474915"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"922bfadabad0f27cd1485957b1372464",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805727,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Ulfborg",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

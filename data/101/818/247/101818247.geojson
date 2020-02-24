@@ -110,6 +110,9 @@
         "wk:page":"J\u00e6gerspris"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a817b219b5a5d2a4cbf494991728e19c",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101818247,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"J\u00e6gerspris",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

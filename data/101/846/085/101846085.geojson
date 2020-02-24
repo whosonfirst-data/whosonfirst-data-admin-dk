@@ -64,6 +64,9 @@
         "wk:page":"L\u00f8gstrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5459af5a6b90d042e641c15033691c05",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101846085,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"L\u00f8gstrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

@@ -414,6 +414,9 @@
         "wk:page":"Esbjerg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a38e02566064fd5f8cb86896115d9627",
     "wof:hierarchy":[
         {
@@ -429,7 +432,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Esbjerg",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

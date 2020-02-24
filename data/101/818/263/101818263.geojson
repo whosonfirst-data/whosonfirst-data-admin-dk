@@ -76,6 +76,9 @@
         "wd:id":"Q4420514"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20c8ab433c75ab7bf6deee0f8f86ce45",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101818263,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Nyr\u00e5d",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

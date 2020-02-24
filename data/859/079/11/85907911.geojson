@@ -77,6 +77,10 @@
         "qs_pg:id":1086069
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"75fb319365dcef720705ccbe19c8fa31",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721550,
+    "wof:lastmodified":1582331833,
     "wof:name":"Aalborg O",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

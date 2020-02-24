@@ -50,6 +50,9 @@
         "qs_pg:id":1211155
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3a04ca3253afa417bc2a80662f34104",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101818217,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Kv\u00e6rndrup",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

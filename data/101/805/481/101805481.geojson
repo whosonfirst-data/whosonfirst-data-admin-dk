@@ -99,6 +99,9 @@
         "wd:id":"Q2296478"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69e8f1f781426cde1f3c8d838942a747",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101805481,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"S\u00f8nder Omme",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

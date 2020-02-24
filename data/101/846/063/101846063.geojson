@@ -89,6 +89,9 @@
         "wk:page":"Bredsten"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fef4c68e3d2b7a35a5e81b9f813ec020",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101846063,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Bredsten",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

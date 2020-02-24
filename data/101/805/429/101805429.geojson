@@ -78,6 +78,9 @@
         "qs_pg:id":1155346
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"527239b3fda0eacedbdfc1d045e98e81",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101805429,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Gelsted",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

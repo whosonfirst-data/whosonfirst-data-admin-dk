@@ -75,6 +75,9 @@
         "wd:id":"Q12339700"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b7dc2649f682b14d3b0469f49b599d9",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101911363,
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331881,
     "wof:name":"Tranek\u00e6r Slot",
     "wof:parent_id":1394013991,
     "wof:placetype":"locality",

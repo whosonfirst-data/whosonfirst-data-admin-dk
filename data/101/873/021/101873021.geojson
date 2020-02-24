@@ -78,6 +78,10 @@
         "wk:page":"Tj\u00e6reborg, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd06e4336a6d2961229676beaa5383d4",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101873021,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Tj\u00e6reborg",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

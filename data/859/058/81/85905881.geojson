@@ -73,6 +73,9 @@
         "gp:id":20229142
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"108d16f00f9e52f4154bf365fa20d5bc",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":85905881,
-    "wof:lastmodified":1566721566,
+    "wof:lastmodified":1582331835,
     "wof:name":"Dr.Priemes Vej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

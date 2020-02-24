@@ -83,6 +83,9 @@
         "wd:id":"Q6429191"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c453328438ec6ccc7a353ca75498f118",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721555,
+    "wof:lastmodified":1582331834,
     "wof:name":"Kongens Enghave",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

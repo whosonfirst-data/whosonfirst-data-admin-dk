@@ -121,6 +121,9 @@
         "wk:page":"Gr\u00e5sten"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04825ac96c82e46622a065d9e730ab80",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101838599,
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"Gr\u00e5sten",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

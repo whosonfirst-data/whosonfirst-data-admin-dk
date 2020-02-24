@@ -111,6 +111,9 @@
         "qs_pg:id":402317
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ae5a572e8f5ba5b3efd6c826b8839d1",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101817269,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331872,
     "wof:name":"Helsinge",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"Frejlev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a273592e3339b721d930b07556d30375",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101805783,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"Frejlev",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

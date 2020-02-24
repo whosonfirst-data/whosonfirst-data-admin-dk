@@ -79,6 +79,9 @@
         "wd:id":"Q2357704"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33c46eae6912653495c51b83bed5a0a4",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101818261,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"Str\u00f8by Egede",
     "wof:parent_id":1159297719,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "qs_pg:id":1301828
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78f10d68781f295a8add4b022118c4a1",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101838611,
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"N\u00f8rresundby",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

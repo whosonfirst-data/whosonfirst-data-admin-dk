@@ -84,6 +84,9 @@
         "wk:page":"Vadum"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8c58c3a2a9e2bfd76cd7e51a3315ec3",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101838607,
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331881,
     "wof:name":"Vadum",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

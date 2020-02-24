@@ -70,6 +70,9 @@
         "gp:id":20229407
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d703e65578eaa1fde99833a046e2a1d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85906145,
-    "wof:lastmodified":1566721557,
+    "wof:lastmodified":1582331834,
     "wof:name":"Sagasvej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

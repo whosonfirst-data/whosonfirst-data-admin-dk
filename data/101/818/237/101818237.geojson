@@ -83,6 +83,9 @@
         "wk:page":"Ryslinge"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b62934e89513f4ee2c71b661080c4c11",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101818237,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331871,
     "wof:name":"Ryslinge",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

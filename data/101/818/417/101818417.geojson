@@ -78,6 +78,9 @@
         "wk:page":"Veks\u00f8"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1edaa3941bf323f6056576d959aec295",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101818417,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Veks\u00f8",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

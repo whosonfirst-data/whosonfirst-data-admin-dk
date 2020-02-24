@@ -653,6 +653,9 @@
         "wd:id":"Q2870915"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a03fd78a472d325648ae73ddc6e902da",
     "wof:hierarchy":[
         {
@@ -665,7 +668,7 @@
         }
     ],
     "wof:id":101873029,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Outrup",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

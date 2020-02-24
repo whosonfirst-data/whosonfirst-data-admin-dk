@@ -80,6 +80,9 @@
         "wk:page":"Hurup Thy"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc374aeab098d27d0fa1c327252a0c4e",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101805805,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Hurup",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

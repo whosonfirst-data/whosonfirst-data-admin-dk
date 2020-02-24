@@ -94,6 +94,9 @@
         "wd:id":"Q2684931"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b956ac53ff8c25695a741d2c8cce3dbf",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101818307,
-    "wof:lastmodified":1566721969,
+    "wof:lastmodified":1582331868,
     "wof:name":"M\u00f8rk\u00f8v",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

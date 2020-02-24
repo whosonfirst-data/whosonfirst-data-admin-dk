@@ -71,6 +71,9 @@
         "wd:id":"Q10505085"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"430c9c62311bdf190e2ae715759fef16",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331882,
     "wof:name":"Gisselfeld",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

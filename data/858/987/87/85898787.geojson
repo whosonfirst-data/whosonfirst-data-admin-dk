@@ -103,6 +103,9 @@
         "wk:page":"Holmen, Copenhagen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06074a6400d58238958e4ebb654e1ab1",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721581,
+    "wof:lastmodified":1582331842,
     "wof:name":"Holmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

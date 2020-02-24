@@ -124,6 +124,9 @@
         "wd:id":"Q672395"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f804053f998681be5cba3a1ec2b89799",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101818175,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Thur\u00f8 By",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

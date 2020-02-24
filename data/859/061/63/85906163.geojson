@@ -73,6 +73,9 @@
         "gp:id":20229421
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e1f41919fe1b8557e076e2c20d353bd",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":85906163,
-    "wof:lastmodified":1566721559,
+    "wof:lastmodified":1582331834,
     "wof:name":"St. Thomas All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

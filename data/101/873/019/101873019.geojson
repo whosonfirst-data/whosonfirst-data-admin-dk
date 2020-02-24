@@ -75,6 +75,10 @@
         "wd:id":"Q2634492"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f6e4877d50dfc9bba6a2f10d11c4fcf",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101873019,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"H\u00f8jby",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

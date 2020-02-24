@@ -79,6 +79,9 @@
         "qs_pg:id":246351
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42cfb3bb349bdf24d191191b3f07cd49",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101817283,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331873,
     "wof:name":"M\u00f8rke",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

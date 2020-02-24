@@ -114,6 +114,9 @@
         "qs_pg:id":353510
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c91872660a60fa1440aa0e223c44c9b",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721550,
+    "wof:lastmodified":1582331833,
     "wof:name":"K\u00f8benhavn S",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

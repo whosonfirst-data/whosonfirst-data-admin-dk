@@ -93,6 +93,9 @@
         "wk:page":"B\u00f8rkop Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46428031f07cbe4c51513a9ae5c29f34",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101846035,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"B\u00f8rkop",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

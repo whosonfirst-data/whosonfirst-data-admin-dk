@@ -301,6 +301,9 @@
         "qs_pg:id":897849
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b509848a83880120ae6daaddd484f003",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:name":"Kolding",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

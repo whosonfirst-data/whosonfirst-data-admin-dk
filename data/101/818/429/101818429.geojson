@@ -120,6 +120,9 @@
         "wk:page":"Frederiksv\u00e6rk"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6bfc7249d67e5bdd16067743218b9b2f",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101818429,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Frederiksv\u00e6rk",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

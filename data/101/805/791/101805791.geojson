@@ -114,6 +114,9 @@
         "wk:page":"Nibe"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"948464a5fe0e714037db447ea215aa33",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101805791,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331873,
     "wof:name":"Nibe",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "wk:page":"Tarm"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"acb4a3c9d296a3e6a5597da867a1af5b",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101846101,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Tarm",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

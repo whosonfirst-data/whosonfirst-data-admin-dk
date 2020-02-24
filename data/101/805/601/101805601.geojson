@@ -73,6 +73,9 @@
         "wk:page":"Harlev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f555d228d0e542998192e58582e9749",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101805601,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Harlev",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

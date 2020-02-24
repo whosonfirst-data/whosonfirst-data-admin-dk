@@ -51,6 +51,9 @@
         "qs_pg:id":1200672
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67a998a2772abc69688d84c5fd286a7f",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805589,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"Svejb\u00e6k",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

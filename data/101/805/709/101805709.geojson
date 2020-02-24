@@ -149,6 +149,9 @@
         "qs_pg:id":474310
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff21712bf05859c468845b94a2cdc4fa",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101805709,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331873,
     "wof:name":"Skive",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

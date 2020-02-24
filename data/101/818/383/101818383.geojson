@@ -87,6 +87,9 @@
         "qs_pg:id":1231232
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9164d8820cdc2f39c8a74a25f8b7a7b7",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101818383,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Faxe Ladeplads",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
         "wk:page":"Karise"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34d836ed8c2c15725277c888e688f195",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101818361,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"Karise",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

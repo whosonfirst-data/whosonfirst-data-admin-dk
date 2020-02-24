@@ -109,6 +109,9 @@
         "wk:page":"R\u00f8dekro"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59a96a952a32700e01c6e3ccaa5ecb30",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101805509,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"R\u00f8dekro",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

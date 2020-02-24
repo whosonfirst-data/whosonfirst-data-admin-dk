@@ -114,6 +114,9 @@
         "wk:page":"G\u00f8rlev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5dad3161b3316c518bc702de2e445347",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101818279,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"G\u00f8rlev",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

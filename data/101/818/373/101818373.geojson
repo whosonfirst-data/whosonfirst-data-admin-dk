@@ -94,6 +94,9 @@
         "wk:page":"H\u00f8jby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"710b39bfede5abd2b3d692dcdbe2e8ff",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101818373,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"H\u00f8jby",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

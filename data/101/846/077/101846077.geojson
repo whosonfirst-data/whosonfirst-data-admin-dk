@@ -77,6 +77,9 @@
         "wk:page":"Beder, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e565ac08c03eaf8b2e76ac9bd692570f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101846077,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Beder",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

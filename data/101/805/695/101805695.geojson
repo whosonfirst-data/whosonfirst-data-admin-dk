@@ -93,6 +93,9 @@
         "wk:page":"H\u00f8rning"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e19d629da267b70563a2ad5c60e428d2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101805695,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"H\u00f8rning",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

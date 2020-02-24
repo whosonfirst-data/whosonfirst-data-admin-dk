@@ -49,6 +49,9 @@
         "qs_pg:id":1186055
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9c848769849dafb8732dfe7ac655a6b",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101846093,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Bremdal",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

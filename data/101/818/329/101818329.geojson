@@ -134,6 +134,9 @@
         "qs_pg:id":402311
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b52dd427e1363e6c0780e503184e89d",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101818329,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Haslev",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

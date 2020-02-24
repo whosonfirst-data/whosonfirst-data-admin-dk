@@ -85,6 +85,9 @@
         "wk:page":"Elling, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"138cf5405cd2a46797780629502aebd6",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101875299,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Elling",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

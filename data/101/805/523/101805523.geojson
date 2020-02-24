@@ -87,6 +87,9 @@
         "wd:id":"Q2349207"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"853cf18e81c0a778157d12495ecf6aa0",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101805523,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Gredstedbro",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

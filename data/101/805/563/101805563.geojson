@@ -78,6 +78,9 @@
         "wk:page":"Trige"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7508c1ef13f99084a7f881e237c9c00",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101805563,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Trige",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

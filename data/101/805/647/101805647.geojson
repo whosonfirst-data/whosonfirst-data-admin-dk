@@ -210,6 +210,9 @@
         "qs_pg:id":897847
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e6913029b866fb0ddfaeb31416d4be8",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":101805647,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Holstebro",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

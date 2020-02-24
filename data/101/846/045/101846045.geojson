@@ -81,6 +81,9 @@
         "wk:page":"S\u00f8nder Bjert"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7852acbba21e36423f6713677e8cad22",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101846045,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"S\u00f8nder Bjert",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

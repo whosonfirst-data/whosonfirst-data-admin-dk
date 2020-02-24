@@ -172,6 +172,9 @@
         "wk:page":"Thisted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5e1ff906c3e6c7c51f792a91f110c12",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Thisted",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

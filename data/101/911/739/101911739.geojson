@@ -69,6 +69,9 @@
         "qs_pg:id":1314778
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fddbe2c76e3b7e1a984ff968d230439",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101911739,
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331881,
     "wof:name":"Forskningscenter Ris\u00f8",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

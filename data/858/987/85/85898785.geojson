@@ -70,6 +70,9 @@
         "qs_pg:id":897843
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba59f19bc03d472fdd0b9a8db3f51fff",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721581,
+    "wof:lastmodified":1582331843,
     "wof:name":"Havnen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
