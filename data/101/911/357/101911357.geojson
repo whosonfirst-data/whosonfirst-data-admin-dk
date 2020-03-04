@@ -61,6 +61,9 @@
         "qs_pg:id":989905
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e79dd70158b2d3df18e56906e0bd3a70",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331881,
     "wof:name":"Farum Overdrev",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
         "wk:page":"L\u00e5sby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf8d9b47f95aced3a10a209e8b476494",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101805643,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"L\u00e5sby",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

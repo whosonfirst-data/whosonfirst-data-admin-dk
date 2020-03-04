@@ -149,6 +149,9 @@
         "qs_pg:id":1079059
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9fc5306b705a239878fedb3b39957f0",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101805711,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Skanderborg",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

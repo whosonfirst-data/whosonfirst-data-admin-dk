@@ -464,6 +464,9 @@
         "wk:page":"Odense"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a20e645d75de9b7cfd3f866ab64eff9c",
     "wof:hierarchy":[
         {
@@ -479,7 +482,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331879,
     "wof:name":"Odense",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

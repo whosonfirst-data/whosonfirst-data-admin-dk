@@ -120,6 +120,9 @@
         "qs_pg:id":1156376
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c7bf7c4f414ba16c863a7ed8a2ac0fa",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805713,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Odder",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",

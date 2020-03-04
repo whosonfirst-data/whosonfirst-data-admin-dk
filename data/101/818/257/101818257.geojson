@@ -84,6 +84,9 @@
         "wk:page":"Bj\u00e6verskov"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a465e39337a69c65ff26745525e5e3a5",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101818257,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331869,
     "wof:name":"Bj\u00e6verskov",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

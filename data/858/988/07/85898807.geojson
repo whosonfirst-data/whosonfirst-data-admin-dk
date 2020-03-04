@@ -109,6 +109,10 @@
         "wk:page":"Snekkersten"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c81cd7dd763de7489b29fcdca49e6cd5",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721582,
+    "wof:lastmodified":1582331843,
     "wof:name":"Snekkersten",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

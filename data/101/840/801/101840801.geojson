@@ -90,6 +90,9 @@
         "qs_pg:id":1327385
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0f66198ff47852fa1c1450a3b498266",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101840801,
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"Solr\u00f8d Strand",
     "wof:parent_id":1394014039,
     "wof:placetype":"locality",

@@ -92,6 +92,9 @@
         "qs_pg:id":221906
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b59a4dad021590a7472d306999c465e2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101818177,
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Troense",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

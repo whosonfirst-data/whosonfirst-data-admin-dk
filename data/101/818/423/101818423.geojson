@@ -138,6 +138,9 @@
         "wk:page":"Frederikssund"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13cea9dd123d66f7a994e5ae477ce457",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Frederikssund",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

@@ -79,6 +79,9 @@
         "wd:id":"Q20732213"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d808e41d18236c6f7ca7c12c14d48bf",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721560,
+    "wof:lastmodified":1582331835,
     "wof:name":"Klosterg\u00e5rden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

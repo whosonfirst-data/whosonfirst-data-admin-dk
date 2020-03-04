@@ -74,6 +74,9 @@
         "wk:page":"N\u00f8rre Nebel"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b74474b99355c9fd5228f4ec20267e4",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101805479,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"N\u00f8rre Nebel",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

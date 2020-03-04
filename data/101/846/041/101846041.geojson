@@ -62,6 +62,9 @@
         "qs_pg:id":1013733
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87ad66a07cd33f973cd5619b1bf63caa",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101846041,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Bylderup-Bov",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

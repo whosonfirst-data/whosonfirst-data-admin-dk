@@ -90,6 +90,9 @@
         "wk:page":"Fjerritslev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ed530d373c5514dcb2fb67b1318b003",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101805843,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331874,
     "wof:name":"Fjerritslev",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

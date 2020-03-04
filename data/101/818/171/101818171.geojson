@@ -74,6 +74,9 @@
         "wk:page":"V\u00e6ggerl\u00f8se"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"968de498cbb4c6b7797b6aab6a8cb9f7",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101818171,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"V\u00e6ggerl\u00f8se",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

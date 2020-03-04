@@ -82,6 +82,9 @@
         "wk:page":"Gandrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02d72c6fae44ac8c7a0bf1c705053878",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101873065,
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331872,
     "wof:name":"Gandrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

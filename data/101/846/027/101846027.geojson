@@ -75,6 +75,9 @@
         "wk:page":"Lunderskov Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91f574fcbc9efddc75dfa3273b7ee19c",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101846027,
-    "wof:lastmodified":1566722005,
+    "wof:lastmodified":1582331880,
     "wof:name":"Lunderskov",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

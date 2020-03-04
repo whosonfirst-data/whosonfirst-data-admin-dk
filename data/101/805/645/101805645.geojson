@@ -281,6 +281,9 @@
         "wd:id":"Q1839780"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbed2b52132593296ae31d8df5c3808f",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":101805645,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"F\u00e5rvang",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
         "gp:id":20229250
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9a1c07406ba59d2c128bfbe2de9714d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905973,
-    "wof:lastmodified":1566721561,
+    "wof:lastmodified":1582331835,
     "wof:name":"J.M.Trhieles Vej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

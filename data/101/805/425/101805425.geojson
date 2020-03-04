@@ -76,6 +76,9 @@
         "wk:page":"Strib"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84a5a0e33b65c6c8244791d5eb9cc2d3",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805425,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"Strib",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

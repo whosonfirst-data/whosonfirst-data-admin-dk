@@ -99,6 +99,9 @@
         "wk:page":"Gilleleje"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49abca697d6493511aaebb1a370847cc",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101817267,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331872,
     "wof:name":"Gilleleje",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

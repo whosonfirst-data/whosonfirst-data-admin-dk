@@ -70,6 +70,9 @@
         "gp:id":20229124
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af07d1c1b6b18ea7ba45ad0c37b064af",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905861,
-    "wof:lastmodified":1566721564,
+    "wof:lastmodified":1582331835,
     "wof:name":"Christian Richardts Vej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

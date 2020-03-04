@@ -84,6 +84,9 @@
         "wk:page":"Vodskov"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09e3320be6b1c55e9a73ee3312d2e217",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805841,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Vodskov",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

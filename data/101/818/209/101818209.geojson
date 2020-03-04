@@ -75,6 +75,9 @@
         "wd:id":"Q2218388"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5745cd57f11ed8b512c1ef4095e6f0ac",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101818209,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331870,
     "wof:name":"Sk\u00e5rup",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

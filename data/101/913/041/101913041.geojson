@@ -76,6 +76,9 @@
         "wd:id":"Q28225816"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b049ca3d193e9a87e40b812277ff2b3f",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Nym\u00f8lle",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

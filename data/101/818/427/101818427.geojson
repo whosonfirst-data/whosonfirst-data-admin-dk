@@ -124,6 +124,9 @@
         "wk:page":"Birker\u00f8d"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8a4e4ccc79af2f0bd70dcc20afb37d8",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101818427,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Birker\u00f8d",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

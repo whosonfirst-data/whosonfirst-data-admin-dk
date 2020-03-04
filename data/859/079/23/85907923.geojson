@@ -85,6 +85,10 @@
         "wd:id":"Q4661724"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"89b26d80850d15edf35e36c575699f96",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721551,
+    "wof:lastmodified":1582331834,
     "wof:name":"\u00c5rhus V",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

@@ -105,6 +105,9 @@
         "qs_pg:id":1079060
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d875d928a8fd35cb55c884eed5f4e96",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101805769,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Sk\u00f8rping",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

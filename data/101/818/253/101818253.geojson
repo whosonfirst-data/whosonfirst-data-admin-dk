@@ -90,6 +90,9 @@
         "wd:id":"Q2019461"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c062cf9a91c26867486bd0063a57cc78",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101818253,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331870,
     "wof:name":"Asn\u00e6s",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

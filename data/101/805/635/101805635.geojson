@@ -96,6 +96,9 @@
         "wk:page":"M\u00f8ldrup Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a896ef764e521b1b9e523658561ae1c0",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805635,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"M\u00f8ldrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

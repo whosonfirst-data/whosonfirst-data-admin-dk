@@ -49,6 +49,9 @@
         "qs_pg:id":363742
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d37ea1ee320c1f5d68c82233664cf2dd",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101911243,
-    "wof:lastmodified":1566722011,
+    "wof:lastmodified":1582331881,
     "wof:name":"Tjele",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

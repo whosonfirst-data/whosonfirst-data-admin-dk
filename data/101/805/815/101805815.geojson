@@ -84,6 +84,9 @@
         "wk:page":"T\u00e5rs"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1f361df4158c8a90c6c3f86b3c98078",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805815,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"T\u00e5rs",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

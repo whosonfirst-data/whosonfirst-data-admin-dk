@@ -105,6 +105,10 @@
         "qs_pg:id":1085856
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d611378259785aa1b47a93944d2cc38",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721555,
+    "wof:lastmodified":1582331834,
     "wof:name":"Tarbaek",
     "wof:parent_id":101754101,
     "wof:placetype":"neighbourhood",

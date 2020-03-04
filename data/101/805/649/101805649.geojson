@@ -332,6 +332,9 @@
         "wk:page":"Viborg, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"088e117eedbc0eef030d046546c31569",
     "wof:hierarchy":[
         {
@@ -343,7 +346,7 @@
         }
     ],
     "wof:id":101805649,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Viborg",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

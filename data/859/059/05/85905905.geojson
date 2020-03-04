@@ -87,6 +87,9 @@
         "wd:id":"Q3362772"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2026fb1e0131675e086cabc75ac8e65e",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721561,
+    "wof:lastmodified":1582331835,
     "wof:name":"Fisketorvet",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

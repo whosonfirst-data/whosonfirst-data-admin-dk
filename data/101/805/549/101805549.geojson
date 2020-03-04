@@ -50,6 +50,9 @@
         "qs_pg:id":182719
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecb7ba024a08abaa3418834ed065571a",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805549,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Over Jerstal",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

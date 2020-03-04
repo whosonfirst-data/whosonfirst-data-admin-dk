@@ -54,6 +54,9 @@
         "qs_pg:id":1164510
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"030f0d73688a64ada6fd69f019d03989",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101805533,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"G\u00f8rding",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

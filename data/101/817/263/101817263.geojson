@@ -87,6 +87,9 @@
         "wk:page":"Hornb\u00e6k"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f188c8c7e35741db04d606b4a55fb9f8",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101817263,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Hornb\u00e6k",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

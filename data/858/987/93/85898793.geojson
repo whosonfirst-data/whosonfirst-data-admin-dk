@@ -233,6 +233,10 @@
         "wd:id":"Q189358"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b517cab5788de14aa8c42393367b0bda",
     "wof:hierarchy":[
         {
@@ -248,7 +252,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721580,
+    "wof:lastmodified":1582331842,
     "wof:name":"Kronborg",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

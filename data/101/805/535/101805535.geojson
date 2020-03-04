@@ -91,6 +91,9 @@
         "wd:id":"Q2516418"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd68c30932585fbe82fc8139b145abc5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101805535,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331874,
     "wof:name":"Sk\u00e6rb\u00e6k",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

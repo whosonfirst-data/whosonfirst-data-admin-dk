@@ -144,6 +144,9 @@
         "wk:page":"Rudk\u00f8bing"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7ff8ba597a9c7d74ca795d0b2679466",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101818185,
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331871,
     "wof:name":"Rudk\u00f8bing",
     "wof:parent_id":1394013991,
     "wof:placetype":"locality",

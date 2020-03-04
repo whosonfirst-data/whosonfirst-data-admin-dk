@@ -96,6 +96,9 @@
         "wd:id":"Q2616567"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8e5cc291a9a20310d45081db396cf8c",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101805477,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Hejnsvig",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

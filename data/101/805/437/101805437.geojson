@@ -75,6 +75,9 @@
         "wk:page":"Ejby Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af1dd030fbf5db16faeae9fef6798ae7",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101805437,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331875,
     "wof:name":"Ejby",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

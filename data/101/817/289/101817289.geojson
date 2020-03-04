@@ -76,6 +76,9 @@
         "wk:page":"Thorsager"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9a8cb6d79ebd922d21929a05067b3d8",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101817289,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Thorsager",
     "wof:parent_id":1394014081,
     "wof:placetype":"locality",

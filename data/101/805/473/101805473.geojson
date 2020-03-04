@@ -114,6 +114,9 @@
         "wk:page":"Padborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3d80ab74969df24c67e509386db3073",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101805473,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Padborg",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

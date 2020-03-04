@@ -79,6 +79,9 @@
         "wk:page":"Ans, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40f0dd7b67c1d39e8ad9aabccb4396a6",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101805661,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Ans",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

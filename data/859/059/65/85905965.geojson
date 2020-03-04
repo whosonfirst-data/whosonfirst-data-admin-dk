@@ -73,6 +73,9 @@
         "gp:id":20229242
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e2872d77f59c43d082976ce3e8280ec",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":85905965,
-    "wof:lastmodified":1566721562,
+    "wof:lastmodified":1582331835,
     "wof:name":"Hostrups Have",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

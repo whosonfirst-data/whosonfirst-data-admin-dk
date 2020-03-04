@@ -70,6 +70,9 @@
         "qs_pg:id":212296
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72d17bcb273a2044b500a85376e79e97",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721565,
+    "wof:lastmodified":1582331835,
     "wof:name":"Cristiansborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

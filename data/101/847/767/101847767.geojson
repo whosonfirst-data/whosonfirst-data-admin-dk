@@ -76,6 +76,9 @@
         "wd:id":"Q12311988"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bc0ccff92c18d142b5253e831646402",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101847767,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331880,
     "wof:name":"Forlev",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Gedved"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"356c1980846c761c384d09413e9f1f17",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805737,
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331873,
     "wof:name":"Gedved",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

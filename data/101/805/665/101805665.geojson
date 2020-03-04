@@ -85,6 +85,9 @@
         "wd:id":"Q7396449"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0fa68e972f5619af1b837afa94a9e7e",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805665,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Sabro",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

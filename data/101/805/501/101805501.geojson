@@ -115,6 +115,9 @@
         "wk:page":"Grindsted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba1d6746f66f6e2b39eee4fc8636bb4f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101805501,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Grindsted",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

@@ -804,6 +804,9 @@
         "wk:page":"Copenhagen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7676debfb1b3ce8a3f9c6ba7b835e2fc",
     "wof:hierarchy":[
         {
@@ -818,7 +821,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

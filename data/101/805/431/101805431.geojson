@@ -92,6 +92,9 @@
         "wk:page":"Tommerup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6732a2191ca76eac0e0b1fb8065c0ae1",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101805431,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Tommerup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

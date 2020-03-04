@@ -84,6 +84,9 @@
         "wk:page":"S\u00f8nders\u00f8"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed0b05a6a0bd1aff68cda7b6d57f83ad",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805405,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"S\u00f8nders\u00f8",
     "wof:parent_id":1394014053,
     "wof:placetype":"locality",

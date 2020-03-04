@@ -77,6 +77,9 @@
         "wd:id":"Q1999151"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3aadaa5762bee4f0f46bda59f1dfe0e7",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101817293,
-    "wof:lastmodified":1566721983,
+    "wof:lastmodified":1582331872,
     "wof:name":"Strandby",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

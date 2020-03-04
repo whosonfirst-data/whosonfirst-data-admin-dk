@@ -283,6 +283,9 @@
         "wk:page":"Randers"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d40831b89b333c81170ae5581642ff97",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":101749161,
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:name":"Randers",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

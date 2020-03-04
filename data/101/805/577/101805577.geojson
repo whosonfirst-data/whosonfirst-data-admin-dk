@@ -112,6 +112,9 @@
         "wk:page":"Videb\u00e6k"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29edbc1e7dc32335111a6b40ede9814f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101805577,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Videb\u00e6k",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

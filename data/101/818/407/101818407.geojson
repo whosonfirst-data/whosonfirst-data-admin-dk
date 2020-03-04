@@ -85,6 +85,9 @@
         "wd:id":"Q2631512"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"883ae04a535e72545e15af6f7cc5c0ca",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101818407,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"Humleb\u00e6k",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

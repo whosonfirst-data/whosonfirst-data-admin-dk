@@ -133,6 +133,9 @@
         "wk:page":"Middelfart"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96a9218828270176ffa5316bfb07b6a9",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Middelfart",
     "wof:parent_id":1394014063,
     "wof:placetype":"locality",

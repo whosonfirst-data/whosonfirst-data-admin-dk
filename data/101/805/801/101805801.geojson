@@ -195,6 +195,9 @@
         "wk:page":"Hadsund"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4a2eca6819342df147a22b66a60d36a",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101805801,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Hadsund",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

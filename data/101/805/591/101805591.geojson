@@ -84,6 +84,9 @@
         "wk:page":"Lang\u00e5"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3e37b284216fc3d5654d84ef86caa0f",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805591,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Lang\u00e5",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

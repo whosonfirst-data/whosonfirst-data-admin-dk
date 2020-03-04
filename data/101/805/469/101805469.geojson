@@ -119,6 +119,9 @@
         "wk:page":"Broager"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34506c3b2437b2d86215efba7701bd30",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805469,
-    "wof:lastmodified":1566721997,
+    "wof:lastmodified":1582331877,
     "wof:name":"Broager",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

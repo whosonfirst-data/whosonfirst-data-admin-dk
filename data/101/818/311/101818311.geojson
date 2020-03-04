@@ -181,6 +181,9 @@
         "wk:page":"Slagelse"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5d538d47177e6dce6f3a2fb64b85da2",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721979,
+    "wof:lastmodified":1582331871,
     "wof:name":"Slagelse",
     "wof:parent_id":1394013981,
     "wof:placetype":"locality",

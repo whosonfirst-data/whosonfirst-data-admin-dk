@@ -78,6 +78,9 @@
         "wk:page":"Jyderup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f65ab1db4c9a3bdd3fb5baaec8294f8",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101818387,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Jyderup",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

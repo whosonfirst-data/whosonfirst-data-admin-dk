@@ -62,6 +62,9 @@
         "qs_pg:id":994173
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b24f4097a4004aec62b5003adc022368",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101818243,
-    "wof:lastmodified":1566721972,
+    "wof:lastmodified":1582331868,
     "wof:name":"Rantzausminde",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

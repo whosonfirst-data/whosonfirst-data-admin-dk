@@ -79,6 +79,9 @@
         "wd:id":"Q2612301"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5768124ced4a31c194b04b197b3db813",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101818249,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Gunds\u00f8magle",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

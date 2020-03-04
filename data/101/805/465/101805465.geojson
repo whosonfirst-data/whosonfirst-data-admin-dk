@@ -82,6 +82,9 @@
         "qs_pg:id":901435
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48a9d574d97257708312013ca16b16d6",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101805465,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Toftlund",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

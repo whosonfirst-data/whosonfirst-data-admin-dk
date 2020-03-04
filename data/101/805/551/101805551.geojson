@@ -51,6 +51,9 @@
         "qs_pg:id":1186054
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cca0e75ff7ff77d9471f006632e4c5e6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101805551,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"Almind",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

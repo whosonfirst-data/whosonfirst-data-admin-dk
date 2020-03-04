@@ -161,6 +161,9 @@
         "wk:page":"Ribe"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a40836d5d2daae6b8979f91672c424d",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101846039,
-    "wof:lastmodified":1534985888,
+    "wof:lastmodified":1582331879,
     "wof:name":"Ribe",
     "wof:parent_id":1159297923,
     "wof:placetype":"locality",

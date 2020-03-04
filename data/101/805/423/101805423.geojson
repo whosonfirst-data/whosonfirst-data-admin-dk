@@ -76,6 +76,9 @@
         "wk:page":"Tommerup Stationsby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6045176412e27055866b19e1a0cce22a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805423,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331874,
     "wof:name":"Tommerup Stationsby",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

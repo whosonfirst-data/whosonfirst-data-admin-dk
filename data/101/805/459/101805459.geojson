@@ -77,6 +77,9 @@
         "wd:id":"Q2445802"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04c529d72af202e22b13f295f85cee69",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101805459,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Brejning",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

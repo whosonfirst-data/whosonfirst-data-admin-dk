@@ -136,6 +136,9 @@
         "wk:page":"Drag\u00f8r"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a5c8d4cf62bc4738b68930a2f314c5c",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Drag\u00f8r",
     "wof:parent_id":1394014057,
     "wof:placetype":"locality",

@@ -102,6 +102,9 @@
         "wk:page":"Holeby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd558c1d0c4edb9a9d3a74558441e473",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101818151,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Holeby",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

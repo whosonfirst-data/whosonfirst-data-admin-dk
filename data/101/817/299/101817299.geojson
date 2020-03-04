@@ -105,6 +105,9 @@
         "wk:page":"S\u00e6by"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"791e58e1c5a7adf6cd1f781e24542376",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101817299,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"S\u00e6by",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

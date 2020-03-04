@@ -108,6 +108,9 @@
         "wk:page":"Farum"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86bd507c8f540cd8f6dd71c5c955aead",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101818425,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Farum",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

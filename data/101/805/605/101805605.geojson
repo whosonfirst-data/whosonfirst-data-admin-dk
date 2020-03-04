@@ -97,6 +97,9 @@
         "wk:page":"Gjern"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81f442930de6652aac417c0ba74eedce",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101805605,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331875,
     "wof:name":"Gjern",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

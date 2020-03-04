@@ -70,6 +70,9 @@
         "gp:id":20229257
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"293de73a49d58fecac41d95607f4f1db",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905979,
-    "wof:lastmodified":1566721562,
+    "wof:lastmodified":1582331835,
     "wof:name":"Johnstrups All\u00e9",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

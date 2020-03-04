@@ -84,6 +84,9 @@
         "wd:id":"Q3429949"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fba2382853a88535a92088247c9d9e0e",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721554,
+    "wof:lastmodified":1582331834,
     "wof:name":"Indre N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

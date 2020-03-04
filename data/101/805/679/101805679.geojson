@@ -116,6 +116,9 @@
         "wk:page":"Skjern Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"edfa59527e13adafcaf15360c64d1fd8",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101805679,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Skjern",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

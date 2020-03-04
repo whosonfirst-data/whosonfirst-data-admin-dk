@@ -80,6 +80,9 @@
         "wd:id":"Q4353560"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f889954dac7d9d2d72467bbed5fa3aec",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101818271,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Sveb\u00f8lle",
     "wof:parent_id":1394013985,
     "wof:placetype":"locality",

@@ -77,6 +77,9 @@
         "wk:page":"Stavtrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb1e61ee28abb735a359699a6404c152",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805565,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Stavtrup",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

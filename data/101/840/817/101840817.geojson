@@ -73,6 +73,9 @@
         "wk:page":"Hedehusene"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f017e40dba8988a0cb1863eb6732f76",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101840817,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Hedehusene",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

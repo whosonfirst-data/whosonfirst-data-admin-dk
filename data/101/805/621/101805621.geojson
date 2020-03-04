@@ -70,6 +70,9 @@
         "qs_pg:id":182752
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff169aa94b80b71649410ca6457bdb1b",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101805621,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"S\u00f8nder Felding",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

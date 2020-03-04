@@ -113,6 +113,9 @@
         "qs_pg:id":964078
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e0c9fb7a8ab2f8088a164814e9a5f56",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101818421,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"\u00d8lstykke",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

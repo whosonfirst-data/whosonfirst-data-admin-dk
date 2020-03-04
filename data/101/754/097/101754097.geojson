@@ -115,6 +115,9 @@
         "wk:page":"Greve Strand"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bf69cc31d7cab461ca82b4d37011b5b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101754097,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Greve Strand",
     "wof:parent_id":1394014137,
     "wof:placetype":"locality",

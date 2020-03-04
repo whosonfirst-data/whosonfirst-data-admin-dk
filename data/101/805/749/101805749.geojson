@@ -77,6 +77,9 @@
         "wd:id":"Q2788609"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70472fa3599e2c347d4e3cad2bc838eb",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805749,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331875,
     "wof:name":"Sunds",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

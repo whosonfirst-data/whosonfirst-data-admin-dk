@@ -79,6 +79,9 @@
         "qs_pg:id":993166
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"579198384deb58a7b5ec8958d1c1f612",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101805629,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Glyng\u00f8re",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

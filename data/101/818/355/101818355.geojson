@@ -212,6 +212,9 @@
         "wd:id":"Q21178"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a389bf86dc373c5a583d19165f4ebcc",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":101818355,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Herlufmagle",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

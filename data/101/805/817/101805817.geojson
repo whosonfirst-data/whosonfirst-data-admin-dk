@@ -90,6 +90,9 @@
         "wd:id":"Q1021910"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8de62869e2163313073d78aeccc6c221",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101805817,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"L\u00f8kken",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

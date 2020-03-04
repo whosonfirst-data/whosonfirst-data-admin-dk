@@ -108,6 +108,9 @@
         "wk:page":"Ry, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"145600f594eb74082c3a620f6ed773a4",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101805569,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"Ry",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

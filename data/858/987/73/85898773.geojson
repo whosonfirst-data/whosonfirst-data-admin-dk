@@ -119,6 +119,9 @@
         "wk:page":"Bellah\u00f8j"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a13492b29b7fce30156d7cf89c2245d2",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721580,
+    "wof:lastmodified":1582331842,
     "wof:name":"Bellah\u00f8j",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

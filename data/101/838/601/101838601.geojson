@@ -150,6 +150,9 @@
         "wk:page":"Vejen"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a99b49f81707e570d07eac9470082bc6",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"Vejen",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

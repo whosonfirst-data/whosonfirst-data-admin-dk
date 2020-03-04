@@ -75,6 +75,9 @@
         "wk:page":"Kib\u00e6k"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"441895691073f83b8e7636e3b860254b",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101805581,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Kib\u00e6k",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

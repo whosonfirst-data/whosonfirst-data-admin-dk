@@ -83,6 +83,9 @@
         "wk:page":"Galten Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4aa2250abe418b492292fcfb8d6f882",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101805571,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Galten",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

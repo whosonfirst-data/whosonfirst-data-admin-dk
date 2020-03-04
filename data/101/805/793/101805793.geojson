@@ -98,6 +98,9 @@
         "wd:id":"Q3198692"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3ca17cce40de6c080172a14f390b9db",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101805793,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Svenstrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

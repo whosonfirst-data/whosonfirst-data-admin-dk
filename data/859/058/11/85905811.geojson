@@ -180,6 +180,9 @@
         "wd:id":"Q211053"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3716675711d4f85a8d52cf342b6ea0a3",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721565,
+    "wof:lastmodified":1582331835,
     "wof:name":"Amalienborg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

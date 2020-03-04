@@ -84,6 +84,9 @@
         "wk:page":"Give (Denmark)"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b6b4e55a969c50093f9e06a6e58e411",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101805443,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331877,
     "wof:name":"Give",
     "wof:parent_id":1394014101,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
         "wd:id":"Q821237"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"730e39d0e6c0a686457db44b3fe8742f",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805393,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"H\u00f8ruphav",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

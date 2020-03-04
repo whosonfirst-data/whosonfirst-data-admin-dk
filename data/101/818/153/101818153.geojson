@@ -94,6 +94,9 @@
         "wk:page":"Nysted"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a441a7ce63e12695faa036c437fc2f3",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101818153,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"Nysted",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

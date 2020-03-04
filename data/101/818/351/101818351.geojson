@@ -49,6 +49,9 @@
         "qs_pg:id":1211148
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b70b578518205a01a8108ed47368a95c",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101818351,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"Holme-Olstrup",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

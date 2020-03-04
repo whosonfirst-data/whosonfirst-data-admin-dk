@@ -52,6 +52,9 @@
         "qs_pg:id":270629
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea9b922d6ac3f5e35bbec7a35f0face6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101846105,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Hald Ege",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

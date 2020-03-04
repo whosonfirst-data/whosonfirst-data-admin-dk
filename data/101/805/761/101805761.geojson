@@ -102,6 +102,9 @@
         "wk:page":"Aalestrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1210b9365dc0111e541315d8d9dc923",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101805761,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Aalestrup",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

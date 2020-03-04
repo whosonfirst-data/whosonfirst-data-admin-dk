@@ -75,6 +75,9 @@
         "wd:id":"Q2478902"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85acd27b266fcf4da9f61d73f10a2664",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101754091,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Stige",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

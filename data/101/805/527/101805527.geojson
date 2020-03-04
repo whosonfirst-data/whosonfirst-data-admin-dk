@@ -112,6 +112,9 @@
         "wk:page":"Vorbasse"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"978cfe6a2413633aba24bfbbbe92ad45",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101805527,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331875,
     "wof:name":"Vorbasse",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wk:page":"Tejn"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11faa339e74dfa2cda93f4a80ed16e78",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101840795,
-    "wof:lastmodified":1566722009,
+    "wof:lastmodified":1582331881,
     "wof:name":"Tejn",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

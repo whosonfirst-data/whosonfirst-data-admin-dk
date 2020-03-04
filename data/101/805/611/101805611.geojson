@@ -49,6 +49,9 @@
         "qs_pg:id":1013834
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62d9591e91037a16341f141f7e99fddf",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101805611,
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331874,
     "wof:name":"Bryrup",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

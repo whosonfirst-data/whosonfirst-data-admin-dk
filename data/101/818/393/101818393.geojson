@@ -51,6 +51,9 @@
         "qs_pg:id":1036738
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4adba1176d7d53e7011e1d37a3ac601",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101818393,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Ganl\u00f8se",
     "wof:parent_id":1394014097,
     "wof:placetype":"locality",

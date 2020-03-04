@@ -91,6 +91,9 @@
         "wk:page":"\u00d8rb\u00e6k"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b52702b76dfa12660d3138e0433e6d5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101818213,
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"\u00d8rb\u00e6k",
     "wof:parent_id":1394014139,
     "wof:placetype":"locality",

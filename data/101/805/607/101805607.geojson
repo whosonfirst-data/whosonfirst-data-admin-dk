@@ -71,6 +71,9 @@
         "wd:id":"Q2356611"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"622467f13bd297053a4859b2cbe4c6ad",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101805607,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Hjerm",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

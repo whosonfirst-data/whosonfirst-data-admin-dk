@@ -833,6 +833,10 @@
         "wof:parent_id"
     ],
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"d164afc0c3f4336199110732522806af",
     "wof:hierarchy":[
         {
@@ -842,7 +846,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1566721579,
+    "wof:lastmodified":1582331842,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",

@@ -74,6 +74,9 @@
         "wd:id":"Q5373628"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3630a21d267ef87a1202c49996161aed",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101805733,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Hornsyld",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

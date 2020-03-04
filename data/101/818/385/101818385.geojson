@@ -77,6 +77,9 @@
         "wk:page":"Svinninge Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db0f3004f0f8816f19841e322a207795",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101818385,
-    "wof:lastmodified":1566721974,
+    "wof:lastmodified":1582331869,
     "wof:name":"Svinninge",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
         "qs_pg:id":140592
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86554ccdfd99f9baf5686f76f74336e6",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101840807,
-    "wof:lastmodified":1566722010,
+    "wof:lastmodified":1582331881,
     "wof:name":"Neder Vindinge",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

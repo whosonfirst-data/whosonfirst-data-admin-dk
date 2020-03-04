@@ -318,6 +318,9 @@
         "wk:page":"Fars\u00f8"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e8b55dbdf2e218522a77fd829efa98a",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         }
     ],
     "wof:id":101805767,
-    "wof:lastmodified":1566721993,
+    "wof:lastmodified":1582331876,
     "wof:name":"Fars\u00f8",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

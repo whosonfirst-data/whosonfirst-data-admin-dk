@@ -70,6 +70,9 @@
         "gp:id":20229241
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c50eeb14ae311b11fae3b8a538dac862",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":85905961,
-    "wof:lastmodified":1566721560,
+    "wof:lastmodified":1582331835,
     "wof:name":"Hortensiavej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

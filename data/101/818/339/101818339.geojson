@@ -75,6 +75,9 @@
         "wk:page":"Lille Skensved"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5141fe3284e40d94bc1df1d8392f4576",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101818339,
-    "wof:lastmodified":1566721970,
+    "wof:lastmodified":1582331868,
     "wof:name":"Lille Skensved",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

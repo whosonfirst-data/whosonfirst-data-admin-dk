@@ -70,6 +70,9 @@
         "wk:page":"Eskilstrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2de724b90e333c6c0f6fa8084b2244f",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101818169,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Eskilstrup",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

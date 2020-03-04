@@ -90,6 +90,9 @@
         "wd:id":"Q2658123"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"178f9d09ace1aa657adf5985e7fa3201",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101873047,
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331872,
     "wof:name":"Hvidbjerg",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

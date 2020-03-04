@@ -120,6 +120,9 @@
         "qs_pg:id":1079037
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18d6621b04a17b6ff5dcd9332bdba56f",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101818157,
-    "wof:lastmodified":1566721969,
+    "wof:lastmodified":1582331868,
     "wof:name":"\u00c6r\u00f8sk\u00f8bing",
     "wof:parent_id":1394014069,
     "wof:placetype":"locality",

@@ -230,6 +230,9 @@
         "wk:page":"Fredericia"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d71a7f04a3f636c51845414212ae89fe",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721989,
+    "wof:lastmodified":1582331875,
     "wof:name":"Fredericia",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

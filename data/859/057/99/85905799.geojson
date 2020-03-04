@@ -73,6 +73,9 @@
         "gp:id":20229061
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e6b558efae1ae379a1247e6a13e9090",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":85905799,
-    "wof:lastmodified":1566721564,
+    "wof:lastmodified":1582331835,
     "wof:name":"Alhambravej",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

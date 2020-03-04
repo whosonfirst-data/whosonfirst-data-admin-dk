@@ -100,6 +100,9 @@
         "wk:page":"R\u00f8dding"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f54e6ccb05dd0a4bd761c2b5192f8a09",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101805449,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"R\u00f8dding",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

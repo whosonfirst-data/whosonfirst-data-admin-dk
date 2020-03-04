@@ -108,6 +108,9 @@
         "wk:page":"Dronninglund"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"480f6efef942832848c907731132de91",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101827411,
-    "wof:lastmodified":1566721981,
+    "wof:lastmodified":1582331871,
     "wof:name":"Dronninglund",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",

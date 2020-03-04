@@ -220,6 +220,9 @@
         "wk:page":"Aabenraa"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4097c5d15e02766a6c614c0e3779d02c",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Aabenraa",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

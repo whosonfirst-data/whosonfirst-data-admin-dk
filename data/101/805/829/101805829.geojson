@@ -107,6 +107,9 @@
         "wk:page":"Sindal Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ce395db7406fc6030db8675726191ac",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101805829,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"Sindal",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

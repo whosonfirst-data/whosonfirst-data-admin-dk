@@ -77,6 +77,9 @@
         "wk:page":"S\u00f8ften"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16cf9b51f3eb4998499954aa3f27758e",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101805587,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331876,
     "wof:name":"S\u00f8ften",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

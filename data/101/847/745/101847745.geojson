@@ -86,6 +86,9 @@
         "wk:page":"Skibby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"743e57555bd5600c2a65b93120af6222",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101847745,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"Skibby",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

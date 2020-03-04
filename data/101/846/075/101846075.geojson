@@ -107,6 +107,9 @@
         "wk:page":"Solbjerg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39ebd0f57f833c1d7c62758ef0a99f02",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101846075,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Solbjerg",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

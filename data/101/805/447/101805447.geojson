@@ -103,6 +103,9 @@
         "wk:page":"Br\u00f8rup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40c776b97a02e114f221e00567f32d88",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101805447,
-    "wof:lastmodified":1566721987,
+    "wof:lastmodified":1582331874,
     "wof:name":"Br\u00f8rup",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

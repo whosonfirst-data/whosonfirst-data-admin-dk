@@ -119,6 +119,9 @@
         "wk:page":"Bramming"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b01b5028f4fd623c260257160a2ccc3c",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805499,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Bramming",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

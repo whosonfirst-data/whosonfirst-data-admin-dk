@@ -263,6 +263,10 @@
         "wd:id":"Q4821083"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc67dfff3e9f3343fd33f4f78fb3684b",
     "wof:hierarchy":[
         {
@@ -275,7 +279,7 @@
         }
     ],
     "wof:id":101873017,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Augustenborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

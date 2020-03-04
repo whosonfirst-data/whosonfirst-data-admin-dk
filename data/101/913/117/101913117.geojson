@@ -78,6 +78,9 @@
         "wd:id":"Q2189435"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be987ceab15ef064f097cbd1f654c47f",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Dueodde",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

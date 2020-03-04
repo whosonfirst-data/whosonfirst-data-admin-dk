@@ -91,6 +91,9 @@
         "wk:page":"Vissenbjerg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63a99b20989036308b3aedd53f83d1c6",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101805419,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Vissenbjerg",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

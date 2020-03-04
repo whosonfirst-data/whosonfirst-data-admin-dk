@@ -93,6 +93,9 @@
         "wk:page":"Dybb\u00f8l"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9a7c0b8962cd9e21ee11f1ab70a17c1",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101846033,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"Dybb\u00f8l",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

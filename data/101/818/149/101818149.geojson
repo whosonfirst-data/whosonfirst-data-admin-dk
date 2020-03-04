@@ -134,6 +134,9 @@
         "wk:page":"Nakskov"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f562e172834db1a50bf6bad6b7044c79",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101818149,
-    "wof:lastmodified":1566721980,
+    "wof:lastmodified":1582331871,
     "wof:name":"Nakskov",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

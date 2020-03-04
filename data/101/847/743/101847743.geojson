@@ -50,6 +50,9 @@
         "qs_pg:id":1327395
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4115c4000986a2970116533aa947f3b2",
     "wof:hierarchy":[
         {
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101847743,
-    "wof:lastmodified":1566722008,
+    "wof:lastmodified":1582331881,
     "wof:name":"S\u00f8vang",
     "wof:parent_id":1394014057,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
         "wd:id":"Q2792516"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10c5ba70065c2098703c24494451a213",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101818335,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"Fensmark",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

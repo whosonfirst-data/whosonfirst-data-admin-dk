@@ -90,6 +90,9 @@
         "qs_pg:id":1112257
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db33de160084def008d4f46b8771ffc4",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101818137,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"R\u00f8dbyhavn",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

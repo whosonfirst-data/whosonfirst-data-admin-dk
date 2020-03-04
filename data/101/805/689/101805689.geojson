@@ -120,6 +120,9 @@
         "qs_pg:id":228795
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"201e6c33f4af06971e4b24477f5228f9",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101805689,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Hinnerup",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

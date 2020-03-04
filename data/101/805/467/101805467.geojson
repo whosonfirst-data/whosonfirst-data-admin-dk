@@ -127,6 +127,9 @@
         "wk:page":"Tinglev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f199b13ee59e565036ffe3508287ea03",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101805467,
-    "wof:lastmodified":1566721997,
+    "wof:lastmodified":1582331877,
     "wof:name":"Tinglev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

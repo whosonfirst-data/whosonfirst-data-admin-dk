@@ -178,6 +178,9 @@
         "wd:id":"Q1701099"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10ffeeb2f8ae54db199254657835b53a",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721986,
+    "wof:lastmodified":1582331873,
     "wof:name":"Billund",
     "wof:parent_id":1394014133,
     "wof:placetype":"locality",

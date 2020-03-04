@@ -76,6 +76,9 @@
         "wd:id":"Q2671662"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0eadf68928f7dbdf6bccb8f2351a879e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101818267,
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"H\u00f8rve",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

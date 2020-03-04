@@ -84,6 +84,9 @@
         "wk:page":"Klarup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"491a77b2b07a539118177e47e1c9e97f",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805797,
-    "wof:lastmodified":1566721984,
+    "wof:lastmodified":1582331873,
     "wof:name":"Klarup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

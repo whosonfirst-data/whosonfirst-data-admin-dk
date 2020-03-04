@@ -79,6 +79,9 @@
         "wk:page":"R\u00f8rvig"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0967eebd18f01daccb5c3c4374696f00",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101818301,
-    "wof:lastmodified":1566721970,
+    "wof:lastmodified":1582331868,
     "wof:name":"R\u00f8rvig",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

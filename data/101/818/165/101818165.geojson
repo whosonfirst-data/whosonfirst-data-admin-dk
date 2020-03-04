@@ -114,6 +114,9 @@
         "wk:page":"N\u00f8rre Alslev"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e4266b8b888155ef39f93945d554166",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101818165,
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"N\u00f8rre Alslev",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

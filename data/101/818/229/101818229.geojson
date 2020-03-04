@@ -81,6 +81,9 @@
         "wd:id":"Q3547139"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d53d3c01dfc435c5fccd6211ca463552",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101818229,
-    "wof:lastmodified":1566721971,
+    "wof:lastmodified":1582331868,
     "wof:name":"Ullerslev",
     "wof:parent_id":1394014139,
     "wof:placetype":"locality",

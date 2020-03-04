@@ -49,6 +49,9 @@
         "qs_pg:id":340817
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3d5d669ca72deb4f9cac1a38290147b",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101805613,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331876,
     "wof:name":"Roslev",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

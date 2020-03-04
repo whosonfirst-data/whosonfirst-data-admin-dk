@@ -97,6 +97,9 @@
         "wk:page":"N\u00f8rager"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2a526ef6c4bd63d3ad9a7bbb8a0b617",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101805771,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331875,
     "wof:name":"N\u00f8rager",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

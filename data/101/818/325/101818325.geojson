@@ -172,6 +172,9 @@
         "wk:page":"Holb\u00e6k"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f44886cca417b3f02a355a3d70419ef0",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"Holb\u00e6k",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

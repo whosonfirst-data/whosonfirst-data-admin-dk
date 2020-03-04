@@ -74,6 +74,9 @@
         "wd:id":"Q12340905"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0374c7e0be02f222c0a961523f02bab",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101818333,
-    "wof:lastmodified":1566721976,
+    "wof:lastmodified":1582331870,
     "wof:name":"Viby",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

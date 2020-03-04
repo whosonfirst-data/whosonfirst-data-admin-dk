@@ -81,6 +81,9 @@
         "wk:page":"Old Rye"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"077ede1a3c37ce438f44c8859ad65fe3",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101805671,
-    "wof:lastmodified":1566721995,
+    "wof:lastmodified":1582331877,
     "wof:name":"Gammel Rye",
     "wof:parent_id":1159297721,
     "wof:placetype":"locality",

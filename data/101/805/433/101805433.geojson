@@ -50,6 +50,9 @@
         "qs_pg:id":246350
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8be1126e3e9ce45874d5455495e8fb81",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805433,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Brylle",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",

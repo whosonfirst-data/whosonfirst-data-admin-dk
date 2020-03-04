@@ -74,6 +74,9 @@
         "qs_pg:id":1329386
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"573cdcd8d0218a2ec201211d4aa07d5b",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101805673,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Hov",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",

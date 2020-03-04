@@ -192,6 +192,10 @@
         "qs_pg:id":221221
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74ad9cabdf44b6a92f8e761c7a9e3d2f",
     "wof:hierarchy":[
         {
@@ -207,7 +211,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721552,
+    "wof:lastmodified":1582331834,
     "wof:name":"Frederiksberg",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

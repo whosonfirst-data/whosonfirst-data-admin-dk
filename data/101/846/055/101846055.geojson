@@ -53,6 +53,9 @@
         "qs_pg:id":1077358
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10bc3598f25ae828f20da3bd132bd97d",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101846055,
-    "wof:lastmodified":1566722004,
+    "wof:lastmodified":1582331879,
     "wof:name":"Ansager",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

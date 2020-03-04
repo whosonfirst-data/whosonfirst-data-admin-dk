@@ -71,6 +71,9 @@
         "qs_pg:id":465891
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"368ba7efb3fb5bad1273e5776f6d5e41",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":85905867,
-    "wof:lastmodified":1566721565,
+    "wof:lastmodified":1582331835,
     "wof:name":"Christianshavns Voldgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

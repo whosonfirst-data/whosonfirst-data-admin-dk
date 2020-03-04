@@ -140,6 +140,9 @@
         "wk:page":"Valby"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08da50c5b951b4aedea7c3aa8615091d",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721555,
+    "wof:lastmodified":1582331834,
     "wof:name":"V\u00e5lby",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

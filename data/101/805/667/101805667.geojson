@@ -82,6 +82,9 @@
         "wk:page":"Them, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f1cb8144ae4a333c6a77618c2b48b52",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101805667,
-    "wof:lastmodified":1566721990,
+    "wof:lastmodified":1582331875,
     "wof:name":"Them",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

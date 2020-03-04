@@ -82,6 +82,9 @@
         "wk:page":"Vamdrup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a26727fc4c2ca1529d8b7a9cdfab9bc",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101805441,
-    "wof:lastmodified":1566721988,
+    "wof:lastmodified":1582331874,
     "wof:name":"Vamdrup",
     "wof:parent_id":1394014045,
     "wof:placetype":"locality",

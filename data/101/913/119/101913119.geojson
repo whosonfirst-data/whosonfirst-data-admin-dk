@@ -48,6 +48,9 @@
         "qs_pg:id":32956
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"859fc6c5b36cc3e2b3ad93ce7191c4de",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101913119,
-    "wof:lastmodified":1566722002,
+    "wof:lastmodified":1582331879,
     "wof:name":"Hestetangshuse",
     "wof:parent_id":1394014117,
     "wof:placetype":"locality",

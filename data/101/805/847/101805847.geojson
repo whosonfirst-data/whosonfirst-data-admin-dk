@@ -84,6 +84,9 @@
         "wk:page":"Vestbjerg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a82fbde9f822b9b026551cd5a1551153",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101805847,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Vestbjerg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

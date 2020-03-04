@@ -96,6 +96,9 @@
         "wk:page":"Vinderup"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf71c78ea1655f59ac35e881056647bf",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101805751,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Vinderup",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

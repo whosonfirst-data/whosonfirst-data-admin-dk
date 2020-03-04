@@ -377,6 +377,9 @@
         "qs_pg:id":834609
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60e96037601c1adb2c3296d36f83688c",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721977,
+    "wof:lastmodified":1582331870,
     "wof:name":"Roskilde",
     "wof:parent_id":1394013999,
     "wof:placetype":"locality",

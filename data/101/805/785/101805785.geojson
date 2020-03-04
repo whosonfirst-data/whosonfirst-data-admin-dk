@@ -52,6 +52,9 @@
         "qs_pg:id":270893
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"256c3915fa4196bffa7a7c8068cd09bd",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101805785,
-    "wof:lastmodified":1566721992,
+    "wof:lastmodified":1582331875,
     "wof:name":"Mou",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

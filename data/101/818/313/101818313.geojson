@@ -199,6 +199,9 @@
         "wk:page":"N\u00e6stved"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc52f86a7839b7be8c61f059f8be8904",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721975,
+    "wof:lastmodified":1582331869,
     "wof:name":"N\u00e6stved",
     "wof:parent_id":1394013979,
     "wof:placetype":"locality",

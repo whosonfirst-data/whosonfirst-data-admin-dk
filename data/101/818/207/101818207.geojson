@@ -50,6 +50,9 @@
         "qs_pg:id":1013838
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"486c1abed16638dc062632e03fd69042",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101818207,
-    "wof:lastmodified":1566721978,
+    "wof:lastmodified":1582331870,
     "wof:name":"N\u00e6sbyhoved-Broby",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

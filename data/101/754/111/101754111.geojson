@@ -100,6 +100,9 @@
         "wk:page":"Sm\u00f8rumnedre"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e21ae25732a52b5b6760fbbf677180c",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101754111,
-    "wof:lastmodified":1566721968,
+    "wof:lastmodified":1582331867,
     "wof:name":"Sm\u00f8rumnedre",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

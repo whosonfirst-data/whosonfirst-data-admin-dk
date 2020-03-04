@@ -147,6 +147,9 @@
         "wd:id":"Q1544563"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98c4bc3fbb193422a7bebf8171765211",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721581,
+    "wof:lastmodified":1582331843,
     "wof:name":"Hellerup",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

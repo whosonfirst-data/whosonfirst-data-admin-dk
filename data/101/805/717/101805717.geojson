@@ -79,6 +79,9 @@
         "wd:id":"Q2403073"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30c9b17ebbeea83a9d7a495e071e2953",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101805717,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Spentrup",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

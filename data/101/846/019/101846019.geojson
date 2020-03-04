@@ -79,6 +79,9 @@
         "wd:id":"Q2476361"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"580eef2f83af9e878962adeb1c1f73fc",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101846019,
-    "wof:lastmodified":1566722006,
+    "wof:lastmodified":1582331880,
     "wof:name":"N\u00f8rre Broby",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",

@@ -176,6 +176,9 @@
         "wk:page":"T\u00f8nder"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b16022545824aa7fff3e654a443e30de",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:name":"T\u00f8nder",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",

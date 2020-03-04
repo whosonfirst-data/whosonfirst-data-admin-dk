@@ -94,6 +94,9 @@
         "wk:page":"Krus\u00e5"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bad1c75cea222c7db855ed9ec94b42e",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101805491,
-    "wof:lastmodified":1566721991,
+    "wof:lastmodified":1582331875,
     "wof:name":"Krus\u00e5",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

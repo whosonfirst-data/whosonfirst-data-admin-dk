@@ -267,6 +267,9 @@
         "wk:page":"Svendborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3820d9102c9357cd08dba402a531f992",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721973,
+    "wof:lastmodified":1582331869,
     "wof:name":"Svendborg",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

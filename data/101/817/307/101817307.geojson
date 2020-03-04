@@ -101,6 +101,9 @@
         "wk:page":"Hals Municipality"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"280f96aea6d6a92544ac312d8c3d3116",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101817307,
-    "wof:lastmodified":1566721982,
+    "wof:lastmodified":1582331872,
     "wof:name":"Hals",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

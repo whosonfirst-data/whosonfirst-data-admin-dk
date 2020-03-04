@@ -102,6 +102,9 @@
         "wk:page":"Hammel"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b84e1ffb49e36e74cefe38402e0fd14",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101805691,
-    "wof:lastmodified":1566721998,
+    "wof:lastmodified":1582331877,
     "wof:name":"Hammel",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

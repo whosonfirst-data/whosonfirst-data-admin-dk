@@ -64,6 +64,9 @@
         "wk:page":"Thors\u00f8, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62597019598f921fd4b1d10fa2b19cde",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101805641,
-    "wof:lastmodified":1566721996,
+    "wof:lastmodified":1582331877,
     "wof:name":"Thors\u00f8",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

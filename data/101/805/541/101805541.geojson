@@ -50,6 +50,9 @@
         "qs_pg:id":265670
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca0b1eaa2c6f43b5d4fa401ea1a9a33d",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101805541,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Bolderslev",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

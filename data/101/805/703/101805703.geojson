@@ -159,6 +159,9 @@
         "wk:page":"Struer, Denmark"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35817b2437bdfd7abe3f950655dc3bf7",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101805703,
-    "wof:lastmodified":1566721994,
+    "wof:lastmodified":1582331876,
     "wof:name":"Struer",
     "wof:parent_id":1394014047,
     "wof:placetype":"locality",

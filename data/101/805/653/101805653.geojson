@@ -219,6 +219,9 @@
         "wk:page":"Silkeborg"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ae8b52bfa2d3a5c87b70227ac096cec",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":101805653,
-    "wof:lastmodified":1566721999,
+    "wof:lastmodified":1582331878,
     "wof:name":"Silkeborg",
     "wof:parent_id":1394014121,
     "wof:placetype":"locality",

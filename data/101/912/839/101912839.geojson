@@ -117,6 +117,9 @@
         "wd:id":"Q1159510"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd95a65cbee3c51f59c36d19ff8983a6",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101912839,
-    "wof:lastmodified":1566722001,
+    "wof:lastmodified":1582331878,
     "wof:name":"Danfoss",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

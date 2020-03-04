@@ -79,6 +79,9 @@
         "wk:page":"Taulov"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68bc92130ef66e70ae5230e3da477ae3",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101846023,
-    "wof:lastmodified":1566722003,
+    "wof:lastmodified":1582331879,
     "wof:name":"Taulov",
     "wof:parent_id":1394014037,
     "wof:placetype":"locality",

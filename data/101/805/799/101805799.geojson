@@ -93,6 +93,9 @@
         "wk:page":"Storvorde"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e147492d39df7be42d8285b97734731",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101805799,
-    "wof:lastmodified":1566721985,
+    "wof:lastmodified":1582331873,
     "wof:name":"Storvorde",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

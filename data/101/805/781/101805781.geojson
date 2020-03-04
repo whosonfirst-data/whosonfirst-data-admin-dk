@@ -149,6 +149,9 @@
         "wk:page":"Hobro"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca35c02d72367b7e143c998889e72331",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101805781,
-    "wof:lastmodified":1566722000,
+    "wof:lastmodified":1582331878,
     "wof:name":"Hobro",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

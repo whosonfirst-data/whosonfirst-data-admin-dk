@@ -144,6 +144,9 @@
         "wk:page":"Christianshavn"
     },
     "wof:country":"DK",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60ef75a732a064d91d2f9f21f7dee837",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1566721564,
+    "wof:lastmodified":1582331835,
     "wof:name":"Chistianshavn",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
