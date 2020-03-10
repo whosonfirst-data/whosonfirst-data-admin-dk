@@ -1106,9 +1106,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Denmark",
-        "digitalenvoy:country_code":[
-            208
-        ],
+        "digitalenvoy:country_code":208,
         "fb:id":"en.denmark",
         "fifa:id":"DEN",
         "fips:code":"DA",
@@ -1153,7 +1151,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1583529119,
+    "wof:lastmodified":1583797324,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

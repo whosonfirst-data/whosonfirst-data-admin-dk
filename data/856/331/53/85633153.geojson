@@ -815,9 +815,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            234
-        ],
+        "digitalenvoy:country_code":234,
         "fifa:id":"FRO",
         "fips:code":"FO",
         "gaul:id":"82",
@@ -849,7 +847,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1583529131,
+    "wof:lastmodified":1583797336,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",
