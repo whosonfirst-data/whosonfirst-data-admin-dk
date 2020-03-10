@@ -353,9 +353,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25020
-        ],
+        "digitalenvoy:region_code":25020,
         "fips:code":"DA19",
         "gn:id":6418540,
         "gp:id":28362579,
@@ -382,7 +380,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1583538264,
+    "wof:lastmodified":1583882730,
     "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

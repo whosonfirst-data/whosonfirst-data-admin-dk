@@ -378,9 +378,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25022
-        ],
+        "digitalenvoy:region_code":25022,
         "fips:code":"DA21",
         "gn:id":6418542,
         "gp:id":28362581,
@@ -407,7 +405,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1583538264,
+    "wof:lastmodified":1583882730,
     "wof:name":"Southern",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
