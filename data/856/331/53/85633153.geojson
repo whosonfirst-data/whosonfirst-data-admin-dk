@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25086,
-    "geom:area_square_m":1452796406.056652,
+    "geom:area_square_m":1452794732.776515,
     "geom:bbox":"-7.690255,61.392337,-6.284644,62.397333",
     "geom:latitude":62.072359,
     "geom:longitude":-6.895992,
@@ -151,6 +151,9 @@
     "name:deu_x_variant":[
         "F\u00e4r\u00f6er-Inseln"
     ],
+    "name:diq_x_preferred":[
+        "Adey\u00ea Faroe"
+    ],
     "name:div_x_preferred":[
         "\u078a\u07a6\u0783\u07ae\u0787\u07ad \u0796\u07a6\u0792\u07a9\u0783\u07a7"
     ],
@@ -227,6 +230,9 @@
     ],
     "name:gag_x_preferred":[
         "Farer Adalar\u0131"
+    ],
+    "name:gcr_x_preferred":[
+        "Zil F\u00e9ro\u00e9"
     ],
     "name:gla_x_preferred":[
         "Na h-Eileanan F\u00e0ro"
@@ -847,7 +853,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1583797336,
+    "wof:lastmodified":1587428784,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",
