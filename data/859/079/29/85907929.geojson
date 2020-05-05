@@ -1,0 +1,109 @@
+{
+  "id": 85907929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.388508,55.37711,10.388508,55.37711",
+    "geom:latitude":55.37711,
+    "geom:longitude":10.388508,
+    "gn:id":"",
+    "iso:country":"DN",
+    "lbl:bbox":"10.383508,55.37211,10.393508,55.38211",
+    "lbl:latitude":55.37711,
+    "lbl:longitude":10.388508,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":55.369504,
+    "mps:longitude":10.413859,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dan_x_preferred":[
+        "Odense M"
+    ],
+    "qs:gn_adm0_cc":"DK",
+    "qs:gn_id":0,
+    "qs:gn_local":2615876,
+    "qs:gn_nam_loc":"Odense, Odense, Syddanmark, DK",
+    "qs:gn_namadm1":"21",
+    "qs:local_max":7922,
+    "qs:local_sum":17175,
+    "qs:localhoods":8,
+    "qs:name":"Odense M",
+    "qs:name_adm0":"Danmark",
+    "qs:name_adm1":"Syddanmark",
+    "qs:name_adm2":"Odense",
+    "qs:name_local":"Odense",
+    "qs:photo_max":399,
+    "qs:photo_sum":2094,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":128,
+    "qs:woe_adm0":23424796,
+    "qs:woe_adm1":28362581,
+    "qs:woe_adm2":12582683,
+    "qs:woe_lau":0,
+    "qs:woe_local":556053,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1159297847,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875620,
+        "qs_pg:id":1263575
+    },
+    "wof:country":"DN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"900ae4e8148360216a153687bd7b707a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297847,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":85907929,
+    "wof:lang":[
+        "dan"
+    ],
+    "wof:lastmodified":1582332404,
+    "wof:name":"Odense M",
+    "wof:parent_id":101749151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-dn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.388508,
+    55.37711,
+    10.388508,
+    55.37711
+],
+  "geometry": {"coordinates":[10.388508,55.37711],"type":"Point"}
+}
