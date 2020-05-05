@@ -181,13 +181,13 @@
         }
     ],
     "wof:id":101805677,
-    "wof:lastmodified":1588708678,
+    "wof:lastmodified":1588709968,
     "wof:name":"Lemvig",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",
     "wof:population":7330,
     "wof:population_rank":5,
-    "wof:repo":"whosonfirst-data-admin-dn",
+    "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
