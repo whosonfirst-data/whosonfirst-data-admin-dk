@@ -10,7 +10,7 @@
     "geom:latitude":55.37711,
     "geom:longitude":10.388508,
     "gn:id":"",
-    "iso:country":"DN",
+    "iso:country":"DK",
     "lbl:bbox":"10.383508,55.37211,10.393508,55.38211",
     "lbl:latitude":55.37711,
     "lbl:longitude":10.388508,
@@ -60,8 +60,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        1159297847,
         85633121,
+        1159297847,
         101749151,
         85682575
     ],
@@ -70,7 +70,7 @@
         "gp:id":24875620,
         "qs_pg:id":1263575
     },
-    "wof:country":"DN",
+    "wof:country":"DK",
     "wof:geom_alt":[
         "quattroshapes",
         "quattroshapes_pg"
@@ -90,7 +90,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582332404,
+    "wof:lastmodified":1588708678,
     "wof:name":"Odense M",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

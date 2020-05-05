@@ -10,7 +10,7 @@
     "geom:latitude":55.397013,
     "geom:longitude":10.387263,
     "gn:id":"",
-    "iso:country":"DN",
+    "iso:country":"DK",
     "lbl:bbox":"10.382263,55.392013,10.392263,55.402013",
     "lbl:latitude":55.397013,
     "lbl:longitude":10.387263,
@@ -67,8 +67,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        1159297847,
         85633121,
+        1159297847,
         101749151,
         85682575
     ],
@@ -77,7 +77,7 @@
         "gp:id":24875619,
         "qs_pg:id":977344
     },
-    "wof:country":"DN",
+    "wof:country":"DK",
     "wof:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
@@ -97,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582332404,
+    "wof:lastmodified":1588708678,
     "wof:name":"Odense C",
     "wof:parent_id":101749151,
     "wof:placetype":"neighbourhood",

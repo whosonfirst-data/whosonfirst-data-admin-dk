@@ -9,7 +9,7 @@
     "geom:bbox":"10.798844,55.315765,10.798844,55.315765",
     "geom:latitude":55.315765,
     "geom:longitude":10.798844,
-    "iso:country":"DN",
+    "iso:country":"DK",
     "lbl:bbox":"10.793844,55.310765,10.803844,55.320765",
     "lbl:latitude":55.315765,
     "lbl:longitude":10.798844,
@@ -60,8 +60,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        1159297759,
         85633121,
+        1159297759,
         101818223,
         85682575
     ],
@@ -71,7 +71,7 @@
         "gp:id":555989,
         "qs_pg:id":240997
     },
-    "wof:country":"DN",
+    "wof:country":"DK",
     "wof:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582332404,
+    "wof:lastmodified":1588708678,
     "wof:name":"Nyborg Strand",
     "wof:parent_id":101818223,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":8.477015,
     "gn:latitude":55.61667,
     "gn:longitude":8.5,
-    "iso:country":"DN",
+    "iso:country":"DK",
     "lbl:bbox":"8.472015,55.612894,8.482015,55.622894",
     "lbl:latitude":55.617894,
     "lbl:longitude":8.477015,
@@ -66,8 +66,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        1159297925,
         85633121,
+        1159297925,
         101805511,
         85682575
     ],
@@ -77,7 +77,7 @@
         "gp:id":557401,
         "qs_pg:id":402367
     },
-    "wof:country":"DN",
+    "wof:country":"DK",
     "wof:geom_alt":[
         "quattroshapes_pg",
         "quattroshapes"
@@ -97,7 +97,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582332404,
+    "wof:lastmodified":1588708678,
     "wof:name":"S\u00f8nder Varde",
     "wof:parent_id":101805511,
     "wof:placetype":"neighbourhood",

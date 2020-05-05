@@ -11,7 +11,7 @@
     "geom:longitude":8.468925,
     "gn:latitude":55.48333,
     "gn:longitude":8.48333,
-    "iso:country":"DN",
+    "iso:country":"DK",
     "lbl:bbox":"8.463925,55.482752,8.473925,55.492752",
     "lbl:latitude":55.487752,
     "lbl:longitude":8.468925,
@@ -62,8 +62,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        1159297923,
         85633121,
+        1159297923,
         101749155,
         85682575
     ],
@@ -75,7 +75,7 @@
         "gp:id":552444,
         "qs_pg:id":222243
     },
-    "wof:country":"DN",
+    "wof:country":"DK",
     "wof:geom_alt":[
         "quattroshapes",
         "quattroshapes_pg"
@@ -95,7 +95,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582332404,
+    "wof:lastmodified":1588708678,
     "wof:name":"Boldesager",
     "wof:parent_id":101749155,
     "wof:placetype":"neighbourhood",
