@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.178758,
-    "geom:area_square_m":7926977195.71002,
+    "geom:area_square_m":7926977459.362104,
     "geom:bbox":"8.217473,56.550434,11.200154,57.752065",
     "geom:latitude":57.053106,
     "geom:longitude":9.671563,
@@ -352,6 +352,9 @@
         85633121
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        101749169
+    ],
     "wof:concordances":{
         "digitalenvoy:region_code":25020,
         "fips:code":"DA19",
@@ -380,7 +383,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1583882730,
+    "wof:lastmodified":1607124774,
     "wof:name":"North Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
