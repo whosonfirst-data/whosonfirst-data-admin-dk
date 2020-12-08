@@ -460,7 +460,9 @@
         85682593
     ],
     "wof:breaches":[],
-    "wof:capital_of":85682593,
+    "wof:capital_of":[
+        85682593
+    ],
     "wof:concordances":{
         "fct:id":"07c3ba78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2624886,
@@ -487,7 +489,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607124774,
+    "wof:lastmodified":1607462676,
     "wof:name":"Aalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

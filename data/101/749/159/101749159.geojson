@@ -809,7 +809,9 @@
         85682581
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633121,
+    "wof:capital_of":[
+        85633121
+    ],
     "wof:concordances":{
         "dbp:id":"Copenhagen",
         "fb:id":"en.copenhagen",
@@ -839,7 +841,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607124774,
+    "wof:lastmodified":1607462676,
     "wof:megacity":1,
     "wof:name":"Copenhagen",
     "wof:parent_id":1159297727,

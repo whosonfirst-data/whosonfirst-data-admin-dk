@@ -267,7 +267,9 @@
         85682589
     ],
     "wof:breaches":[],
-    "wof:capital_of":85682589,
+    "wof:capital_of":[
+        85682589
+    ],
     "wof:concordances":{
         "fct:id":"07c426e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2612862,
@@ -294,7 +296,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607124774,
+    "wof:lastmodified":1607462676,
     "wof:name":"Sor\u00f8",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",

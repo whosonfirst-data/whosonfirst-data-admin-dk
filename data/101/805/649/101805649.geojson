@@ -324,7 +324,9 @@
         85682597
     ],
     "wof:breaches":[],
-    "wof:capital_of":85682597,
+    "wof:capital_of":[
+        85682597
+    ],
     "wof:concordances":{
         "gn:id":2610319,
         "gp:id":558711,
@@ -347,7 +349,7 @@
         }
     ],
     "wof:id":101805649,
-    "wof:lastmodified":1607124774,
+    "wof:lastmodified":1607462676,
     "wof:name":"Viborg",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

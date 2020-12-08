@@ -306,7 +306,9 @@
         85682581
     ],
     "wof:breaches":[],
-    "wof:capital_of":85682581,
+    "wof:capital_of":[
+        85682581
+    ],
     "wof:concordances":{
         "fct:id":"07c664bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2620320,
@@ -333,7 +335,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607124774,
+    "wof:lastmodified":1607462676,
     "wof:name":"Hiller\u00f8d",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",
