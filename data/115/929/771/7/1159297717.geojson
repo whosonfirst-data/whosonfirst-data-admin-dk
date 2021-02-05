@@ -27,7 +27,7 @@
         "kommune"
     ],
     "label:eng_x_preferred_longname":[
-        "Holaek Municipality"
+        "Holbaek Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
@@ -45,7 +45,7 @@
         "Holb\u00e6k"
     ],
     "name:eng_x_preferred":[
-        "Holaek"
+        "Holbaek"
     ],
     "src:geom":"dk-geodk",
     "src:geom_alt":[],
@@ -76,7 +76,7 @@
         "dan"
     ],
     "wof:lastmodified":1566722147,
-    "wof:name":"Holaek",
+    "wof:name":"Holbaek",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
