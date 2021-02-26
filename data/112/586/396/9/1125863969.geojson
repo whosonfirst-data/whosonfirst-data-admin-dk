@@ -22,6 +22,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Visbjerg"
+    ],
+    "name:eng_x_variant":[
+        "Risbjerg"
+    ],
     "name:und_x_variant":[
         "Visbj\u00e6rg"
     ],
@@ -52,11 +58,11 @@
     "woe:name_adm1":"Midtjylland",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682575,
         102191581,
-        1394014091,
         85633121,
-        136253045
+        136253045,
+        1394014091,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,8 +84,8 @@
         }
     ],
     "wof:id":1125863969,
-    "wof:lastmodified":1566722058,
-    "wof:name":"Risbjerg",
+    "wof:lastmodified":1614364212,
+    "wof:name":"Visbjerg",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
