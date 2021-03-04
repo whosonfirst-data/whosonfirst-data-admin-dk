@@ -86,6 +86,9 @@
         "Region Syddanmark"
     ],
     "name:deu_x_preferred":[
+        "Syddanmark"
+    ],
+    "name:deu_x_variant":[
         "Region Syddanmark"
     ],
     "name:ell_x_preferred":[
@@ -405,7 +408,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1583882730,
+    "wof:lastmodified":1614893723,
     "wof:name":"Southern",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
