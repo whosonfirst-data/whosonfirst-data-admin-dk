@@ -89,6 +89,9 @@
         "Region Midtjylland"
     ],
     "name:deu_x_preferred":[
+        "Midtjylland"
+    ],
+    "name:deu_x_variant":[
         "Region Midtjylland"
     ],
     "name:ell_x_preferred":[
@@ -422,7 +425,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1607462676,
+    "wof:lastmodified":1614893724,
     "wof:name":"Central Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
