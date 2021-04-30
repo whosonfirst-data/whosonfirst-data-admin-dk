@@ -28,15 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dyrhus"
+    ],
+    "name:eng_x_variant":[
+        "Dryhus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85682575,
         102191581,
-        1394014091,
         85633121,
-        136253045
+        136253045,
+        1394014091,
+        85682575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1225918237,
-    "wof:lastmodified":1566722353,
-    "wof:name":"Dryhus",
+    "wof:lastmodified":1619824825,
+    "wof:name":"Dyrhus",
     "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
