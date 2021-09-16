@@ -21,7 +21,9 @@
         "K\u00f8benhavns Lufthavn"
     ],
     "name:eng_x_variant":[
-        "ZGH"
+        "ZGH",
+        "CPH",
+        "EKCH"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":102544207,
-    "wof:lastmodified":1578518378   ,
+    "wof:lastmodified":1631747385,
     "wof:name":"Copenhagen Airport",
     "wof:parent_id":85907903,
     "wof:placetype":"campus",
