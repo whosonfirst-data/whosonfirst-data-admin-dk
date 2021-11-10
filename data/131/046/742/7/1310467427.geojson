@@ -111,6 +111,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d1\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0935\u0930"
+    ],
     "name:hun_x_preferred":[
         "Dover"
     ],
@@ -201,6 +204,9 @@
     "name:urd_x_preferred":[
         "\u0688\u0648\u0648\u0631"
     ],
+    "name:vie_x_preferred":[
+        "Dover"
+    ],
     "name:vol_x_preferred":[
         "Dover"
     ],
@@ -222,7 +228,7 @@
         "gn:id":2622951
     },
     "wof:country":"DK",
-    "wof:geomhash":"61de037b7d558e4d7756845d6e51adc6",
+    "wof:geomhash":"3ef3852695fb9ab04c60b2e62b0c9c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":1310467427,
-    "wof:lastmodified":1566721749,
+    "wof:lastmodified":1636497509,
     "wof:name":"Dover",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",
@@ -244,9 +250,9 @@
 },
   "bbox": [
     8.45113,
-    56.71698000000001,
+    56.71698,
     8.45113,
-    56.71698000000001
+    56.71698
 ],
-  "geometry": {"coordinates":[8.45113,56.71698000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.45113,56.71698],"type":"Point"}
 }

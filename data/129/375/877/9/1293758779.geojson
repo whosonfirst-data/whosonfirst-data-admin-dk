@@ -45,6 +45,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0435\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c7\u09b0\u09be"
+    ],
     "name:bos_x_preferred":[
         "Gera"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0947\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Gera"
@@ -221,6 +227,9 @@
         "Gjeraa",
         "Ger\u00e5"
     ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0631\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Gera"
     ],
@@ -245,7 +254,7 @@
         "gn:id":2621512
     },
     "wof:country":"DK",
-    "wof:geomhash":"f0b1700e43f380ed71410438e7344750",
+    "wof:geomhash":"894564bfd8355ba8ef450a6448949b86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":1293758779,
-    "wof:lastmodified":1566721621,
+    "wof:lastmodified":1636497508,
     "wof:name":"Gera",
     "wof:parent_id":1159297753,
     "wof:placetype":"locality",
@@ -267,9 +276,9 @@
 },
   "bbox": [
     10.37661,
-    57.11788000000001,
+    57.11788,
     10.37661,
-    57.11788000000001
+    57.11788
 ],
-  "geometry": {"coordinates":[10.37661,57.11788000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.37661,57.11788],"type":"Point"}
 }

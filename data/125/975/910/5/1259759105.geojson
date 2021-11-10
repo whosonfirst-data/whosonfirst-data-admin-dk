@@ -289,6 +289,9 @@
         "Ikki qanotlilar"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Fly"
+    ],
+    "name:vie_x_variant":[
         "Ru\u1ed3i"
     ],
     "name:vls_x_preferred":[
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":1259759105,
-    "wof:lastmodified":1566722326,
+    "wof:lastmodified":1636497518,
     "wof:name":"Fly",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

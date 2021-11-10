@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0631\u0627"
+    ],
     "name:und_x_variant":[
         "R\u00e5"
     ],
@@ -45,7 +48,7 @@
         "gn:id":2615070
     },
     "wof:country":"DK",
-    "wof:geomhash":"ba0a0abd5ae75a19c2f714c161a6cb84",
+    "wof:geomhash":"9321d7bda59d07e6b096f7f76c6412b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193243233,
-    "wof:lastmodified":1566721716,
+    "wof:lastmodified":1636497508,
     "wof:name":"Raa",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",
@@ -67,9 +70,9 @@
 },
   "bbox": [
     11.43554,
-    54.76193000000001,
+    54.76193,
     11.43554,
-    54.76193000000001
+    54.76193
 ],
-  "geometry": {"coordinates":[11.43554,54.76193000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.43554,54.76193],"type":"Point"}
 }

@@ -22,6 +22,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b"
+    ],
     "name:hun_x_preferred":[
         "Ho"
     ],
@@ -29,6 +41,9 @@
         "Ho"
     ],
     "name:spa_x_preferred":[
+        "Ho"
+    ],
+    "name:tur_x_preferred":[
         "Ho"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":1125918281,
-    "wof:lastmodified":1566722090,
+    "wof:lastmodified":1636497517,
     "wof:name":"Ho",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",
