@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aller\u00f8d",
+    "eurostat:nuts_2021_id":"201",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"201",
+    "eurostat:population":25633,
+    "eurostat:population_year":2020,
     "geom:area":0.009667,
-    "geom:area_square_m":67095444.498567,
+    "geom:area_square_m":67095444.498575,
     "geom:bbox":"12.207153288,55.8123593925,12.4267369985,55.8991679029",
     "geom:latitude":55.855559,
     "geom:longitude":12.321154,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_201",
+        "eurostat:nuts_2021_id":"201"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"fdce2862498bcb82d37d1a69aae341ed",
+    "wof:geomhash":"5375bacd91289a5705065651331a3c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721921,
+    "wof:lastmodified":1684352152,
     "wof:name":"Allerod",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":25633,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fredericia",
+    "eurostat:nuts_2021_id":"607",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK032",
+    "eurostat:nuts_2021_level_lau":"607",
+    "eurostat:population":51377,
+    "eurostat:population_year":2020,
     "geom:area":0.019133,
-    "geom:area_square_m":133755175.241544,
+    "geom:area_square_m":133755175.241535,
     "geom:bbox":"9.55771096918,55.5090579941,9.85975593978,55.6282594208",
     "geom:latitude":55.573505,
     "geom:longitude":9.683847,
@@ -178,6 +190,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -185,8 +199,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_607",
+        "eurostat:nuts_2021_id":"607"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"a5793422e49fb7027c7240f833a07cf8",
+    "wof:geomhash":"10b3a87acca1f48c4848dc09b2c16db0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,11 +221,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721942,
+    "wof:lastmodified":1684352129,
     "wof:name":"Fredericia",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":51377,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

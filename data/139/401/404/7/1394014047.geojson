@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_671",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Struer",
+    "eurostat:nuts_2021_id":"671",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK041",
+    "eurostat:nuts_2021_level_lau":"671",
+    "eurostat:population":21036,
+    "eurostat:population_year":2020,
     "geom:area":0.035846,
-    "geom:area_square_m":244525211.76394,
+    "geom:area_square_m":244525211.763973,
     "geom:bbox":"8.39255449613,56.3871883014,8.71236463287,56.6932776599",
     "geom:latitude":56.518503,
     "geom:longitude":8.550408,
@@ -55,14 +67,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_671",
+        "eurostat:nuts_2021_id":"671"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"68c47557ce17e39e6e6bf92757e12de6",
+    "wof:geomhash":"55b86f6746f2a56e56402e4e0730f95a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,11 +96,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721959,
+    "wof:lastmodified":1684352131,
     "wof:name":"Struer",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":21036,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2019/04/30",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_756",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ikast-Brande",
+    "eurostat:nuts_2021_id":"756",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK041",
+    "eurostat:nuts_2021_level_lau":"756",
+    "eurostat:population":41369,
+    "eurostat:population_year":2020,
     "geom:area":0.106045,
-    "geom:area_square_m":732569552.711717,
+    "geom:area_square_m":732569552.711716,
     "geom:bbox":"8.95779038073,55.8306585121,9.55924185202,56.2760433275",
     "geom:latitude":56.035808,
     "geom:longitude":9.229901,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_756",
+        "eurostat:nuts_2021_id":"756"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"2be6b8ab8cd2e9a20c5f4eeedceef901",
+    "wof:geomhash":"f2c6f1aabed91b63edca520187734fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721916,
+    "wof:lastmodified":1684352151,
     "wof:name":"Ikast-Brande",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":41369,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_482",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Langeland",
+    "eurostat:nuts_2021_id":"482",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"482",
+    "eurostat:population":12491,
+    "eurostat:population_year":2020,
     "geom:area":0.040773,
-    "geom:area_square_m":289754669.354994,
+    "geom:area_square_m":289754669.355008,
     "geom:bbox":"10.533065246,54.7218923462,10.95578912,55.1646968527",
     "geom:latitude":54.919745,
     "geom:longitude":10.77686,
@@ -157,6 +169,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -164,8 +178,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_482",
+        "eurostat:nuts_2021_id":"482"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"73e195035cd4d7445cd72a000ec38ca9",
+    "wof:geomhash":"4ba40b1412c96113ed26c8e8907e7799",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,11 +200,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721813,
+    "wof:lastmodified":1684352108,
     "wof:name":"Langeland",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":12491,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

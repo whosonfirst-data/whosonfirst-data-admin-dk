@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_390",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vordingborg",
+    "eurostat:nuts_2021_id":"390",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK022",
+    "eurostat:nuts_2021_level_lau":"390",
+    "eurostat:population":45566,
+    "eurostat:population_year":2020,
     "geom:area":0.087803,
-    "geom:area_square_m":622323522.001396,
+    "geom:area_square_m":622323522.001433,
     "geom:bbox":"11.616248493,54.8784878696,12.5528389164,55.1548601725",
     "geom:latitude":55.026285,
     "geom:longitude":12.097397,
@@ -100,14 +112,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_390",
+        "eurostat:nuts_2021_id":"390"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"12fc855b8788a2a6027541ffc7d2a5b4",
+    "wof:geomhash":"fd7ca47e8837983f55a48ff071d0f2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,11 +141,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721817,
+    "wof:lastmodified":1684352109,
     "wof:name":"Vordingborg",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":45566,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

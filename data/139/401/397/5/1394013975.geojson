@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_730",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Randers",
+    "eurostat:nuts_2021_id":"730",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK042",
+    "eurostat:nuts_2021_level_lau":"730",
+    "eurostat:population":97805,
+    "eurostat:population_year":2020,
     "geom:area":0.109234,
-    "geom:area_square_m":745189995.392183,
+    "geom:area_square_m":745189995.392202,
     "geom:bbox":"9.77619665791,56.3698771027,10.3631145607,56.714436208",
     "geom:latitude":56.515925,
     "geom:longitude":10.068113,
@@ -199,14 +211,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_730",
+        "eurostat:nuts_2021_id":"730"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"e4967b8644738a7c40348f8b2ceff4f4",
+    "wof:geomhash":"ef19e596cc2acc453b6aadd6f0fe63d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,11 +240,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721834,
+    "wof:lastmodified":1684352099,
     "wof:name":"Randers",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":97805,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

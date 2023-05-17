@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Helsing\u00f8r",
+    "eurostat:nuts_2021_id":"217",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"217",
+    "eurostat:population":62695,
+    "eurostat:population_year":2020,
     "geom:area":0.017533,
-    "geom:area_square_m":121111354.549094,
+    "geom:area_square_m":121111354.549081,
     "geom:bbox":"12.3885830748,55.975778899,12.624509941,56.0966350784",
     "geom:latitude":56.038448,
     "geom:longitude":12.497057,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_217",
+        "eurostat:nuts_2021_id":"217"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"6e567df598ca868f6c6483e5c1ae6fe4",
+    "wof:geomhash":"a885ff323bd06b54c18591684f72328b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721860,
+    "wof:lastmodified":1684352120,
     "wof:name":"Helsingor",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":62695,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

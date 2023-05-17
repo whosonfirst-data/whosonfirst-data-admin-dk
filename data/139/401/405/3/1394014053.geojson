@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_480",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nordfyns",
+    "eurostat:nuts_2021_id":"480",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"480",
+    "eurostat:population":29665,
+    "eurostat:population_year":2020,
     "geom:area":0.064426,
-    "geom:area_square_m":451002198.792706,
+    "geom:area_square_m":451002198.792667,
     "geom:bbox":"9.97993538688,55.4054085337,10.561838652,55.6468307459",
     "geom:latitude":55.519211,
     "geom:longitude":10.24519,
@@ -49,6 +61,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -56,8 +70,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_480",
+        "eurostat:nuts_2021_id":"480"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"d72edf8d2d70ce5dbf1b804974aab518",
+    "wof:geomhash":"1ab916408ce6230bb7f56e3081a6ce9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,11 +92,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721931,
+    "wof:lastmodified":1684352135,
     "wof:name":"Nordfyns",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":29665,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

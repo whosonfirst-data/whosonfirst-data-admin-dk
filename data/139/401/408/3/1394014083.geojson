@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horsens",
+    "eurostat:nuts_2021_id":"615",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK042",
+    "eurostat:nuts_2021_level_lau":"615",
+    "eurostat:population":90966,
+    "eurostat:population_year":2020,
     "geom:area":0.075379,
-    "geom:area_square_m":522175521.519405,
+    "geom:area_square_m":522175521.519389,
     "geom:bbox":"9.46234114086,55.7414464466,10.3653196837,56.070071047",
     "geom:latitude":55.928451,
     "geom:longitude":9.783485,
@@ -199,14 +211,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_615",
+        "eurostat:nuts_2021_id":"615"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"65bb270b54dfc0b0231f3f5782f18eca",
+    "wof:geomhash":"f84965c3d2e7c2d334222052e11b282d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,11 +240,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721880,
+    "wof:lastmodified":1684352145,
     "wof:name":"Horsens",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":90966,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

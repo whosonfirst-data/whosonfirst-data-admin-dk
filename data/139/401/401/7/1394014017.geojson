@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odsherred",
+    "eurostat:nuts_2021_id":"306",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK022",
+    "eurostat:nuts_2021_level_lau":"306",
+    "eurostat:population":32957,
+    "eurostat:population_year":2020,
     "geom:area":0.051159,
-    "geom:area_square_m":355072666.836551,
+    "geom:area_square_m":355072666.836532,
     "geom:bbox":"11.2768668663,55.7330422428,11.7922123171,56.010625886",
     "geom:latitude":55.85431,
     "geom:longitude":11.554882,
@@ -64,14 +76,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_306",
+        "eurostat:nuts_2021_id":"306"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"88d080a688a87d5e266ca267b3588b4a",
+    "wof:geomhash":"f45dd5d988da117293e1815f0088b970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,11 +105,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721856,
+    "wof:lastmodified":1684352121,
     "wof:name":"Odsherred",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":32957,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

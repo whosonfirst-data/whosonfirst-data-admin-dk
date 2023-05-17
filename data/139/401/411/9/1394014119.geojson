@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Glostrup",
+    "eurostat:nuts_2021_id":"161",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"161",
+    "eurostat:population":23128,
+    "eurostat:population_year":2020,
     "geom:area":0.001897,
-    "geom:area_square_m":13223597.939628,
+    "geom:area_square_m":13223597.939631,
     "geom:bbox":"12.3678074992,55.6579525618,12.4323608204,55.7094783982",
     "geom:latitude":55.683357,
     "geom:longitude":12.405261,
@@ -88,14 +100,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_161",
+        "eurostat:nuts_2021_id":"161"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"e883d4456bc4374f07dfbf3b09d5e1c9",
+    "wof:geomhash":"4da5fa492cf26ade64adecd34ed1dbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,11 +129,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721921,
+    "wof:lastmodified":1684352152,
     "wof:name":"Glostrup",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":23128,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

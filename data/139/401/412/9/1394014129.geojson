@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2019/01/07",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_151",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ballerup",
+    "eurostat:nuts_2021_id":"151",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"151",
+    "eurostat:population":48602,
+    "eurostat:population_year":2020,
     "geom:area":0.004845,
-    "geom:area_square_m":33730141.219375,
+    "geom:area_square_m":33730141.219373,
     "geom:bbox":"12.263500521,55.6973412951,12.4262003527,55.7634521635",
     "geom:latitude":55.733061,
     "geom:longitude":12.360047,
@@ -94,14 +106,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_151",
+        "eurostat:nuts_2021_id":"151"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"e4ccc427e74bf562fedbd1c3190448db",
+    "wof:geomhash":"e6ffc903b079f4b7dbf1c45b0a6b4b41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,11 +135,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721846,
+    "wof:lastmodified":1684352153,
     "wof:name":"Ballerup",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":48602,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

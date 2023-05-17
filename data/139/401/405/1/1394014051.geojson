@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_791",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viborg",
+    "eurostat:nuts_2021_id":"791",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK041",
+    "eurostat:nuts_2021_level_lau":"791",
+    "eurostat:population":96921,
+    "eurostat:population_year":2020,
     "geom:area":0.207214,
-    "geom:area_square_m":1415591524.885584,
+    "geom:area_square_m":1415591667.529117,
     "geom:bbox":"8.971691,56.218412,9.796316,56.683243",
     "geom:latitude":56.462526,
     "geom:longitude":9.403916,
@@ -112,14 +124,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_791",
+        "eurostat:nuts_2021_id":"791"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"d19dcd4790c92a6aca9bbcdf226d0f14",
+    "wof:geomhash":"93f68f68e3e4efe5bd76cc4e07171e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,11 +153,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1636497513,
+    "wof:lastmodified":1684352134,
     "wof:name":"Viborg",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":96921,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

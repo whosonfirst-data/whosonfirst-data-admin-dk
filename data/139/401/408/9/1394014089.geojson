@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"H\u00f8rsholm",
+    "eurostat:nuts_2021_id":"223",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"223",
+    "eurostat:population":24864,
+    "eurostat:population_year":2020,
     "geom:area":0.004497,
-    "geom:area_square_m":31190862.817995,
+    "geom:area_square_m":31190862.818004,
     "geom:bbox":"12.3975431774,55.8524310505,12.5623157852,55.9133949205",
     "geom:latitude":55.883288,
     "geom:longitude":12.485411,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_223",
+        "eurostat:nuts_2021_id":"223"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"695d5f554bfa8f82dd6f0d41c6a278b0",
+    "wof:geomhash":"a32d5a580ff4cfe4b0616aef4cfdf72d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721874,
+    "wof:lastmodified":1684352146,
     "wof:name":"Horsholm",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":24864,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

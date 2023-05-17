@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fredensborg",
+    "eurostat:nuts_2021_id":"210",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"210",
+    "eurostat:population":40865,
+    "eurostat:population_year":2020,
     "geom:area":0.016116,
-    "geom:area_square_m":111578293.803399,
+    "geom:area_square_m":111578293.803442,
     "geom:bbox":"12.3460614419,55.8870177459,12.5486280702,56.0142996368",
     "geom:latitude":55.950518,
     "geom:longitude":12.443588,
@@ -88,14 +100,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_210",
+        "eurostat:nuts_2021_id":"210"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"6f962ecc78016bf076340002948ecd06",
+    "wof:geomhash":"b7526a263388bb3a0b1cea06a318a77c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,11 +129,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721840,
+    "wof:lastmodified":1684352155,
     "wof:name":"Fredensborg",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":40865,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

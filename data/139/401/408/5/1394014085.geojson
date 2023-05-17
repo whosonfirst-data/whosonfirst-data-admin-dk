@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hiller\u00f8d",
+    "eurostat:nuts_2021_id":"219",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"219",
+    "eurostat:population":51183,
+    "eurostat:population_year":2020,
     "geom:area":0.030658,
-    "geom:area_square_m":212371920.459191,
+    "geom:area_square_m":212371920.459166,
     "geom:bbox":"12.0796892244,55.8450811826,12.3946927197,56.0033718534",
     "geom:latitude":55.929069,
     "geom:longitude":12.238785,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_219",
+        "eurostat:nuts_2021_id":"219"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"22153e332db6c583a12b5c977c4c4f30",
+    "wof:geomhash":"cb09da707fef0082993d03a502285a93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721882,
+    "wof:lastmodified":1684352145,
     "wof:name":"Hillerod",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":51183,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

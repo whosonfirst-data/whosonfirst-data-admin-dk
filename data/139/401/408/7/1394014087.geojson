@@ -14,6 +14,18 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_766",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hedensted",
+    "eurostat:nuts_2021_id":"766",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK042",
+    "eurostat:nuts_2021_level_lau":"766",
+    "eurostat:population":46722,
+    "eurostat:population_year":2020,
     "geom:area":0.07901,
     "geom:area_square_m":549227068.628335,
     "geom:bbox":"9.38629450268,55.6688473628,10.1019413013,55.9248781814",
@@ -82,14 +94,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_766",
+        "eurostat:nuts_2021_id":"766"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"4f9278e4f96642b534fce8865a4787af",
+    "wof:geomhash":"4e6f973d9d271ef8a978db698bd41e09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,11 +123,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721876,
+    "wof:lastmodified":1684352146,
     "wof:name":"Hedensted",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":46722,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

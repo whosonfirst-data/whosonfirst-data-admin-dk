@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roskilde",
+    "eurostat:nuts_2021_id":"265",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK021",
+    "eurostat:nuts_2021_level_lau":"265",
+    "eurostat:population":87914,
+    "eurostat:population_year":2020,
     "geom:area":0.030262,
-    "geom:area_square_m":211202442.225667,
+    "geom:area_square_m":211202401.208837,
     "geom:bbox":"11.96979,55.516081,12.25094,55.781052",
     "geom:latitude":55.637522,
     "geom:longitude":12.103384,
@@ -235,14 +247,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_265",
+        "eurostat:nuts_2021_id":"265"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"dcd7cbf808c19ef7a07f36572478f3a4",
+    "wof:geomhash":"a7a92c97eab4d54747e5676eedfc589a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,11 +276,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1636497509,
+    "wof:lastmodified":1684352115,
     "wof:name":"Roskilde",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":87914,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

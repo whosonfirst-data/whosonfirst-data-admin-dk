@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_185",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00e5rnby",
+    "eurostat:nuts_2021_id":"185",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK011",
+    "eurostat:nuts_2021_level_lau":"185",
+    "eurostat:population":42989,
+    "eurostat:population_year":2020,
     "geom:area":0.009401,
-    "geom:area_square_m":65651005.993705,
+    "geom:area_square_m":65651005.993702,
     "geom:bbox":"12.5088450174,55.5724814642,12.8225933619,55.672745291",
     "geom:latitude":55.615148,
     "geom:longitude":12.640492,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_185",
+        "eurostat:nuts_2021_id":"185"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"65eb50b91eb40fcbe289029304c442a7",
+    "wof:geomhash":"836a45970ddab51b5541b21f916411cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721809,
+    "wof:lastmodified":1684352114,
     "wof:name":"Tarnby",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":42989,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

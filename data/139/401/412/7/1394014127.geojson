@@ -14,6 +14,18 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_175",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f8dovre",
+    "eurostat:nuts_2021_id":"175",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"175",
+    "eurostat:population":40652,
+    "eurostat:population_year":2020,
     "geom:area":0.001737,
     "geom:area_square_m":12110406.872121,
     "geom:bbox":"12.4229916844,55.6647525777,12.478573325,55.7149768919",
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_175",
+        "eurostat:nuts_2021_id":"175"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"237b951e8796d722bef6b5fe7269194f",
+    "wof:geomhash":"73026667644f450c72480700a1dcaa07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721847,
+    "wof:lastmodified":1684352153,
     "wof:name":"Rodovre",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":40652,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

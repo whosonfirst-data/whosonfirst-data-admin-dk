@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_330",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Slagelse",
+    "eurostat:nuts_2021_id":"330",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK022",
+    "eurostat:nuts_2021_level_lau":"330",
+    "eurostat:population":79073,
+    "eurostat:population_year":2020,
     "geom:area":0.080734,
-    "geom:area_square_m":567695635.459433,
+    "geom:area_square_m":567695635.459365,
     "geom:bbox":"10.9450284107,55.140014243,11.5215427162,55.5097798936",
     "geom:latitude":55.342751,
     "geom:longitude":11.341889,
@@ -142,14 +154,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_330",
+        "eurostat:nuts_2021_id":"330"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"a879c5a1758a2778ac20316e843ba6a3",
+    "wof:geomhash":"424fa60c76e8ab245029ab4535324869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,11 +183,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721797,
+    "wof:lastmodified":1684352102,
     "wof:name":"Slagelse",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":79073,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

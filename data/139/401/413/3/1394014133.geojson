@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_530",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Billund",
+    "eurostat:nuts_2021_id":"530",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK032",
+    "eurostat:nuts_2021_level_lau":"530",
+    "eurostat:population":26608,
+    "eurostat:population_year":2020,
     "geom:area":0.077309,
-    "geom:area_square_m":538179972.922925,
+    "geom:area_square_m":538179972.922961,
     "geom:bbox":"8.74738672742,55.5935087887,9.19924080871,55.8957745207",
     "geom:latitude":55.737598,
     "geom:longitude":8.968635,
@@ -64,6 +76,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -71,8 +85,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_530",
+        "eurostat:nuts_2021_id":"530"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"a792a95ddba32fb3fd8e3b76a6e16238",
+    "wof:geomhash":"5e39a745de1d4391297da63f12866540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,11 +107,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721838,
+    "wof:lastmodified":1684352153,
     "wof:name":"Billund",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":26608,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

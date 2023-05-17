@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Norddjurs",
+    "eurostat:nuts_2021_id":"707",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK042",
+    "eurostat:nuts_2021_level_lau":"707",
+    "eurostat:population":37089,
+    "eurostat:population_year":2020,
     "geom:area":0.105456,
-    "geom:area_square_m":720449423.785014,
+    "geom:area_square_m":720449423.784964,
     "geom:bbox":"10.2179498708,56.2950015383,11.6583535132,56.7378503857",
     "geom:latitude":56.461241,
     "geom:longitude":10.635377,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_707",
+        "eurostat:nuts_2021_id":"707"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"30a1a7181e1ef29a2c1f99a7378fc53a",
+    "wof:geomhash":"f778501973d7a12b32ca208fab76d784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721859,
+    "wof:lastmodified":1684352120,
     "wof:name":"Norddjurs",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":37089,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

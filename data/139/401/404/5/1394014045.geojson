@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolding",
+    "eurostat:nuts_2021_id":"621",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK032",
+    "eurostat:nuts_2021_level_lau":"621",
+    "eurostat:population":93175,
+    "eurostat:population_year":2020,
     "geom:area":0.085896,
-    "geom:area_square_m":602267805.058005,
+    "geom:area_square_m":602267805.058123,
     "geom:bbox":"9.21516452253,55.3085256365,9.69343604891,55.6297781747",
     "geom:latitude":55.455578,
     "geom:longitude":9.439579,
@@ -202,6 +214,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -209,8 +223,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_621",
+        "eurostat:nuts_2021_id":"621"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"8fefb36a6233055ea40d884ad417871f",
+    "wof:geomhash":"551069ac62f15816ddb7b0ab969a888a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,11 +245,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721966,
+    "wof:lastmodified":1684352130,
     "wof:name":"Kolding",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":93175,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[
