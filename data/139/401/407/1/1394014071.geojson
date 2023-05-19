@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_420",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Assens",
+    "eurostat:nuts_2021_id":"420",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"420",
+    "eurostat:population":40965,
+    "eurostat:population_year":2020,
     "geom:area":0.072485,
-    "geom:area_square_m":510277665.510703,
+    "geom:area_square_m":510277665.510736,
     "geom:bbox":"9.76564220241,55.1205076584,10.2938796839,55.4326955625",
     "geom:latitude":55.297134,
     "geom:longitude":10.068319,
@@ -82,6 +94,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -89,8 +103,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_420",
+        "eurostat:nuts_2021_id":"420"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"b0336f85a626d4d328ca29594c012f87",
+    "wof:geomhash":"531db445b33f67788b1afe1e4fef6f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +125,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721893,
+    "wof:lastmodified":1684352140,
     "wof:name":"Assens",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":40965,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2019/01/07",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_840",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebild",
+    "eurostat:nuts_2021_id":"840",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK05",
+    "eurostat:nuts_2021_level_3":"DK050",
+    "eurostat:nuts_2021_level_lau":"840",
+    "eurostat:population":30113,
+    "eurostat:population_year":2020,
     "geom:area":0.091632,
-    "geom:area_square_m":620017484.462022,
+    "geom:area_square_m":620017484.462034,
     "geom:bbox":"9.51835196661,56.6511651326,10.228200915,56.9713904929",
     "geom:latitude":56.824069,
     "geom:longitude":9.823494,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682593
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_840",
+        "eurostat:nuts_2021_id":"840"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"ac2c58fbad873d42595cbd5783b2769e",
+    "wof:geomhash":"23ce16b314ecfce45c0179629e8e3fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721891,
+    "wof:lastmodified":1684352143,
     "wof:name":"Rebild",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":30113,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

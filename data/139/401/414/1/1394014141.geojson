@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_320",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faxe",
+    "eurostat:nuts_2021_id":"320",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK022",
+    "eurostat:nuts_2021_level_lau":"320",
+    "eurostat:population":36576,
+    "eurostat:population_year":2020,
     "geom:area":0.057265,
-    "geom:area_square_m":403218652.879463,
+    "geom:area_square_m":403218652.879473,
     "geom:bbox":"11.8319494663,55.133525627,12.2853699152,55.4049113428",
     "geom:latitude":55.288349,
     "geom:longitude":12.059622,
@@ -76,14 +88,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_320",
+        "eurostat:nuts_2021_id":"320"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"3cfd26ea2043b8336ccabeca4dc7a34a",
+    "wof:geomhash":"9fdc104ce22d5e8029fc125c6045abaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,11 +117,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721840,
+    "wof:lastmodified":1684352154,
     "wof:name":"Faxe",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":36576,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

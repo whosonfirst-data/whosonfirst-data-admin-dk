@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_492",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c6r\u00f8",
+    "eurostat:nuts_2021_id":"492",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"492",
+    "eurostat:population":5964,
+    "eurostat:population_year":2020,
     "geom:area":0.012575,
-    "geom:area_square_m":89453877.930354,
+    "geom:area_square_m":89453877.930349,
     "geom:bbox":"10.2042873095,54.8162317767,10.5743067049,54.9718238241",
     "geom:latitude":54.878928,
     "geom:longitude":10.37728,
@@ -112,6 +124,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -119,8 +133,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_492",
+        "eurostat:nuts_2021_id":"492"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"cce37bd442752e8239c2885dd8d933e7",
+    "wof:geomhash":"a7deb1623f28417c20b6c4e26f52bb70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,11 +155,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721865,
+    "wof:lastmodified":1684352140,
     "wof:name":"Aero",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":5964,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_187",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vallensb\u00e6k",
+    "eurostat:nuts_2021_id":"187",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"187",
+    "eurostat:population":16633,
+    "eurostat:population_year":2020,
     "geom:area":0.001354,
-    "geom:area_square_m":9447816.166766,
+    "geom:area_square_m":9447816.166768,
     "geom:bbox":"12.3413340844,55.6095372996,12.4049680167,55.6562146242",
     "geom:latitude":55.632866,
     "geom:longitude":12.373036,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_187",
+        "eurostat:nuts_2021_id":"187"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"7764a81746dab065df8781a91510690c",
+    "wof:geomhash":"4a034922ccffb8faa095dc9782e70664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721920,
+    "wof:lastmodified":1684352151,
     "wof:name":"Vallensbaek",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":16633,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

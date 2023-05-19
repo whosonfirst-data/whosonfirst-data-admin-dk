@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_550",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u00f8nder",
+    "eurostat:nuts_2021_id":"550",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK032",
+    "eurostat:nuts_2021_level_lau":"550",
+    "eurostat:population":37366,
+    "eurostat:population_year":2020,
     "geom:area":0.166699,
-    "geom:area_square_m":1179937460.218235,
+    "geom:area_square_m":1179937460.218118,
     "geom:bbox":"8.46246788016,54.8815046717,9.24964736687,55.2447133065",
     "geom:latitude":55.079866,
     "geom:longitude":8.865931,
@@ -49,6 +61,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -56,8 +70,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_550",
+        "eurostat:nuts_2021_id":"550"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"859dc358875531afe21bec88aaa2d208",
+    "wof:geomhash":"ce966207222026cf00c30695d9e514ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,11 +92,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721885,
+    "wof:lastmodified":1684352147,
     "wof:name":"Tonder",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":37366,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

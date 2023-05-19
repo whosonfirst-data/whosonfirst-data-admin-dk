@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_167",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hvidovre",
+    "eurostat:nuts_2021_id":"167",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"167",
+    "eurostat:population":53527,
+    "eurostat:population_year":2020,
     "geom:area":0.003272,
-    "geom:area_square_m":22842273.801958,
+    "geom:area_square_m":22842273.801967,
     "geom:bbox":"12.425907617,55.5977867527,12.5073696301,55.6661668166",
     "geom:latitude":55.630261,
     "geom:longitude":12.468674,
@@ -73,14 +85,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_167",
+        "eurostat:nuts_2021_id":"167"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"cb26a4d635c56040dcb4209b80667f82",
+    "wof:geomhash":"7c821c378a29b7b71d76b74eb5c8835e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,11 +114,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721940,
+    "wof:lastmodified":1684352124,
     "wof:name":"Hvidovre",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":53527,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

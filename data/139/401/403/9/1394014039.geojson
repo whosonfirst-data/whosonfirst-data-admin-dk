@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_269",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solr\u00f8d",
+    "eurostat:nuts_2021_id":"269",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK021",
+    "eurostat:nuts_2021_level_lau":"269",
+    "eurostat:population":23255,
+    "eurostat:population_year":2020,
     "geom:area":0.005754,
-    "geom:area_square_m":40263900.090125,
+    "geom:area_square_m":40263900.090136,
     "geom:bbox":"12.0937036046,55.5078415256,12.2549234943,55.5667106846",
     "geom:latitude":55.537288,
     "geom:longitude":12.173901,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_269",
+        "eurostat:nuts_2021_id":"269"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"966b0aa98568c83509faaaddd6eeccc9",
+    "wof:geomhash":"8f03c64dd94fe0d1f1492bc9b5cea706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721941,
+    "wof:lastmodified":1684352129,
     "wof:name":"Solrod",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":23255,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

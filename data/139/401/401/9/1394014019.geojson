@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_760",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ringk\u00f8bing-Skjern",
+    "eurostat:nuts_2021_id":"760",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK041",
+    "eurostat:nuts_2021_level_lau":"760",
+    "eurostat:population":56594,
+    "eurostat:population_year":2020,
     "geom:area":0.215359,
-    "geom:area_square_m":1488302184.888254,
+    "geom:area_square_m":1488302184.888235,
     "geom:bbox":"8.09764923377,55.7731068278,8.86443876303,56.2623075619",
     "geom:latitude":56.020705,
     "geom:longitude":8.470958,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_760",
+        "eurostat:nuts_2021_id":"760"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"ef90a57c5eb6cc93b2de76f2a7d10445",
+    "wof:geomhash":"e06146d6c41219520573905652ac57e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721852,
+    "wof:lastmodified":1684352122,
     "wof:name":"Ringkobing-Skjern",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":56594,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

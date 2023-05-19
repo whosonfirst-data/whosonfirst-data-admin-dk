@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Greve",
+    "eurostat:nuts_2021_id":"253",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK021",
+    "eurostat:nuts_2021_level_lau":"253",
+    "eurostat:population":50558,
+    "eurostat:population_year":2020,
     "geom:area":0.008597,
-    "geom:area_square_m":60071930.189136,
+    "geom:area_square_m":60071930.189126,
     "geom:bbox":"12.1379917139,55.5532917936,12.3632345985,55.6220883799",
     "geom:latitude":55.590433,
     "geom:longitude":12.245643,
@@ -76,14 +88,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_253",
+        "eurostat:nuts_2021_id":"253"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"fb9ec6edc2d4cf2afe4af7e05e18a289",
+    "wof:geomhash":"a5dc55776023b06e70f5f1eab2948287",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,11 +117,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721837,
+    "wof:lastmodified":1684352154,
     "wof:name":"Greve",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":50558,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

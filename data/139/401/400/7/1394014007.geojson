@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_773",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mors\u00f8",
+    "eurostat:nuts_2021_id":"773",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK05",
+    "eurostat:nuts_2021_level_3":"DK050",
+    "eurostat:nuts_2021_level_lau":"773",
+    "eurostat:population":20247,
+    "eurostat:population_year":2020,
     "geom:area":0.053629,
-    "geom:area_square_m":363114431.575687,
+    "geom:area_square_m":363114431.575719,
     "geom:bbox":"8.50197193625,56.6687019832,9.01226454334,56.9846425527",
     "geom:latitude":56.799559,
     "geom:longitude":8.730495,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682593
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_773",
+        "eurostat:nuts_2021_id":"773"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"bf14dd1cad5e9beaaf4ae1fdff8091c9",
+    "wof:geomhash":"f2cc8d6af5b6c5c45d965f159b55b408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721907,
+    "wof:lastmodified":1684352118,
     "wof:name":"Morso",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":20247,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

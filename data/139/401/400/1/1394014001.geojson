@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_813",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frederikshavn",
+    "eurostat:nuts_2021_id":"813",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK05",
+    "eurostat:nuts_2021_level_3":"DK050",
+    "eurostat:nuts_2021_level_lau":"813",
+    "eurostat:population":59654,
+    "eurostat:population_year":2020,
     "geom:area":0.097362,
-    "geom:area_square_m":648251919.055124,
+    "geom:area_square_m":648251803.391224,
     "geom:bbox":"10.182821,57.170089,10.652238,57.752573",
     "geom:latitude":57.42093,
     "geom:longitude":10.40938,
@@ -175,14 +187,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682593
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_813",
+        "eurostat:nuts_2021_id":"813"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"3f6c2c34807c45848826ce5dee05d0c0",
+    "wof:geomhash":"db149c81e56bc1695fbc33fc7326e4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,11 +216,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1636497512,
+    "wof:lastmodified":1684352116,
     "wof:name":"Frederikshavn",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":59654,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

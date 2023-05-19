@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_563",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fan\u00f8",
+    "eurostat:nuts_2021_id":"563",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK032",
+    "eurostat:nuts_2021_level_lau":"563",
+    "eurostat:population":3488,
+    "eurostat:population_year":2020,
     "geom:area":0.009423,
-    "geom:area_square_m":66157102.016465,
+    "geom:area_square_m":66157102.016467,
     "geom:bbox":"8.32799878853,55.3389320516,8.53491386035,55.4741710157",
     "geom:latitude":55.405097,
     "geom:longitude":8.419344,
@@ -202,6 +214,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -209,8 +223,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_563",
+        "eurostat:nuts_2021_id":"563"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"1876986b49a1ca77348222fdce4a0817",
+    "wof:geomhash":"18b026b7171af80d3bf2772120ffe7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,11 +245,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721873,
+    "wof:lastmodified":1684352138,
     "wof:name":"Fano",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":3488,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_665",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lemvig",
+    "eurostat:nuts_2021_id":"665",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK041",
+    "eurostat:nuts_2021_level_lau":"665",
+    "eurostat:population":19722,
+    "eurostat:population_year":2020,
     "geom:area":0.0754,
-    "geom:area_square_m":514651828.582102,
+    "geom:area_square_m":514651828.582049,
     "geom:bbox":"8.11516587518,56.347257526,8.52476198906,56.710569994",
     "geom:latitude":56.49552,
     "geom:longitude":8.28456,
@@ -106,14 +118,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_665",
+        "eurostat:nuts_2021_id":"665"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"7bc6b0a4251d2a6418da2debd8bb65e8",
+    "wof:geomhash":"c6522092f3fa8d66b52a30daaf4edfe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,11 +147,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721901,
+    "wof:lastmodified":1684352143,
     "wof:name":"Lemvig",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":19722,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

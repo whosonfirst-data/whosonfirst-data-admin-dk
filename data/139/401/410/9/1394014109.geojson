@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_159",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gladsaxe",
+    "eurostat:nuts_2021_id":"159",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"159",
+    "eurostat:population":69262,
+    "eurostat:population_year":2020,
     "geom:area":0.003564,
-    "geom:area_square_m":24803650.739686,
+    "geom:area_square_m":24803650.73968,
     "geom:bbox":"12.4161848299,55.716819755,12.5214812608,55.776717501",
     "geom:latitude":55.747429,
     "geom:longitude":12.469711,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_159",
+        "eurostat:nuts_2021_id":"159"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"439461498ee39be74e1c276300c6dfd5",
+    "wof:geomhash":"f49e379b67042b27d97d5878178ffe96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721916,
+    "wof:lastmodified":1684352151,
     "wof:name":"Gladsaxe",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":69262,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

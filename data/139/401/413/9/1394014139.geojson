@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_450",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nyborg",
+    "eurostat:nuts_2021_id":"450",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"450",
+    "eurostat:population":32009,
+    "eurostat:population_year":2020,
     "geom:area":0.039195,
-    "geom:area_square_m":275945037.599987,
+    "geom:area_square_m":275945037.60001,
     "geom:bbox":"10.5317305989,55.1727892066,10.8561542773,55.4245534179",
     "geom:latitude":55.294477,
     "geom:longitude":10.701233,
@@ -91,6 +103,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -98,8 +112,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_450",
+        "eurostat:nuts_2021_id":"450"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"aebb7f9074bab32fe28481a1cb391e31",
+    "wof:geomhash":"cf12a47fb411c175ba07d63339da7ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +134,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721836,
+    "wof:lastmodified":1684352154,
     "wof:name":"Nyborg",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":32009,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

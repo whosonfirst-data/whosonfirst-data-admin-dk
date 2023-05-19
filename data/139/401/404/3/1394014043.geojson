@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_479",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Svendborg",
+    "eurostat:nuts_2021_id":"479",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"479",
+    "eurostat:population":58296,
+    "eurostat:population_year":2020,
     "geom:area":0.058638,
-    "geom:area_square_m":414953888.481901,
+    "geom:area_square_m":414953843.104581,
     "geom:bbox":"10.360603,54.942937,10.889796,55.22161",
     "geom:latitude":55.089924,
     "geom:longitude":10.59702,
@@ -145,6 +157,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -152,8 +166,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_479",
+        "eurostat:nuts_2021_id":"479"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"3c01b7d82fb232bc4fcd919e7391f79d",
+    "wof:geomhash":"8dd3a65f619d1a98c6de54291e1b3b61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,11 +188,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1636497515,
+    "wof:lastmodified":1684352129,
     "wof:name":"Svendborg",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":58296,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

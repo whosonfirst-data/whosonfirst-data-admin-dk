@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00f8ge",
+    "eurostat:nuts_2021_id":"259",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK021",
+    "eurostat:nuts_2021_level_lau":"259",
+    "eurostat:population":60979,
+    "eurostat:population_year":2020,
     "geom:area":0.036671,
-    "geom:area_square_m":257122463.269958,
+    "geom:area_square_m":257122463.270008,
     "geom:bbox":"11.9110147187,55.3682881239,12.2310554079,55.5351901839",
     "geom:latitude":55.456168,
     "geom:longitude":12.070713,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_259",
+        "eurostat:nuts_2021_id":"259"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"8f7bcfefb64c4b244d38ef34068bc843",
+    "wof:geomhash":"44151304c6913e0fcd080fa4582504aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721939,
+    "wof:lastmodified":1684352125,
     "wof:name":"Koge",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":60979,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

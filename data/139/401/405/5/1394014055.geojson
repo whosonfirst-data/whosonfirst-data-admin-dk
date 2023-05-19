@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_430",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faaborg-Midtfyn",
+    "eurostat:nuts_2021_id":"430",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK03",
+    "eurostat:nuts_2021_level_3":"DK031",
+    "eurostat:nuts_2021_level_lau":"430",
+    "eurostat:population":51556,
+    "eurostat:population_year":2020,
     "geom:area":0.089986,
-    "geom:area_square_m":635089469.048449,
+    "geom:area_square_m":635089469.048468,
     "geom:bbox":"10.0597465015,55.0038506648,10.6615225747,55.3427035115",
     "geom:latitude":55.196058,
     "geom:longitude":10.367668,
@@ -49,6 +61,8 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
@@ -56,8 +70,12 @@
         85682575
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_430",
+        "eurostat:nuts_2021_id":"430"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"b3f6640a119aa3890897999c307d9480",
+    "wof:geomhash":"04e402626f38a84d62ff85dbc4d3608b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,11 +92,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721934,
+    "wof:lastmodified":1684352136,
     "wof:name":"Faaborg-Midtfyn",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":51556,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_183",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ish\u00f8j",
+    "eurostat:nuts_2021_id":"183",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK012",
+    "eurostat:nuts_2021_level_lau":"183",
+    "eurostat:population":22989,
+    "eurostat:population_year":2020,
     "geom:area":0.003777,
-    "geom:area_square_m":26374104.71012,
+    "geom:area_square_m":26374104.710117,
     "geom:bbox":"12.2093789126,55.5940379063,12.4009949923,55.6375813393",
     "geom:latitude":55.621166,
     "geom:longitude":12.309551,
@@ -49,14 +61,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_183",
+        "eurostat:nuts_2021_id":"183"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"de5f7f2c5685fc570d828a6c41f494d1",
+    "wof:geomhash":"16d4473f9b06fb201048315ef3bdbe6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,11 +90,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721842,
+    "wof:lastmodified":1684352155,
     "wof:name":"Ishoj",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":22989,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

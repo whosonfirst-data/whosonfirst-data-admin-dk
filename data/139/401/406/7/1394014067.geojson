@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_350",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lejre",
+    "eurostat:nuts_2021_id":"350",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK02",
+    "eurostat:nuts_2021_level_3":"DK021",
+    "eurostat:nuts_2021_level_lau":"350",
+    "eurostat:population":27996,
+    "eurostat:population_year":2020,
     "geom:area":0.034242,
-    "geom:area_square_m":238995667.494813,
+    "geom:area_square_m":238995667.494852,
     "geom:bbox":"11.7787496091,55.5266543852,12.0744437419,55.7455052065",
     "geom:latitude":55.635071,
     "geom:longitude":11.917396,
@@ -91,14 +103,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_350",
+        "eurostat:nuts_2021_id":"350"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"ca581966fe7a1f06be317c8c975d1c4a",
+    "wof:geomhash":"8cfafc66bc191108b21ca11ac19492a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,11 +132,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721867,
+    "wof:lastmodified":1684352139,
     "wof:name":"Lejre",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":27996,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

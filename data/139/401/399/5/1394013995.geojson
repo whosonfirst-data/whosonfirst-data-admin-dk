@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_400",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bornholm",
+    "eurostat:nuts_2021_id":"400",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK014",
+    "eurostat:nuts_2021_level_lau":"400",
+    "eurostat:population":39499,
+    "eurostat:population_year":2020,
     "geom:area":0.082734,
-    "geom:area_square_m":584959329.080232,
+    "geom:area_square_m":584959375.348675,
     "geom:bbox":"14.680701,54.987018,15.157377,55.299239",
     "geom:latitude":55.124258,
     "geom:longitude":14.910325,
@@ -247,14 +259,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_400",
+        "eurostat:nuts_2021_id":"400"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"55e43dd9415c33a51d6445a38e45848f",
+    "wof:geomhash":"e31d7540cd0636b3da7567bc72fa8620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,11 +288,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1636497510,
+    "wof:lastmodified":1684352112,
     "wof:name":"Bornholm",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":39499,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

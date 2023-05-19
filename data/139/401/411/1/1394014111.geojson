@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_270",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gribskov",
+    "eurostat:nuts_2021_id":"270",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK01",
+    "eurostat:nuts_2021_level_3":"DK013",
+    "eurostat:nuts_2021_level_lau":"270",
+    "eurostat:population":41048,
+    "eurostat:population_year":2020,
     "geom:area":0.040283,
-    "geom:area_square_m":278184359.661799,
+    "geom:area_square_m":278184359.661812,
     "geom:bbox":"12.0087232201,55.9684927251,12.4170451539,56.1298470205",
     "geom:latitude":56.04948,
     "geom:longitude":12.232998,
@@ -64,14 +76,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_270",
+        "eurostat:nuts_2021_id":"270"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"434f87c0bf98368adad13ea6295634f6",
+    "wof:geomhash":"8132e83909dc433592aca7b04e8289ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,11 +105,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721921,
+    "wof:lastmodified":1684352151,
     "wof:name":"Gribskov",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":41048,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[

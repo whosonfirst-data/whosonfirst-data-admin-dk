@@ -14,8 +14,20 @@
     "dk-geodk:timeof_pub":"2018/01/22",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"DK",
+    "eurostat:gisco_id":"DK_751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aarhus",
+    "eurostat:nuts_2021_id":"751",
+    "eurostat:nuts_2021_level_0":"DK",
+    "eurostat:nuts_2021_level_1":"DK0",
+    "eurostat:nuts_2021_level_2":"DK04",
+    "eurostat:nuts_2021_level_3":"DK042",
+    "eurostat:nuts_2021_level_lau":"751",
+    "eurostat:population":349983,
+    "eurostat:population_year":2020,
     "geom:area":0.068153,
-    "geom:area_square_m":469254244.064052,
+    "geom:area_square_m":469254244.064077,
     "geom:bbox":"9.94856446257,55.9957246347,10.3891541217,56.3304745652",
     "geom:latitude":56.162921,
     "geom:longitude":10.156691,
@@ -307,14 +319,20 @@
     ],
     "src:geom":"dk-geodk",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633121,
         85682597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"DK_751",
+        "eurostat:nuts_2021_id":"751"
+    },
     "wof:country":"DK",
-    "wof:geomhash":"a4dad40969b72ddd629d7a56113eaaea",
+    "wof:geomhash":"6782daa01484de782fb3b1663ad74fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -330,11 +348,13 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1566721831,
+    "wof:lastmodified":1684352100,
     "wof:name":"Aarhus",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",
     "wof:placetype_local":"kommune",
+    "wof:population":349983,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
     "wof:supersedes":[
