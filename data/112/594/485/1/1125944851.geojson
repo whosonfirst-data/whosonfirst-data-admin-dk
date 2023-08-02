@@ -52,6 +52,12 @@
     "name:nob_x_preferred":[
         "Nymindegab"
     ],
+    "name:pol_x_preferred":[
+        "Nymindegab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044e\u043c\u0438\u043d\u043d\u0435\u0433\u0430\u0431"
+    ],
     "name:swe_x_preferred":[
         "Nymindegab"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125944851,
-    "wof:lastmodified":1566722030,
+    "wof:lastmodified":1690874776,
     "wof:name":"Nymindegab",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

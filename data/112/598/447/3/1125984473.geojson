@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Aulum"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0432\u043b\u0443\u043c"
     ],
@@ -56,6 +59,9 @@
         "Aulum"
     ],
     "name:nob_x_preferred":[
+        "Aulum"
+    ],
+    "name:pol_x_preferred":[
         "Aulum"
     ],
     "name:spa_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1125984473,
-    "wof:lastmodified":1566722095,
+    "wof:lastmodified":1690874807,
     "wof:name":"Alrum",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

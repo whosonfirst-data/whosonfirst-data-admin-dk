@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Vejers"
+    ],
     "name:ceb_x_preferred":[
         "Vejers"
     ],
@@ -38,6 +41,9 @@
         "\u0648\u062c\u0631\u0633"
     ],
     "name:nld_x_preferred":[
+        "Vejers"
+    ],
+    "name:nob_x_preferred":[
         "Vejers"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125818621,
-    "wof:lastmodified":1566722063,
+    "wof:lastmodified":1690874792,
     "wof:name":"Vejers",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5520258317,55.6504534729,12.5520258317,55.6504534729",
+    "geom:bbox":"12.552026,55.650453,12.552026,55.650453",
     "geom:latitude":55.650453,
     "geom:longitude":12.552026,
     "iso:country":"DK",
@@ -47,6 +47,9 @@
     "name:swe_x_preferred":[
         "Teglholmen"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u7247\u534a\u5c9b"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":356,
     "wof:belongsto":[
@@ -63,7 +66,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"ba6fc3abe64f7800bdbad1cd651d113f",
+    "wof:geomhash":"405e60244224ae7ef5f5f62adafd676c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":420784591,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874774,
     "wof:name":"Teglholmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -85,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.55202583167557,
-    55.650453472908,
-    12.55202583167557,
-    55.650453472908
+    12.552026,
+    55.650453,
+    12.552026,
+    55.650453
 ],
-  "geometry": {"coordinates":[12.55202583167557,55.650453472908],"type":"Point"}
+  "geometry": {"coordinates":[12.552026,55.650453],"type":"Point"}
 }

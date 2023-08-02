@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":50080.097221,
-    "geom:bbox":"12.5903320312,55.6810687318,12.5938763731,55.6837832721",
+    "geom:bbox":"12.590332,55.681069,12.593876,55.683783",
     "geom:latitude":55.68261,
     "geom:longitude":12.591847,
     "iso:country":"DK",
@@ -25,19 +25,166 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:arg_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ast_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:bar_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:bos_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:bre_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:cat_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ces_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:cor_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:cos_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:cym_x_preferred":[
+        "Frederiksgade"
+    ],
     "name:dan_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:deu_x_preferred":[
         "Frederiksgade"
     ],
     "name:eng_x_preferred":[
         "Frederiksgade"
     ],
+    "name:epo_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:est_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:eus_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:fao_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:fin_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:fra_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:gla_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:gle_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:glg_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:glv_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:hrv_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:hun_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ind_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:isl_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ita_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:lav_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:lit_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ltz_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:mlt_x_preferred":[
+        "Frederiksgade"
+    ],
     "name:nld_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:nno_x_preferred":[
         "Frederiksgade"
     ],
     "name:nob_x_preferred":[
         "Frederiksgade"
     ],
     "name:nor_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:nrm_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:oci_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:pms_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:pol_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:por_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:roh_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:ron_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:slk_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:slv_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:spa_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:sqi_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:swe_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:tah_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:tur_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:wln_x_preferred":[
+        "Frederiksgade"
+    ],
+    "name:zho_x_preferred":[
+        "\u8153\u7279\u70c8\u8857"
+    ],
+    "name:zul_x_preferred":[
         "Frederiksgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -82,7 +229,7 @@
         "wd:id":"Q5499333"
     },
     "wof:country":"DK",
-    "wof:geomhash":"364b6b542434adee0cd4a98742b77939",
+    "wof:geomhash":"504137850c2beab3edb9025e14159edd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +241,7 @@
         }
     ],
     "wof:id":85905915,
-    "wof:lastmodified":1566721563,
+    "wof:lastmodified":1690874663,
     "wof:name":"Frederiksgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -104,10 +251,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.59033203120003,
-    55.68106873177497,
-    12.5938763730897,
-    55.68378327212987
+    12.590332,
+    55.681069,
+    12.593876,
+    55.683783
 ],
-  "geometry": {"coordinates":[[[12.59101867677526,55.68378327212987],[12.59102665835155,55.68377855290005],[12.59170532230007,55.68377855290005],[12.59193154145981,55.68377855066895],[12.59273928445754,55.68377855159854],[12.59307861330001,55.68377855241512],[12.59342193601577,55.68377855274393],[12.59342193601577,55.68358500065951],[12.59376525878554,55.68358500066883],[12.59387437660558,55.68339144779999],[12.5938763730897,55.68338790644212],[12.59376525880003,55.68319081382062],[12.59376525880009,55.68300433820637],[12.59307861330001,55.68300433728497],[12.59307861330001,55.68223010940007],[12.59307861330001,55.68202947850027],[12.59307861330001,55.68184298845846],[12.59307861330001,55.68145586470006],[12.59307861330001,55.68106873177497],[12.5930547221339,55.68106873177497],[12.59239992990155,55.68145586470006],[12.5923919678001,55.68145586470006],[12.5923840056987,55.68145586470006],[12.59172921346635,55.68106873177497],[12.59170532230013,55.68106873177497],[12.59169337669744,55.68107579434097],[12.5914790968298,55.68145586309602],[12.59055825794155,55.68145586245431],[12.59033203120003,55.68145586470006],[12.59033203121476,55.68185712105959],[12.59033203121407,55.68223010727537],[12.59033203121407,55.68300433667515],[12.5903320312168,55.68337728244161],[12.59033203120003,55.68377855290005],[12.59101069519784,55.68377855290005],[12.59101867677526,55.68378327212987]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.591019,55.683783],[12.591027,55.683779],[12.591705,55.683779],[12.591932,55.683779],[12.592739,55.683779],[12.593079,55.683779],[12.593422,55.683779],[12.593422,55.683585],[12.593765,55.683585],[12.593874,55.683391],[12.593876,55.683388],[12.593765,55.683191],[12.593765,55.683004],[12.593079,55.683004],[12.593079,55.68223],[12.593079,55.682029],[12.593079,55.681843],[12.593079,55.681456],[12.593079,55.681069],[12.593055,55.681069],[12.5924,55.681456],[12.592392,55.681456],[12.592384,55.681456],[12.591729,55.681069],[12.591705,55.681069],[12.591693,55.681076],[12.591479,55.681456],[12.590558,55.681456],[12.590332,55.681456],[12.590332,55.681857],[12.590332,55.68223],[12.590332,55.683004],[12.590332,55.683377],[12.590332,55.683779],[12.591011,55.683779],[12.591019,55.683783]]],"type":"Polygon"}
 }

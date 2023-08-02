@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Vejgaard"
     ],
+    "name:nob_x_preferred":[
+        "Vejgaard"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125902141,
-    "wof:lastmodified":1566722081,
+    "wof:lastmodified":1690874802,
     "wof:name":"Vejg\u00e5rd",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

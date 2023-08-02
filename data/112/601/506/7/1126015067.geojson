@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Jystrup"
+    ],
     "name:dan_x_preferred":[
         "Jystrup"
     ],
@@ -35,6 +38,9 @@
         "Jystrup"
     ],
     "name:nld_x_preferred":[
+        "Jystrup"
+    ],
+    "name:pol_x_preferred":[
         "Jystrup"
     ],
     "name:spa_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126015067,
-    "wof:lastmodified":1566722102,
+    "wof:lastmodified":1690874812,
     "wof:name":"Jystrup",
     "wof:parent_id":1394014123,
     "wof:placetype":"locality",

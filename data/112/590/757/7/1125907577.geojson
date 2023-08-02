@@ -31,6 +31,12 @@
     "name:nld_x_preferred":[
         "Borre"
     ],
+    "name:nob_x_preferred":[
+        "Borre"
+    ],
+    "name:pol_x_preferred":[
+        "Borre"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125907577,
-    "wof:lastmodified":1566722080,
+    "wof:lastmodified":1690874801,
     "wof:name":"Borre",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

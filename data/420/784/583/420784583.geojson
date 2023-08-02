@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.4767236698,55.6444477978,12.4767236698,55.6444477978",
+    "geom:bbox":"12.476724,55.644448,12.476724,55.644448",
     "geom:latitude":55.644448,
     "geom:longitude":12.476724,
     "iso:country":"DK",
@@ -26,7 +26,13 @@
     "name:bul_x_preferred":[
         "\u0425\u0432\u0438\u0434\u043e\u0432\u0440\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Hvidovre"
+    ],
     "name:ceb_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:ces_x_preferred":[
         "Hvidovre"
     ],
     "name:dan_x_preferred":[
@@ -44,6 +50,9 @@
     "name:fao_x_preferred":[
         "Hvidovre"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062f\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Hvidovre"
     ],
@@ -51,6 +60,9 @@
         "Hvidovre"
     ],
     "name:frr_x_preferred":[
+        "Hvidovre"
+    ],
+    "name:ita_x_preferred":[
         "Hvidovre"
     ],
     "name:jpn_x_preferred":[
@@ -83,11 +95,20 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0434\u043e\u0432\u0440\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Hvidovre"
+    ],
     "name:swe_x_preferred":[
         "Hvidovre"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0434\u043e\u0432\u0440\u0435"
+    ],
     "name:zho_x_preferred":[
         "\u54c8\u7dad\u5fb7\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u7ef4\u5179\u5965\u52d2"
     ],
     "src:geom":"unknown",
     "wd:wordcount":440,
@@ -104,7 +125,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"b0c46c2f96f9efd42a3f65556255165e",
+    "wof:geomhash":"c94312050b18d0c82ab38912c95373fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":420784583,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874776,
     "wof:name":"Hvidovre",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -126,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.47672366976381,
-    55.6444477978385,
-    12.47672366976381,
-    55.6444477978385
+    12.476724,
+    55.644448,
+    12.476724,
+    55.644448
 ],
-  "geometry": {"coordinates":[12.47672366976381,55.6444477978385],"type":"Point"}
+  "geometry": {"coordinates":[12.476724,55.644448],"type":"Point"}
 }

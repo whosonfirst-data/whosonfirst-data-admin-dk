@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":6154.530661,
-    "geom:bbox":"12.5765991211,55.6750607426,12.5779724121,55.6761861827",
+    "geom:bbox":"12.576599,55.675061,12.577972,55.676186",
     "geom:latitude":55.675558,
-    "geom:longitude":12.577368,
+    "geom:longitude":12.577367,
     "iso:country":"DK",
     "lbl:latitude":55.675565,
     "lbl:longitude":12.577652,
@@ -25,13 +25,106 @@
     "mz:min_zoom":19.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bre_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:cat_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:ces_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:cos_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:cym_x_preferred":[
+        "Magstr\u00e6de"
+    ],
     "name:dan_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:deu_x_preferred":[
         "Magstr\u00e6de"
     ],
     "name:eng_x_preferred":[
         "Magstr\u00e6de"
     ],
+    "name:est_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:fin_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:fra_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:gle_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:glg_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:hrv_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:hun_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:ind_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:ita_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30b9\u30c8\u30ec\u30fc\u30bc"
+    ],
+    "name:lav_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:lit_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:ltz_x_preferred":[
+        "Magstr\u00e6de"
+    ],
     "name:nld_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:nob_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:nrm_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:oci_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:pol_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:por_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:ron_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:slk_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:slv_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:spa_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:swe_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:tah_x_preferred":[
+        "Magstr\u00e6de"
+    ],
+    "name:tur_x_preferred":[
         "Magstr\u00e6de"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -76,7 +169,7 @@
         "wd:id":"Q12325741"
     },
     "wof:country":"DK",
-    "wof:geomhash":"22e23b39f88ab959cea93fe5ddb2fe7c",
+    "wof:geomhash":"c67f3a7aa1db9ec26d522c1818733abe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +181,7 @@
         }
     ],
     "wof:id":85906041,
-    "wof:lastmodified":1566721570,
+    "wof:lastmodified":1690874670,
     "wof:name":"Magstr\u00e6de",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -98,10 +191,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.57659912108818,
-    55.67506074262799,
-    12.57797241211665,
-    55.67618618274962
+    12.576599,
+    55.675061,
+    12.577972,
+    55.676186
 ],
-  "geometry": {"coordinates":[[[12.57737060702544,55.67618618274962],[12.57762512733996,55.67603572240002],[12.57762908940009,55.67603572240002],[12.57762908938548,55.6760333802324],[12.57762908938452,55.67584213184391],[12.57797241211387,55.67584213186122],[12.57797241211665,55.67564854045021],[12.57797241211665,55.67545494813338],[12.57797241210812,55.67526135500005],[12.57797241210847,55.67506074262799],[12.57763304574405,55.67526135500005],[12.57762908940009,55.67526135500005],[12.57762513300582,55.67526135500005],[12.57737060792908,55.67511089556542],[12.57728576657286,55.67526135494727],[12.57694640259041,55.67526135500005],[12.57694244382509,55.67525901481191],[12.57693848506085,55.67526135500005],[12.5765991211,55.67526135500005],[12.57659912108818,55.67545494710016],[12.5765991211,55.67564854060005],[12.57693848585018,55.67564854060005],[12.57694244380752,55.67565088032545],[12.576942443814,55.67584213186122],[12.57728576660008,55.67584213184391],[12.57728576660003,55.67603572230293],[12.57737060702544,55.67618618274962]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.577371,55.676186],[12.577625,55.676036],[12.577629,55.676036],[12.577629,55.676033],[12.577629,55.675842],[12.577972,55.675842],[12.577972,55.675649],[12.577972,55.675455],[12.577972,55.675261],[12.577972,55.675061],[12.577633,55.675261],[12.577629,55.675261],[12.577625,55.675261],[12.577371,55.675111],[12.577286,55.675261],[12.576946,55.675261],[12.576942,55.675259],[12.576938,55.675261],[12.576599,55.675261],[12.576599,55.675455],[12.576599,55.675649],[12.576938,55.675649],[12.576942,55.675651],[12.576942,55.675842],[12.577286,55.675842],[12.577286,55.676036],[12.577371,55.676186]]],"type":"Polygon"}
 }

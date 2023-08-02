@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kastrup"
+    ],
     "name:ces_x_preferred":[
         "Kastrup"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Kastrup"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0633\u062a\u0631\u0648\u067e"
     ],
     "name:fra_x_preferred":[
         "Kastrup"
@@ -66,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Kastrup"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u4ec0\u695a\u666e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125922965,
-    "wof:lastmodified":1566722043,
+    "wof:lastmodified":1690874783,
     "wof:name":"Kastrup",
     "wof:parent_id":1394013997,
     "wof:placetype":"locality",

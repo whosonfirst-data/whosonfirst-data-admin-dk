@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.3569505,55.660029,12.3569505,55.660029",
+    "geom:bbox":"12.35695,55.660029,12.35695,55.660029",
     "geom:latitude":55.660029,
     "geom:longitude":12.35695,
     "gn:country":null,
@@ -22,6 +22,9 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Albertslund"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0441\u043b\u0443\u043d"
     ],
     "name:ceb_x_preferred":[
         "Albertslund"
@@ -47,6 +50,9 @@
     "name:hun_x_preferred":[
         "Albertslund"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d0\u30fc\u30c4\u30eb\u30f3\u30c9"
+    ],
     "name:kal_x_preferred":[
         "Albertslund"
     ],
@@ -68,6 +74,9 @@
     "name:pol_x_preferred":[
         "Albertslund"
     ],
+    "name:ron_x_preferred":[
+        "Albertslund"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0441\u043b\u0443\u043d\u043d"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Albertslund"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u8c9d\u7279\u65af\u9686"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -114,7 +126,7 @@
     },
     "wof:country":"DK",
     "wof:created":1497290447,
-    "wof:geomhash":"be0a956f087b71c86839836b6e1a1b05",
+    "wof:geomhash":"1bb728816db11f3e7da1de225f186f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125780425,
-    "wof:lastmodified":1566722113,
+    "wof:lastmodified":1690874818,
     "wof:name":"Albertslund",
     "wof:parent_id":1159297733,
     "wof:placetype":"locality",
@@ -135,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.3569505,
+    12.35695,
     55.660029,
-    12.3569505,
+    12.35695,
     55.660029
 ],
-  "geometry": {"coordinates":[12.3569505,55.660029],"type":"Point"}
+  "geometry": {"coordinates":[12.35695,55.660029],"type":"Point"}
 }

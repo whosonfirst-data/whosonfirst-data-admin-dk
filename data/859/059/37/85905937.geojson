@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":35300.79899,
-    "geom:bbox":"12.566986084,55.6740974379,12.5712190791,55.6758421319",
+    "geom:bbox":"12.566986,55.674097,12.571219,55.675842",
     "geom:latitude":55.674908,
     "geom:longitude":12.569217,
     "iso:country":"DK",
@@ -25,6 +25,39 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:arg_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:ast_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:bar_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:bos_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:bre_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:cat_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:ces_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:cor_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:cos_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:cym_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
     "name:dan_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
@@ -37,7 +70,19 @@
     "name:eng_x_variant":[
         "H.C.Andersens Boulevard"
     ],
+    "name:epo_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:est_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:eus_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
     "name:fao_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:fin_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
     "name:fra_x_preferred":[
@@ -46,10 +91,46 @@
     "name:fra_x_variant":[
         "boulevard H.C. Andersens"
     ],
+    "name:gla_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:gle_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:glg_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:glv_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:hrv_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:hun_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:ind_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
     "name:isl_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
+    "name:ita_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
     "name:kal_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:lav_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:lit_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:ltz_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:mlt_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
     "name:nld_x_preferred":[
@@ -64,13 +145,58 @@
     "name:nor_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
+    "name:nrm_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:oci_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:pms_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:pol_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:por_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:roh_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:ron_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:slk_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:slv_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
     "name:spa_x_preferred":[
         "Bulevar H. C. Andersens"
+    ],
+    "name:sqi_x_preferred":[
+        "Bulevardi H. C. Andersen"
     ],
     "name:swa_x_preferred":[
         "H. C. Andersens Boulevard"
     ],
     "name:swe_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:tah_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:tur_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:wln_x_preferred":[
+        "H.C. Andersens Boulevard"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5f92\u751f\u5927\u8857"
+    ],
+    "name:zul_x_preferred":[
         "H.C. Andersens Boulevard"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -115,7 +241,7 @@
         "wd:id":"Q2136395"
     },
     "wof:country":"DK",
-    "wof:geomhash":"63c355854bfcc3a199b5e6db5c03f306",
+    "wof:geomhash":"3e4661029e77a9eecd64abadf14853a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +253,7 @@
         }
     ],
     "wof:id":85905937,
-    "wof:lastmodified":1566721562,
+    "wof:lastmodified":1690874663,
     "wof:name":"H.C.Andersens Boulevard",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -137,10 +263,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.56698608400006,
-    55.67409743794822,
-    12.57121907914609,
-    55.67584213186122
+    12.566986,
+    55.674097,
+    12.571219,
+    55.675842
 ],
-  "geometry": {"coordinates":[[[12.56904602051407,55.67584213186122],[12.56938934328338,55.67584213183342],[12.56973266601665,55.67584213183342],[12.57007598878454,55.67584213184391],[12.57007598878454,55.67564854045956],[12.57041931151275,55.67564854048761],[12.57041931151582,55.67545494814395],[12.57076263428445,55.67545494814395],[12.57076263428445,55.6752613548597],[12.57110595700004,55.67526135462903],[12.57121907867378,55.67526135441277],[12.57118269059703,55.67506776055005],[12.57121907914609,55.67487416495023],[12.57110595700016,55.67467355422595],[12.57110595700016,55.67448697170637],[12.57041931150013,55.67448697170637],[12.57041931150013,55.67430038407055],[12.57041931150013,55.67409977520005],[12.57007994268992,55.67409977520005],[12.57007598878346,55.67409743794822],[12.57007203485961,55.67409977520005],[12.56973266600011,55.67409977520005],[12.56939329719052,55.67409977520005],[12.56938934327519,55.67409743794822],[12.56938538935935,55.67409977520005],[12.56904602050002,55.67409977520005],[12.56870665168964,55.67409977520005],[12.568702697775,55.67409743794822],[12.56869874385916,55.67409977520005],[12.568359375,55.67409977520005],[12.568359375,55.67429337302509],[12.56835344476013,55.67429687853787],[12.5682462517965,55.6744869723001],[12.56778585261929,55.6744869723001],[12.56767272950009,55.6744869723001],[12.56698608400006,55.6744869723001],[12.56698608400006,55.67526135463073],[12.56766481924433,55.67526135500005],[12.56767272950015,55.67526603104155],[12.56768063975608,55.67526135500005],[12.56824625360082,55.67526135500005],[12.56828264124891,55.67545494805016],[12.568359375,55.67545494812005],[12.56870269778443,55.67545494814395],[12.56870269778443,55.67564854045956],[12.56904602051571,55.67564854045956],[12.56904602051407,55.67584213186122]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.569046,55.675842],[12.569389,55.675842],[12.569733,55.675842],[12.570076,55.675842],[12.570076,55.675649],[12.570419,55.675649],[12.570419,55.675455],[12.570763,55.675455],[12.570763,55.675261],[12.571106,55.675261],[12.571219,55.675261],[12.571183,55.675068],[12.571219,55.674874],[12.571106,55.674674],[12.571106,55.674487],[12.570419,55.674487],[12.570419,55.6743],[12.570419,55.6741],[12.57008,55.6741],[12.570076,55.674097],[12.570072,55.6741],[12.569733,55.6741],[12.569393,55.6741],[12.569389,55.674097],[12.569385,55.6741],[12.569046,55.6741],[12.568707,55.6741],[12.568703,55.674097],[12.568699,55.6741],[12.568359,55.6741],[12.568359,55.674293],[12.568353,55.674297],[12.568246,55.674487],[12.567786,55.674487],[12.567673,55.674487],[12.566986,55.674487],[12.566986,55.675261],[12.567665,55.675261],[12.567673,55.675266],[12.567681,55.675261],[12.568246,55.675261],[12.568283,55.675455],[12.568359,55.675455],[12.568703,55.675455],[12.568703,55.675649],[12.569046,55.675649],[12.569046,55.675842]]],"type":"Polygon"}
 }

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Fl\u00f8ng"
+    ],
     "name:ceb_x_preferred":[
         "Fl\u00f8ng"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125933803,
-    "wof:lastmodified":1566722040,
+    "wof:lastmodified":1690874780,
     "wof:name":"Fl\u00f8ng",
     "wof:parent_id":1394014125,
     "wof:placetype":"locality",

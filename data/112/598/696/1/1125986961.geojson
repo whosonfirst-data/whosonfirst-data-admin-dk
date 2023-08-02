@@ -23,7 +23,13 @@
     "name:ast_x_preferred":[
         "R\u00f8dovre"
     ],
+    "name:aze_x_preferred":[
+        "Ryodovre"
+    ],
     "name:bar_x_preferred":[
+        "R\u00f8dovre"
+    ],
+    "name:cat_x_preferred":[
         "R\u00f8dovre"
     ],
     "name:ceb_x_preferred":[
@@ -41,6 +47,9 @@
     "name:deu_x_preferred":[
         "R\u00f8dovre"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03bd\u03c4\u03cc\u03b2\u03c1\u03b5"
+    ],
     "name:eng_x_preferred":[
         "R\u00f8dovre"
     ],
@@ -56,10 +65,16 @@
     "name:frr_x_preferred":[
         "R\u00f8dovre"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d3\u05d5\u05d1\u05e8\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0575\u0578\u0564\u0578\u0580\u057e\u0565"
     ],
     "name:isl_x_preferred":[
+        "R\u00f8dovre"
+    ],
+    "name:ita_x_preferred":[
         "R\u00f8dovre"
     ],
     "name:jpn_x_preferred":[
@@ -77,6 +92,9 @@
     "name:ltz_x_preferred":[
         "R\u00f8dovre"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0451\u0434\u043e\u0432\u0440\u044d"
+    ],
     "name:msa_x_preferred":[
         "R\u00f8dovre"
     ],
@@ -92,6 +110,9 @@
     "name:pol_x_preferred":[
         "R\u00f8dovre"
     ],
+    "name:ron_x_preferred":[
+        "R\u00f8dovre"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0451\u0434\u043e\u0432\u0440\u0435"
     ],
@@ -103,6 +124,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0434\u043e\u0432\u0440\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u85fb\u52d2"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -152,7 +176,7 @@
         }
     ],
     "wof:id":1125986961,
-    "wof:lastmodified":1566722098,
+    "wof:lastmodified":1690874809,
     "wof:name":"R\u00f8dovre",
     "wof:parent_id":1394014127,
     "wof:placetype":"locality",

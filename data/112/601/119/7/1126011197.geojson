@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Klintholm Havn"
     ],
+    "name:swe_x_preferred":[
+        "Klintholm Havn"
+    ],
     "name:zho_x_preferred":[
         "\u57fa\u6797\u7d22\u59c6\u6e2f"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126011197,
-    "wof:lastmodified":1566722102,
+    "wof:lastmodified":1690874812,
     "wof:name":"Klintholm Havn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

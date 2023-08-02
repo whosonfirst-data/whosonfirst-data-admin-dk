@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":16993.006739,
-    "geom:bbox":"12.5875854492,55.6830043367,12.5903320312,55.6845574748",
+    "geom:bbox":"12.587585,55.683004,12.590332,55.684557",
     "geom:latitude":55.683797,
     "geom:longitude":12.588995,
     "iso:country":"DK",
@@ -25,10 +25,64 @@
     "mz:min_zoom":18.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bre_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:cat_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:ces_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:cos_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:cym_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
     "name:dan_x_preferred":[
         "Dronningens Tv\u00e6rgade"
     ],
+    "name:deu_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
     "name:eng_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:est_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:fin_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:fra_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:gle_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:glg_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:hrv_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:hun_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:ind_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:ita_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:lav_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:lit_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:ltz_x_preferred":[
         "Dronningens Tv\u00e6rgade"
     ],
     "name:nld_x_preferred":[
@@ -38,6 +92,39 @@
         "Dronningens Tv\u00e6rgade"
     ],
     "name:nor_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:nrm_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:oci_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:pol_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:por_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:ron_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:slk_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:slv_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:spa_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:swe_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:tah_x_preferred":[
+        "Dronningens Tv\u00e6rgade"
+    ],
+    "name:tur_x_preferred":[
         "Dronningens Tv\u00e6rgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -82,7 +169,7 @@
         "wd:id":"Q5308343"
     },
     "wof:country":"DK",
-    "wof:geomhash":"c6808549e2dfa5f4a46e4cca04c7c9b5",
+    "wof:geomhash":"0eeedb16f4a7e613d5ee08a0ef8bec7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +181,7 @@
         }
     ],
     "wof:id":85905883,
-    "wof:lastmodified":1566721567,
+    "wof:lastmodified":1690874666,
     "wof:name":"Dronningens Tv\u00e6rgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -104,10 +191,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.58758544920005,
-    55.68300433667515,
-    12.5903320312168,
-    55.68455747482516
+    12.587585,
+    55.683004,
+    12.590332,
+    55.684557
 ],
-  "geometry": {"coordinates":[[[12.58827209470013,55.68455747482516],[12.58828008270774,55.68455275170005],[12.5889587402001,55.68455275170005],[12.5889587402001,55.68416565361953],[12.58964538570012,55.68416565360631],[12.58964538570012,55.68378327211478],[12.58965336725197,55.68377855290005],[12.59033203120003,55.68377855290005],[12.5903320312168,55.68337728244161],[12.59033203121407,55.68300433667515],[12.5889587402001,55.68300433667515],[12.5889587402001,55.68337728245608],[12.58873252122009,55.68377855130639],[12.58781166944038,55.68377855066895],[12.58758544920005,55.68377855290005],[12.58758544920005,55.68416564942528],[12.58758544920005,55.68455275170005],[12.58826410669286,55.68455275170005],[12.58827209470013,55.68455747482516]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.588272,55.684557],[12.58828,55.684553],[12.588959,55.684553],[12.588959,55.684166],[12.589645,55.684166],[12.589645,55.683783],[12.589653,55.683779],[12.590332,55.683779],[12.590332,55.683377],[12.590332,55.683004],[12.588959,55.683004],[12.588959,55.683377],[12.588733,55.683779],[12.587812,55.683779],[12.587585,55.683779],[12.587585,55.684166],[12.587585,55.684553],[12.588264,55.684553],[12.588272,55.684557]]],"type":"Polygon"}
 }

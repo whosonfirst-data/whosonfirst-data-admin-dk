@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Herf\u00f8lge"
+    ],
     "name:dan_x_preferred":[
         "Herf\u00f8lge"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:und_x_variant":[
         "Herf\u00f6gle"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5f17\u5c14\u5384\u7ad9"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125806789,
-    "wof:lastmodified":1566722072,
+    "wof:lastmodified":1690874798,
     "wof:name":"Herf\u00f8lge",
     "wof:parent_id":1394014027,
     "wof:placetype":"locality",

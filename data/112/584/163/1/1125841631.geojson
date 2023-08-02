@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Klitm\u00f8ller"
+    ],
     "name:ceb_x_preferred":[
         "Klitm\u00f8ller"
     ],
@@ -34,10 +37,16 @@
     "name:eng_x_preferred":[
         "Klitm\u00f8ller"
     ],
+    "name:kor_x_preferred":[
+        "\ud074\ub9ac\ud2b8\ubb04\ub808\ub974"
+    ],
     "name:nld_x_preferred":[
         "Klitm\u00f8ller"
     ],
     "name:nob_x_preferred":[
+        "Klitm\u00f8ller"
+    ],
+    "name:pol_x_preferred":[
         "Klitm\u00f8ller"
     ],
     "name:spa_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125841631,
-    "wof:lastmodified":1566722119,
+    "wof:lastmodified":1690874821,
     "wof:name":"Klitm\u00f8ller",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Snogeb\u00e6k"
+    ],
+    "name:cat_x_preferred":[
+        "Snogeb\u00e6k"
+    ],
     "name:ceb_x_preferred":[
         "Snogeb\u00e6k"
     ],
@@ -41,6 +47,9 @@
         "Snogeb\u00e6k"
     ],
     "name:nob_x_preferred":[
+        "Snogeb\u00e6k"
+    ],
+    "name:pol_x_preferred":[
         "Snogeb\u00e6k"
     ],
     "name:spa_x_preferred":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125946069,
-    "wof:lastmodified":1566722034,
+    "wof:lastmodified":1690874778,
     "wof:name":"Snogeb\u00e6k",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

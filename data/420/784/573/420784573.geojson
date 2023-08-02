@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.6070719409,55.6256498966,12.6070719409,55.6256498966",
+    "geom:bbox":"12.607072,55.62565,12.607072,55.62565",
     "geom:latitude":55.62565,
     "geom:longitude":12.607072,
     "iso:country":"DK",
@@ -23,6 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:ast_x_preferred":[
+        "T\u00e5rnby"
+    ],
+    "name:cat_x_preferred":[
+        "T\u00e5rnby"
+    ],
     "name:ceb_x_preferred":[
         "T\u00e5rnby"
     ],
@@ -62,6 +68,9 @@
     "name:nor_x_preferred":[
         "T\u00e5rnby"
     ],
+    "name:pol_x_preferred":[
+        "T\u00e5rnby"
+    ],
     "name:spa_x_preferred":[
         "T\u00e5rnby"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u00e5rnby"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u6069\u6bd4"
     ],
     "src:geom":"unknown",
     "wd:latitude":55.6278,
@@ -88,7 +100,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"b4accdbf87e76e7706456e1960c1a016",
+    "wof:geomhash":"dd6dfa6948c5a427e41964460d17ca4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":420784573,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874774,
     "wof:name":"T\u00e5rnby",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -110,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.60707194091501,
-    55.62564989657191,
-    12.60707194091501,
-    55.62564989657191
+    12.607072,
+    55.62565,
+    12.607072,
+    55.62565
 ],
-  "geometry": {"coordinates":[12.60707194091501,55.62564989657191],"type":"Point"}
+  "geometry": {"coordinates":[12.607072,55.62565],"type":"Point"}
 }

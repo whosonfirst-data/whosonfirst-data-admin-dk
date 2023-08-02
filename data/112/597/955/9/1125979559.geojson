@@ -37,11 +37,17 @@
     "name:nld_x_preferred":[
         "\u00c5r\u00f8sund"
     ],
+    "name:pol_x_preferred":[
+        "\u00c5r\u00f8sund"
+    ],
     "name:swe_x_preferred":[
         "\u00c5r\u00f8sund"
     ],
     "name:und_x_variant":[
         "Aar\u00f6sund"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u6d1b\u677e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125979559,
-    "wof:lastmodified":1566722082,
+    "wof:lastmodified":1690874803,
     "wof:name":"\u00c5r\u00f8sund",
     "wof:parent_id":1159297747,
     "wof:placetype":"locality",

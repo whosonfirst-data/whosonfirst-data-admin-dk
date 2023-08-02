@@ -26,6 +26,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Bagsv\u00e6rd"
+    ],
     "name:ces_x_preferred":[
         "Bagsv\u00e6rd"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Bagsv\u00e6rd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0433\u0441\u0432\u0435\u0440\u0434"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
@@ -143,7 +149,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1690874676,
     "wof:name":"Bagsv\u00e6rd",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,33 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Hulsig"
+    ],
+    "name:arg_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ast_x_preferred":[
+        "Hulsig"
+    ],
+    "name:bar_x_preferred":[
+        "Hulsig"
+    ],
+    "name:bre_x_preferred":[
+        "Hulsig"
+    ],
+    "name:cat_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ces_x_preferred":[
+        "Hulsig"
+    ],
+    "name:cos_x_preferred":[
+        "Hulsig"
+    ],
+    "name:cym_x_preferred":[
+        "Hulsig"
+    ],
     "name:dan_x_preferred":[
         "Hulsig"
     ],
@@ -31,13 +58,91 @@
     "name:eng_x_preferred":[
         "Hulsig"
     ],
+    "name:epo_x_preferred":[
+        "Hulsig"
+    ],
+    "name:est_x_preferred":[
+        "Hulsig"
+    ],
+    "name:eus_x_preferred":[
+        "Hulsig"
+    ],
     "name:fao_x_preferred":[
+        "Hulsig"
+    ],
+    "name:fin_x_preferred":[
         "Hulsig"
     ],
     "name:fra_x_preferred":[
         "Hulsig"
     ],
+    "name:frp_x_preferred":[
+        "Hulsig"
+    ],
+    "name:fur_x_preferred":[
+        "Hulsig"
+    ],
+    "name:gla_x_preferred":[
+        "Hulsig"
+    ],
+    "name:gle_x_preferred":[
+        "Hulsig"
+    ],
+    "name:glg_x_preferred":[
+        "Hulsig"
+    ],
+    "name:gsw_x_preferred":[
+        "Hulsig"
+    ],
+    "name:hrv_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ido_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ile_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ina_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ind_x_preferred":[
+        "Hulsig"
+    ],
+    "name:isl_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ita_x_preferred":[
+        "Hulsig"
+    ],
     "name:kal_x_preferred":[
+        "Hulsig"
+    ],
+    "name:kon_x_preferred":[
+        "Hulsig"
+    ],
+    "name:lij_x_preferred":[
+        "Hulsig"
+    ],
+    "name:lim_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ltz_x_preferred":[
+        "Hulsig"
+    ],
+    "name:min_x_preferred":[
+        "Hulsig"
+    ],
+    "name:mlg_x_preferred":[
+        "Hulsig"
+    ],
+    "name:msa_x_preferred":[
+        "Hulsig"
+    ],
+    "name:nap_x_preferred":[
+        "Hulsig"
+    ],
+    "name:nds_x_preferred":[
         "Hulsig"
     ],
     "name:nld_x_preferred":[
@@ -49,7 +154,73 @@
     "name:nob_x_preferred":[
         "Hulsig"
     ],
+    "name:nrm_x_preferred":[
+        "Hulsig"
+    ],
+    "name:oci_x_preferred":[
+        "Hulsig"
+    ],
+    "name:pcd_x_preferred":[
+        "Hulsig"
+    ],
+    "name:pms_x_preferred":[
+        "Hulsig"
+    ],
+    "name:pol_x_preferred":[
+        "Hulsig"
+    ],
+    "name:por_x_preferred":[
+        "Hulsig"
+    ],
+    "name:roh_x_preferred":[
+        "Hulsig"
+    ],
+    "name:ron_x_preferred":[
+        "Hulsig"
+    ],
+    "name:scn_x_preferred":[
+        "Hulsig"
+    ],
+    "name:sco_x_preferred":[
+        "Hulsig"
+    ],
+    "name:slk_x_preferred":[
+        "Hulsig"
+    ],
+    "name:slv_x_preferred":[
+        "Hulsig"
+    ],
+    "name:spa_x_preferred":[
+        "Hulsig"
+    ],
+    "name:srd_x_preferred":[
+        "Hulsig"
+    ],
+    "name:swa_x_preferred":[
+        "Hulsig"
+    ],
     "name:swe_x_preferred":[
+        "Hulsig"
+    ],
+    "name:vec_x_preferred":[
+        "Hulsig"
+    ],
+    "name:vie_x_preferred":[
+        "Hulsig"
+    ],
+    "name:vls_x_preferred":[
+        "Hulsig"
+    ],
+    "name:vol_x_preferred":[
+        "Hulsig"
+    ],
+    "name:wln_x_preferred":[
+        "Hulsig"
+    ],
+    "name:wol_x_preferred":[
+        "Hulsig"
+    ],
+    "name:zul_x_preferred":[
         "Hulsig"
     ],
     "qs_pg:aaroncc":"DK",
@@ -104,7 +275,7 @@
         }
     ],
     "wof:id":1125981283,
-    "wof:lastmodified":1566722097,
+    "wof:lastmodified":1690874808,
     "wof:name":"Hulsig",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

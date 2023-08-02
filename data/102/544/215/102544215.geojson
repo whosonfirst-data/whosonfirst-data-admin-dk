@@ -38,6 +38,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Vojens/Skrydstrup AB"
     ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Vojens/Skrydstrup"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Vojens"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102544215,
-    "wof:lastmodified":1631747385,
+    "wof:lastmodified":1690874655,
     "wof:name":"Vojens Lufthavn",
     "wof:parent_id":101805505,
     "wof:placetype":"campus",

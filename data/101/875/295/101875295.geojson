@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Liseleje"
+    ],
     "name:ceb_x_preferred":[
         "Liseleje"
     ],
@@ -33,13 +36,22 @@
     "name:eng_x_preferred":[
         "Liseleje"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0632\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
+        "Liseleje"
+    ],
+    "name:ita_x_preferred":[
         "Liseleje"
     ],
     "name:nld_x_preferred":[
         "Liseleje"
     ],
     "name:nob_x_preferred":[
+        "Liseleje"
+    ],
+    "name:pol_x_preferred":[
         "Liseleje"
     ],
     "name:spa_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":101875295,
-    "wof:lastmodified":1582331873,
+    "wof:lastmodified":1690874720,
     "wof:name":"Liseleje",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

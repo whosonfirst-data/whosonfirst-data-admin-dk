@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Aidt"
     ],
+    "name:pol_x_preferred":[
+        "Aidt"
+    ],
     "name:und_x_variant":[
         "Ajt"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125939553,
-    "wof:lastmodified":1566722035,
+    "wof:lastmodified":1690874779,
     "wof:name":"Aidt",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

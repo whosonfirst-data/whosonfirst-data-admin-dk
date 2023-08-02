@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Ravnkilde"
     ],
+    "name:pol_x_preferred":[
+        "Ravnkilde"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125949133,
-    "wof:lastmodified":1566722032,
+    "wof:lastmodified":1690874777,
     "wof:name":"Ravnkilde",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",

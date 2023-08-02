@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "L\u00f8sning"
     ],
+    "name:zho_x_preferred":[
+        "\u52d2\u65af\u5be7"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125804543,
-    "wof:lastmodified":1566722070,
+    "wof:lastmodified":1690874797,
     "wof:name":"L\u00f8sning",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",

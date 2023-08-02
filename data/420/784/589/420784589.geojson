@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5488214844,55.6456748386,12.5488214844,55.6456748386",
+    "geom:bbox":"12.548821,55.645675,12.548821,55.645675",
     "geom:latitude":55.645675,
     "geom:longitude":12.548821,
     "iso:country":"DK",
@@ -44,6 +44,9 @@
     "name:swe_x_variant":[
         "Sluseholmen"
     ],
+    "name:zho_x_preferred":[
+        "\u8239\u95f8\u534a\u5c9b"
+    ],
     "wd:wordcount":500,
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"7ebf9a2beb50f261abcacd3152f2fe04",
+    "wof:geomhash":"b26ab4c271f06f55a8928ed3dca57578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":420784589,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874773,
     "wof:name":"Sluseholmen",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -79,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.54882148436018,
-    55.64567483857404,
-    12.54882148436018,
-    55.64567483857404
+    12.548821,
+    55.645675,
+    12.548821,
+    55.645675
 ],
-  "geometry": {"coordinates":[12.54882148436018,55.64567483857404],"type":"Point"}
+  "geometry": {"coordinates":[12.548821,55.645675],"type":"Point"}
 }

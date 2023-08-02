@@ -74,6 +74,9 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u044c\u0440\u0442\u0430 \u0433\u04c0\u0430\u043b\u0438\u043d \u0440\u0435\u0433\u0438\u043e\u043d"
     ],
+    "name:ckb_x_preferred":[
+        "\u0647\u06d5\u0631\u06ce\u0645\u06cc \u0647\u06c6\u06a4\u062f\u0633\u062a\u0627\u062f\u0646"
+    ],
     "name:cor_x_preferred":[
         "Region Hovedstaden"
     ],
@@ -106,6 +109,9 @@
     "name:est_x_preferred":[
         "Pealinna piirkond"
     ],
+    "name:est_x_variant":[
+        "pealinna piirkond"
+    ],
     "name:eus_x_preferred":[
         "Hovedstaden"
     ],
@@ -117,6 +123,9 @@
     ],
     "name:fin_x_preferred":[
         "P\u00e4\u00e4kaupunkialue"
+    ],
+    "name:fin_x_variant":[
+        "p\u00e4\u00e4kaupunkialue"
     ],
     "name:fra_x_preferred":[
         "Hovedstaden"
@@ -166,6 +175,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u043e\u0431\u043b\u044b\u0441"
     ],
+    "name:kir_x_preferred":[
+        "\u0425\u043e\u0432\u0435\u0434\u0441\u0442\u0430\u0434\u0435\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ub374\ub9c8\ud06c \uc218\ub3c4 \uc9c0\uc5ed"
     ],
@@ -183,6 +195,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u043e\u043b\u0435\u043c \u041a\u043e\u043f\u0435\u043d\u0445\u0430\u0433\u0435\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u043e\u0432\u0435\u0434\u0441\u0442\u0430\u0434\u0435\u043d"
     ],
     "name:msa_x_preferred":[
         "Region Hovedstaden"
@@ -232,6 +247,9 @@
     "name:sme_x_preferred":[
         "Hovedstaden regiuvdna"
     ],
+    "name:sme_x_variant":[
+        "oaiveg\u00e1vpoga guovlu"
+    ],
     "name:spa_x_preferred":[
         "Regi\u00f3n Capital"
     ],
@@ -265,11 +283,17 @@
     "name:urd_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a \u0639\u0644\u0627\u0642\u06c1 \u0688\u0646\u0645\u0627\u0631\u06a9"
     ],
+    "name:vec_x_preferred":[
+        "Hovedstaden"
+    ],
     "name:vie_x_preferred":[
         "V\u00f9ng th\u1ee7 \u0111\u00f4 \u0110an M\u1ea1ch"
     ],
     "name:vls_x_preferred":[
         "Hovedstaden"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9996\u90fd\u5927\u533a"
     ],
     "name:zho_x_preferred":[
         "\u9996\u90fd\u5927\u533a"
@@ -382,7 +406,7 @@
         "wd:id":"Q26073"
     },
     "wof:country":"DK",
-    "wof:geomhash":"57059baa04a3136790601c21bfb7506a",
+    "wof:geomhash":"05939ea846aae306fed867a334ad5da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +423,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1690874675,
     "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

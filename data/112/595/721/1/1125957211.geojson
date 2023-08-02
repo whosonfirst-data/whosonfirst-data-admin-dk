@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Holte"
+    ],
     "name:dan_x_preferred":[
+        "Holte"
+    ],
+    "name:deu_x_preferred":[
         "Holte"
     ],
     "name:ell_x_preferred":[
@@ -49,6 +55,9 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u0442\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u043b\u044c\u0442\u0435"
+    ],
     "name:slv_x_preferred":[
         "Holte"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Ny-Holte"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u723e\u7279"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1125957211,
-    "wof:lastmodified":1566722046,
+    "wof:lastmodified":1690874784,
     "wof:name":"Holte",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

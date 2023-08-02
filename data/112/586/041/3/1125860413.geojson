@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Voers\u00e5"
     ],
+    "name:ast_x_preferred":[
+        "Voers\u00e5"
+    ],
     "name:dan_x_preferred":[
         "Voers\u00e5"
     ],
@@ -35,6 +38,9 @@
         "Voers\u00e5"
     ],
     "name:nld_x_preferred":[
+        "Voers\u00e5"
+    ],
+    "name:pol_x_preferred":[
         "Voers\u00e5"
     ],
     "name:und_x_variant":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125860413,
-    "wof:lastmodified":1566722059,
+    "wof:lastmodified":1690874790,
     "wof:name":"Voers\u00e5",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

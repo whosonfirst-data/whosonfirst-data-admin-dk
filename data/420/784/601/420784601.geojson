@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.49317456,55.7502354077,12.49317456,55.7502354077",
+    "geom:bbox":"12.493175,55.750235,12.493175,55.750235",
     "geom:latitude":55.750235,
     "geom:longitude":12.493175,
     "iso:country":"DK",
@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Buddinge"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6d25\u5384"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -56,7 +59,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"fc8a1f2c21bdad512911b11fcd017eff",
+    "wof:geomhash":"2f46592d367536bcd93721c9e8254a71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":420784601,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874774,
     "wof:name":"Buddinge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -78,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.4931745599991,
-    55.75023540766973,
-    12.4931745599991,
-    55.75023540766973
+    12.493175,
+    55.750235,
+    12.493175,
+    55.750235
 ],
-  "geometry": {"coordinates":[12.4931745599991,55.75023540766973],"type":"Point"}
+  "geometry": {"coordinates":[12.493175,55.750235],"type":"Point"}
 }

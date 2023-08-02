@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "L\u00f8kken-Vr\u00e5"
     ],
+    "name:eng_x_variant":[
+        "L\u00f8kken-Vr\u00e5 Municipality"
+    ],
     "name:fao_x_preferred":[
         "L\u00f8kken-Vr\u00e5 kommuna"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126021055,
-    "wof:lastmodified":1566722047,
+    "wof:lastmodified":1690874785,
     "wof:name":"L\u00f8kken-Vr\u00e5",
     "wof:parent_id":85682593,
     "wof:placetype":"locality",

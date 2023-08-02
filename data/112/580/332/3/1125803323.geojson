@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Klejtrup"
+    ],
     "name:dan_x_preferred":[
         "Klejtrup"
     ],
@@ -35,6 +38,9 @@
         "Klejtrup"
     ],
     "name:nob_x_preferred":[
+        "Klejtrup"
+    ],
+    "name:pol_x_preferred":[
         "Klejtrup"
     ],
     "qs_pg:aaroncc":"DK",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125803323,
-    "wof:lastmodified":1566722071,
+    "wof:lastmodified":1690874798,
     "wof:name":"Klejtrup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

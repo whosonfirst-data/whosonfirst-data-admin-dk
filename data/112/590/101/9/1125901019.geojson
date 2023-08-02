@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Nylars"
     ],
+    "name:szl_x_preferred":[
+        "Nylars"
+    ],
     "name:und_x_variant":[
         "Nylarsker"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125901019,
-    "wof:lastmodified":1566722080,
+    "wof:lastmodified":1690874802,
     "wof:name":"Nylars",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
     "geom:area_square_m":30971.619255,
-    "geom:bbox":"12.5928523701,55.6744869709,12.5960514382,55.6768956822",
+    "geom:bbox":"12.592852,55.674487,12.596051,55.676896",
     "geom:latitude":55.675551,
-    "geom:longitude":12.594404,
+    "geom:longitude":12.594403,
     "iso:country":"DK",
     "lbl:latitude":55.675337,
     "lbl:longitude":12.594607,
@@ -25,6 +25,21 @@
     "mz:min_zoom":19.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bre_x_preferred":[
+        "Havnegade"
+    ],
+    "name:cat_x_preferred":[
+        "Havnegade"
+    ],
+    "name:ces_x_preferred":[
+        "Havnegade"
+    ],
+    "name:cos_x_preferred":[
+        "Havnegade"
+    ],
+    "name:cym_x_preferred":[
+        "Havnegade"
+    ],
     "name:dan_x_preferred":[
         "Havnegade"
     ],
@@ -34,16 +49,49 @@
     "name:eng_x_preferred":[
         "Havnegade"
     ],
+    "name:est_x_preferred":[
+        "Havnegade"
+    ],
     "name:fao_x_preferred":[
+        "Havnegade"
+    ],
+    "name:fin_x_preferred":[
         "Havnegade"
     ],
     "name:fra_x_preferred":[
         "Havnegade"
     ],
+    "name:gle_x_preferred":[
+        "Havnegade"
+    ],
+    "name:glg_x_preferred":[
+        "Havnegade"
+    ],
+    "name:hrv_x_preferred":[
+        "Havnegade"
+    ],
+    "name:hun_x_preferred":[
+        "Havnegade"
+    ],
+    "name:ind_x_preferred":[
+        "Havnegade"
+    ],
     "name:isl_x_preferred":[
         "Havnegade"
     ],
+    "name:ita_x_preferred":[
+        "Havnegade"
+    ],
     "name:kal_x_preferred":[
+        "Havnegade"
+    ],
+    "name:lav_x_preferred":[
+        "Havnegade"
+    ],
+    "name:lit_x_preferred":[
+        "Havnegade"
+    ],
+    "name:ltz_x_preferred":[
         "Havnegade"
     ],
     "name:nld_x_preferred":[
@@ -55,7 +103,37 @@
     "name:nob_x_preferred":[
         "Havnegade"
     ],
+    "name:nrm_x_preferred":[
+        "Havnegade"
+    ],
+    "name:oci_x_preferred":[
+        "Havnegade"
+    ],
+    "name:pol_x_preferred":[
+        "Havnegade"
+    ],
+    "name:por_x_preferred":[
+        "Havnegade"
+    ],
+    "name:ron_x_preferred":[
+        "Havnegade"
+    ],
+    "name:slk_x_preferred":[
+        "Havnegade"
+    ],
+    "name:slv_x_preferred":[
+        "Havnegade"
+    ],
+    "name:spa_x_preferred":[
+        "Havnegade"
+    ],
     "name:swe_x_preferred":[
+        "Havnegade"
+    ],
+    "name:tah_x_preferred":[
+        "Havnegade"
+    ],
+    "name:tur_x_preferred":[
         "Havnegade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -100,7 +178,7 @@
         "wd:id":"Q5684026"
     },
     "wof:country":"DK",
-    "wof:geomhash":"b9eabea8b76d626481c29a6df0836a35",
+    "wof:geomhash":"0a22512030b5180aa2840016cabb163c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +190,7 @@
         }
     ],
     "wof:id":85905947,
-    "wof:lastmodified":1566721563,
+    "wof:lastmodified":1690874664,
     "wof:name":"Havnegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -122,10 +200,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.59285237010533,
-    55.67448697090744,
-    12.59605143822472,
-    55.67689568215879
+    12.592852,
+    55.674487,
+    12.596051,
+    55.676896
 ],
-  "geometry": {"coordinates":[[[12.5937652588002,55.67650876192828],[12.59445190430029,55.67626521152415],[12.59513854980014,55.67650876192828],[12.59513854980014,55.67603572240002],[12.59513854980014,55.67564854000649],[12.59582519530005,55.67564853991588],[12.59597866300527,55.67564853965042],[12.59605143822472,55.67526135245008],[12.59583706308575,55.67488117622234],[12.59582519530005,55.67487416077516],[12.59582519530005,55.6744869723001],[12.59559895022113,55.67448697118446],[12.5946781495723,55.67448697090744],[12.59445190430012,55.6744869723001],[12.59445190430012,55.67487416489773],[12.59376525880009,55.67487416499081],[12.59376525880009,55.67526135440646],[12.59307861330001,55.67526135366582],[12.59285237010533,55.67526135261279],[12.59292514559479,55.67564853965042],[12.59285237182269,55.67603572015433],[12.59307861330001,55.67643694994125],[12.59328900436208,55.67681007057529],[12.59340164202848,55.67689568215879],[12.5937652588002,55.67650876192828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.593765,55.676509],[12.594452,55.676265],[12.595139,55.676509],[12.595139,55.676036],[12.595139,55.675649],[12.595825,55.675649],[12.595979,55.675649],[12.596051,55.675261],[12.595837,55.674881],[12.595825,55.674874],[12.595825,55.674487],[12.595599,55.674487],[12.594678,55.674487],[12.594452,55.674487],[12.594452,55.674874],[12.593765,55.674874],[12.593765,55.675261],[12.593079,55.675261],[12.592852,55.675261],[12.592925,55.675649],[12.592852,55.676036],[12.593079,55.676437],[12.593289,55.67681],[12.593402,55.676896],[12.593765,55.676509]]],"type":"Polygon"}
 }

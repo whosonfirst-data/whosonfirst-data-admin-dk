@@ -46,6 +46,9 @@
     "name:nob_x_preferred":[
         "Grundf\u00f8r"
     ],
+    "name:pol_x_preferred":[
+        "Grundf\u00f8r"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125886487,
-    "wof:lastmodified":1566722066,
+    "wof:lastmodified":1690874793,
     "wof:name":"Grundf\u00f8r",
     "wof:parent_id":1159297745,
     "wof:placetype":"locality",

@@ -207,6 +207,9 @@
     "name:swe_x_preferred":[
         "Augustenborg"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0433\u0443\u0441\u0442\u0435\u043d\u0431\u043e\u0440\u0433"
+    ],
     "name:vec_x_preferred":[
         "Augustenborg"
     ],
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":101873017,
-    "wof:lastmodified":1582331872,
+    "wof:lastmodified":1690874715,
     "wof:name":"Augustenborg",
     "wof:parent_id":1394014049,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00f8nnerup Strand"
+    ],
     "name:dan_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
@@ -35,6 +38,9 @@
         "B\u00f8nnerup Strand"
     ],
     "name:nld_x_preferred":[
+        "B\u00f8nnerup Strand"
+    ],
+    "name:pol_x_preferred":[
         "B\u00f8nnerup Strand"
     ],
     "name:spa_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126040555,
-    "wof:lastmodified":1566722053,
+    "wof:lastmodified":1690874788,
     "wof:name":"B\u00f8nnerup Strand",
     "wof:parent_id":1394014011,
     "wof:placetype":"locality",

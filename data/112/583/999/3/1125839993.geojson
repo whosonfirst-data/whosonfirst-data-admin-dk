@@ -25,6 +25,9 @@
     "name:dan_x_preferred":[
         "N\u00e6rum"
     ],
+    "name:deu_x_preferred":[
+        "N\u00e6rum"
+    ],
     "name:eng_x_preferred":[
         "N\u00e6rum"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "N\u00e6rum"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u9c81\u59c6"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125839993,
-    "wof:lastmodified":1566722123,
+    "wof:lastmodified":1690874822,
     "wof:name":"N\u00e6rum",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

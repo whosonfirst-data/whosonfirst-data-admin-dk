@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "N\u00f8rreballe"
+    ],
     "name:ceb_x_preferred":[
         "N\u00f8rreballe"
     ],
@@ -32,6 +35,9 @@
         "N\u00f8rreballe"
     ],
     "name:nld_x_preferred":[
+        "N\u00f8rreballe"
+    ],
+    "name:pol_x_preferred":[
         "N\u00f8rreballe"
     ],
     "name:spa_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126014101,
-    "wof:lastmodified":1566722103,
+    "wof:lastmodified":1690874813,
     "wof:name":"N\u00f8rreballe",
     "wof:parent_id":1394013983,
     "wof:placetype":"locality",

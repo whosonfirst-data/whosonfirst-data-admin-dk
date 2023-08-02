@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Borbjerg"
+    ],
     "name:dan_x_preferred":[
         "Borbjerg"
     ],
@@ -29,6 +32,9 @@
         "Borbjerg"
     ],
     "name:nld_x_preferred":[
+        "Borbjerg"
+    ],
+    "name:pol_x_preferred":[
         "Borbjerg"
     ],
     "name:und_x_variant":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125846547,
-    "wof:lastmodified":1566722120,
+    "wof:lastmodified":1690874821,
     "wof:name":"Borbjerg",
     "wof:parent_id":1394014015,
     "wof:placetype":"locality",

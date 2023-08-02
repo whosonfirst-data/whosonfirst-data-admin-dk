@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Br\u00f8ndbyvester"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03bd\u03c0\u03b9\u03b2\u03ad\u03c3\u03c4\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Br\u00f8ndby"
     ],
@@ -73,6 +76,9 @@
     "name:pol_x_preferred":[
         "Br\u00f8ndby"
     ],
+    "name:pol_x_variant":[
+        "Br\u00f8ndbyvester"
+    ],
     "name:swe_x_preferred":[
         "Br\u00f8ndbyvester"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:und_x_variant":[
         "West Br\u00f6ndby"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5e03\u4f26\u5fb7\u6bd4"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":1126060429,
-    "wof:lastmodified":1566722099,
+    "wof:lastmodified":1690874810,
     "wof:name":"Br\u00f8ndbyvester",
     "wof:parent_id":1394014151,
     "wof:placetype":"locality",

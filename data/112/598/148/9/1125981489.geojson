@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u064a\u0631\u0644\u0627\u0631\u0633"
+    ],
     "name:ceb_x_preferred":[
         "\u00d8sterlars"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:eng_x_preferred":[
         "sad"
+    ],
+    "name:eng_x_variant":[
+        "\u00d8sterlars"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d8sterlars"
     ],
     "name:hun_x_preferred":[
         "\u00d8sterlars"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125981489,
-    "wof:lastmodified":1566722098,
+    "wof:lastmodified":1690874810,
     "wof:name":"\u00d8sterlars",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

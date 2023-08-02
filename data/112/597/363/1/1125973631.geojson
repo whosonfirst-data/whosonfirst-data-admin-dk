@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tr\u00f8r\u00f8d"
+    ],
     "name:ceb_x_preferred":[
         "Tr\u00f8r\u00f8d"
     ],
@@ -29,6 +32,9 @@
         "Tr\u00f8r\u00f8d"
     ],
     "name:eng_x_preferred":[
+        "Tr\u00f8r\u00f8d"
+    ],
+    "name:fra_x_preferred":[
         "Tr\u00f8r\u00f8d"
     ],
     "name:ltz_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125973631,
-    "wof:lastmodified":1566722082,
+    "wof:lastmodified":1690874803,
     "wof:name":"Tr\u00f8r\u00f8d",
     "wof:parent_id":1394014143,
     "wof:placetype":"locality",

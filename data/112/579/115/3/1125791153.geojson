@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Horbelev"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0431\u0435\u043b\u0435\u0432"
     ],
@@ -35,6 +38,9 @@
         "Horbelev"
     ],
     "name:nld_x_preferred":[
+        "Horbelev"
+    ],
+    "name:pol_x_preferred":[
         "Horbelev"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125791153,
-    "wof:lastmodified":1566722117,
+    "wof:lastmodified":1690874821,
     "wof:name":"Horbelev",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

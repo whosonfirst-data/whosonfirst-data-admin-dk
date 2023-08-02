@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":532.141297,
-    "geom:bbox":"12.579260865,55.6781651534,12.5796890259,55.6783587324",
+    "geom:bbox":"12.579261,55.678165,12.579689,55.678359",
     "geom:latitude":55.678258,
     "geom:longitude":12.579491,
     "iso:country":"DK",
@@ -28,10 +28,25 @@
     "name:dan_x_preferred":[
         "Gr\u00e5br\u00f8dretorv"
     ],
+    "name:deu_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
     "name:eng_x_preferred":[
         "Gr\u00e5br\u00f8dretorv"
     ],
+    "name:fra_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30d6\u30ed\u30bc\u30eb\u30c8\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
     "name:nob_x_preferred":[
+        "Gr\u00e5br\u00f8dretorv"
+    ],
+    "name:swe_x_preferred":[
         "Gr\u00e5br\u00f8dretorv"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -76,7 +91,7 @@
         "wd:id":"Q4572693"
     },
     "wof:country":"DK",
-    "wof:geomhash":"e8957f38cd145419ad01f5b7f43e1afa",
+    "wof:geomhash":"08ac6498e7a1b1cb45386b08dbbb8d38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":85905929,
-    "wof:lastmodified":1566721561,
+    "wof:lastmodified":1690874662,
     "wof:name":"Gr\u00e5br\u00f8dretorv",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -98,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.57926086501851,
-    55.67816515335006,
-    12.5796890258876,
-    55.67835873240286
+    12.579261,
+    55.678165,
+    12.579689,
+    55.678359
 ],
-  "geometry": {"coordinates":[[[12.57934570310005,55.67816515345693],[12.57926896808954,55.67816515335006],[12.57926086501851,55.67820826684668],[12.57934570310971,55.67835873240286],[12.57968902588624,55.67835873236122],[12.5796890258876,55.67816515347512],[12.57934570310005,55.67816515345693]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.579346,55.678165],[12.579269,55.678165],[12.579261,55.678208],[12.579346,55.678359],[12.579689,55.678359],[12.579689,55.678165],[12.579346,55.678165]]],"type":"Polygon"}
 }

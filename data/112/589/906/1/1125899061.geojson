@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "L\u00f8vel"
+    ],
     "name:dan_x_preferred":[
         "L\u00f8vel"
     ],
@@ -50,6 +53,9 @@
         "L\u00f8vel"
     ],
     "name:nob_x_preferred":[
+        "L\u00f8vel"
+    ],
+    "name:pol_x_preferred":[
         "L\u00f8vel"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1125899061,
-    "wof:lastmodified":1566722067,
+    "wof:lastmodified":1690874794,
     "wof:name":"L\u00f8vel",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

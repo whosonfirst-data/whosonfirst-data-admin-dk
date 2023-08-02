@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5916796297,55.683839202,12.5916796297,55.683839202",
+    "geom:bbox":"12.59168,55.683839,12.59168,55.683839",
     "geom:latitude":55.683839,
     "geom:longitude":12.59168,
     "iso:country":"DK",
@@ -26,7 +26,13 @@
     "name:dan_x_preferred":[
         "Frederiksstaden"
     ],
+    "name:deu_x_preferred":[
+        "Frederiksstaden"
+    ],
     "name:eng_x_preferred":[
+        "Frederiksstaden"
+    ],
+    "name:fin_x_preferred":[
         "Frederiksstaden"
     ],
     "name:fra_x_preferred":[
@@ -50,6 +56,12 @@
     "name:nor_x_preferred":[
         "Frederiksstaden"
     ],
+    "name:pol_x_preferred":[
+        "Frederiksstaden"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u044d\u0434\u044d\u0440\u0438\u043a\u0441\u0441\u0442\u0430\u0434\u044d\u043d"
+    ],
     "name:swe_x_preferred":[
         "Frederiksstaden"
     ],
@@ -72,7 +84,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871932,
-    "wof:geomhash":"10e2ac33f18467d3ee9b66592de6b2c8",
+    "wof:geomhash":"49157666b7bfde5d3b34964234da31b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":420784607,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874775,
     "wof:name":"Frederiksstaden",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -94,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.59167962970358,
-    55.68383920203969,
-    12.59167962970358,
-    55.68383920203969
+    12.59168,
+    55.683839,
+    12.59168,
+    55.683839
 ],
-  "geometry": {"coordinates":[12.59167962970358,55.68383920203969],"type":"Point"}
+  "geometry": {"coordinates":[12.59168,55.683839],"type":"Point"}
 }

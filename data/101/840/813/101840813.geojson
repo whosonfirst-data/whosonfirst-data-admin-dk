@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "Hiller\u00f8d"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u043b\u0435\u0440\u044d\u0434"
+    ],
     "name:bel_x_variant":[
         "\u0413\u0456\u043b\u0435\u0440\u044d\u0434"
     ],
@@ -50,6 +53,9 @@
     "name:deu_x_preferred":[
         "Hiller\u00f8d"
     ],
+    "name:diq_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03af\u03bb\u03bb\u03b5\u03c1\u03bf\u03c4"
     ],
@@ -57,6 +63,9 @@
         "Hillerod"
     ],
     "name:eng_x_variant":[
+        "Hiller\u00f8d"
+    ],
+    "name:epo_x_preferred":[
         "Hiller\u00f8d"
     ],
     "name:est_x_preferred":[
@@ -80,6 +89,9 @@
     "name:fry_x_preferred":[
         "Hiller\u00f8d"
     ],
+    "name:gle_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:glv_x_preferred":[
         "Hiller\u00f8d"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:hun_x_preferred":[
         "Hiller\u00f8d"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u056c\u056c\u0565\u0580\u0578\u0564"
     ],
     "name:ina_x_preferred":[
         "Hiller\u00f8d"
@@ -113,6 +128,9 @@
     "name:lat_x_preferred":[
         "Hiller\u00f8d"
     ],
+    "name:lav_x_preferred":[
+        "Hillereda"
+    ],
     "name:lit_x_preferred":[
         "Hileriodas"
     ],
@@ -128,6 +146,9 @@
     "name:nld_x_preferred":[
         "Hiller\u00f8d"
     ],
+    "name:nno_x_preferred":[
+        "Hiller\u00f8d"
+    ],
     "name:nob_x_preferred":[
         "Hiller\u00f8d"
     ],
@@ -136,6 +157,9 @@
     ],
     "name:oci_x_preferred":[
         "Hiller\u00f8d"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0438\u043b\u043b\u0435\u0440\u0451\u0434"
     ],
     "name:pol_x_preferred":[
         "Hiller\u00f8d"
@@ -301,8 +325,8 @@
     "wd:wordcount":1127,
     "wof:belongsto":[
         102191581,
-        85633121,
         1394014085,
+        85633121,
         85682581
     ],
     "wof:breaches":[],
@@ -335,7 +359,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607462676,
+    "wof:lastmodified":1690874770,
     "wof:name":"Hiller\u00f8d",
     "wof:parent_id":1394014085,
     "wof:placetype":"locality",

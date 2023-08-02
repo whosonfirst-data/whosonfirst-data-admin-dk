@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bl\u00e5vand"
+    ],
     "name:dan_x_preferred":[
         "Bl\u00e5vand"
     ],
@@ -40,11 +43,17 @@
     "name:nob_x_preferred":[
         "Bl\u00e5vand"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u043e\u0432\u0430\u043d\u043d"
+    ],
     "name:swe_x_preferred":[
         "Bl\u00e5vand"
     ],
     "name:und_x_variant":[
         "Blaavand"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u4e07\u5fb7"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125806739,
-    "wof:lastmodified":1566722069,
+    "wof:lastmodified":1690874795,
     "wof:name":"Bl\u00e5vand",
     "wof:parent_id":1394014031,
     "wof:placetype":"locality",

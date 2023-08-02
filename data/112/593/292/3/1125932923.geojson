@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "Fjels\u00f8"
     ],
+    "name:pol_x_preferred":[
+        "Fjels\u00f8"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125932923,
-    "wof:lastmodified":1566722036,
+    "wof:lastmodified":1690874779,
     "wof:name":"Fjels\u00f8",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

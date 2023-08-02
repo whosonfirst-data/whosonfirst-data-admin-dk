@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Guldager"
+    ],
+    "name:cat_x_preferred":[
+        "Guldager"
+    ],
     "name:dan_x_preferred":[
         "Guldager"
     ],
@@ -50,6 +56,9 @@
         "Guldager"
     ],
     "name:nob_x_preferred":[
+        "Guldager"
+    ],
+    "name:pol_x_preferred":[
         "Guldager"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1125769729,
-    "wof:lastmodified":1566722109,
+    "wof:lastmodified":1690874817,
     "wof:name":"Guldager",
     "wof:parent_id":1394014103,
     "wof:placetype":"locality",

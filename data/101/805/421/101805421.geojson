@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
     "geom:area_square_m":1761985.33603,
-    "geom:bbox":"10.0346831973,55.3689898598,10.0646542483,55.3833652277",
+    "geom:bbox":"10.034683,55.36899,10.064654,55.383365",
     "geom:latitude":55.376311,
     "geom:longitude":10.049932,
     "gn:id":"2616590,2619392,2624587,2621522",
@@ -21,8 +21,95 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:aar_x_preferred":[
+        "Aarup"
+    ],
+    "name:afr_x_preferred":[
+        "Aarup"
+    ],
+    "name:aka_x_preferred":[
+        "Aarup"
+    ],
+    "name:aln_x_preferred":[
+        "Aarup"
+    ],
+    "name:ang_x_preferred":[
+        "Aarup"
+    ],
+    "name:arg_x_preferred":[
+        "Aarup"
+    ],
+    "name:arn_x_preferred":[
+        "Aarup"
+    ],
+    "name:ast_x_preferred":[
+        "Aarup"
+    ],
+    "name:aym_x_preferred":[
+        "Aarup"
+    ],
+    "name:aze_x_preferred":[
+        "Aarup"
+    ],
+    "name:bam_x_preferred":[
+        "Aarup"
+    ],
+    "name:bar_x_preferred":[
+        "Aarup"
+    ],
+    "name:bcl_x_preferred":[
+        "Aarup"
+    ],
+    "name:bis_x_preferred":[
+        "Aarup"
+    ],
+    "name:bjn_x_preferred":[
+        "Aarup"
+    ],
+    "name:bos_x_preferred":[
+        "Aarup"
+    ],
+    "name:bre_x_preferred":[
+        "Aarup"
+    ],
+    "name:brh_x_preferred":[
+        "Aarup"
+    ],
+    "name:cat_x_preferred":[
+        "Aarup"
+    ],
+    "name:cdo_x_preferred":[
+        "Aarup"
+    ],
     "name:ceb_x_preferred":[
         "\u00c5rup"
+    ],
+    "name:ces_x_preferred":[
+        "Aarup"
+    ],
+    "name:cha_x_preferred":[
+        "Aarup"
+    ],
+    "name:cho_x_preferred":[
+        "Aarup"
+    ],
+    "name:chr_x_preferred":[
+        "Aarup"
+    ],
+    "name:chy_x_preferred":[
+        "Aarup"
+    ],
+    "name:cos_x_preferred":[
+        "Aarup"
+    ],
+    "name:cre_x_preferred":[
+        "Aarup"
+    ],
+    "name:csb_x_preferred":[
+        "Aarup"
+    ],
+    "name:cym_x_preferred":[
+        "Aarup"
     ],
     "name:dan_x_preferred":[
         "Aarup"
@@ -30,7 +117,34 @@
     "name:deu_x_preferred":[
         "Aarup"
     ],
+    "name:diq_x_preferred":[
+        "Aarup"
+    ],
+    "name:dsb_x_preferred":[
+        "Aarup"
+    ],
+    "name:dtp_x_preferred":[
+        "Aarup"
+    ],
+    "name:eml_x_preferred":[
+        "Aarup"
+    ],
     "name:eng_x_preferred":[
+        "Aarup"
+    ],
+    "name:epo_x_preferred":[
+        "Aarup"
+    ],
+    "name:est_x_preferred":[
+        "Aarup"
+    ],
+    "name:eus_x_preferred":[
+        "Aarup"
+    ],
+    "name:ewe_x_preferred":[
+        "Aarup"
+    ],
+    "name:ext_x_preferred":[
         "Aarup"
     ],
     "name:fao_x_preferred":[
@@ -39,7 +153,103 @@
     "name:fao_x_variant":[
         "Aarup"
     ],
+    "name:fij_x_preferred":[
+        "Aarup"
+    ],
+    "name:fin_x_preferred":[
+        "Aarup"
+    ],
+    "name:fit_x_preferred":[
+        "Aarup"
+    ],
     "name:fra_x_preferred":[
+        "Aarup"
+    ],
+    "name:frp_x_preferred":[
+        "Aarup"
+    ],
+    "name:frr_x_preferred":[
+        "Aarup"
+    ],
+    "name:fry_x_preferred":[
+        "Aarup"
+    ],
+    "name:ful_x_preferred":[
+        "Aarup"
+    ],
+    "name:fur_x_preferred":[
+        "Aarup"
+    ],
+    "name:gag_x_preferred":[
+        "Aarup"
+    ],
+    "name:gla_x_preferred":[
+        "Aarup"
+    ],
+    "name:gle_x_preferred":[
+        "Aarup"
+    ],
+    "name:glg_x_preferred":[
+        "Aarup"
+    ],
+    "name:got_x_preferred":[
+        "Aarup"
+    ],
+    "name:grn_x_preferred":[
+        "Aarup"
+    ],
+    "name:gsw_x_preferred":[
+        "Aarup"
+    ],
+    "name:hak_x_preferred":[
+        "Aarup"
+    ],
+    "name:hat_x_preferred":[
+        "Aarup"
+    ],
+    "name:hau_x_preferred":[
+        "Aarup"
+    ],
+    "name:haw_x_preferred":[
+        "Aarup"
+    ],
+    "name:her_x_preferred":[
+        "Aarup"
+    ],
+    "name:hmo_x_preferred":[
+        "Aarup"
+    ],
+    "name:hrv_x_preferred":[
+        "Aarup"
+    ],
+    "name:hsb_x_preferred":[
+        "Aarup"
+    ],
+    "name:hun_x_preferred":[
+        "Aarup"
+    ],
+    "name:ibo_x_preferred":[
+        "Aarup"
+    ],
+    "name:ido_x_preferred":[
+        "Aarup"
+    ],
+    "name:iku_x_preferred":[
+        "Aarup"
+    ],
+    "name:ile_x_preferred":[
+        "Aarup"
+    ],
+    "name:ilo_x_preferred":[
+        "Aarup"
+    ],
+    "name:ina_x_preferred":[
+        "Aarup"
+    ],
+    "name:ind_x_preferred":[
+        "Aarup"
+    ],
+    "name:ipk_x_preferred":[
         "Aarup"
     ],
     "name:isl_x_preferred":[
@@ -48,7 +258,124 @@
     "name:ita_x_preferred":[
         "Aarup"
     ],
+    "name:jam_x_preferred":[
+        "Aarup"
+    ],
+    "name:jav_x_preferred":[
+        "Aarup"
+    ],
+    "name:jbo_x_preferred":[
+        "Aarup"
+    ],
+    "name:kaa_x_preferred":[
+        "Aarup"
+    ],
+    "name:kab_x_preferred":[
+        "Aarup"
+    ],
     "name:kal_x_preferred":[
+        "Aarup"
+    ],
+    "name:kau_x_preferred":[
+        "Aarup"
+    ],
+    "name:kik_x_preferred":[
+        "Aarup"
+    ],
+    "name:kin_x_preferred":[
+        "Aarup"
+    ],
+    "name:kon_x_preferred":[
+        "Aarup"
+    ],
+    "name:krj_x_preferred":[
+        "Aarup"
+    ],
+    "name:ksh_x_preferred":[
+        "Aarup"
+    ],
+    "name:kua_x_preferred":[
+        "Aarup"
+    ],
+    "name:kur_x_preferred":[
+        "Aarup"
+    ],
+    "name:lad_x_preferred":[
+        "Aarup"
+    ],
+    "name:lat_x_preferred":[
+        "Aarup"
+    ],
+    "name:lav_x_preferred":[
+        "Aarup"
+    ],
+    "name:lfn_x_preferred":[
+        "Aarup"
+    ],
+    "name:lij_x_preferred":[
+        "Aarup"
+    ],
+    "name:lim_x_preferred":[
+        "Aarup"
+    ],
+    "name:lin_x_preferred":[
+        "Aarup"
+    ],
+    "name:lit_x_preferred":[
+        "Aarup"
+    ],
+    "name:lmo_x_preferred":[
+        "Aarup"
+    ],
+    "name:loz_x_preferred":[
+        "Aarup"
+    ],
+    "name:ltg_x_preferred":[
+        "Aarup"
+    ],
+    "name:ltz_x_preferred":[
+        "Aarup"
+    ],
+    "name:lus_x_preferred":[
+        "Aarup"
+    ],
+    "name:lzz_x_preferred":[
+        "Aarup"
+    ],
+    "name:min_x_preferred":[
+        "Aarup"
+    ],
+    "name:mlt_x_preferred":[
+        "Aarup"
+    ],
+    "name:mri_x_preferred":[
+        "Aarup"
+    ],
+    "name:msa_x_preferred":[
+        "Aarup"
+    ],
+    "name:mus_x_preferred":[
+        "Aarup"
+    ],
+    "name:mwl_x_preferred":[
+        "Aarup"
+    ],
+    "name:nah_x_preferred":[
+        "Aarup"
+    ],
+    "name:nap_x_preferred":[
+        "Aarup"
+    ],
+    "name:nau_x_preferred":[
+        "Aarup"
+    ],
+    "name:nav_x_preferred":[
+        "Aarup"
+    ],
+    "name:ndo_x_preferred":[
+        "Aarup"
+    ],
+    "name:nds_x_preferred":[
         "Aarup"
     ],
     "name:nld_x_preferred":[
@@ -63,19 +390,241 @@
     "name:nor_x_preferred":[
         "Aarup"
     ],
+    "name:nov_x_preferred":[
+        "Aarup"
+    ],
+    "name:nrm_x_preferred":[
+        "Aarup"
+    ],
+    "name:nso_x_preferred":[
+        "Aarup"
+    ],
+    "name:nya_x_preferred":[
+        "Aarup"
+    ],
+    "name:oci_x_preferred":[
+        "Aarup"
+    ],
+    "name:orm_x_preferred":[
+        "Aarup"
+    ],
+    "name:pag_x_preferred":[
+        "Aarup"
+    ],
+    "name:pam_x_preferred":[
+        "Aarup"
+    ],
+    "name:pcd_x_preferred":[
+        "Aarup"
+    ],
+    "name:pdc_x_preferred":[
+        "Aarup"
+    ],
+    "name:pdt_x_preferred":[
+        "Aarup"
+    ],
+    "name:pfl_x_preferred":[
+        "Aarup"
+    ],
+    "name:pih_x_preferred":[
+        "Aarup"
+    ],
+    "name:pms_x_preferred":[
+        "Aarup"
+    ],
     "name:pol_x_preferred":[
         "Gmina Aarup"
+    ],
+    "name:pol_x_variant":[
+        "Aarup"
     ],
     "name:por_x_preferred":[
         "Aarup"
     ],
+    "name:prg_x_preferred":[
+        "Aarup"
+    ],
+    "name:que_x_preferred":[
+        "Aarup"
+    ],
+    "name:qug_x_preferred":[
+        "Aarup"
+    ],
+    "name:rif_x_preferred":[
+        "Aarup"
+    ],
+    "name:rmy_x_preferred":[
+        "Aarup"
+    ],
+    "name:roh_x_preferred":[
+        "Aarup"
+    ],
+    "name:ron_x_preferred":[
+        "Aarup"
+    ],
+    "name:run_x_preferred":[
+        "Aarup"
+    ],
+    "name:rup_x_preferred":[
+        "Aarup"
+    ],
+    "name:sag_x_preferred":[
+        "Aarup"
+    ],
+    "name:sat_x_preferred":[
+        "Aarup"
+    ],
+    "name:scn_x_preferred":[
+        "Aarup"
+    ],
+    "name:sco_x_preferred":[
+        "Aarup"
+    ],
+    "name:sdc_x_preferred":[
+        "Aarup"
+    ],
+    "name:sei_x_preferred":[
+        "Aarup"
+    ],
+    "name:sgs_x_preferred":[
+        "Aarup"
+    ],
+    "name:sli_x_preferred":[
+        "Aarup"
+    ],
+    "name:slk_x_preferred":[
+        "Aarup"
+    ],
+    "name:slv_x_preferred":[
+        "Aarup"
+    ],
+    "name:sma_x_preferred":[
+        "Aarup"
+    ],
+    "name:sme_x_preferred":[
+        "Aarup"
+    ],
+    "name:smo_x_preferred":[
+        "Aarup"
+    ],
+    "name:sna_x_preferred":[
+        "Aarup"
+    ],
+    "name:som_x_preferred":[
+        "Aarup"
+    ],
+    "name:sot_x_preferred":[
+        "Aarup"
+    ],
     "name:spa_x_preferred":[
+        "Aarup"
+    ],
+    "name:sqi_x_preferred":[
+        "Aarup"
+    ],
+    "name:srd_x_preferred":[
+        "Aarup"
+    ],
+    "name:srn_x_preferred":[
+        "Aarup"
+    ],
+    "name:stq_x_preferred":[
+        "Aarup"
+    ],
+    "name:swa_x_preferred":[
         "Aarup"
     ],
     "name:swe_x_preferred":[
         "Aarups kommun"
     ],
     "name:swe_x_variant":[
+        "Aarup"
+    ],
+    "name:szl_x_preferred":[
+        "Aarup"
+    ],
+    "name:tah_x_preferred":[
+        "Aarup"
+    ],
+    "name:tet_x_preferred":[
+        "Aarup"
+    ],
+    "name:tgl_x_preferred":[
+        "Aarup"
+    ],
+    "name:ton_x_preferred":[
+        "Aarup"
+    ],
+    "name:tpi_x_preferred":[
+        "Aarup"
+    ],
+    "name:tru_x_preferred":[
+        "Aarup"
+    ],
+    "name:tsn_x_preferred":[
+        "Aarup"
+    ],
+    "name:tso_x_preferred":[
+        "Aarup"
+    ],
+    "name:tuk_x_preferred":[
+        "Aarup"
+    ],
+    "name:tum_x_preferred":[
+        "Aarup"
+    ],
+    "name:tur_x_preferred":[
+        "Aarup"
+    ],
+    "name:uzb_x_preferred":[
+        "Aarup"
+    ],
+    "name:vec_x_preferred":[
+        "Aarup"
+    ],
+    "name:ven_x_preferred":[
+        "Aarup"
+    ],
+    "name:vep_x_preferred":[
+        "Aarup"
+    ],
+    "name:vie_x_preferred":[
+        "Aarup"
+    ],
+    "name:vls_x_preferred":[
+        "Aarup"
+    ],
+    "name:vmf_x_preferred":[
+        "Aarup"
+    ],
+    "name:vol_x_preferred":[
+        "Aarup"
+    ],
+    "name:vot_x_preferred":[
+        "Aarup"
+    ],
+    "name:war_x_preferred":[
+        "Aarup"
+    ],
+    "name:wln_x_preferred":[
+        "Aarup"
+    ],
+    "name:wol_x_preferred":[
+        "Aarup"
+    ],
+    "name:xho_x_preferred":[
+        "Aarup"
+    ],
+    "name:yor_x_preferred":[
+        "Aarup"
+    ],
+    "name:zea_x_preferred":[
+        "Aarup"
+    ],
+    "name:zha_x_preferred":[
+        "Aarup"
+    ],
+    "name:zul_x_preferred":[
         "Aarup"
     ],
     "qs:a0":"Danmark",
@@ -116,7 +665,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"746ec97978583232936b353e40545c24",
+    "wof:geomhash":"752ab8e2c7de1810742c7dd741be9d56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,7 +677,7 @@
         }
     ],
     "wof:id":101805421,
-    "wof:lastmodified":1582331876,
+    "wof:lastmodified":1690874741,
     "wof:name":"Aarup",
     "wof:parent_id":1394014071,
     "wof:placetype":"locality",
@@ -140,10 +689,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.0346831973232,
-    55.36898985982083,
-    10.06465424825973,
-    55.38336522767975
+    10.034683,
+    55.36899,
+    10.064654,
+    55.383365
 ],
-  "geometry": {"coordinates":[[[10.05519265479052,55.38336325119411],[10.05519141716627,55.38246457629077],[10.06307590172696,55.38246088891179],[10.06307731615431,55.38335956372106],[10.06465424825973,55.38335876722681],[10.06465134876203,55.38156141773976],[10.06307448737584,55.3815622141932],[10.06307307310078,55.38066353956492],[10.06149624701379,55.38066431633308],[10.06149486816975,55.37976564177541],[10.0599180773815,55.37976639885903],[10.05991673396477,55.37886772437241],[10.05833997847429,55.37886846177275],[10.0583334392104,55.37437509059788],[10.05991001796383,55.37437435329184],[10.05990867498053,55.37347567934592],[10.06306176163878,55.37347414578846],[10.06305893453327,55.37167679824478],[10.06148246191009,55.37167757481416],[10.06148108380728,55.37077890115722],[10.05990464646379,55.37077965804747],[10.05990330376915,55.36988098446085],[10.05359769519748,55.36988381535429],[10.05359889655597,55.37078248901332],[10.05202245895293,55.37078314760612],[10.05202595740229,55.37347916917213],[10.04571978247481,55.37348160713555],[10.04571670807945,55.37078558538235],[10.04414027025314,55.37078614567781],[10.04413928089895,55.36988747192549],[10.04098647579485,55.36988853351062],[10.04098555715797,55.36898985982083],[10.03940918988104,55.36899036111214],[10.03941007318571,55.36988903481466],[10.03783367054064,55.36988951645998],[10.0378345185585,55.37078819026453],[10.03625808054477,55.3707886522626],[10.03625970604395,55.37258600016492],[10.0346831973232,55.37258644252609],[10.03468397479872,55.37348511662339],[10.03626051885885,55.37348467425085],[10.03626214462042,55.37528202269266],[10.0378387593326,55.37528156063559],[10.03783960762433,55.37618023497976],[10.03941625764787,55.37617975324849],[10.03941714133248,55.37707842767031],[10.04099382666709,55.37707792626355],[10.04099750328987,55.3806726248024],[10.04415115666205,55.38067156289151],[10.04415214665522,55.38157023772487],[10.04572900863843,55.38156967725746],[10.04573003404346,55.38246835216688],[10.05046072581263,55.38246655272593],[10.05046185735478,55.38336522767975],[10.05519265479052,55.38336325119411]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[10.055193,55.383363],[10.055191,55.382465],[10.063076,55.382461],[10.063077,55.38336],[10.064654,55.383359],[10.064651,55.381561],[10.063074,55.381562],[10.063073,55.380664],[10.061496,55.380664],[10.061495,55.379766],[10.059918,55.379766],[10.059917,55.378868],[10.05834,55.378868],[10.058333,55.374375],[10.05991,55.374374],[10.059909,55.373476],[10.063062,55.373474],[10.063059,55.371677],[10.061482,55.371678],[10.061481,55.370779],[10.059905,55.37078],[10.059903,55.369881],[10.053598,55.369884],[10.053599,55.370782],[10.052022,55.370783],[10.052026,55.373479],[10.04572,55.373482],[10.045717,55.370786],[10.04414,55.370786],[10.044139,55.369887],[10.040986,55.369889],[10.040986,55.36899],[10.039409,55.36899],[10.03941,55.369889],[10.037834,55.36989],[10.037835,55.370788],[10.036258,55.370789],[10.03626,55.372586],[10.034683,55.372586],[10.034684,55.373485],[10.036261,55.373485],[10.036262,55.375282],[10.037839,55.375282],[10.03784,55.37618],[10.039416,55.37618],[10.039417,55.377078],[10.040994,55.377078],[10.040998,55.380673],[10.044151,55.380672],[10.044152,55.38157],[10.045729,55.38157],[10.04573,55.382468],[10.050461,55.382467],[10.050462,55.383365],[10.055193,55.383363]]],"type":"Polygon"}
 }

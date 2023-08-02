@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "R\u00e5geleje"
     ],
+    "name:pol_x_preferred":[
+        "R\u00e5geleje"
+    ],
     "name:swe_x_preferred":[
         "R\u00e5geleje"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125856921,
-    "wof:lastmodified":1566722109,
+    "wof:lastmodified":1690874817,
     "wof:name":"R\u00e5geleje",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

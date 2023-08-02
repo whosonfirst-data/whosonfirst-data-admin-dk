@@ -52,6 +52,9 @@
     "name:nob_x_preferred":[
         "Dollerup"
     ],
+    "name:pol_x_preferred":[
+        "Dollerup"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u043b\u0435\u0440\u0443\u043f"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125807553,
-    "wof:lastmodified":1566722069,
+    "wof:lastmodified":1690874795,
     "wof:name":"Dollerup",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

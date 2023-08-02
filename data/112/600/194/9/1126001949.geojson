@@ -28,8 +28,17 @@
     "name:eng_x_preferred":[
         "Tilst"
     ],
+    "name:nld_x_preferred":[
+        "Tilst"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043b\u044c\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Tiilst"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f50\u5c14\u65af\u7279"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1126001949,
-    "wof:lastmodified":1566722104,
+    "wof:lastmodified":1690874814,
     "wof:name":"Tilst",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

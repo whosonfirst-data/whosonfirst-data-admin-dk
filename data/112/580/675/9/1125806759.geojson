@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Eg\u00e5"
     ],
+    "name:nld_x_preferred":[
+        "Eg\u00e5"
+    ],
+    "name:nob_x_preferred":[
+        "Eg\u00e5"
+    ],
     "name:und_x_variant":[
         "Egaa"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125806759,
-    "wof:lastmodified":1566722069,
+    "wof:lastmodified":1690874795,
     "wof:name":"Eg\u00e5",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hvalpsund"
+    ],
     "name:dan_x_preferred":[
         "Hvalpsund"
     ],
@@ -50,6 +53,9 @@
         "Hvalpsund"
     ],
     "name:nob_x_preferred":[
+        "Hvalpsund"
+    ],
+    "name:pol_x_preferred":[
         "Hvalpsund"
     ],
     "name:spa_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125764387,
-    "wof:lastmodified":1566722108,
+    "wof:lastmodified":1690874816,
     "wof:name":"Hvalpsund",
     "wof:parent_id":1159297741,
     "wof:placetype":"locality",

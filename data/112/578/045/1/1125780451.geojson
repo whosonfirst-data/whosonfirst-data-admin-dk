@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Ballerup"
     ],
+    "name:cat_x_preferred":[
+        "Ballerup"
+    ],
     "name:ceb_x_preferred":[
         "Ballerup"
     ],
@@ -47,6 +50,12 @@
     "name:frr_x_preferred":[
         "Ballerup"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dc\u05e8\u05d5\u05e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ec\u30eb\u30c3\u30d7"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10da\u10d4\u10e0\u10e3\u10de\u10d8"
     ],
@@ -68,6 +77,9 @@
     "name:pol_x_preferred":[
         "Ballerup"
     ],
+    "name:ron_x_preferred":[
+        "Ballerup"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0435\u0440\u0443\u043f"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u06cc\u0631\u0648\u067e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u52d2\u9b6f\u666e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125780451,
-    "wof:lastmodified":1566722113,
+    "wof:lastmodified":1690874818,
     "wof:name":"Ballerup",
     "wof:parent_id":1394014129,
     "wof:placetype":"locality",

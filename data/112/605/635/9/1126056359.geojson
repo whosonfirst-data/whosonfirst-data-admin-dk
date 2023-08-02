@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hesn\u00e6s"
+    ],
     "name:dan_x_preferred":[
         "Hesn\u00e6s"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "L\u00f8nstrup"
+    ],
+    "name:swe_x_variant":[
+        "Hesn\u00e6s"
     ],
     "name:und_x_variant":[
         "Hesn\u00e6s Havn"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126056359,
-    "wof:lastmodified":1566722050,
+    "wof:lastmodified":1690874786,
     "wof:name":"Hesn\u00e6s",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

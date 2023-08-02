@@ -31,6 +31,12 @@
     "name:nld_x_preferred":[
         "Sunds\u00f8re"
     ],
+    "name:nob_x_preferred":[
+        "Sunds\u00f8re"
+    ],
+    "name:tur_x_preferred":[
+        "Sunds\u00f8re"
+    ],
     "name:und_x_variant":[
         "Sundgaard"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125790061,
-    "wof:lastmodified":1566722115,
+    "wof:lastmodified":1690874819,
     "wof:name":"Sunds\u00f8re",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

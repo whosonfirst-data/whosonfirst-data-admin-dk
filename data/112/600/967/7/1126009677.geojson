@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Skarrild"
     ],
+    "name:fra_x_preferred":[
+        "Skarrild"
+    ],
     "name:nld_x_preferred":[
+        "Skarrild"
+    ],
+    "name:pol_x_preferred":[
         "Skarrild"
     ],
     "name:und_x_variant":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1126009677,
-    "wof:lastmodified":1566722106,
+    "wof:lastmodified":1690874815,
     "wof:name":"Skarrild",
     "wof:parent_id":1159297725,
     "wof:placetype":"locality",

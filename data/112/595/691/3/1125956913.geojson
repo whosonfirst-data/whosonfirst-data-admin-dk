@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "S\u00f8nderby"
+    ],
     "name:dan_x_preferred":[
         "S\u00f8nderby"
     ],
@@ -29,6 +32,9 @@
         "S\u00f8nderby"
     ],
     "name:nld_x_preferred":[
+        "S\u00f8nderby"
+    ],
+    "name:pol_x_preferred":[
         "S\u00f8nderby"
     ],
     "qs_pg:aaroncc":"DK",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125956913,
-    "wof:lastmodified":1566722046,
+    "wof:lastmodified":1690874784,
     "wof:name":"S\u00f8nderby",
     "wof:parent_id":1159297729,
     "wof:placetype":"locality",

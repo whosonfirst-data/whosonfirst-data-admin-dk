@@ -52,6 +52,9 @@
     "name:nob_x_preferred":[
         "No"
     ],
+    "name:pol_x_preferred":[
+        "No"
+    ],
     "name:swe_x_preferred":[
         "No"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125933725,
-    "wof:lastmodified":1566722041,
+    "wof:lastmodified":1690874781,
     "wof:name":"No",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

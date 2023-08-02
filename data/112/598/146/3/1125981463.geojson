@@ -34,6 +34,9 @@
     "name:nld_x_preferred":[
         "N\u00f8rholm"
     ],
+    "name:pol_x_preferred":[
+        "N\u00f8rholm"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125981463,
-    "wof:lastmodified":1566722099,
+    "wof:lastmodified":1690874810,
     "wof:name":"N\u00f8rholm",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

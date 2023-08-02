@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mellerup"
+    ],
     "name:dan_x_preferred":[
         "Mellerup"
     ],
@@ -29,6 +32,9 @@
         "Mellerup"
     ],
     "name:nld_x_preferred":[
+        "Mellerup"
+    ],
+    "name:pol_x_preferred":[
         "Mellerup"
     ],
     "qs_pg:aaroncc":"DK",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1126034243,
-    "wof:lastmodified":1566722056,
+    "wof:lastmodified":1690874789,
     "wof:name":"Mellerup",
     "wof:parent_id":1394013975,
     "wof:placetype":"locality",

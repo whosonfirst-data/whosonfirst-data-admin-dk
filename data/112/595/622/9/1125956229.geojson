@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Store Magleby"
+    ],
     "name:cat_x_preferred":[
         "Store Magleby"
     ],
@@ -41,6 +44,9 @@
         "Store Magleby"
     ],
     "name:nld_x_preferred":[
+        "Store Magleby"
+    ],
+    "name:nob_x_preferred":[
         "Store Magleby"
     ],
     "name:spa_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125956229,
-    "wof:lastmodified":1566722045,
+    "wof:lastmodified":1690874783,
     "wof:name":"Store Magleby",
     "wof:parent_id":1394014057,
     "wof:placetype":"locality",

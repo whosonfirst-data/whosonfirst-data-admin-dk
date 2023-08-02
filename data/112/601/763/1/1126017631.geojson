@@ -25,13 +25,28 @@
     "name:afr_x_preferred":[
         "Tranum"
     ],
+    "name:ast_x_preferred":[
+        "Tranum"
+    ],
+    "name:cat_x_preferred":[
+        "Tranum"
+    ],
     "name:dan_x_preferred":[
+        "Tranum"
+    ],
+    "name:deu_x_preferred":[
         "Tranum"
     ],
     "name:eng_x_preferred":[
         "Tranum"
     ],
+    "name:fra_x_preferred":[
+        "Tranum"
+    ],
     "name:nld_x_preferred":[
+        "Tranum"
+    ],
+    "name:pol_x_preferred":[
         "Tranum"
     ],
     "name:spa_x_preferred":[
@@ -89,7 +104,7 @@
         }
     ],
     "wof:id":1126017631,
-    "wof:lastmodified":1566722099,
+    "wof:lastmodified":1690874810,
     "wof:name":"Tranum",
     "wof:parent_id":1394014003,
     "wof:placetype":"locality",

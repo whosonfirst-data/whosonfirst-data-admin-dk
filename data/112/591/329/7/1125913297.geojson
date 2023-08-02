@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Buddinge"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6d25\u5384"
+    ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Buddinge",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125913297,
-    "wof:lastmodified":1566722093,
+    "wof:lastmodified":1690874807,
     "wof:name":"Buddinge",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

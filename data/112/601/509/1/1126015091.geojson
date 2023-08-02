@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Toreby"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0431\u0439"
     ],
@@ -35,6 +38,9 @@
         "Toreby"
     ],
     "name:nld_x_preferred":[
+        "Toreby"
+    ],
+    "name:pol_x_preferred":[
         "Toreby"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126015091,
-    "wof:lastmodified":1566722103,
+    "wof:lastmodified":1690874813,
     "wof:name":"Toreby",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:afr_x_preferred":[
         "Gandrup"
     ],
+    "name:ast_x_preferred":[
+        "Gandrup"
+    ],
     "name:dan_x_preferred":[
         "Gandrup"
     ],
@@ -44,7 +47,13 @@
     "name:nor_x_preferred":[
         "Gandrup"
     ],
+    "name:pol_x_preferred":[
+        "Gandrup"
+    ],
     "name:sco_x_preferred":[
+        "Gandrup"
+    ],
+    "name:swe_x_preferred":[
         "Gandrup"
     ],
     "name:und_x_variant":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":101873065,
-    "wof:lastmodified":1582331872,
+    "wof:lastmodified":1690874714,
     "wof:name":"Gandrup",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

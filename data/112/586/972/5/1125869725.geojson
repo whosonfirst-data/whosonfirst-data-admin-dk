@@ -31,6 +31,15 @@
     "name:nld_x_preferred":[
         "Velling"
     ],
+    "name:nno_x_preferred":[
+        "Velling"
+    ],
+    "name:nob_x_preferred":[
+        "Velling"
+    ],
+    "name:pol_x_preferred":[
+        "Velling"
+    ],
     "name:und_x_variant":[
         "Kirkeby"
     ],
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1125869725,
-    "wof:lastmodified":1566722062,
+    "wof:lastmodified":1690874791,
     "wof:name":"Velling",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

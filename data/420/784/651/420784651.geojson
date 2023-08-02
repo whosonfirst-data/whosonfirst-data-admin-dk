@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5786619687,55.6787742778,12.5786619687,55.6787742778",
+    "geom:bbox":"12.578662,55.678774,12.578662,55.678774",
     "geom:latitude":55.678774,
     "geom:longitude":12.578662,
     "iso:country":"DK",
@@ -77,6 +77,9 @@
     "name:por_x_preferred":[
         "Str\u00f8get"
     ],
+    "name:slv_x_preferred":[
+        "Str\u00f8get"
+    ],
     "name:spa_x_preferred":[
         "Str\u00f8get"
     ],
@@ -105,7 +108,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871933,
-    "wof:geomhash":"e85acf15ad4e153bfb2d8611e579e1cf",
+    "wof:geomhash":"7759866cd9f48f27d46e2ee780ec49be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":420784651,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874773,
     "wof:name":"Str\u00f8get",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -127,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.57866196873479,
-    55.67877427778199,
-    12.57866196873479,
-    55.67877427778199
+    12.578662,
+    55.678774,
+    12.578662,
+    55.678774
 ],
-  "geometry": {"coordinates":[12.57866196873479,55.67877427778199],"type":"Point"}
+  "geometry": {"coordinates":[12.578662,55.678774],"type":"Point"}
 }

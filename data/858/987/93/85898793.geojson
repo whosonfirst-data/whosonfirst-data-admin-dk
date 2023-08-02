@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0644\u0639\u0629 \u0643\u0631\u0648\u0646\u0628\u0648\u0631\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0644\u0639\u0629 \u0643\u0631\u0648\u0646\u0628\u0648\u0631\u062c"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043c\u0430\u043a \u041a\u0440\u043e\u043d\u0431\u0430\u0440\u0433"
     ],
@@ -129,6 +132,9 @@
     "name:kor_x_preferred":[
         "\ud06c\ub860\ubcf4\ub974 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\ud06c\ub860\ubcf4\ub974\uc131"
+    ],
     "name:lav_x_preferred":[
         "Kronborga"
     ],
@@ -161,6 +167,9 @@
     ],
     "name:slk_x_preferred":[
         "Z\u00e1mok Kronborg"
+    ],
+    "name:slv_x_preferred":[
+        "Grad Kronborg"
     ],
     "name:spa_x_preferred":[
         "Castillo de Kronborg"
@@ -252,7 +261,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582331842,
+    "wof:lastmodified":1690874676,
     "wof:name":"Kronborg",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",
