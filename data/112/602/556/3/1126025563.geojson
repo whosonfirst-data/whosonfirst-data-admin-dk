@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Tversted"
     ],
+    "name:ast_x_preferred":[
+        "Tversted"
+    ],
     "name:dan_x_preferred":[
         "Tversted"
     ],
@@ -53,6 +56,9 @@
         "Tversted"
     ],
     "name:nob_x_preferred":[
+        "Tversted"
+    ],
+    "name:pol_x_preferred":[
         "Tversted"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1126025563,
-    "wof:lastmodified":1566722047,
+    "wof:lastmodified":1690874785,
     "wof:name":"Tversted",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",

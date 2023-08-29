@@ -34,11 +34,14 @@
         "\u00c5rhus N",
         "Aarhus N"
     ],
+    "name:dan_x_variant":[
+        "Aarhus"
+    ],
     "name:eng_x_preferred":[
         "Aarhus North"
     ],
     "name:eng_x_variant":[
-        "Aarhus North"
+        "Aarhus"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -101,7 +104,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582331833,
+    "wof:lastmodified":1690874656,
     "wof:name":"\u00c5rhus N",
     "wof:parent_id":101749163,
     "wof:placetype":"neighbourhood",

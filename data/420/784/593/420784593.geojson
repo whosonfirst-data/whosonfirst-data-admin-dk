@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5807219063,55.7064459191,12.5807219063,55.7064459191",
+    "geom:bbox":"12.580722,55.706446,12.580722,55.706446",
     "geom:latitude":55.706446,
     "geom:longitude":12.580722,
     "iso:country":"DK",
@@ -23,6 +23,9 @@
     "mz:max_zoom":14.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:cat_x_preferred":[
+        "\u00d8sterbro"
+    ],
     "name:dan_x_preferred":[
         "\u00d8sterbro"
     ],
@@ -50,6 +53,12 @@
     "name:ita_x_preferred":[
         "\u00d8sterbro"
     ],
+    "name:lav_x_preferred":[
+        "\u0112sterbro"
+    ],
+    "name:ltz_x_preferred":[
+        "\u00d8sterbro"
+    ],
     "name:nld_x_preferred":[
         "\u00d8sterbro"
     ],
@@ -57,6 +66,15 @@
         "\u00d8sterbro"
     ],
     "name:nor_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:pol_x_preferred":[
+        "\u00d8sterbro"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u0440\u0431\u0440\u043e"
+    ],
+    "name:slk_x_preferred":[
         "\u00d8sterbro"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +99,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"90c8f25398884efa4e242a4152add4c7",
+    "wof:geomhash":"955916f632ab24743f59a764c41c997d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":420784593,
-    "wof:lastmodified":1566722027,
+    "wof:lastmodified":1690874772,
     "wof:name":"\u00d8sterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -103,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.58072190629469,
-    55.70644591911825,
-    12.58072190629469,
-    55.70644591911825
+    12.580722,
+    55.706446,
+    12.580722,
+    55.706446
 ],
-  "geometry": {"coordinates":[12.58072190629469,55.70644591911825],"type":"Point"}
+  "geometry": {"coordinates":[12.580722,55.706446],"type":"Point"}
 }

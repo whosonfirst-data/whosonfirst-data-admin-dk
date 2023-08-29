@@ -31,7 +31,13 @@
     "name:eng_x_preferred":[
         "Hareskovby"
     ],
+    "name:nob_x_preferred":[
+        "Hareskovby"
+    ],
     "name:spa_x_preferred":[
+        "Hareskovby"
+    ],
+    "name:swe_x_preferred":[
         "Hareskovby"
     ],
     "name:und_x_variant":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125795009,
-    "wof:lastmodified":1566722116,
+    "wof:lastmodified":1690874820,
     "wof:name":"Hareskov By",
     "wof:parent_id":1394014061,
     "wof:placetype":"locality",

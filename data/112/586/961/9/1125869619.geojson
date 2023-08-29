@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nyk\u00f8bing Sj\u00e6lland"
+    ],
     "name:ceb_x_preferred":[
         "Nyk\u00f8bing Sj\u00e6lland"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Nyk\u00f8bing Sj\u00e6lland"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0628\u06cc\u0646\u06af \u0634\u06cc\u0648\u0644\u0627\u0646\u062f"
     ],
     "name:fra_x_preferred":[
         "Nyk\u00f8bing Sj\u00e6lland"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125869619,
-    "wof:lastmodified":1566722060,
+    "wof:lastmodified":1690874791,
     "wof:name":"Nyk\u00f8bing Sj\u00e6lland",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

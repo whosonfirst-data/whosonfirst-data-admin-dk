@@ -23,11 +23,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0645\u0628\u064a\u0643"
+    ],
     "name:ast_x_preferred":[
         "Lemvig"
     ],
     "name:aze_x_preferred":[
         "Lemviq"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u043c\u0432\u0456\u0433"
     ],
     "name:cat_x_preferred":[
         "Lemvig"
@@ -53,14 +59,23 @@
     "name:fao_x_preferred":[
         "Lemvig"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0645\u0648\u06cc\u06af"
+    ],
     "name:fra_x_preferred":[
         "Lemvig"
     ],
     "name:gla_x_preferred":[
         "Lemvig"
     ],
+    "name:gle_x_preferred":[
+        "Lemvig"
+    ],
     "name:glg_x_preferred":[
         "Lemvig"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05de\u05d1\u05d9\u05d2"
     ],
     "name:hun_x_preferred":[
         "Lemvig"
@@ -151,8 +166,8 @@
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
-        85633121,
         1159297919,
+        85633121,
         85682597
     ],
     "wof:breaches":[],
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":101805677,
-    "wof:lastmodified":1588709968,
+    "wof:lastmodified":1690874746,
     "wof:name":"Lemvig",
     "wof:parent_id":1159297919,
     "wof:placetype":"locality",

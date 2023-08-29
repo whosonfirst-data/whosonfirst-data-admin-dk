@@ -40,6 +40,9 @@
     "name:isl_x_preferred":[
         "Ballen"
     ],
+    "name:ita_x_preferred":[
+        "Ballen"
+    ],
     "name:kal_x_preferred":[
         "Ballen"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126015619,
-    "wof:lastmodified":1566722100,
+    "wof:lastmodified":1690874811,
     "wof:name":"Ballen",
     "wof:parent_id":1159297735,
     "wof:placetype":"locality",

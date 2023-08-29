@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Egebjerg"
+    ],
     "name:dan_x_preferred":[
         "Egebjerg"
     ],
@@ -35,6 +38,12 @@
         "Egebjerg"
     ],
     "name:nld_x_preferred":[
+        "Egebjerg"
+    ],
+    "name:pol_x_preferred":[
+        "Egebjerg"
+    ],
+    "name:swe_x_preferred":[
         "Egebjerg"
     ],
     "name:und_x_variant":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125932807,
-    "wof:lastmodified":1566722036,
+    "wof:lastmodified":1690874779,
     "wof:name":"Egebjerg",
     "wof:parent_id":1394014017,
     "wof:placetype":"locality",

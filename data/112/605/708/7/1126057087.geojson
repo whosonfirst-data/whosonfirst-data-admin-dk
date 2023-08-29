@@ -25,6 +25,9 @@
     "name:dan_x_preferred":[
         "Hundige"
     ],
+    "name:deu_x_preferred":[
+        "Hundige"
+    ],
     "name:eng_x_preferred":[
         "Hundige"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:spa_x_preferred":[
         "Hundige"
+    ],
+    "name:swe_x_preferred":[
+        "Hundige"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u8fea\u5384"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126057087,
-    "wof:lastmodified":1566722049,
+    "wof:lastmodified":1690874786,
     "wof:name":"Hundie",
     "wof:parent_id":1394014137,
     "wof:placetype":"locality",

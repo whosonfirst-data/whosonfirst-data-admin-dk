@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.6049404777,55.6808874305,12.6049404777,55.6808874305",
+    "geom:bbox":"12.60494,55.680887,12.60494,55.680887",
     "geom:latitude":55.680887,
     "geom:longitude":12.60494,
     "iso:country":"DK",
@@ -23,22 +23,172 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:afr_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:arg_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:arz_x_preferred":[
+        "\u0642\u0646\u0627\u0629 \u0641\u0631\u064a\u062f\u0631\u064a\u0643\u0634\u0648\u0644\u0645\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:bar_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:bos_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:bre_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:cat_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
     "name:ceb_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ces_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:cor_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:cos_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:cym_x_preferred":[
         "Frederiksholms Kanal"
     ],
     "name:dan_x_preferred":[
         "Frederiksholms Kanal"
     ],
+    "name:deu_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
     "name:eng_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:epo_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:est_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:eus_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:fao_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:fin_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:fra_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:gla_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:gle_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:glg_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:glv_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:hrv_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:hun_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ind_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:isl_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ita_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ec\u30c7\u30ea\u30af\u30b9\u30db\u30eb\u30e0\u30b9\u904b\u6cb3"
+    ],
+    "name:lav_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:lit_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ltz_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:mlt_x_preferred":[
         "Frederiksholms Kanal"
     ],
     "name:nld_x_preferred":[
         "Frederiksholms Kanal"
     ],
+    "name:nno_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
     "name:nob_x_preferred":[
         "Frederiksholms Kanal"
     ],
+    "name:nrm_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:oci_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:pms_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:pol_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:por_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:roh_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ron_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:slk_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:slv_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:spa_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:sqi_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
     "name:swe_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:tah_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:tur_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b \u0424\u0440\u0435\u0434\u0435\u0440\u0456\u043a\u0433\u043e\u043b\u044c\u043c\u0437"
+    ],
+    "name:wln_x_preferred":[
+        "Frederiksholms Kanal"
+    ],
+    "name:zul_x_preferred":[
         "Frederiksholms Kanal"
     ],
     "src:geom":"unknown",
@@ -57,7 +207,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871930,
-    "wof:geomhash":"8087d3f5c5dd8fc0d3427ae232127efd",
+    "wof:geomhash":"9bc07317765d014b799bfca5db9f53f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +219,7 @@
         }
     ],
     "wof:id":420784563,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874774,
     "wof:name":"Frederiksholm",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -79,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.6049404777454,
-    55.68088743047576,
-    12.6049404777454,
-    55.68088743047576
+    12.60494,
+    55.680887,
+    12.60494,
+    55.680887
 ],
-  "geometry": {"coordinates":[12.6049404777454,55.68088743047576],"type":"Point"}
+  "geometry": {"coordinates":[12.60494,55.680887],"type":"Point"}
 }

@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Vestervig"
     ],
+    "name:ast_x_preferred":[
+        "Vestervig"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0442\u0435\u0440\u0432\u0438\u0433"
     ],
@@ -47,6 +50,9 @@
         "Vestervig"
     ],
     "name:nob_x_preferred":[
+        "Vestervig"
+    ],
+    "name:pol_x_preferred":[
         "Vestervig"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1125883039,
-    "wof:lastmodified":1566722066,
+    "wof:lastmodified":1690874793,
     "wof:name":"Vestervig",
     "wof:parent_id":1394014009,
     "wof:placetype":"locality",

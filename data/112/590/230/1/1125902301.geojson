@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Skalborg"
     ],
+    "name:nob_x_preferred":[
+        "Skalborg"
+    ],
     "name:spa_x_preferred":[
         "Skalborg"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125902301,
-    "wof:lastmodified":1566722081,
+    "wof:lastmodified":1690874802,
     "wof:name":"Skalborg",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

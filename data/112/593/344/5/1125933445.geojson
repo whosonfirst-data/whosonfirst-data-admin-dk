@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kundby"
+    ],
     "name:dan_x_preferred":[
         "Kundby"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125933445,
-    "wof:lastmodified":1566722041,
+    "wof:lastmodified":1690874781,
     "wof:name":"Kundby",
     "wof:parent_id":1159297717,
     "wof:placetype":"locality",

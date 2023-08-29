@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kloster"
+    ],
     "name:dan_x_preferred":[
         "Kloster"
     ],
@@ -29,6 +32,9 @@
         "Kloster"
     ],
     "name:nld_x_preferred":[
+        "Kloster"
+    ],
+    "name:pol_x_preferred":[
         "Kloster"
     ],
     "qs_pg:aaroncc":"DK",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125940389,
-    "wof:lastmodified":1566722031,
+    "wof:lastmodified":1690874777,
     "wof:name":"Kloster",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

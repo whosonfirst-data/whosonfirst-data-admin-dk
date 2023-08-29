@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sorthat-Muleby"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0435\u0431\u0439"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125999323,
-    "wof:lastmodified":1566722077,
+    "wof:lastmodified":1690874799,
     "wof:name":"Muleby",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

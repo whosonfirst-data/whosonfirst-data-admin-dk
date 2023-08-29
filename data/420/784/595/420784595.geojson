@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.54947952,55.6952893154,12.54947952,55.6952893154",
+    "geom:bbox":"12.54948,55.695289,12.54948,55.695289",
     "geom:latitude":55.695289,
     "geom:longitude":12.54948,
     "iso:country":"DK",
@@ -53,6 +53,12 @@
     "name:ita_x_preferred":[
         "N\u00f8rrebro"
     ],
+    "name:kor_x_preferred":[
+        "\ub1cc\ub808\ube0c\ub85c"
+    ],
+    "name:lav_x_preferred":[
+        "N\u0113rebro"
+    ],
     "name:nld_x_preferred":[
         "N\u00f8rrebro"
     ],
@@ -69,6 +75,9 @@
         "N\u00f8rrebro"
     ],
     "name:swe_x_preferred":[
+        "N\u00f8rrebro"
+    ],
+    "name:tur_x_preferred":[
         "N\u00f8rrebro"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +99,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"26f12c188a7a7241df0b1bfc2a0ec738",
+    "wof:geomhash":"37eacbbde393eec677547cbfb4f275b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":420784595,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874772,
     "wof:name":"N\u00f8rrebro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -112,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.54947951996959,
-    55.69528931543174,
-    12.54947951996959,
-    55.69528931543174
+    12.54948,
+    55.695289,
+    12.54948,
+    55.695289
 ],
-  "geometry": {"coordinates":[12.54947951996959,55.69528931543174],"type":"Point"}
+  "geometry": {"coordinates":[12.54948,55.695289],"type":"Point"}
 }

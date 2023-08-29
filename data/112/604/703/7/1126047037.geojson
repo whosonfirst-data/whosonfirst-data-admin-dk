@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u0441\u043a\u0430\u045e"
+    ],
+    "name:cat_x_preferred":[
+        "Risskov"
+    ],
     "name:dan_x_preferred":[
         "Risskov"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1126047037,
-    "wof:lastmodified":1566722053,
+    "wof:lastmodified":1690874788,
     "wof:name":"Risskov",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

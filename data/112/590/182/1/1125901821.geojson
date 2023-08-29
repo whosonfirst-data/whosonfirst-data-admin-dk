@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hemmet"
+    ],
     "name:dan_x_preferred":[
         "Hemmet"
     ],
@@ -29,6 +32,9 @@
         "Hemmet"
     ],
     "name:nld_x_preferred":[
+        "Hemmet"
+    ],
+    "name:pol_x_preferred":[
         "Hemmet"
     ],
     "qs_pg:aaroncc":"DK",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1125901821,
-    "wof:lastmodified":1566722081,
+    "wof:lastmodified":1690874802,
     "wof:name":"Hemme",
     "wof:parent_id":1394014019,
     "wof:placetype":"locality",

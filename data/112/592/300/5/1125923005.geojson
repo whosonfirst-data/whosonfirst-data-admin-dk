@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kettinge"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0442\u0438\u043d\u0433\u0435"
     ],
@@ -35,6 +38,9 @@
         "Kettinge"
     ],
     "name:nld_x_preferred":[
+        "Kettinge"
+    ],
+    "name:pol_x_preferred":[
         "Kettinge"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125923005,
-    "wof:lastmodified":1566722041,
+    "wof:lastmodified":1690874781,
     "wof:name":"Kettinge",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",

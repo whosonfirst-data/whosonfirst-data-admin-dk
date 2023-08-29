@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5573044217,55.655199242,12.5573044217,55.655199242",
+    "geom:bbox":"12.557304,55.655199,12.557304,55.655199",
     "geom:latitude":55.655199,
     "geom:longitude":12.557304,
     "iso:country":"DK",
@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Enghave Brygge"
     ],
+    "name:zho_x_preferred":[
+        "\u8349\u573a\u7801\u5934"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":255,
     "wof:belongsto":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871932,
-    "wof:geomhash":"f2e272448759a144023f6d9e76ff9dc1",
+    "wof:geomhash":"ec50d374b78fb57f62d31fbad6e07cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420784617,
-    "wof:lastmodified":1566722028,
+    "wof:lastmodified":1690874773,
     "wof:name":"Enghave Brygge",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.55730442167282,
-    55.6551992419683,
-    12.55730442167282,
-    55.6551992419683
+    12.557304,
+    55.655199,
+    12.557304,
+    55.655199
 ],
-  "geometry": {"coordinates":[12.55730442167282,55.6551992419683],"type":"Point"}
+  "geometry": {"coordinates":[12.557304,55.655199],"type":"Point"}
 }

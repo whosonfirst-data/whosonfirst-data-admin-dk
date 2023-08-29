@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Hjortsh\u00f8j"
+    ],
+    "name:cat_x_preferred":[
+        "Hjortsh\u00f8j"
+    ],
     "name:ceb_x_preferred":[
         "Hjortsh\u00f8j"
     ],
@@ -52,6 +58,9 @@
         "Hjortsh\u00f8j"
     ],
     "name:nob_x_preferred":[
+        "Hjortsh\u00f8j"
+    ],
+    "name:pol_x_preferred":[
         "Hjortsh\u00f8j"
     ],
     "name:spa_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":101875297,
-    "wof:lastmodified":1582331873,
+    "wof:lastmodified":1690874721,
     "wof:name":"Hjortsh\u00f8j",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

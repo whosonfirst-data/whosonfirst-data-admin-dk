@@ -49,6 +49,9 @@
     "name:nob_x_preferred":[
         "Egense"
     ],
+    "name:pol_x_preferred":[
+        "Egense"
+    ],
     "name:swe_x_preferred":[
         "Egense"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125790579,
-    "wof:lastmodified":1566722117,
+    "wof:lastmodified":1690874821,
     "wof:name":"Egense",
     "wof:parent_id":1159297743,
     "wof:placetype":"locality",

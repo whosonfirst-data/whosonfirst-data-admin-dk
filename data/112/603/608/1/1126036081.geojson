@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Udsholt Strand"
     ],
+    "name:pol_x_preferred":[
+        "Udsholt Strand"
+    ],
     "name:spa_x_preferred":[
         "Udsholt Strand"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126036081,
-    "wof:lastmodified":1566722057,
+    "wof:lastmodified":1690874790,
     "wof:name":"Udsholt Sand",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

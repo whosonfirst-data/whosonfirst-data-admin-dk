@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":35994.448838,
-    "geom:bbox":"12.5965118408,55.6837785504,12.5999450684,55.6858482845",
+    "geom:bbox":"12.596512,55.683779,12.599945,55.685848",
     "geom:latitude":55.684623,
     "geom:longitude":12.598438,
     "iso:country":"DK",
@@ -25,6 +25,39 @@
     "mz:min_zoom":20.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:arg_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:ast_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:bar_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:bos_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:bre_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:cat_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:ces_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:cor_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:cos_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:cym_x_preferred":[
+        "Amaliegade"
+    ],
     "name:dan_x_preferred":[
         "Amaliegade"
     ],
@@ -34,16 +67,64 @@
     "name:eng_x_preferred":[
         "Amaliegade"
     ],
+    "name:epo_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:est_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:eus_x_preferred":[
+        "Amaliegade"
+    ],
     "name:fao_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:fin_x_preferred":[
         "Amaliegade"
     ],
     "name:fra_x_preferred":[
         "Amaliegade"
     ],
+    "name:gla_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:gle_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:glg_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:glv_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:hrv_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:hun_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:ind_x_preferred":[
+        "Amaliegade"
+    ],
     "name:isl_x_preferred":[
         "Amaliegade"
     ],
+    "name:ita_x_preferred":[
+        "Amaliegade"
+    ],
     "name:kal_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:lav_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:lit_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:ltz_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:mlt_x_preferred":[
         "Amaliegade"
     ],
     "name:nld_x_preferred":[
@@ -58,11 +139,56 @@
     "name:nor_x_preferred":[
         "Amaliegade"
     ],
+    "name:nrm_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:oci_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:pms_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:pol_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:por_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:roh_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:ron_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:slk_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:slv_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:spa_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:sqi_x_preferred":[
+        "Amaliegade"
+    ],
     "name:swe_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:tah_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:tur_x_preferred":[
+        "Amaliegade"
+    ],
+    "name:wln_x_preferred":[
         "Amaliegade"
     ],
     "name:zho_x_preferred":[
         "\u963f\u99ac\u6797\u8857"
+    ],
+    "name:zul_x_preferred":[
+        "Amaliegade"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_id":0,
@@ -106,7 +232,7 @@
         "wd:id":"Q3432062"
     },
     "wof:country":"DK",
-    "wof:geomhash":"529eec97e262033770563ad4e886f8dd",
+    "wof:geomhash":"684b8c933c95688bbab4425103dd3135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +244,7 @@
         }
     ],
     "wof:id":85905809,
-    "wof:lastmodified":1566721566,
+    "wof:lastmodified":1690874666,
     "wof:name":"Amaliegade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -128,10 +254,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.59651184080008,
-    55.6837785503502,
-    12.59994506840007,
-    55.68584828452144
+    12.596512,
+    55.683779,
+    12.599945,
+    55.685848
 ],
-  "geometry": {"coordinates":[[[12.59904734609211,55.68584828452144],[12.59992905016873,55.68532693510004],[12.59994506840007,55.68532693510004],[12.59994506838348,55.68531746357452],[12.59994506838348,55.6845527491334],[12.59994506838763,55.68377855098772],[12.59857177731681,55.6837785503502],[12.59742470545984,55.68377855035028],[12.5971984863001,55.68377855290005],[12.5971984863001,55.68416565351562],[12.59651184080013,55.68416565360631],[12.59651184080008,55.68455275115845],[12.59651184080013,55.68493984470634],[12.5971984863001,55.68493984471947],[12.5971984863001,55.68532693510004],[12.5974247013238,55.68532693370746],[12.59857177731476,55.68532693286885],[12.59872943544639,55.68560659708338],[12.59904734609211,55.68584828452144]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.599047,55.685848],[12.599929,55.685327],[12.599945,55.685327],[12.599945,55.685317],[12.599945,55.684553],[12.599945,55.683779],[12.598572,55.683779],[12.597425,55.683779],[12.597198,55.683779],[12.597198,55.684166],[12.596512,55.684166],[12.596512,55.684553],[12.596512,55.68494],[12.597198,55.68494],[12.597198,55.685327],[12.597425,55.685327],[12.598572,55.685327],[12.598729,55.685607],[12.599047,55.685848]]],"type":"Polygon"}
 }

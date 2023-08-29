@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Astrup"
+    ],
     "name:bar_x_preferred":[
         "Astrup"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "\u00d8ster Astrup"
+    ],
+    "name:uzb_x_preferred":[
+        "Astrup"
     ],
     "name:vol_x_preferred":[
         "Astrup"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125791965,
-    "wof:lastmodified":1566722116,
+    "wof:lastmodified":1690874820,
     "wof:name":"Astrup",
     "wof:parent_id":1394014035,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5859003604,55.6884599675,12.5859003604,55.6884599675",
+    "geom:bbox":"12.5859,55.68846,12.5859,55.68846",
     "geom:latitude":55.68846,
     "geom:longitude":12.5859,
     "iso:country":"DK",
@@ -41,7 +41,13 @@
     "name:isl_x_preferred":[
         "Nyboder"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a4\u30dc\u30fc\u30c0\u30fc"
+    ],
     "name:kal_x_preferred":[
+        "Nyboder"
+    ],
+    "name:nld_x_preferred":[
         "Nyboder"
     ],
     "name:nno_x_preferred":[
@@ -52,6 +58,12 @@
     ],
     "name:swe_x_preferred":[
         "Nyboder"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0431\u043e\u0434\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4f2f\u5fb7"
     ],
     "src:geom":"unknown",
     "wd:latitude":55.6889,
@@ -71,7 +83,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871933,
-    "wof:geomhash":"b665526a27ef8d392715a68bee374a80",
+    "wof:geomhash":"89377e79ef56a02173e60b51e3a090e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":420784655,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874774,
     "wof:name":"Nyboder",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -93,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.58590036043832,
-    55.6884599674559,
-    12.58590036043832,
-    55.6884599674559
+    12.5859,
+    55.68846,
+    12.5859,
+    55.68846
 ],
-  "geometry": {"coordinates":[12.58590036043832,55.6884599674559],"type":"Point"}
+  "geometry": {"coordinates":[12.5859,55.68846],"type":"Point"}
 }

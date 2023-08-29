@@ -22,7 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:bar_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:cat_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
     "name:dan_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:deu_x_preferred":[
         "Kvistg\u00e5rd"
     ],
     "name:eng_x_preferred":[
@@ -32,6 +44,9 @@
         "Kvistg\u00e5rd"
     ],
     "name:nld_x_preferred":[
+        "Kvistg\u00e5rd"
+    ],
+    "name:pol_x_preferred":[
         "Kvistg\u00e5rd"
     ],
     "name:spa_x_preferred":[
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":1125865473,
-    "wof:lastmodified":1566722062,
+    "wof:lastmodified":1690874791,
     "wof:name":"Kvistg\u00e5rd",
     "wof:parent_id":1394014013,
     "wof:placetype":"locality",

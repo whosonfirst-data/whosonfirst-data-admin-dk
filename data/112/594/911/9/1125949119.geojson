@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ramme"
+    ],
     "name:dan_x_preferred":[
         "Ramme"
     ],
@@ -29,6 +32,9 @@
         "Ramme"
     ],
     "name:nld_x_preferred":[
+        "Ramme"
+    ],
+    "name:pol_x_preferred":[
         "Ramme"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125949119,
-    "wof:lastmodified":1566722034,
+    "wof:lastmodified":1690874778,
     "wof:name":"Ramme",
     "wof:parent_id":1394014075,
     "wof:placetype":"locality",

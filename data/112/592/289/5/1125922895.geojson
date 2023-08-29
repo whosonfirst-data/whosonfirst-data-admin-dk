@@ -40,6 +40,9 @@
     "name:fao_x_preferred":[
         "Hellerup"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0647\u200c\u0631\u0648\u067e"
+    ],
     "name:fin_x_preferred":[
         "Hellerup"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Hellerup"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043b\u043b\u0435\u0440\u0443\u043f"
     ],
     "name:zho_x_preferred":[
         "\u6d77\u52d2\u9b6f\u666e"
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1125922895,
-    "wof:lastmodified":1566722042,
+    "wof:lastmodified":1690874782,
     "wof:name":"Hellerup",
     "wof:parent_id":1394014115,
     "wof:placetype":"locality",

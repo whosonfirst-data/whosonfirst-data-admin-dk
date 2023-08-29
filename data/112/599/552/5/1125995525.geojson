@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Skovlunde"
     ],
+    "name:est_x_preferred":[
+        "Skovlunde"
+    ],
     "name:fao_x_preferred":[
         "Skovlunde"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125995525,
-    "wof:lastmodified":1566722077,
+    "wof:lastmodified":1690874800,
     "wof:name":"Skovlunde",
     "wof:parent_id":1394014129,
     "wof:placetype":"locality",

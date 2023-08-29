@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0644\u0628\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "Melby"
+    ],
     "name:dan_x_preferred":[
         "Melby"
     ],
@@ -53,6 +59,9 @@
         "Melby"
     ],
     "name:nob_x_preferred":[
+        "Melby"
+    ],
+    "name:pol_x_preferred":[
         "Melby"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1125806839,
-    "wof:lastmodified":1566722072,
+    "wof:lastmodified":1690874798,
     "wof:name":"Melby",
     "wof:parent_id":1159297739,
     "wof:placetype":"locality",

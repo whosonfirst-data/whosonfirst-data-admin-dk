@@ -25,7 +25,16 @@
     "name:dan_x_preferred":[
         "Dronningm\u00f8lle"
     ],
+    "name:deu_x_preferred":[
+        "Dronningm\u00f8lle"
+    ],
     "name:eng_x_preferred":[
+        "Dronningm\u00f8lle"
+    ],
+    "name:fin_x_preferred":[
+        "Dronningm\u00f8lle"
+    ],
+    "name:ind_x_preferred":[
         "Dronningm\u00f8lle"
     ],
     "name:nld_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125967647,
-    "wof:lastmodified":1566722087,
+    "wof:lastmodified":1690874805,
     "wof:name":"Dr\u00f8nningm\u00f8lle",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",

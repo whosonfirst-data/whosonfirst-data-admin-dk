@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "S\u00f8g\u00e5rd"
+    ],
     "name:dan_x_preferred":[
         "S\u00f8g\u00e5rd"
     ],
@@ -47,6 +50,9 @@
         "S\u00f8g\u00e5rd"
     ],
     "name:nob_x_preferred":[
+        "S\u00f8g\u00e5rd"
+    ],
+    "name:pol_x_preferred":[
         "S\u00f8g\u00e5rd"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125923169,
-    "wof:lastmodified":1566722043,
+    "wof:lastmodified":1690874783,
     "wof:name":"S\u00f8g\u00e5rd",
     "wof:parent_id":1394014093,
     "wof:placetype":"locality",

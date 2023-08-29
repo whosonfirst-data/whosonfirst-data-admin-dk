@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hvam"
+    ],
     "name:dan_x_preferred":[
         "Hvam"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:nob_x_preferred":[
         "Hvam"
+    ],
+    "name:pol_x_preferred":[
+        "Hvam Stationsby"
     ],
     "name:swe_x_preferred":[
         "Hvam"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125984499,
-    "wof:lastmodified":1566722095,
+    "wof:lastmodified":1690874808,
     "wof:name":"Hvam",
     "wof:parent_id":1394014051,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.5207977505,55.6576687514,12.5207977505,55.6576687514",
+    "geom:bbox":"12.520798,55.657669,12.520798,55.657669",
     "geom:latitude":55.657669,
     "geom:longitude":12.520798,
     "iso:country":"DK",
@@ -26,7 +26,16 @@
     "name:dan_x_preferred":[
         "Vigerslev"
     ],
+    "name:deu_x_preferred":[
+        "Vigerslev"
+    ],
     "name:eng_x_preferred":[
+        "Vigerslev"
+    ],
+    "name:fin_x_preferred":[
+        "Vigerslev"
+    ],
+    "name:swe_x_preferred":[
         "Vigerslev"
     ],
     "src:geom":"unknown",
@@ -45,7 +54,7 @@
     },
     "wof:country":"DK",
     "wof:created":1458871932,
-    "wof:geomhash":"196b7a04de2ad6b47f438878918e0259",
+    "wof:geomhash":"52c6717553f1cbf76e7e232b8518e1e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":420784609,
-    "wof:lastmodified":1566722029,
+    "wof:lastmodified":1690874775,
     "wof:name":"Vigerslev",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.52079775047244,
-    55.65766875136337,
-    12.52079775047244,
-    55.65766875136337
+    12.520798,
+    55.657669,
+    12.520798,
+    55.657669
 ],
-  "geometry": {"coordinates":[12.52079775047244,55.65766875136337],"type":"Point"}
+  "geometry": {"coordinates":[12.520798,55.657669],"type":"Point"}
 }

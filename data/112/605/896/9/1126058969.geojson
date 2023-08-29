@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "S\u00f8nderho"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00f8nderho"
+    ],
     "name:dan_x_preferred":[
         "S\u00f8nderho"
     ],
@@ -50,6 +56,9 @@
         "S\u00f8nderho"
     ],
     "name:nob_x_preferred":[
+        "S\u00f8nderho"
+    ],
+    "name:pol_x_preferred":[
         "S\u00f8nderho"
     ],
     "name:spa_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1126058969,
-    "wof:lastmodified":1566722051,
+    "wof:lastmodified":1690874787,
     "wof:name":"S\u00f8nderho",
     "wof:parent_id":1394014065,
     "wof:placetype":"locality",

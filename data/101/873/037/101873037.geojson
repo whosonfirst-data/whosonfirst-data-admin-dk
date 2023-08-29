@@ -100,6 +100,9 @@
     "name:swe_x_variant":[
         "Fakse"
     ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u514b\u745f"
+    ],
     "qs:a0":"Danmark",
     "qs:a1":"*Sj\u00e6lland",
     "qs:a1r":"0",
@@ -152,7 +155,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582331872,
+    "wof:lastmodified":1690874714,
     "wof:name":"Faxe",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",

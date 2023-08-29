@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Langeb\u00e6k"
     ],
+    "name:eng_x_variant":[
+        "Langeb\u00e6k Municipality"
+    ],
     "name:fao_x_preferred":[
         "Langeb\u00e6k"
     ],
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1125916709,
-    "wof:lastmodified":1566722093,
+    "wof:lastmodified":1690874807,
     "wof:name":"Langeb\u00e6k",
     "wof:parent_id":1394013993,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "Ish\u00f8j"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b9\u30db\u30a4"
+    ],
     "name:kal_x_preferred":[
         "Ish\u00f8j"
     ],
@@ -87,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Ish\u00f8j"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u970d\u4f0a"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1125957281,
-    "wof:lastmodified":1566722047,
+    "wof:lastmodified":1690874785,
     "wof:name":"Ish\u00f8j",
     "wof:parent_id":1394014145,
     "wof:placetype":"locality",

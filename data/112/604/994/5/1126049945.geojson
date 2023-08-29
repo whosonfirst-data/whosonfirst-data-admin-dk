@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Jerup"
     ],
+    "name:ast_x_preferred":[
+        "Jerup"
+    ],
     "name:dan_x_preferred":[
         "Jerup"
     ],
@@ -37,7 +40,13 @@
     "name:fra_x_preferred":[
         "Jerup"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30e9\u30c3\u30d7"
+    ],
     "name:nld_x_preferred":[
+        "Jerup"
+    ],
+    "name:pol_x_preferred":[
         "Jerup"
     ],
     "qs_pg:aaroncc":"DK",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1126049945,
-    "wof:lastmodified":1566722053,
+    "wof:lastmodified":1690874788,
     "wof:name":"Jerup",
     "wof:parent_id":1394014001,
     "wof:placetype":"locality",

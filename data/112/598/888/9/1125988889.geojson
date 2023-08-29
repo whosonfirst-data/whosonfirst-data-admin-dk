@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Oure"
+    ],
     "name:dan_x_preferred":[
         "Oure"
     ],
@@ -35,6 +38,9 @@
         "Oure"
     ],
     "name:nld_x_preferred":[
+        "Oure"
+    ],
+    "name:pol_x_preferred":[
         "Oure"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125988889,
-    "wof:lastmodified":1566722095,
+    "wof:lastmodified":1690874808,
     "wof:name":"Oure",
     "wof:parent_id":1394014043,
     "wof:placetype":"locality",

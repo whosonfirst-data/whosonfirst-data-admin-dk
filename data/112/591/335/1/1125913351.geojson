@@ -25,11 +25,20 @@
     "name:dan_x_preferred":[
         "Kokkedal"
     ],
+    "name:deu_x_preferred":[
+        "Kokkedal"
+    ],
     "name:eng_x_preferred":[
         "Kokkedal"
     ],
     "name:fra_x_preferred":[
         "Kokkedal"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056f\u056f\u0565\u0564\u0561\u056c"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30c3\u30b1\u30c0\u30eb"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043a\u0435\u0434\u0430\u043b"
@@ -48,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Kokkedal"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u514b\u4ee3\u723e"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125913351,
-    "wof:lastmodified":1566722092,
+    "wof:lastmodified":1690874806,
     "wof:name":"Kokkedal",
     "wof:parent_id":1394014147,
     "wof:placetype":"locality",

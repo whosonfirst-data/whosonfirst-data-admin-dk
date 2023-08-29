@@ -26,6 +26,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:ast_x_preferred":[
+        "Snekkersten"
+    ],
+    "name:cat_x_preferred":[
+        "Snekkersten"
+    ],
     "name:dan_x_preferred":[
         "Snekkersten"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Snekkersten"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5185\u514b\u65af\u6ed5"
     ],
     "qs:gn_adm0_cc":"DK",
     "qs:gn_fcode":"PPL",
@@ -128,7 +137,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1582331843,
+    "wof:lastmodified":1690874678,
     "wof:name":"Snekkersten",
     "wof:parent_id":101818397,
     "wof:placetype":"neighbourhood",

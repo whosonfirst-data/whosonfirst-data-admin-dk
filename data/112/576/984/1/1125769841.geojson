@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Voervadsbro"
     ],
+    "name:pol_x_preferred":[
+        "Voervadsbro"
+    ],
     "name:und_x_variant":[
         "Vorvadbro"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125769841,
-    "wof:lastmodified":1566722108,
+    "wof:lastmodified":1690874816,
     "wof:name":"Voervadsbro",
     "wof:parent_id":1394014083,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hem"
+    ],
     "name:dan_x_preferred":[
         "Hem"
     ],
@@ -29,6 +32,9 @@
         "Hem"
     ],
     "name:nld_x_preferred":[
+        "Hem"
+    ],
+    "name:pol_x_preferred":[
         "Hem"
     ],
     "qs_pg:aaroncc":"DK",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1125933259,
-    "wof:lastmodified":1566722037,
+    "wof:lastmodified":1690874779,
     "wof:name":"Hem",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",

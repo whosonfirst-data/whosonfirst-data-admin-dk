@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tranebjerg"
+    ],
     "name:cat_x_preferred":[
         "Tranebjerg"
     ],
@@ -58,7 +61,13 @@
     "name:nob_x_preferred":[
         "Tranebjerg"
     ],
+    "name:pol_x_preferred":[
+        "Tranebjerg"
+    ],
     "name:spa_x_preferred":[
+        "Tranebjerg"
+    ],
+    "name:sqi_x_preferred":[
         "Tranebjerg"
     ],
     "name:swe_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Tranebierg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8328\u62c9\u8a25\u6bd4\u7d04"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":"DK",
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1125858875,
-    "wof:lastmodified":1566722109,
+    "wof:lastmodified":1690874817,
     "wof:name":"Tranebjerg",
     "wof:parent_id":1159297735,
     "wof:placetype":"locality",

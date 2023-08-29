@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":21020.499692,
-    "geom:bbox":"12.5927392845,55.6833879064,12.5951385498,55.685326933",
+    "geom:bbox":"12.592739,55.683388,12.595139,55.685327",
     "geom:latitude":55.684444,
-    "geom:longitude":12.593845,
+    "geom:longitude":12.593846,
     "iso:country":"DK",
     "lbl:latitude":55.684096,
     "lbl:longitude":12.59356,
@@ -25,6 +25,39 @@
     "mz:min_zoom":17.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:afr_x_preferred":[
+        "Bredgade"
+    ],
+    "name:arg_x_preferred":[
+        "Bredgade"
+    ],
+    "name:ast_x_preferred":[
+        "Bredgade"
+    ],
+    "name:bar_x_preferred":[
+        "Bredgade"
+    ],
+    "name:bos_x_preferred":[
+        "Bredgade"
+    ],
+    "name:bre_x_preferred":[
+        "Bredgade"
+    ],
+    "name:cat_x_preferred":[
+        "Bredgade"
+    ],
+    "name:ces_x_preferred":[
+        "Bredgade"
+    ],
+    "name:cor_x_preferred":[
+        "Bredgade"
+    ],
+    "name:cos_x_preferred":[
+        "Bredgade"
+    ],
+    "name:cym_x_preferred":[
+        "Bredgade"
+    ],
     "name:dan_x_preferred":[
         "Bredgade"
     ],
@@ -34,16 +67,67 @@
     "name:eng_x_preferred":[
         "Bredgade"
     ],
+    "name:epo_x_preferred":[
+        "Bredgade"
+    ],
+    "name:est_x_preferred":[
+        "Bredgade"
+    ],
+    "name:eus_x_preferred":[
+        "Bredgade"
+    ],
     "name:fao_x_preferred":[
+        "Bredgade"
+    ],
+    "name:fin_x_preferred":[
         "Bredgade"
     ],
     "name:fra_x_preferred":[
         "Bredgade"
     ],
+    "name:gla_x_preferred":[
+        "Bredgade"
+    ],
+    "name:gle_x_preferred":[
+        "Bredgade"
+    ],
+    "name:glg_x_preferred":[
+        "Bredgade"
+    ],
+    "name:glv_x_preferred":[
+        "Bredgade"
+    ],
+    "name:hrv_x_preferred":[
+        "Bredgade"
+    ],
+    "name:hun_x_preferred":[
+        "Bredgade"
+    ],
+    "name:ind_x_preferred":[
+        "Bredgade"
+    ],
     "name:isl_x_preferred":[
         "Bredgade"
     ],
+    "name:ita_x_preferred":[
+        "Bredgade"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30c9\u30b2\u30fc\u30c7"
+    ],
     "name:kal_x_preferred":[
+        "Bredgade"
+    ],
+    "name:lav_x_preferred":[
+        "Bredgade"
+    ],
+    "name:lit_x_preferred":[
+        "Bredgade"
+    ],
+    "name:ltz_x_preferred":[
+        "Bredgade"
+    ],
+    "name:mlt_x_preferred":[
         "Bredgade"
     ],
     "name:nld_x_preferred":[
@@ -58,7 +142,52 @@
     "name:nor_x_preferred":[
         "Bredgade"
     ],
+    "name:nrm_x_preferred":[
+        "Bredgade"
+    ],
+    "name:oci_x_preferred":[
+        "Bredgade"
+    ],
+    "name:pms_x_preferred":[
+        "Bredgade"
+    ],
+    "name:pol_x_preferred":[
+        "Bredgade"
+    ],
+    "name:por_x_preferred":[
+        "Bredgade"
+    ],
+    "name:roh_x_preferred":[
+        "Bredgade"
+    ],
+    "name:ron_x_preferred":[
+        "Bredgade"
+    ],
+    "name:slk_x_preferred":[
+        "Bredgade"
+    ],
+    "name:slv_x_preferred":[
+        "Bredgade"
+    ],
+    "name:spa_x_preferred":[
+        "Bredgade"
+    ],
+    "name:sqi_x_preferred":[
+        "Bredgade"
+    ],
     "name:swe_x_preferred":[
+        "Bredgade"
+    ],
+    "name:tah_x_preferred":[
+        "Bredgade"
+    ],
+    "name:tur_x_preferred":[
+        "Bredgade"
+    ],
+    "name:wln_x_preferred":[
+        "Bredgade"
+    ],
+    "name:zul_x_preferred":[
         "Bredgade"
     ],
     "qs:gn_adm0_cc":"DK",
@@ -103,7 +232,7 @@
         "wd:id":"Q3432537"
     },
     "wof:country":"DK",
-    "wof:geomhash":"2904d94fe8dfe145f0defab07eb9684a",
+    "wof:geomhash":"d0adf0bc1e668cb90cad0e3586085019",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +244,7 @@
         }
     ],
     "wof:id":85905845,
-    "wof:lastmodified":1566721565,
+    "wof:lastmodified":1690874665,
     "wof:name":"Bredgade",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
@@ -125,10 +254,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.59273928445754,
-    55.68338790644212,
-    12.59513854980014,
-    55.68532693297506
+    12.592739,
+    55.683388,
+    12.595139,
+    55.685327
 ],
-  "geometry": {"coordinates":[[[12.59445190430029,55.6849540244652],[12.59513055201245,55.68455275170005],[12.59513854980014,55.68455275170005],[12.59513854980014,55.68454802274515],[12.59513854980014,55.68416565360631],[12.59445190430029,55.68416565360631],[12.59445190430023,55.6839791874349],[12.59445190430023,55.68377855290005],[12.59445190430023,55.68358500067505],[12.59410858151267,55.68358500068759],[12.59402774057634,55.68344160521876],[12.59388635556002,55.68339144779999],[12.5938763730897,55.68338790644212],[12.59387437660558,55.68339144779999],[12.59376525878554,55.68358500066883],[12.59342193601577,55.68358500065951],[12.59342193601577,55.68377855274393],[12.59307861330001,55.68377855241512],[12.59273928445754,55.68377855159854],[12.59280475436981,55.68397210377513],[12.59286353666511,55.68449345934415],[12.59285239522569,55.68455274785008],[12.59307861330001,55.6849540244652],[12.59307861330001,55.68532693297506],[12.59445190430012,55.68532693297506],[12.59445190430029,55.6849540244652]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[12.594452,55.684954],[12.595131,55.684553],[12.595139,55.684553],[12.595139,55.684548],[12.595139,55.684166],[12.594452,55.684166],[12.594452,55.683979],[12.594452,55.683779],[12.594452,55.683585],[12.594109,55.683585],[12.594028,55.683442],[12.593886,55.683391],[12.593876,55.683388],[12.593874,55.683391],[12.593765,55.683585],[12.593422,55.683585],[12.593422,55.683779],[12.593079,55.683779],[12.592739,55.683779],[12.592805,55.683972],[12.592864,55.684493],[12.592852,55.684553],[12.593079,55.684954],[12.593079,55.685327],[12.594452,55.685327],[12.594452,55.684954]]],"type":"Polygon"}
 }

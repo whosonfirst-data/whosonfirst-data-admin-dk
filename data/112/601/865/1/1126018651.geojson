@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00e6kke"
+    ],
     "name:dan_x_preferred":[
         "B\u00e6kke"
     ],
@@ -32,6 +35,9 @@
         "B\u00e6kke"
     ],
     "name:nob_x_preferred":[
+        "B\u00e6kke"
+    ],
+    "name:pol_x_preferred":[
         "B\u00e6kke"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1126018651,
-    "wof:lastmodified":1566722103,
+    "wof:lastmodified":1690874814,
     "wof:name":"B\u00e6kke",
     "wof:parent_id":1159297751,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Lisbjerg"
+    ],
     "name:dan_x_preferred":[
         "Lisbjerg"
     ],
@@ -35,6 +38,9 @@
         "Lisbjerg"
     ],
     "name:nld_x_preferred":[
+        "Lisbjerg"
+    ],
+    "name:pol_x_preferred":[
         "Lisbjerg"
     ],
     "name:und_x_variant":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125992983,
-    "wof:lastmodified":1566722078,
+    "wof:lastmodified":1690874801,
     "wof:name":"Lisbjerg",
     "wof:parent_id":1394013977,
     "wof:placetype":"locality",

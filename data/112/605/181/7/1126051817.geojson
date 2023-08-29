@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.3218745,55.597674,12.3218745,55.597674",
+    "geom:bbox":"12.321874,55.597674,12.321874,55.597674",
     "geom:latitude":55.597674,
     "geom:longitude":12.321874,
     "gn:country":null,
@@ -23,6 +23,9 @@
     "name:dan_x_preferred":[
         "Hundige"
     ],
+    "name:deu_x_preferred":[
+        "Hundige"
+    ],
     "name:eng_x_preferred":[
         "Hundige"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:spa_x_preferred":[
         "Hundige"
+    ],
+    "name:swe_x_preferred":[
+        "Hundige"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u8fea\u5384"
     ],
     "qs_pg:aaroncc":"DK",
     "qs_pg:gn_country":null,
@@ -72,7 +81,7 @@
     },
     "wof:country":"DK",
     "wof:created":1497302807,
-    "wof:geomhash":"2f0b635f1bf7a193f7534a2aa8918e71",
+    "wof:geomhash":"826f0bffe7321fced23b4cbbb96f4e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1126051817,
-    "wof:lastmodified":1566722050,
+    "wof:lastmodified":1690874787,
     "wof:name":"Hundige",
     "wof:parent_id":1394014137,
     "wof:placetype":"locality",
@@ -93,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.3218745,
+    12.321874,
     55.597674,
-    12.3218745,
+    12.321874,
     55.597674
 ],
-  "geometry": {"coordinates":[12.3218745,55.597674],"type":"Point"}
+  "geometry": {"coordinates":[12.321874,55.597674],"type":"Point"}
 }

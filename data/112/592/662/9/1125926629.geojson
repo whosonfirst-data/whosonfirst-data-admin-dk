@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00c5sum"
+    ],
     "name:dan_x_preferred":[
         "\u00c5sum"
     ],
@@ -38,6 +41,9 @@
         "\u00c5sum"
     ],
     "name:nob_x_preferred":[
+        "\u00c5sum"
+    ],
+    "name:pol_x_preferred":[
         "\u00c5sum"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125926629,
-    "wof:lastmodified":1566722043,
+    "wof:lastmodified":1690874783,
     "wof:name":"\u00c5sum",
     "wof:parent_id":1394014029,
     "wof:placetype":"locality",

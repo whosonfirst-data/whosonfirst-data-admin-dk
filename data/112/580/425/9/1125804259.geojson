@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Erslev"
+    ],
     "name:dan_x_preferred":[
         "Erslev"
     ],
@@ -37,7 +40,16 @@
     "name:nld_x_preferred":[
         "Erslev"
     ],
+    "name:nob_x_preferred":[
+        "Erslev"
+    ],
+    "name:pol_x_preferred":[
+        "Erslev"
+    ],
     "name:spa_x_preferred":[
+        "Erslev"
+    ],
+    "name:swe_x_preferred":[
         "Erslev"
     ],
     "name:und_x_variant":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125804259,
-    "wof:lastmodified":1566722069,
+    "wof:lastmodified":1690874795,
     "wof:name":"Erslev",
     "wof:parent_id":1394014007,
     "wof:placetype":"locality",

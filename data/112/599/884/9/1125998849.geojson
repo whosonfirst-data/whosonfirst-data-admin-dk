@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Gudhjem"
+    ],
     "name:bar_x_preferred":[
+        "Gudhjem"
+    ],
+    "name:cat_x_preferred":[
         "Gudhjem"
     ],
     "name:ceb_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:glg_x_preferred":[
         "Gudhjem"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\ub4dc\uc618"
     ],
     "name:ltz_x_preferred":[
         "Gudhjem"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1125998849,
-    "wof:lastmodified":1566722078,
+    "wof:lastmodified":1690874800,
     "wof:name":"Gudhjem",
     "wof:parent_id":1394013995,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Sor\u00f8"
     ],
+    "name:aze_x_preferred":[
+        "Soryo"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u043e\u0440\u044d"
     ],
@@ -33,6 +36,9 @@
         "Sor\u00f8"
     ],
     "name:ces_x_preferred":[
+        "Sor\u00f8"
+    ],
+    "name:cor_x_preferred":[
         "Sor\u00f8"
     ],
     "name:cym_x_preferred":[
@@ -54,6 +60,9 @@
     "name:est_x_preferred":[
         "Sor\u00f8"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sor\u00f8"
     ],
@@ -66,11 +75,20 @@
     "name:fry_x_preferred":[
         "Sor\u00f8"
     ],
+    "name:gle_x_preferred":[
+        "Sor\u00f8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Sor\u00f8"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0580\u0575\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Sor\u00f8"
     ],
     "name:isl_x_preferred":[
         "S\u00f3rey"
@@ -136,6 +154,9 @@
         "\u0421\u043e\u0440\u0435"
     ],
     "name:swe_x_preferred":[
+        "Sor\u00f8"
+    ],
+    "name:tur_x_preferred":[
         "Sor\u00f8"
     ],
     "name:ukr_x_preferred":[
@@ -262,8 +283,8 @@
     "wd:wordcount":154,
     "wof:belongsto":[
         102191581,
-        85633121,
         1394014099,
+        85633121,
         85682589
     ],
     "wof:breaches":[],
@@ -296,7 +317,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1607462676,
+    "wof:lastmodified":1690874694,
     "wof:name":"Sor\u00f8",
     "wof:parent_id":1394014099,
     "wof:placetype":"locality",
