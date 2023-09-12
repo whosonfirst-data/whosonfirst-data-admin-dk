@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25086,
-    "geom:area_square_m":1452794732.776515,
+    "geom:area_square_m":1452794732.776484,
     "geom:bbox":"-7.690255,61.392337,-6.284644,62.397333",
     "geom:latitude":62.072359,
     "geom:longitude":-6.895992,
@@ -13,6 +13,9 @@
     "iso:parent":"DK",
     "itu:country_code":[
         "298"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "FO"
@@ -865,6 +868,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"298",
     "statoids:ds":"FO",
     "statoids:fifa":"FRO",
@@ -909,7 +913,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "wof:geomhash":"daf13843276751f5422ecbb2f8eb85c1",
+    "wof:geomhash":"83e3a5d8ab501f16a82d8f92e871d5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -918,15 +922,15 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1617827461,
+    "wof:lastmodified":1694493029,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
-    "wof:population":48856,
-    "wof:population_rank":7,
+    "wof:population":48678,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:shortcode":"FO",
     "wof:superseded_by":[],

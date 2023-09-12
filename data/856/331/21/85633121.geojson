@@ -23,6 +23,9 @@
     "itu:country_code":[
         "45"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "DK"
     ],
@@ -1331,7 +1334,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"b912299e5845dd14f3396b793eafd2ad",
+    "wof:geomhash":"b8ac920ea96e984af602c9e6c681dc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1348,7 +1351,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1690874672,
+    "wof:lastmodified":1694492249,
     "wof:name":"Denmark",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
