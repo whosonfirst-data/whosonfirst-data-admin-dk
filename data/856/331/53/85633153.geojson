@@ -868,7 +868,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"298",
     "statoids:ds":"FO",
     "statoids:fifa":"FRO",
@@ -922,7 +922,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1694493029,
+    "wof:lastmodified":1694639811,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",
