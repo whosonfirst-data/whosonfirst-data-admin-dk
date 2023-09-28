@@ -414,17 +414,23 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":25022,
+        "dk-geodk:code":"1083",
         "eurostat:nuts_2021_id":"DK03",
         "fips:code":"DA21",
         "gn:id":6418542,
         "gp:id":28362581,
         "hasc:id":"DK.SD",
+        "iso:code":"DK-83",
         "iso:id":"DK-83",
         "unlc:id":"DK-83",
         "wd:id":"Q26061"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"DK",
-    "wof:geomhash":"85aab76441cbfa27a7e95a91a28078a9",
+    "wof:geomhash":"1b528192999e09dea92706a0b870fe30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -441,7 +447,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1690874675,
+    "wof:lastmodified":1695885161,
     "wof:name":"Southern",
     "wof:parent_id":85633121,
     "wof:placetype":"region",
