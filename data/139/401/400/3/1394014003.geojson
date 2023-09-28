@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":57.133592,
     "lbl:longitude":9.534246,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"849",
+        "dk-geodk:code_qualified":"1081849",
         "eg:gisco_id":"DK_849",
         "eurostat:nuts_2021_id":"849"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"358ff33df7b69f0ebc75a528a724203b",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352117,
+    "wof:lastmodified":1695876671,
     "wof:name":"Jammerbugt",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

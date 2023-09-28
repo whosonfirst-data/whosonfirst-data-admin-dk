@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.532854,
     "lbl:longitude":12.175457,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"269",
+        "dk-geodk:code_qualified":"1085269",
         "eg:gisco_id":"DK_269",
         "eurostat:nuts_2021_id":"269"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"8f03c64dd94fe0d1f1492bc9b5cea706",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352129,
+    "wof:lastmodified":1695876685,
     "wof:name":"Solrod",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.781735,
     "lbl:longitude":12.510815,
     "lbl:max_zoom":18.0,
@@ -72,9 +75,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"173",
+        "dk-geodk:code_qualified":"1084173",
         "eg:gisco_id":"DK_173",
         "eurostat:nuts_2021_id":"173"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700670,
     "wof:geomhash":"d16d107778cfcf9610bc44b5e00d4078",
@@ -93,7 +102,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352084,
+    "wof:lastmodified":1695876633,
     "wof:name":"Lyngby-Taarbaek",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

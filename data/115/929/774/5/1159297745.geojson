@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.297678,
     "lbl:longitude":9.906816,
     "lbl:max_zoom":18.0,
@@ -72,9 +75,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"710",
+        "dk-geodk:code_qualified":"1082710",
         "eg:gisco_id":"DK_710",
         "eurostat:nuts_2021_id":"710"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700684,
     "wof:geomhash":"c34928d6440cc341a91384d87cb41f29",
@@ -93,7 +102,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352095,
+    "wof:lastmodified":1695876645,
     "wof:name":"Favrskov",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

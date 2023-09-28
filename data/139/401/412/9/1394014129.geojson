@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.72901,
     "lbl:longitude":12.374804,
     "lbl:max_zoom":18.0,
@@ -115,9 +118,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"151",
+        "dk-geodk:code_qualified":"1084151",
         "eg:gisco_id":"DK_151",
         "eurostat:nuts_2021_id":"151"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"e6ffc903b079f4b7dbf1c45b0a6b4b41",
     "wof:hierarchy":[
@@ -135,7 +144,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352153,
+    "wof:lastmodified":1695876715,
     "wof:name":"Ballerup",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

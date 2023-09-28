@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.860453,
     "lbl:longitude":10.385656,
     "lbl:max_zoom":18.0,
@@ -134,9 +137,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"492",
+        "dk-geodk:code_qualified":"1083492",
         "eg:gisco_id":"DK_492",
         "eurostat:nuts_2021_id":"492"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"a7deb1623f28417c20b6c4e26f52bb70",
     "wof:hierarchy":[
@@ -155,7 +164,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352140,
+    "wof:lastmodified":1695876698,
     "wof:name":"Aero",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

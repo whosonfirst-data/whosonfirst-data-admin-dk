@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.624476,
     "lbl:longitude":12.112954,
     "lbl:max_zoom":18.0,
@@ -256,9 +259,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"265",
+        "dk-geodk:code_qualified":"1085265",
         "eg:gisco_id":"DK_265",
         "eurostat:nuts_2021_id":"265"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"a7a92c97eab4d54747e5676eedfc589a",
     "wof:hierarchy":[
@@ -276,7 +285,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352115,
+    "wof:lastmodified":1695876669,
     "wof:name":"Roskilde",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.273058,
     "lbl:longitude":12.081932,
     "lbl:max_zoom":18.0,
@@ -97,9 +100,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"320",
+        "dk-geodk:code_qualified":"1085320",
         "eg:gisco_id":"DK_320",
         "eurostat:nuts_2021_id":"320"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"9fdc104ce22d5e8029fc125c6045abaa",
     "wof:hierarchy":[
@@ -117,7 +126,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352154,
+    "wof:lastmodified":1695876717,
     "wof:name":"Faxe",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

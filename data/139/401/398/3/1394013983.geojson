@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.822893,
     "lbl:longitude":11.277346,
     "lbl:max_zoom":18.0,
@@ -208,9 +211,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"360",
+        "dk-geodk:code_qualified":"1085360",
         "eg:gisco_id":"DK_360",
         "eurostat:nuts_2021_id":"360"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"9fca8a0e9086e88c45c59b9a6685b9ae",
     "wof:hierarchy":[
@@ -228,7 +237,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352104,
+    "wof:lastmodified":1695876656,
     "wof:name":"Lolland",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

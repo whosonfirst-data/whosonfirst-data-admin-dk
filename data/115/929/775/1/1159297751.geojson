@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.459381,
     "lbl:longitude":9.05166,
     "lbl:max_zoom":18.0,
@@ -103,9 +106,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"575",
+        "dk-geodk:code_qualified":"1083575",
         "eg:gisco_id":"DK_575",
         "eurostat:nuts_2021_id":"575"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700687,
     "wof:geomhash":"bd41f9bf841d8c6cb3470c8935383e06",
@@ -125,7 +134,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352097,
+    "wof:lastmodified":1695876648,
     "wof:name":"Vejen",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

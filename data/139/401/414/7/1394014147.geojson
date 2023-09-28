@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.946809,
     "lbl:longitude":12.435435,
     "lbl:max_zoom":18.0,
@@ -109,9 +112,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"210",
+        "dk-geodk:code_qualified":"1084210",
         "eg:gisco_id":"DK_210",
         "eurostat:nuts_2021_id":"210"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"b7526a263388bb3a0b1cea06a318a77c",
     "wof:hierarchy":[
@@ -129,7 +138,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352155,
+    "wof:lastmodified":1695876718,
     "wof:name":"Fredensborg",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

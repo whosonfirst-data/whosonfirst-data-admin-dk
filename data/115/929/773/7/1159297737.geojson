@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":54.814822,
     "lbl:longitude":11.95036,
     "lbl:max_zoom":18.0,
@@ -108,9 +111,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"376",
+        "dk-geodk:code_qualified":"1085376",
         "eg:gisco_id":"DK_376",
         "eurostat:nuts_2021_id":"376"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700677,
     "wof:geomhash":"d942d529d0eb7b37eb2b2368bf8ab157",
@@ -129,7 +138,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352089,
+    "wof:lastmodified":1695876638,
     "wof:name":"Guldborgsund",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.698354,
     "lbl:longitude":12.571489,
     "lbl:max_zoom":18.0,
@@ -606,9 +609,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"101",
+        "dk-geodk:code_qualified":"1084101",
         "eg:gisco_id":"DK_101",
         "eurostat:nuts_2021_id":"101"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700672,
     "wof:geomhash":"cfba4ff261a5f5be843a98d01c4a0385",
@@ -627,7 +636,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352085,
+    "wof:lastmodified":1695876634,
     "wof:name":"Copenhagen",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

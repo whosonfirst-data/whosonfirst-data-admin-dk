@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.503482,
     "lbl:longitude":10.668336,
     "lbl:max_zoom":18.0,
@@ -121,9 +124,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"440",
+        "dk-geodk:code_qualified":"1083440",
         "eg:gisco_id":"DK_440",
         "eurostat:nuts_2021_id":"440"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700688,
     "wof:geomhash":"6eab7335b0e09563f633aac2c2050075",
@@ -143,7 +152,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352098,
+    "wof:lastmodified":1695876649,
     "wof:name":"Kerteminde",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

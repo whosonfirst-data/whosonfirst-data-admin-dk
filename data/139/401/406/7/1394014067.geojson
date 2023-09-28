@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.627139,
     "lbl:longitude":11.880457,
     "lbl:max_zoom":18.0,
@@ -112,9 +115,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"350",
+        "dk-geodk:code_qualified":"1085350",
         "eg:gisco_id":"DK_350",
         "eurostat:nuts_2021_id":"350"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"8cfafc66bc191108b21ca11ac19492a4",
     "wof:hierarchy":[
@@ -132,7 +141,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352139,
+    "wof:lastmodified":1695876697,
     "wof:name":"Lejre",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

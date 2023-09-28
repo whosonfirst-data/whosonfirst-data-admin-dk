@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":57.263467,
     "lbl:longitude":11.010176,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"825",
+        "dk-geodk:code_qualified":"1081825",
         "eg:gisco_id":"DK_825",
         "eurostat:nuts_2021_id":"825"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"594577603e28f2f6a39827dfcdf847de",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352107,
+    "wof:lastmodified":1695876659,
     "wof:name":"Laeso",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

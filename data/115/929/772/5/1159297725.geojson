@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.203869,
     "lbl:longitude":8.933449,
     "lbl:max_zoom":18.0,
@@ -216,9 +219,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"657",
+        "dk-geodk:code_qualified":"1082657",
         "eg:gisco_id":"DK_657",
         "eurostat:nuts_2021_id":"657"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700671,
     "wof:geomhash":"15de19390d45a778bc7fd0ecfd6d9bc5",
@@ -237,7 +246,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352084,
+    "wof:lastmodified":1695876633,
     "wof:name":"Herning",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

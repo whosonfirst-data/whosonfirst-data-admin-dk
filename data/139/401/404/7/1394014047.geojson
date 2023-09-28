@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.459626,
     "lbl:longitude":8.570655,
     "lbl:max_zoom":18.0,
@@ -76,9 +79,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"671",
+        "dk-geodk:code_qualified":"1082671",
         "eg:gisco_id":"DK_671",
         "eurostat:nuts_2021_id":"671"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"55b86f6746f2a56e56402e4e0730f95a",
     "wof:hierarchy":[
@@ -96,7 +105,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352131,
+    "wof:lastmodified":1695876688,
     "wof:name":"Struer",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.813064,
     "lbl:longitude":9.364557,
     "lbl:max_zoom":18.0,
@@ -72,9 +75,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"820",
+        "dk-geodk:code_qualified":"1081820",
         "eg:gisco_id":"DK_820",
         "eurostat:nuts_2021_id":"820"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700680,
     "wof:geomhash":"c5b3e7de0c26fdc46ca2814b7160a59d",
@@ -93,7 +102,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352092,
+    "wof:lastmodified":1695876641,
     "wof:name":"Vesthimmerland",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

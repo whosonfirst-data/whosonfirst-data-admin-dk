@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.933349,
     "lbl:longitude":8.523195,
     "lbl:max_zoom":18.0,
@@ -142,9 +145,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"787",
+        "dk-geodk:code_qualified":"1081787",
         "eg:gisco_id":"DK_787",
         "eurostat:nuts_2021_id":"787"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"efd69bd7194a5c56d08f16a8018ba219",
     "wof:hierarchy":[
@@ -162,7 +171,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352119,
+    "wof:lastmodified":1695876673,
     "wof:name":"Thisted",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

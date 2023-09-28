@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.457922,
     "lbl:longitude":11.820059,
     "lbl:max_zoom":18.0,
@@ -139,9 +142,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"329",
+        "dk-geodk:code_qualified":"1085329",
         "eg:gisco_id":"DK_329",
         "eurostat:nuts_2021_id":"329"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"ac78b9428e214e552e2156094cdd049a",
     "wof:hierarchy":[
@@ -159,7 +168,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352153,
+    "wof:lastmodified":1695876714,
     "wof:name":"Ringsted",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

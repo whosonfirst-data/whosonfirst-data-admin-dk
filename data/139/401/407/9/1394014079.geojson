@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.878078,
     "lbl:longitude":9.770007,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"840",
+        "dk-geodk:code_qualified":"1081840",
         "eg:gisco_id":"DK_840",
         "eurostat:nuts_2021_id":"840"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"23ce16b314ecfce45c0179629e8e3fe5",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352143,
+    "wof:lastmodified":1695876703,
     "wof:name":"Rebild",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

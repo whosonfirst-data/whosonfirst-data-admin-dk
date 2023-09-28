@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.326944,
     "lbl:longitude":12.334101,
     "lbl:max_zoom":18.0,
@@ -72,9 +75,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"336",
+        "dk-geodk:code_qualified":"1085336",
         "eg:gisco_id":"DK_336",
         "eurostat:nuts_2021_id":"336"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700664,
     "wof:geomhash":"b077e42857b9ccd4b91c3cabadc7739b",
@@ -93,7 +102,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352083,
+    "wof:lastmodified":1695876632,
     "wof:name":"Stevns",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.121776,
     "lbl:longitude":14.91034,
     "lbl:max_zoom":18.0,
@@ -268,9 +271,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"400",
+        "dk-geodk:code_qualified":"1084400",
         "eg:gisco_id":"DK_400",
         "eurostat:nuts_2021_id":"400"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"e31d7540cd0636b3da7567bc72fa8620",
     "wof:hierarchy":[
@@ -288,7 +297,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352112,
+    "wof:lastmodified":1695876665,
     "wof:name":"Bornholm",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

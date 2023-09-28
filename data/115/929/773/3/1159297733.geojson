@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.679988,
     "lbl:longitude":12.347031,
     "lbl:max_zoom":18.0,
@@ -93,9 +96,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"165",
+        "dk-geodk:code_qualified":"1084165",
         "eg:gisco_id":"DK_165",
         "eurostat:nuts_2021_id":"165"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700675,
     "wof:geomhash":"b7804c7a01863ef6207e610cccd8a0da",
@@ -114,7 +123,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352088,
+    "wof:lastmodified":1695876637,
     "wof:name":"Albertslund",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

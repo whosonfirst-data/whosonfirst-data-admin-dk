@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.061303,
     "lbl:longitude":8.858588,
     "lbl:max_zoom":18.0,
@@ -71,9 +74,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"550",
+        "dk-geodk:code_qualified":"1083550",
         "eg:gisco_id":"DK_550",
         "eurostat:nuts_2021_id":"550"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"ce966207222026cf00c30695d9e514ff",
     "wof:hierarchy":[
@@ -92,7 +101,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352147,
+    "wof:lastmodified":1695876707,
     "wof:name":"Tonder",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

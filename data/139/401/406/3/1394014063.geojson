@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.444515,
     "lbl:longitude":9.893097,
     "lbl:max_zoom":18.0,
@@ -116,9 +119,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"410",
+        "dk-geodk:code_qualified":"1083410",
         "eg:gisco_id":"DK_410",
         "eurostat:nuts_2021_id":"410"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"329cc3b369c9f16a4a7291c3a3f35592",
     "wof:hierarchy":[
@@ -137,7 +146,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352137,
+    "wof:lastmodified":1695876695,
     "wof:name":"Middelfart",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",
