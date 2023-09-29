@@ -396,17 +396,23 @@
     ],
     "wof:concordances":{
         "digitalenvoy:region_code":25023,
+        "dk-geodk:code":"1084",
         "eurostat:nuts_2021_id":"DK01",
         "fips:code":"DA17",
         "gn:id":6418538,
         "gp:id":28362583,
         "hasc:id":"DK.HS",
+        "iso:code":"DK-84",
         "iso:id":"DK-84",
         "unlc:id":"DK-84",
         "wd:id":"Q26073"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"DK",
-    "wof:geomhash":"05939ea846aae306fed867a334ad5da2",
+    "wof:geomhash":"57059baa04a3136790601c21bfb7506a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -423,7 +429,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1690874675,
+    "wof:lastmodified":1695885161,
     "wof:name":"Capital",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

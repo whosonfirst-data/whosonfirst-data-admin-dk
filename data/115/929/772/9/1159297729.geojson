@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.793708,
     "lbl:longitude":11.985618,
     "lbl:max_zoom":18.0,
@@ -111,9 +114,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"250",
+        "dk-geodk:code_qualified":"1084250",
         "eg:gisco_id":"DK_250",
         "eurostat:nuts_2021_id":"250"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700673,
     "wof:geomhash":"391b3d1dd5879f529c4d445a16dd9f1e",
@@ -132,7 +141,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352086,
+    "wof:lastmodified":1695876635,
     "wof:name":"Frederikssund",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

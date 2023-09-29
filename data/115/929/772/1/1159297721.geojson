@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.076149,
     "lbl:longitude":9.872121,
     "lbl:max_zoom":18.0,
@@ -126,9 +129,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"746",
+        "dk-geodk:code_qualified":"1082746",
         "eg:gisco_id":"DK_746",
         "eurostat:nuts_2021_id":"746"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700669,
     "wof:geomhash":"7e3ddccd0bbd1a105e2475d11832be8d",
@@ -147,7 +156,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352083,
+    "wof:lastmodified":1695876633,
     "wof:name":"Skanderborg",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

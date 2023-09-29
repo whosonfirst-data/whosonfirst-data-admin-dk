@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.973578,
     "lbl:longitude":9.924653,
     "lbl:max_zoom":18.0,
@@ -306,9 +309,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"851",
+        "dk-geodk:code_qualified":"1081851",
         "eg:gisco_id":"DK_851",
         "eurostat:nuts_2021_id":"851"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700682,
     "wof:geomhash":"0ce43081ff1f2327aa251b36152d710d",
@@ -327,7 +336,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352093,
+    "wof:lastmodified":1695876643,
     "wof:name":"Aalborg",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

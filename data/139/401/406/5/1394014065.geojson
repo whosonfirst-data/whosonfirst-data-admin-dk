@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.397337,
     "lbl:longitude":8.422977,
     "lbl:max_zoom":18.0,
@@ -224,9 +227,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"563",
+        "dk-geodk:code_qualified":"1083563",
         "eg:gisco_id":"DK_563",
         "eurostat:nuts_2021_id":"563"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"18b026b7171af80d3bf2772120ffe7a1",
     "wof:hierarchy":[
@@ -245,7 +254,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352138,
+    "wof:lastmodified":1695876696,
     "wof:name":"Fano",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

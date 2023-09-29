@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.187683,
     "lbl:longitude":9.539104,
     "lbl:max_zoom":18.0,
@@ -196,9 +199,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"740",
+        "dk-geodk:code_qualified":"1082740",
         "eg:gisco_id":"DK_740",
         "eurostat:nuts_2021_id":"740"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"f70c12cd9e5ec2f5fae1fb59c3903e72",
     "wof:hierarchy":[
@@ -216,7 +225,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352152,
+    "wof:lastmodified":1695876714,
     "wof:name":"Silkeborg",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

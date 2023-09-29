@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.79822,
     "lbl:longitude":12.374083,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"190",
+        "dk-geodk:code_qualified":"1084190",
         "eg:gisco_id":"DK_190",
         "eurostat:nuts_2021_id":"190"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"730af82dc28d3e5f5238f43a2c749040",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352137,
+    "wof:lastmodified":1695876695,
     "wof:name":"Fureso",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

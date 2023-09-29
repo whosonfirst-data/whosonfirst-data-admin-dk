@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":57.454705,
     "lbl:longitude":10.030574,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"860",
+        "dk-geodk:code_qualified":"1081860",
         "eg:gisco_id":"DK_860",
         "eurostat:nuts_2021_id":"860"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"109b629f12893f62dd68a30f21d596ec",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352156,
+    "wof:lastmodified":1695876718,
     "wof:name":"Hjorring",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

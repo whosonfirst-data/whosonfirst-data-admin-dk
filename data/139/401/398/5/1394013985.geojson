@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.631758,
     "lbl:longitude":11.237201,
     "lbl:max_zoom":18.0,
@@ -136,9 +139,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"326",
+        "dk-geodk:code_qualified":"1085326",
         "eg:gisco_id":"DK_326",
         "eurostat:nuts_2021_id":"326"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"dea2ab7ef9c5d4e8be6dc7f6ffa722a6",
     "wof:hierarchy":[
@@ -156,7 +165,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352105,
+    "wof:lastmodified":1695876657,
     "wof:name":"Kalundborg",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

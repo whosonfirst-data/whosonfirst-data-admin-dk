@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.73726,
     "lbl:longitude":8.953261,
     "lbl:max_zoom":18.0,
@@ -86,9 +89,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"530",
+        "dk-geodk:code_qualified":"1083530",
         "eg:gisco_id":"DK_530",
         "eurostat:nuts_2021_id":"530"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"5e39a745de1d4391297da63f12866540",
     "wof:hierarchy":[
@@ -107,7 +116,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352153,
+    "wof:lastmodified":1695876715,
     "wof:name":"Billund",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

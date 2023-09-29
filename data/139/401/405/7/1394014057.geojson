@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.593399,
     "lbl:longitude":12.646375,
     "lbl:max_zoom":18.0,
@@ -76,9 +79,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"155",
+        "dk-geodk:code_qualified":"1084155",
         "eg:gisco_id":"DK_155",
         "eurostat:nuts_2021_id":"155"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"0c948b0f44ae95dbdaf2d3652041ec7d",
     "wof:hierarchy":[
@@ -96,7 +105,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352137,
+    "wof:lastmodified":1695876694,
     "wof:name":"Dragor",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

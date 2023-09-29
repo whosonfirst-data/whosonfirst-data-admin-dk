@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.726028,
     "lbl:longitude":9.913262,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"846",
+        "dk-geodk:code_qualified":"1081846",
         "eg:gisco_id":"DK_846",
         "eurostat:nuts_2021_id":"846"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"db09ea0ecf081d0bc74d96c678a28584",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352127,
+    "wof:lastmodified":1695876683,
     "wof:name":"Mariagerfjord",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

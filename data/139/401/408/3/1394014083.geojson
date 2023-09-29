@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.922471,
     "lbl:longitude":9.765591,
     "lbl:max_zoom":18.0,
@@ -220,9 +223,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"615",
+        "dk-geodk:code_qualified":"1082615",
         "eg:gisco_id":"DK_615",
         "eurostat:nuts_2021_id":"615"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"f84965c3d2e7c2d334222052e11b282d",
     "wof:hierarchy":[
@@ -240,7 +249,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352145,
+    "wof:lastmodified":1695876704,
     "wof:name":"Horsens",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

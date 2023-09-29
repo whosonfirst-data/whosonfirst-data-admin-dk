@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":57.418409,
     "lbl:longitude":10.451791,
     "lbl:max_zoom":18.0,
@@ -196,9 +199,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"813",
+        "dk-geodk:code_qualified":"1081813",
         "eg:gisco_id":"DK_813",
         "eurostat:nuts_2021_id":"813"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"db149c81e56bc1695fbc33fc7326e4ed",
     "wof:hierarchy":[
@@ -216,7 +225,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352116,
+    "wof:lastmodified":1695876670,
     "wof:name":"Frederikshavn",
     "wof:parent_id":85682593,
     "wof:placetype":"localadmin",

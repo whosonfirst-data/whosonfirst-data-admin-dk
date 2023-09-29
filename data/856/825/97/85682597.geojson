@@ -430,17 +430,23 @@
     ],
     "wof:concordances":{
         "digitalenvoy:region_code":25021,
+        "dk-geodk:code":"1082",
         "eurostat:nuts_2021_id":"DK04",
         "fips:code":"DA18",
         "gn:id":6418539,
         "gp:id":28362580,
         "hasc:id":"DK.MJ",
+        "iso:code":"DK-82",
         "iso:id":"DK-82",
         "unlc:id":"DK-82",
         "wd:id":"Q26586"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"DK",
-    "wof:geomhash":"7a7bb76e93e11b1619102c674c8cdba5",
+    "wof:geomhash":"f0629e95df4f578b5fde8a236a3dbeef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -457,7 +463,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1690874676,
+    "wof:lastmodified":1695885161,
     "wof:name":"Central Jutland",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

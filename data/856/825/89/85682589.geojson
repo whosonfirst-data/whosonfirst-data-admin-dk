@@ -369,17 +369,23 @@
     ],
     "wof:concordances":{
         "digitalenvoy:region_code":25024,
+        "dk-geodk:code":"1085",
         "eurostat:nuts_2021_id":"DK02",
         "fips:code":"DA20",
         "gn:id":6418541,
         "gp:id":28362582,
         "hasc:id":"DK.SL",
+        "iso:code":"DK-85",
         "iso:id":"DK-85",
         "unlc:id":"DK-85",
         "wd:id":"Q26589"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"DK",
-    "wof:geomhash":"1760b453e0ab8ba50f02d58cb282e4cb",
+    "wof:geomhash":"b141fad9b527101cc74817f89702a72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -396,7 +402,7 @@
         "deu",
         "kal"
     ],
-    "wof:lastmodified":1690874674,
+    "wof:lastmodified":1695885161,
     "wof:name":"Zealand",
     "wof:parent_id":85633121,
     "wof:placetype":"region",

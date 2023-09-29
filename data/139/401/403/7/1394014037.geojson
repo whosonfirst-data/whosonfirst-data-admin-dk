@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.565691,
     "lbl:longitude":9.686171,
     "lbl:max_zoom":18.0,
@@ -200,9 +203,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"607",
+        "dk-geodk:code_qualified":"1083607",
         "eg:gisco_id":"DK_607",
         "eurostat:nuts_2021_id":"607"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"10b3a87acca1f48c4848dc09b2c16db0",
     "wof:hierarchy":[
@@ -221,7 +230,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352129,
+    "wof:lastmodified":1695876685,
     "wof:name":"Fredericia",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

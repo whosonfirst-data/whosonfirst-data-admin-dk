@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.681397,
     "lbl:longitude":12.527481,
     "lbl:max_zoom":18.0,
@@ -175,9 +178,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"147",
+        "dk-geodk:code_qualified":"1084147",
         "eg:gisco_id":"DK_147",
         "eurostat:nuts_2021_id":"147"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"bdb009904d620dd6a17d7bfb2b3b7a47",
     "wof:hierarchy":[
@@ -195,7 +204,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352154,
+    "wof:lastmodified":1695876716,
     "wof:name":"Frederiksberg",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

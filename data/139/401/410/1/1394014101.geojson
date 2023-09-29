@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.721041,
     "lbl:longitude":9.36036,
     "lbl:max_zoom":18.0,
@@ -236,9 +239,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"630",
+        "dk-geodk:code_qualified":"1083630",
         "eg:gisco_id":"DK_630",
         "eurostat:nuts_2021_id":"630"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"e3a8da7a510958b50900c1ce72f44740",
     "wof:hierarchy":[
@@ -257,7 +266,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352149,
+    "wof:lastmodified":1695876710,
     "wof:name":"Vejle",
     "wof:parent_id":85682575,
     "wof:placetype":"localadmin",

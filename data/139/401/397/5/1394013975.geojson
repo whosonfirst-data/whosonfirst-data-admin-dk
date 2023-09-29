@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.544866,
     "lbl:longitude":10.112301,
     "lbl:max_zoom":18.0,
@@ -220,9 +223,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"730",
+        "dk-geodk:code_qualified":"1082730",
         "eg:gisco_id":"DK_730",
         "eurostat:nuts_2021_id":"730"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"ef19e596cc2acc453b6aadd6f0fe63d7",
     "wof:hierarchy":[
@@ -240,7 +249,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352099,
+    "wof:lastmodified":1695876650,
     "wof:name":"Randers",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

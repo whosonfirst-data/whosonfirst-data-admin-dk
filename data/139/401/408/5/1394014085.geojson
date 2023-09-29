@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.923173,
     "lbl:longitude":12.235777,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"219",
+        "dk-geodk:code_qualified":"1084219",
         "eg:gisco_id":"DK_219",
         "eurostat:nuts_2021_id":"219"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"cb09da707fef0082993d03a502285a93",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352145,
+    "wof:lastmodified":1695876705,
     "wof:name":"Hillerod",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.055766,
     "lbl:longitude":12.232955,
     "lbl:max_zoom":18.0,
@@ -85,9 +88,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"270",
+        "dk-geodk:code_qualified":"1084270",
         "eg:gisco_id":"DK_270",
         "eurostat:nuts_2021_id":"270"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"8132e83909dc433592aca7b04e8289ec",
     "wof:hierarchy":[
@@ -105,7 +114,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352151,
+    "wof:lastmodified":1695876713,
     "wof:name":"Gribskov",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

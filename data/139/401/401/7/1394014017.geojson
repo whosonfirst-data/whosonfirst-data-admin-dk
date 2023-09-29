@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.861136,
     "lbl:longitude":11.597819,
     "lbl:max_zoom":18.0,
@@ -85,9 +88,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"306",
+        "dk-geodk:code_qualified":"1085306",
         "eg:gisco_id":"DK_306",
         "eurostat:nuts_2021_id":"306"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"f45dd5d988da117293e1815f0088b970",
     "wof:hierarchy":[
@@ -105,7 +114,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352121,
+    "wof:lastmodified":1695876676,
     "wof:name":"Odsherred",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

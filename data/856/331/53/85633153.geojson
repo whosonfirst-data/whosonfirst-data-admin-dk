@@ -896,6 +896,7 @@
         "gn:id":2622320,
         "gp:id":23424816,
         "ioc:id":"FAR",
+        "iso:code":"FO",
         "itu:id":"FRO",
         "m49:code":"234",
         "marc:id":"fa",
@@ -904,6 +905,7 @@
         "uncrt:id":"FO",
         "wmo:id":"FA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -922,7 +924,7 @@
         }
     ],
     "wof:id":85633153,
-    "wof:lastmodified":1694639811,
+    "wof:lastmodified":1695881382,
     "wof:name":"Faroe Islands",
     "wof:parent_id":136253045,
     "wof:placetype":"dependency",

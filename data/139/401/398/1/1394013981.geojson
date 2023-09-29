@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.363912,
     "lbl:longitude":11.349646,
     "lbl:max_zoom":18.0,
@@ -163,9 +166,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"330",
+        "dk-geodk:code_qualified":"1085330",
         "eg:gisco_id":"DK_330",
         "eurostat:nuts_2021_id":"330"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"424fa60c76e8ab245029ab4535324869",
     "wof:hierarchy":[
@@ -183,7 +192,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352102,
+    "wof:lastmodified":1695876654,
     "wof:name":"Slagelse",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",

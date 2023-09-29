@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":56.452023,
     "lbl:longitude":10.765887,
     "lbl:max_zoom":18.0,
@@ -70,9 +73,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"707",
+        "dk-geodk:code_qualified":"1082707",
         "eg:gisco_id":"DK_707",
         "eurostat:nuts_2021_id":"707"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"f778501973d7a12b32ca208fab76d784",
     "wof:hierarchy":[
@@ -90,7 +99,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352120,
+    "wof:lastmodified":1695876674,
     "wof:name":"Norddjurs",
     "wof:parent_id":85682597,
     "wof:placetype":"localadmin",

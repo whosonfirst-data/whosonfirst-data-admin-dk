@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.996891,
     "lbl:longitude":12.002503,
     "lbl:max_zoom":18.0,
@@ -72,9 +75,15 @@
     "wof:breaches":[],
     "wof:concordance":{},
     "wof:concordances":{
+        "dk-geodk:code":"260",
+        "dk-geodk:code_qualified":"1084260",
         "eg:gisco_id":"DK_260",
         "eurostat:nuts_2021_id":"260"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:created":1524700679,
     "wof:geomhash":"b1e31343fe9b6ce5c2b9588abe9b7fcc",
@@ -93,7 +102,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352091,
+    "wof:lastmodified":1695876641,
     "wof:name":"Halsnaes",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

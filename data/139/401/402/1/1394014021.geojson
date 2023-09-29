@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.736079,
     "lbl:longitude":12.428081,
     "lbl:max_zoom":18.0,
@@ -88,9 +91,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"163",
+        "dk-geodk:code_qualified":"1084163",
         "eg:gisco_id":"DK_163",
         "eurostat:nuts_2021_id":"163"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"1252666f0d30f8f15ed58b4a3f2d88ed",
     "wof:hierarchy":[
@@ -108,7 +117,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352124,
+    "wof:lastmodified":1695876680,
     "wof:name":"Herlev",
     "wof:parent_id":85682581,
     "wof:placetype":"localadmin",

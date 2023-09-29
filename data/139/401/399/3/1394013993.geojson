@@ -44,6 +44,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":55.062317,
     "lbl:longitude":11.967766,
     "lbl:max_zoom":18.0,
@@ -121,9 +124,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "dk-geodk:code":"390",
+        "dk-geodk:code_qualified":"1085390",
         "eg:gisco_id":"DK_390",
         "eurostat:nuts_2021_id":"390"
     },
+    "wof:concordances_official":"dk-geodk:code",
+    "wof:concordances_official_alt":[
+        "dk-geodk:code_qualified"
+    ],
     "wof:country":"DK",
     "wof:geomhash":"fd7ca47e8837983f55a48ff071d0f2d6",
     "wof:hierarchy":[
@@ -141,7 +150,7 @@
     "wof:lang_x_spoken":[
         "dan"
     ],
-    "wof:lastmodified":1684352109,
+    "wof:lastmodified":1695876662,
     "wof:name":"Vordingborg",
     "wof:parent_id":85682589,
     "wof:placetype":"localadmin",
