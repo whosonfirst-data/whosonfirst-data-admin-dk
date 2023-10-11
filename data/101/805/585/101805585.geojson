@@ -28,36 +28,30 @@
         "T\u00f8rring"
     ],
     "name:dan_x_preferred":[
-        "Jesper T\u00f8rring"
-    ],
-    "name:dan_x_variant":[
         "T\u00f8rring"
     ],
     "name:deu_x_preferred":[
-        "Jesper T\u00f8rring"
+        "T\u00f8rring"
     ],
     "name:eng_x_preferred":[
         "T\u00f8rring"
     ],
     "name:fra_x_preferred":[
-        "Jesper T\u00f8rring"
+        "T\u00f8rring"
     ],
     "name:nld_x_preferred":[
         "T\u00f8rring"
     ],
     "name:nno_x_preferred":[
-        "Jesper T\u00f8rring"
+        "T\u00f8rring"
     ],
     "name:nob_x_preferred":[
         "T\u00f8rring"
     ],
     "name:nor_x_preferred":[
-        "Jesper T\u00f8rring"
+        "T\u00f8rring"
     ],
     "name:pol_x_preferred":[
-        "Jesper T\u00f8rring"
-    ],
-    "name:pol_x_variant":[
         "T\u00f8rring"
     ],
     "name:spa_x_preferred":[
@@ -89,8 +83,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1394014087,
         85633121,
+        1394014087,
         85682597
     ],
     "wof:breaches":[],
@@ -118,7 +112,7 @@
         }
     ],
     "wof:id":101805585,
-    "wof:lastmodified":1690874752,
+    "wof:lastmodified":1697053091,
     "wof:name":"T\u00f8rring",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",
