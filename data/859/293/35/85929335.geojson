@@ -12,8 +12,8 @@
     "gn:latitude":55.67337,
     "gn:longitude":12.56012,
     "iso:country":"DK",
-    "lbl:latitude":55.668359,
-    "lbl:longitude":12.557074,
+    "lbl:latitude":55.661333,
+    "lbl:longitude":12.549693,
     "lbl:max_zoom":18.0,
     "mps:latitude":55.661333,
     "mps:longitude":12.549693,
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.66713,
     "wd:longitude":12.55506,
     "wd:wordcount":783,
@@ -132,7 +132,7 @@
     "wof:lang":[
         "dan"
     ],
-    "wof:lastmodified":1690874658,
+    "wof:lastmodified":1694320348,
     "wof:name":"Vesterbro",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",
