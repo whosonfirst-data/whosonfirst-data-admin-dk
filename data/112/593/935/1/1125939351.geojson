@@ -9,9 +9,22 @@
     "geom:bbox":"9.67408,56.67253,9.67408,56.67253",
     "geom:latitude":56.67253,
     "geom:longitude":9.67408,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"840.0",
+    "gn:asciiname":"Stenild",
     "gn:country":"DK",
+    "gn:country_code":"DK",
+    "gn:dem":49,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2612640,
+    "gn:latitude":56.67347,
+    "gn:longitude":9.67526,
+    "gn:modification_date":"2017-07-08",
+    "gn:name":"Stenild",
     "gn:population":0,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
     "lbl:bbox":"9.65408,56.65253,9.69408,56.69253",
     "lbl:latitude":56.67253,
@@ -79,6 +92,11 @@
         "qs_pg:id":494526,
         "wd:id":"Q1747286"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2612640
+        ]
+    },
     "wof:country":"DK",
     "wof:created":1497297067,
     "wof:geomhash":"00dfe631207342412ad39ff21f7bd006",
@@ -92,13 +110,15 @@
         }
     ],
     "wof:id":1125939351,
-    "wof:lastmodified":1690874780,
+    "wof:lastmodified":1706239502,
     "wof:name":"Stenild",
     "wof:parent_id":1394014079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277040709
+    ],
     "wof:tags":[]
 },
   "bbox": [

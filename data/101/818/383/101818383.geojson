@@ -9,8 +9,22 @@
     "geom:bbox":"12.132518,55.198891,12.193134,55.227338",
     "geom:latitude":55.215663,
     "geom:longitude":12.159674,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"320.0",
+    "gn:asciiname":"Faxe Ladeplads",
+    "gn:country_code":"DK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622369,
+    "gn:latitude":55.21981,
+    "gn:longitude":12.17013,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Faxe Ladeplads",
     "gn:population":2837,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.15013,55.19981,12.19013,55.23981",
     "lbl:latitude":55.220538,
     "lbl:longitude":12.165184,
     "lbl:max_zoom":15.0,
@@ -48,6 +62,9 @@
         "Faxe Ladeplads"
     ],
     "name:nob_x_preferred":[
+        "Faxe Ladeplads"
+    ],
+    "name:nor_x_preferred":[
         "Faxe Ladeplads"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +113,15 @@
         "wk:page":"Faxe Ladeplads"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1231232
+        "gn:id":[
+            2622369
+        ],
+        "qs_pg:id":[
+            1231232
+        ],
+        "wk:page":[
+            "Faxe_Ladeplads"
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -113,7 +138,7 @@
         }
     ],
     "wof:id":101818383,
-    "wof:lastmodified":1690874697,
+    "wof:lastmodified":1706239502,
     "wof:name":"Faxe Ladeplads",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",
@@ -121,7 +146,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310665615
+    ],
     "wof:tags":[]
 },
   "bbox": [

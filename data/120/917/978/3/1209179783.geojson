@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":6698673
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2610120
+        ]
+    },
     "wof:country":"DK",
     "wof:geomhash":"8c112ddabbd68f91720be288defa9f79",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209179783,
-    "wof:lastmodified":1566721710,
+    "wof:lastmodified":1706239502,
     "wof:name":"Vittrup",
     "wof:parent_id":1394014153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209590807
+    ],
     "wof:tags":[]
 },
   "bbox": [

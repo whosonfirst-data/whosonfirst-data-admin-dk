@@ -9,8 +9,22 @@
     "geom:bbox":"12.171738,56.008542,12.225107,56.029533",
     "geom:latitude":56.02031,
     "geom:longitude":12.197321,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"270.0",
+    "gn:asciiname":"Helsinge",
+    "gn:country_code":"DK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2620476,
+    "gn:latitude":56.02283,
+    "gn:longitude":12.19752,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Helsinge",
     "gn:population":7354,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"12.17752,56.00283,12.21752,56.04283",
     "lbl:latitude":56.019708,
     "lbl:longitude":12.197321,
     "lbl:max_zoom":15.0,
@@ -111,7 +125,15 @@
         "wk:page":"Helsinge"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":402317
+        "gn:id":[
+            2620476
+        ],
+        "qs_pg:id":[
+            402317
+        ],
+        "wk:page":[
+            "Helsinge"
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -128,7 +150,7 @@
         }
     ],
     "wof:id":101817269,
-    "wof:lastmodified":1690874718,
+    "wof:lastmodified":1706239501,
     "wof:name":"Helsinge",
     "wof:parent_id":1394014111,
     "wof:placetype":"locality",
@@ -136,7 +158,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343738517
+    ],
     "wof:tags":[]
 },
   "bbox": [

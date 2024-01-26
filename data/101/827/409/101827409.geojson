@@ -9,8 +9,22 @@
     "geom:bbox":"10.208286,55.078399,10.287975,55.115388",
     "geom:latitude":55.098636,
     "geom:longitude":10.241961,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"430.0",
+    "gn:asciiname":"Faaborg",
+    "gn:country_code":"DK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2622383,
+    "gn:latitude":55.0951,
+    "gn:longitude":10.24226,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Faaborg",
     "gn:population":7239,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.22226,55.0751,10.26226,55.1151",
     "lbl:latitude":55.105032,
     "lbl:longitude":10.235924,
     "lbl:max_zoom":15.0,
@@ -155,7 +169,12 @@
         "wd:id":"Q3547421"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1238070
+        "gn:id":[
+            2622383
+        ],
+        "qs_pg:id":[
+            1238070
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -173,7 +192,7 @@
         }
     ],
     "wof:id":101827409,
-    "wof:lastmodified":1690874713,
+    "wof:lastmodified":1706239502,
     "wof:name":"Faaborg",
     "wof:parent_id":1394014055,
     "wof:placetype":"locality",
@@ -181,7 +200,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293842849
+    ],
     "wof:tags":[]
 },
   "bbox": [

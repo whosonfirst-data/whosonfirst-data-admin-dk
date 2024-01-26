@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"11.96389,55.32346,11.96389,55.32346",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Haslev"
@@ -94,14 +96,16 @@
         }
     ],
     "wof:id":1327395723,
-    "wof:lastmodified":1566721461,
+    "wof:lastmodified":1706239501,
     "wof:name":"Haslev",
     "wof:parent_id":1394014141,
     "wof:placetype":"locality",
     "wof:population":10588,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101818329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

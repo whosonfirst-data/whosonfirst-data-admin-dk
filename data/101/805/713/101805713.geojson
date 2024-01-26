@@ -9,8 +9,22 @@
     "geom:bbox":"10.120049,55.963851,10.17929,55.991719",
     "geom:latitude":55.977977,
     "geom:longitude":10.149133,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"727.0",
+    "gn:asciiname":"Odder",
+    "gn:country_code":"DK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2615886,
+    "gn:latitude":55.97313,
+    "gn:longitude":10.153,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Odder",
     "gn:population":11009,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"10.133,55.95313,10.173,55.99313",
     "lbl:latitude":55.977338,
     "lbl:longitude":10.148684,
     "lbl:max_zoom":15.0,
@@ -22,6 +36,9 @@
     "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Odder"
+    ],
+    "name:bel_x_preferred":[
+        "\u041e\u0434\u044d\u0440"
     ],
     "name:cat_x_preferred":[
         "Odder"
@@ -35,23 +52,47 @@
     "name:dan_x_preferred":[
         "Odder"
     ],
+    "name:dan_x_variant":[
+        "Odder Kommune"
+    ],
     "name:deu_x_preferred":[
         "Odder"
     ],
     "name:eng_x_preferred":[
         "Odder"
     ],
+    "name:epo_x_preferred":[
+        "Odder"
+    ],
     "name:fao_x_preferred":[
         "Odder"
+    ],
+    "name:fao_x_variant":[
+        "Odder kommuna"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u062f\u0631"
     ],
+    "name:fin_x_preferred":[
+        "Odderin kunta"
+    ],
     "name:fra_x_preferred":[
+        "Odder"
+    ],
+    "name:frr_x_preferred":[
+        "Odder Komuun"
+    ],
+    "name:fry_x_preferred":[
+        "Odder"
+    ],
+    "name:hrv_x_preferred":[
         "Odder"
     ],
     "name:hun_x_preferred":[
         "Odder"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Odder"
     ],
     "name:isl_x_preferred":[
         "Odder"
@@ -62,8 +103,14 @@
     "name:kal_x_preferred":[
         "Odder"
     ],
+    "name:kor_x_preferred":[
+        "\uc624\ub370\ub974 \uc2dc"
+    ],
     "name:mdf_x_preferred":[
         "\u041e\u0434\u0434\u044d\u0440"
+    ],
+    "name:nds_x_preferred":[
+        "Kommun Odder"
     ],
     "name:nld_x_preferred":[
         "Odder"
@@ -77,6 +124,9 @@
     "name:nor_x_preferred":[
         "Odder"
     ],
+    "name:nor_x_variant":[
+        "Odder kommune"
+    ],
     "name:pol_x_preferred":[
         "Odder"
     ],
@@ -86,10 +136,16 @@
     "name:ron_x_preferred":[
         "Odder"
     ],
+    "name:ron_x_variant":[
+        "Comuna Odder"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0434\u0434\u0435\u0440"
     ],
     "name:slv_x_preferred":[
+        "Odder"
+    ],
+    "name:sme_x_preferred":[
         "Odder"
     ],
     "name:spa_x_preferred":[
@@ -100,6 +156,9 @@
     ],
     "name:swe_x_preferred":[
         "Odder"
+    ],
+    "name:swe_x_variant":[
+        "Odders kommun"
     ],
     "name:zho_x_preferred":[
         "\u6b50\u5fb7\u723e"
@@ -138,7 +197,15 @@
         "wk:page":"Odder"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1156376
+        "gn:id":[
+            2615886
+        ],
+        "qs_pg:id":[
+            1156376
+        ],
+        "wk:page":[
+            "Odder_Municipality"
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -155,7 +222,7 @@
         }
     ],
     "wof:id":101805713,
-    "wof:lastmodified":1690874734,
+    "wof:lastmodified":1706239501,
     "wof:name":"Odder",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",
@@ -163,7 +230,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260248203
+    ],
     "wof:tags":[]
 },
   "bbox": [
