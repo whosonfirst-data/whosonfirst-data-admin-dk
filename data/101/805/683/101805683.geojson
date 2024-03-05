@@ -9,8 +9,22 @@
     "geom:bbox":"9.67991,55.749725,9.724462,55.782994",
     "geom:latitude":55.768842,
     "geom:longitude":9.703529,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"766.0",
+    "gn:asciiname":"Hedensted",
+    "gn:country_code":"DK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2620583,
+    "gn:latitude":55.77043,
+    "gn:longitude":9.7011,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Hedensted",
     "gn:population":10048,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.6811,55.75043,9.7211,55.79043",
     "lbl:latitude":55.769481,
     "lbl:longitude":9.708408,
     "lbl:max_zoom":15.0,
@@ -68,6 +82,9 @@
     "name:nob_x_preferred":[
         "Hedensted"
     ],
+    "name:nor_x_preferred":[
+        "Hedensted"
+    ],
     "name:pol_x_preferred":[
         "Hedensted"
     ],
@@ -123,7 +140,15 @@
         "wk:page":"Hedensted"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1251838
+        "gn:id":[
+            2620583
+        ],
+        "qs_pg:id":[
+            1251838
+        ],
+        "wk:page":[
+            "Hedensted"
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -140,7 +165,7 @@
         }
     ],
     "wof:id":101805683,
-    "wof:lastmodified":1690874746,
+    "wof:lastmodified":1706239501,
     "wof:name":"Hedensted",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",
@@ -148,7 +173,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259349169
+    ],
     "wof:tags":[]
 },
   "bbox": [

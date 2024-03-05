@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"10.153,55.97313,10.153,55.97313",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041e\u0434\u044d\u0440"
@@ -149,7 +151,7 @@
         "wk:page":"Odder_Municipality"
     },
     "wof:country":"DK",
-    "wof:geomhash":"99d17f9f1d7bade7e12692fa22aa627e",
+    "wof:geomhash":"064d5ab86325d4670b8b01f55cc22a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,22 +162,24 @@
         }
     ],
     "wof:id":1260248203,
-    "wof:lastmodified":1566721727,
+    "wof:lastmodified":1706239501,
     "wof:name":"Odder",
     "wof:parent_id":1394014033,
     "wof:placetype":"locality",
     "wof:population":11009,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     10.153,
-    55.97313000000001,
+    55.97313,
     10.153,
-    55.97313000000001
+    55.97313
 ],
-  "geometry": {"coordinates":[10.153,55.97313000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.153,55.97313],"type":"Point"}
 }

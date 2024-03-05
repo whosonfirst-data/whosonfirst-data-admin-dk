@@ -9,8 +9,22 @@
     "geom:bbox":"8.977831,56.53015,9.060898,56.603737",
     "geom:latitude":56.566451,
     "geom:longitude":9.027904,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"779.0",
+    "gn:asciiname":"Skive",
+    "gn:country_code":"DK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2613731,
+    "gn:latitude":56.56699,
+    "gn:longitude":9.02707,
+    "gn:modification_date":"2017-10-18",
+    "gn:name":"Skive",
     "gn:population":20815,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"9.00707,56.54699,9.04707,56.58699",
     "lbl:latitude":56.572811,
     "lbl:longitude":9.037557,
     "lbl:max_zoom":14.0,
@@ -161,7 +175,15 @@
         "wk:page":"Skive, Denmark"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":474310
+        "gn:id":[
+            2613731
+        ],
+        "qs_pg:id":[
+            474310
+        ],
+        "wk:page":[
+            "Skive%2C_Denmark"
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -178,7 +200,7 @@
         }
     ],
     "wof:id":101805709,
-    "wof:lastmodified":1690874724,
+    "wof:lastmodified":1706239501,
     "wof:name":"Skive",
     "wof:parent_id":1394014073,
     "wof:placetype":"locality",
@@ -186,7 +208,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327300117
+    ],
     "wof:tags":[]
 },
   "bbox": [

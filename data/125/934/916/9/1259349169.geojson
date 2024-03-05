@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"9.7011,55.77043,9.7011,55.77043",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Hedensted"
@@ -80,7 +82,7 @@
         "wk:page":"Hedensted"
     },
     "wof:country":"DK",
-    "wof:geomhash":"ddb156fd40d18b3fa61182cfd294f683",
+    "wof:geomhash":"4a65ac5431f244bcdbc88df760572832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,22 +93,24 @@
         }
     ],
     "wof:id":1259349169,
-    "wof:lastmodified":1566722318,
+    "wof:lastmodified":1706239501,
     "wof:name":"Hedensted",
     "wof:parent_id":1394014087,
     "wof:placetype":"locality",
     "wof:population":10048,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     9.7011,
-    55.77043000000001,
+    55.77043,
     9.7011,
-    55.77043000000001
+    55.77043
 ],
-  "geometry": {"coordinates":[9.7011,55.77043000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.7011,55.77043],"type":"Point"}
 }

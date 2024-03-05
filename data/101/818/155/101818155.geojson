@@ -9,8 +9,23 @@
     "geom:bbox":"11.824701,54.754347,11.860608,54.777588",
     "geom:latitude":54.764429,
     "geom:longitude":11.844145,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"376.0",
+    "gn:asciiname":"Sundby",
+    "gn:country_code":"DK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3229248,
     "gn:id":"2612121,3229248",
+    "gn:latitude":54.76711,
+    "gn:longitude":11.84979,
+    "gn:modification_date":"2017-10-09",
+    "gn:name":"Sundby",
+    "gn:population":2843,
+    "gn:timezone":"Europe/Copenhagen",
     "iso:country":"DK",
+    "lbl:bbox":"11.82979,54.74711,11.86979,54.78711",
     "lbl:latitude":54.766792,
     "lbl:longitude":11.847409,
     "lbl:max_zoom":18.0,
@@ -70,6 +85,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -82,10 +98,16 @@
         "gn:id":2612121,
         "gp:id":557799,
         "qs_pg:id":337260,
-        "wd:id":"Q2595635"
+        "wd:id":"Q2595635",
+        "wk:page":"Sundby_%28Lolland%29"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":575173
+        "gn:id":[
+            3229248
+        ],
+        "qs_pg:id":[
+            575173
+        ]
     },
     "wof:country":"DK",
     "wof:geom_alt":[
@@ -102,13 +124,17 @@
         }
     ],
     "wof:id":101818155,
-    "wof:lastmodified":1690874701,
+    "wof:lastmodified":1706239501,
     "wof:name":"Sundby",
     "wof:parent_id":1159297737,
     "wof:placetype":"locality",
+    "wof:population":2843,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260155323
+    ],
     "wof:tags":[]
 },
   "bbox": [
