@@ -49,7 +49,7 @@
         "wk:page":"Farstrup"
     },
     "wof:country":"DK",
-    "wof:geomhash":"9f2a810a9a4c02b0fe002f5697e26421",
+    "wof:geomhash":"006d708d305b2210e1c75d8f94c41b60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     9.45989,
     56.98538000000001
 ],
-  "geometry": {"coordinates":[9.45989,56.98538000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.45989,56.98538],"type":"Point"}
 }

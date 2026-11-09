@@ -137,7 +137,7 @@
         "wk:page":"Solr%C3%B8d_Municipality"
     },
     "wof:country":"DK",
-    "wof:geomhash":"e841040c96fd32ad3ceda20a8fe3cf61",
+    "wof:geomhash":"a51828baf1a70b9b2d106f6278b8c0fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,5 +165,5 @@
     12.1827,
     55.53628000000001
 ],
-  "geometry": {"coordinates":[12.1827,55.53628000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.1827,55.53628],"type":"Point"}
 }

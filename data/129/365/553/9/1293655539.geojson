@@ -50,7 +50,7 @@
         "wk:page":"Paris%2C_Denmark"
     },
     "wof:country":"DK",
-    "wof:geomhash":"7a50268dcfac565e607a9d049b9282dc",
+    "wof:geomhash":"88f2c17e2267629d6a63609f48ace347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     8.48996,
     56.51416999999999
 ],
-  "geometry": {"coordinates":[8.48996,56.51416999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.48996,56.51417],"type":"Point"}
 }

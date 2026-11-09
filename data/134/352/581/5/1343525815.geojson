@@ -43,7 +43,7 @@
         "gn:id":2618510
     },
     "wof:country":"DK",
-    "wof:geomhash":"36f929b2f71b467647be95f5bd23f183",
+    "wof:geomhash":"6573aa8654f9b3fa11277272b618583c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     8.30654,
     55.75553000000001
 ],
-  "geometry": {"coordinates":[8.30654,55.75553000000001],"type":"Point"}
+  "geometry": {"coordinates":[8.30654,55.75553],"type":"Point"}
 }

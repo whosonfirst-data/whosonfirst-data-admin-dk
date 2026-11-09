@@ -91,7 +91,7 @@
         "wk:page":"Rudbjerg"
     },
     "wof:country":"DK",
-    "wof:geomhash":"cbbcd2342e3e8a04012f36307a4e3cbd",
+    "wof:geomhash":"c68c74e6dba680b40b8e8a7a7a0a8b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,5 +117,5 @@
     11.12129,
     54.74073000000001
 ],
-  "geometry": {"coordinates":[11.12129,54.74073000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.12129,54.74073],"type":"Point"}
 }

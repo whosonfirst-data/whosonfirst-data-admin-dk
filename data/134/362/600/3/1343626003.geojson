@@ -77,7 +77,7 @@
         "wk:page":"Egvad_Municipality"
     },
     "wof:country":"DK",
-    "wof:geomhash":"7729688a14e5a8714b7fed106f969f6c",
+    "wof:geomhash":"5fade0b513bed1f17a48d388b574afe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     9.251,
     55.07853000000001
 ],
-  "geometry": {"coordinates":[9.251,55.07853000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.251,55.07853],"type":"Point"}
 }

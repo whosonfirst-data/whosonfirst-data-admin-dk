@@ -49,7 +49,7 @@
         "wk:page":"Vejlby"
     },
     "wof:country":"DK",
-    "wof:geomhash":"9c74be65f043225e13f52b778e580f99",
+    "wof:geomhash":"b10e5bf29cf6373302a4a53328e26d17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     10.2151,
     56.19538000000001
 ],
-  "geometry": {"coordinates":[10.2151,56.19538000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.2151,56.19538],"type":"Point"}
 }

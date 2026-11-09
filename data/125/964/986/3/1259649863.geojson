@@ -55,7 +55,7 @@
         "wk:page":"Herskind"
     },
     "wof:country":"DK",
-    "wof:geomhash":"e7d8351d9457c5a97605169b98fd7487",
+    "wof:geomhash":"8df984c126e4a14c03fc96ea8c20b978",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     9.96667,
     56.18333000000001
 ],
-  "geometry": {"coordinates":[9.96667,56.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.96667,56.18333],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Lysg%C3%A5rd"
     },
     "wof:country":"DK",
-    "wof:geomhash":"afd22da228fbce7720cd4f5120dd0d10",
+    "wof:geomhash":"c01326de09a94804cd24d6e569d01ced",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     9.33816,
     56.35214000000001
 ],
-  "geometry": {"coordinates":[9.33816,56.35214000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.33816,56.35214],"type":"Point"}
 }

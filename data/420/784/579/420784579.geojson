@@ -34,7 +34,7 @@
     "wof:concordances":{},
     "wof:country":"DK",
     "wof:created":1458871931,
-    "wof:geomhash":"491ab8ff32feb2a06868003f736b60da",
+    "wof:geomhash":"df323e57ef93c351b8a4a905984aac67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,5 +61,5 @@
     12.44880007172966,
     55.62888041822632
 ],
-  "geometry": {"coordinates":[12.44880007172966,55.62888041822632],"type":"Point"}
+  "geometry": {"coordinates":[12.4488,55.62888],"type":"Point"}
 }

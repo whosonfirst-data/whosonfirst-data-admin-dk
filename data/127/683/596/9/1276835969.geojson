@@ -67,7 +67,7 @@
         "wk:page":"Ginnerup"
     },
     "wof:country":"DK",
-    "wof:geomhash":"59202f9d036df55ac32b59e22a0c1e59",
+    "wof:geomhash":"6a75cb2e7b6ff8891f5c20927b69653a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     10.7443,
     56.41068000000001
 ],
-  "geometry": {"coordinates":[10.7443,56.41068000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.7443,56.41068],"type":"Point"}
 }

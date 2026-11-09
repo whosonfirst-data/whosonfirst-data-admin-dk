@@ -49,7 +49,7 @@
         "wk:page":"Krenkerup"
     },
     "wof:country":"DK",
-    "wof:geomhash":"7db4c3f3b96390c3c3abb7910fb7c893",
+    "wof:geomhash":"71d49a14a5b461ac338624b18a95e29e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     11.67316,
     54.77721999999999
 ],
-  "geometry": {"coordinates":[11.67316,54.77721999999999],"type":"Point"}
+  "geometry": {"coordinates":[11.67316,54.77722],"type":"Point"}
 }

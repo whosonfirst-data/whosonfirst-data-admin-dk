@@ -48,7 +48,7 @@
         "wk:page":"N%C3%A6sby"
     },
     "wof:country":"DK",
-    "wof:geomhash":"b3accc37b54c27ef89142dcf00fa0bd9",
+    "wof:geomhash":"5c4f665e092fde73bf61d10edfc1b5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     10.35505,
     55.42021999999999
 ],
-  "geometry": {"coordinates":[10.35505,55.42021999999999],"type":"Point"}
+  "geometry": {"coordinates":[10.35505,55.42022],"type":"Point"}
 }

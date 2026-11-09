@@ -55,7 +55,7 @@
         "wk:page":"F%C3%B8lle"
     },
     "wof:country":"DK",
-    "wof:geomhash":"266e614182ec43ad6d5cc7514a7e30c1",
+    "wof:geomhash":"d4e4d9ad040b3f8b0f33db73ba87f8f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     10.44053,
     56.30804000000001
 ],
-  "geometry": {"coordinates":[10.44053,56.30804000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.44053,56.30804],"type":"Point"}
 }

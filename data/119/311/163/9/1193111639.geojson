@@ -46,7 +46,7 @@
         "wk:page":"Hastrup"
     },
     "wof:country":"DK",
-    "wof:geomhash":"65e7cb7cea571c990581afddb942b274",
+    "wof:geomhash":"894a0113e57b37a75543c2279c057df0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     12.16437,
     55.44218000000001
 ],
-  "geometry": {"coordinates":[12.16437,55.44218000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.16437,55.44218],"type":"Point"}
 }

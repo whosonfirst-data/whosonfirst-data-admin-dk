@@ -46,7 +46,7 @@
         "wk:page":"Jersie"
     },
     "wof:country":"DK",
-    "wof:geomhash":"17a2e9c83756b09fe8c277f8541ba305",
+    "wof:geomhash":"d6b070d9a0e943a9eba3a3479aa5ec68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     12.16435,
     55.52506999999999
 ],
-  "geometry": {"coordinates":[12.16435,55.52506999999999],"type":"Point"}
+  "geometry": {"coordinates":[12.16435,55.52507],"type":"Point"}
 }

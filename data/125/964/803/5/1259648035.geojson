@@ -47,7 +47,7 @@
         "wk:page":"Sanderum"
     },
     "wof:country":"DK",
-    "wof:geomhash":"6af0756efed5d14c5d963388434bea82",
+    "wof:geomhash":"b658af4945319699f3e7fb5cb190c9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     10.33873,
     55.36938000000001
 ],
-  "geometry": {"coordinates":[10.33873,55.36938000000001],"type":"Point"}
+  "geometry": {"coordinates":[10.33873,55.36938],"type":"Point"}
 }

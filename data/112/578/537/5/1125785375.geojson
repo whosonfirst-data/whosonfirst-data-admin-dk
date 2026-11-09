@@ -56,7 +56,7 @@
     },
     "wof:country":"DK",
     "wof:created":1497290654,
-    "wof:geomhash":"4cc392f581c635a936c21699c23476c1",
+    "wof:geomhash":"e1919f276b3982e13dab2064579b071b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     12.3699725,
     55.852581
 ],
-  "geometry": {"coordinates":[12.3699725,55.852581],"type":"Point"}
+  "geometry": {"coordinates":[12.369973,55.852581],"type":"Point"}
 }

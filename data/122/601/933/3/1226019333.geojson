@@ -52,7 +52,7 @@
         "wk:page":"Vedde"
     },
     "wof:country":"DK",
-    "wof:geomhash":"41dbeb95457b44ad127a4f847412c53b",
+    "wof:geomhash":"9ad335aa7075668603d5d4429618ea37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     11.54541,
     55.53149000000001
 ],
-  "geometry": {"coordinates":[11.54541,55.53149000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.54541,55.53149],"type":"Point"}
 }
