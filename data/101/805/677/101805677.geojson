@@ -166,7 +166,7 @@
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
-        1159297919,
+        1394014075,
         85633121,
         85682597
     ],
@@ -190,7 +190,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297919,
+            "localadmin_id":1394014075,
             "locality_id":101805677,
             "region_id":85682597
         }
@@ -198,7 +198,7 @@
     "wof:id":101805677,
     "wof:lastmodified":1690874746,
     "wof:name":"Lemvig",
-    "wof:parent_id":1159297919,
+    "wof:parent_id":1394014075,
     "wof:placetype":"locality",
     "wof:population":7330,
     "wof:population_rank":5,

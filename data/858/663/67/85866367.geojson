@@ -74,7 +74,7 @@
     "wof:belongsto":[
         102191581,
         85633121,
-        1159297923,
+        1394014103,
         101749155,
         85682575
     ],
@@ -93,7 +93,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297923,
+            "localadmin_id":1394014103,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
             "region_id":85682575

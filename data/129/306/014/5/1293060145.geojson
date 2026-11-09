@@ -32,7 +32,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        1159297865,
+        1394014091,
         85633121,
         85682575
     ],
@@ -46,7 +46,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297865,
+            "localadmin_id":1394014091,
             "locality_id":1293060145,
             "region_id":85682575
         }
@@ -54,7 +54,7 @@
     "wof:id":1293060145,
     "wof:lastmodified":1537619900,
     "wof:name":"Dostrup Sogn",
-    "wof:parent_id":1159297865,
+    "wof:parent_id":1394014091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-dk",
     "wof:superseded_by":[],

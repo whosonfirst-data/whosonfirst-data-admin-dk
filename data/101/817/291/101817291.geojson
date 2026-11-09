@@ -130,7 +130,7 @@
     "wd:wordcount":644,
     "wof:belongsto":[
         102191581,
-        1159297809,
+        1394014081,
         85633121,
         85682597
     ],
@@ -151,7 +151,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297809,
+            "localadmin_id":1394014081,
             "locality_id":101817291,
             "region_id":85682597
         }
@@ -159,7 +159,7 @@
     "wof:id":101817291,
     "wof:lastmodified":1690874719,
     "wof:name":"Ebeltoft",
-    "wof:parent_id":1159297809,
+    "wof:parent_id":1394014081,
     "wof:placetype":"locality",
     "wof:population":7501,
     "wof:population_rank":5,

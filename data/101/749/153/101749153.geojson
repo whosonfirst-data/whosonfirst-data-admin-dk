@@ -388,7 +388,7 @@
     "wd:wordcount":2799,
     "wof:belongsto":[
         102191581,
-        1159297913,
+        1394014101,
         85633121,
         85682575
     ],
@@ -409,7 +409,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297913,
+            "localadmin_id":1394014101,
             "locality_id":101749153,
             "region_id":85682575
         }
@@ -420,7 +420,7 @@
     ],
     "wof:lastmodified":1690874757,
     "wof:name":"Vejle",
-    "wof:parent_id":1159297913,
+    "wof:parent_id":1394014101,
     "wof:placetype":"locality",
     "wof:population":51177,
     "wof:population_rank":8,
