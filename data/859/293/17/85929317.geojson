@@ -11,8 +11,8 @@
     "geom:longitude":12.561395,
     "gn:id":"",
     "iso:country":"DK",
-    "lbl:latitude":55.716505,
-    "lbl:longitude":12.569291,
+    "lbl:latitude":55.709484,
+    "lbl:longitude":12.56012,
     "lbl:max_zoom":18.0,
     "mps:latitude":55.710093,
     "mps:longitude":12.561528,
@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":178,
     "wof:belongsto":[
         102191581,
