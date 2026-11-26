@@ -1,0 +1,76 @@
+{
+  "id": 9895016439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77673,54.94642,9.77673,54.94642",
+    "geom:latitude":54.94642,
+    "geom:longitude":9.77673,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405951: name \"Hestehave\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405951"
+        },
+        {
+            "citation":"GeoNames populated place 13405951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405951"
+        },
+        {
+            "citation":"GeoNames populated place 13405951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405951"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014049 (Sonderborg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682575,
+        102191581,
+        136253045,
+        1394014049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405951
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"32529395d5cc9c5a93c01c21c5814064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "empire_id":136253045,
+            "localadmin_id":1394014049,
+            "locality_id":9895016439,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":9895016439,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Hestehave",
+    "wof:parent_id":1394014049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77673,
+    54.94642,
+    9.77673,
+    54.94642
+],
+  "geometry": {"coordinates":[9.77673,54.94642],"type":"Point"}
+}

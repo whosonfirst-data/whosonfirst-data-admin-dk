@@ -1,0 +1,74 @@
+{
+  "id": 9895016442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54581,56.39591,8.54581,56.39591",
+    "geom:latitude":56.39591,
+    "geom:longitude":8.54581,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580211: name \"Krunderup\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580211"
+        },
+        {
+            "citation":"GeoNames populated place 13580211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580211"
+        },
+        {
+            "citation":"GeoNames populated place 13580211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580211"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014015 (Holstebro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682597,
+        102191581,
+        1394014015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580211
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"365f5f7376fc67706e27d080f1bf2211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014015,
+            "locality_id":9895016442,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":9895016442,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Krunderup",
+    "wof:parent_id":1394014015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54581,
+    56.39591,
+    8.54581,
+    56.39591
+],
+  "geometry": {"coordinates":[8.54581,56.39591],"type":"Point"}
+}

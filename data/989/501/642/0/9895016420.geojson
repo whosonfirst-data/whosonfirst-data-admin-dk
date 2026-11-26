@@ -1,0 +1,74 @@
+{
+  "id": 9895016420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55142,56.45626,8.55142,56.45626",
+    "geom:latitude":56.45626,
+    "geom:longitude":8.55142,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12182177: name \"Langh\u00f8j Lokalomr\u00e5de\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12182177"
+        },
+        {
+            "citation":"GeoNames populated place 12182177: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12182177"
+        },
+        {
+            "citation":"GeoNames populated place 12182177: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12182177"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014047 (Struer), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682597,
+        102191581,
+        1394014047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12182177
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dc5babb2c7cc80c0cb8ae68505b73c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014047,
+            "locality_id":9895016420,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":9895016420,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Langh\u00f8j Lokalomr\u00e5de",
+    "wof:parent_id":1394014047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55142,
+    56.45626,
+    8.55142,
+    56.45626
+],
+  "geometry": {"coordinates":[8.55142,56.45626],"type":"Point"}
+}

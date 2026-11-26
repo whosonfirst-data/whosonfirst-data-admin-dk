@@ -1,0 +1,74 @@
+{
+  "id": 9895016426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42268,55.76649,11.42268,55.76649",
+    "geom:latitude":55.76649,
+    "geom:longitude":11.42268,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353891: name \"Snavhuse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353891"
+        },
+        {
+            "citation":"GeoNames populated place 13353891: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353891"
+        },
+        {
+            "citation":"GeoNames populated place 13353891: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353891"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014017 (Odsherred), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682589,
+        102191581,
+        1394014017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353891
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2049992cd78dd5d008316651ad3888f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014017,
+            "locality_id":9895016426,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":9895016426,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Snavhuse",
+    "wof:parent_id":1394014017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42268,
+    55.76649,
+    11.42268,
+    55.76649
+],
+  "geometry": {"coordinates":[11.42268,55.76649],"type":"Point"}
+}

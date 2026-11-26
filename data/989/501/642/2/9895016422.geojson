@@ -1,0 +1,74 @@
+{
+  "id": 9895016422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.59449,57.71806,10.59449,57.71806",
+    "geom:latitude":57.71806,
+    "geom:longitude":10.59449,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286537: name \"Skagen port\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286537"
+        },
+        {
+            "citation":"GeoNames populated place 13286537: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286537"
+        },
+        {
+            "citation":"GeoNames populated place 13286537: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286537"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014001 (Frederikshavn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682593,
+        102191581,
+        1394014001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286537
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dcf8dc4be485620cc653b5ea4697c749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014001,
+            "locality_id":9895016422,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":9895016422,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Skagen port",
+    "wof:parent_id":1394014001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.59449,
+    57.71806,
+    10.59449,
+    57.71806
+],
+  "geometry": {"coordinates":[10.59449,57.71806],"type":"Point"}
+}

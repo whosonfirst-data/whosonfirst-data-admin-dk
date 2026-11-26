@@ -1,0 +1,74 @@
+{
+  "id": 9895016421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97859,57.02922,9.97859,57.02922",
+    "geom:latitude":57.02922,
+    "geom:longitude":9.97859,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12749808: name \"C. W. Obel Kollegiet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12749808"
+        },
+        {
+            "citation":"GeoNames populated place 12749808: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12749808"
+        },
+        {
+            "citation":"GeoNames populated place 12749808: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12749808"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1159297743 (Aalborg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682593,
+        102191581,
+        1159297743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12749808
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b98c97a6a02201f3a5bf55f3d85ded06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":9895016421,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":9895016421,
+    "wof:lastmodified":1795735138,
+    "wof:name":"C. W. Obel Kollegiet",
+    "wof:parent_id":1159297743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97859,
+    57.02922,
+    9.97859,
+    57.02922
+],
+  "geometry": {"coordinates":[9.97859,57.02922],"type":"Point"}
+}

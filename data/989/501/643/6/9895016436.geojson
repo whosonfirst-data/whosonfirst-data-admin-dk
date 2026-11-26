@@ -1,0 +1,76 @@
+{
+  "id": 9895016436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34448,54.98162,9.34448,54.98162",
+    "geom:latitude":54.98162,
+    "geom:longitude":9.34448,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405940: name \"Uge Mark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405940"
+        },
+        {
+            "citation":"GeoNames populated place 13405940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405940"
+        },
+        {
+            "citation":"GeoNames populated place 13405940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405940"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014093 (Aabenraa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682575,
+        102191581,
+        136253045,
+        1394014093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405940
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2df500ddf590bc86f506d13728c3cb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "empire_id":136253045,
+            "localadmin_id":1394014093,
+            "locality_id":9895016436,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":9895016436,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Uge Mark",
+    "wof:parent_id":1394014093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34448,
+    54.98162,
+    9.34448,
+    54.98162
+],
+  "geometry": {"coordinates":[9.34448,54.98162],"type":"Point"}
+}

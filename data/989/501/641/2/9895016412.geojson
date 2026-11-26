@@ -1,0 +1,74 @@
+{
+  "id": 9895016412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46667,56.48333,8.46667,56.48333",
+    "geom:latitude":56.48333,
+    "geom:longitude":8.46667,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2613689: name \"Skodborg Huse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2613689"
+        },
+        {
+            "citation":"GeoNames populated place 2613689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2613689"
+        },
+        {
+            "citation":"GeoNames populated place 2613689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2613689"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014075 (Lemvig), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682597,
+        102191581,
+        1394014075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2613689
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"62d7da16d82b27506dad750c4f95c2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394014075,
+            "locality_id":9895016412,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":9895016412,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Skodborg Huse",
+    "wof:parent_id":1394014075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46667,
+    56.48333,
+    8.46667,
+    56.48333
+],
+  "geometry": {"coordinates":[8.46667,56.48333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895016428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1832,55.63049,11.1832,55.63049",
+    "geom:latitude":55.63049,
+    "geom:longitude":11.1832,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405505: name \"Ubby Dysselod\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405505"
+        },
+        {
+            "citation":"GeoNames populated place 13405505: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405505"
+        },
+        {
+            "citation":"GeoNames populated place 13405505: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405505"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394013985 (Kalundborg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682589,
+        102191581,
+        1394013985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405505
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4a85ef6a3ac62154cc349dc24b792c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394013985,
+            "locality_id":9895016428,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":9895016428,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Ubby Dysselod",
+    "wof:parent_id":1394013985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1832,
+    55.63049,
+    11.1832,
+    55.63049
+],
+  "geometry": {"coordinates":[11.1832,55.63049],"type":"Point"}
+}

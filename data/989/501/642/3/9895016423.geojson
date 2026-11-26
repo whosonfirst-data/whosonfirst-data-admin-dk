@@ -1,0 +1,74 @@
+{
+  "id": 9895016423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31131,55.46382,11.31131,55.46382",
+    "geom:latitude":55.46382,
+    "geom:longitude":11.31131,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353880: name \"Bl\u00e6singe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353880"
+        },
+        {
+            "citation":"GeoNames populated place 13353880: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353880"
+        },
+        {
+            "citation":"GeoNames populated place 13353880: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353880"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394013981 (Slagelse), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682589,
+        102191581,
+        1394013981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353880
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"44be2ac579a747454f35d16f65a1b869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1394013981,
+            "locality_id":9895016423,
+            "region_id":85682589
+        }
+    ],
+    "wof:id":9895016423,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Bl\u00e6singe",
+    "wof:parent_id":1394013981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31131,
+    55.46382,
+    11.31131,
+    55.46382
+],
+  "geometry": {"coordinates":[11.31131,55.46382],"type":"Point"}
+}

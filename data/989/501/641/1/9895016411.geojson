@@ -1,0 +1,76 @@
+{
+  "id": 9895016411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60852,55.3818,9.60852,55.3818",
+    "geom:latitude":55.3818,
+    "geom:longitude":9.60852,
+    "iso:country":"DK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2610722: name \"Varg\u00e5rde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2610722"
+        },
+        {
+            "citation":"GeoNames populated place 2610722: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2610722"
+        },
+        {
+            "citation":"GeoNames populated place 2610722: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2610722"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1394014045 (Kolding), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633121,
+        85682575,
+        102191581,
+        136253045,
+        1394014045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2610722
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"12c8f28e13572f2dd6c273d761c47865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "empire_id":136253045,
+            "localadmin_id":1394014045,
+            "locality_id":9895016411,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":9895016411,
+    "wof:lastmodified":1795735138,
+    "wof:name":"Varg\u00e5rde",
+    "wof:parent_id":1394014045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60852,
+    55.3818,
+    9.60852,
+    55.3818
+],
+  "geometry": {"coordinates":[9.60852,55.3818],"type":"Point"}
+}
